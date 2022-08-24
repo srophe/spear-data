@@ -28,7 +28,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/808/tei</idno>
+                <idno type="URI">https://spear-prosop/808/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -44,7 +44,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -86,7 +86,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/808-1</idno>
+                <idno type="URI">https://spear-prosop/808-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2097">
                         <desc>
@@ -100,7 +100,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229-47</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-2</idno>
+                <idno type="URI">https://spear-prosop/808-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2097"/>
@@ -113,7 +113,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-3</idno>
+                <idno type="URI">https://spear-prosop/808-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2097"/>
@@ -124,7 +124,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-4</idno>
+                <idno type="URI">https://spear-prosop/808-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2097"/>
@@ -137,7 +137,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-5</idno>
+                <idno type="URI">https://spear-prosop/808-5</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/anchorites">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName> lived
@@ -148,7 +148,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-6</idno>
+                <idno type="URI">https://spear-prosop/808-6</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/visions">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName> would
@@ -159,7 +159,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">229-231</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-8" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-8</idno>
+                <idno type="URI">https://spear-prosop/808-8</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3699">The shepherds who were
@@ -171,7 +171,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">232-233</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-9" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-9</idno>
+                <idno type="URI">https://spear-prosop/808-9</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3699"/>
@@ -184,7 +184,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">232-233</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-10</idno>
+                <idno type="URI">https://spear-prosop/808-10</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ritual">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
@@ -197,7 +197,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">232-235</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-11</idno>
+                <idno type="URI">https://spear-prosop/808-11</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ritual">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
@@ -210,7 +210,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">236</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-12</idno>
+                <idno type="URI">https://spear-prosop/808-12</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ritual">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>, in
@@ -222,7 +222,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">236</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/808-15</idno>
+                <idno type="URI">https://spear-prosop/808-15</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/churches">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
@@ -233,7 +233,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">237</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/808-16</idno>
+                <idno type="URI">https://spear-prosop/808-16</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/mission">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName> asked
@@ -245,7 +245,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">237-241</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/808-17</idno>
+                <idno type="URI">https://spear-prosop/808-17</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/communion">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName> made
@@ -256,7 +256,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">241</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/808-18</idno>
+                <idno type="URI">https://spear-prosop/808-18</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ordination">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
@@ -271,7 +271,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">243</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-20" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-20</idno>
+                <idno type="URI">https://spear-prosop/808-20</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3701"> A man who assisted in
@@ -284,7 +284,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">242-243</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-21" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-21</idno>
+                <idno type="URI">https://spear-prosop/808-21</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3701"/>
@@ -297,7 +297,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">242-243</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-22" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-22</idno>
+                <idno type="URI">https://spear-prosop/808-22</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/2097 http://syriaca.org/person/3701"><desc><persName ref="http://syriaca.org/person/2097">Simeon the Mountaineer</persName> and <persName ref="http://syriaca.org/person/3701">Anonymi 3701</persName> had a professional relationship.</desc></relation>
                 </listRelation>
@@ -305,7 +305,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">242-243</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-23" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-23</idno>
+                <idno type="URI">https://spear-prosop/808-23</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/2097" passive="http://syriaca.org/person/3700"><desc><persName ref="http://syriaca.org/person/2097">Simeon the Mountaineer</persName> ordained <persName ref="http://syriaca.org/person/3700">Anonymi 3700</persName>.</desc></relation>
                 </listRelation>
@@ -313,7 +313,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">242-243</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-24</idno>
+                <idno type="URI">https://spear-prosop/808-24</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ordination">
                         <desc> The parents at first opposed then accepted the tonsuring of their
@@ -324,7 +324,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">243-244</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-25" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-25</idno>
+                <idno type="URI">https://spear-prosop/808-25</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3702"> The parents of the <persName ref="http://syriaca.org/person/3700">children</persName> blessed and
@@ -336,7 +336,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">243-244</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-27" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-27</idno>
+                <idno type="URI">https://spear-prosop/808-27</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/miracles">
                         <desc><persName ref="http://syriaca.org/person/3602">Two children</persName>
@@ -349,7 +349,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">244-245</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-28" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-28</idno>
+                <idno type="URI">https://spear-prosop/808-28</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3602"> Two children struck dead
@@ -361,7 +361,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">244-245</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-29" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-29</idno>
+                <idno type="URI">https://spear-prosop/808-29</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ritual">
                         <desc><persName ref="http://syriaca.org/person/2097"> Simeon </persName>
@@ -374,7 +374,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">246</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-30" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/808-30</idno>
+                <idno type="URI">https://spear-prosop/808-30</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ritual">
                         <desc> For twenty-six years <persName ref="http://syriaca.org/person/2097">

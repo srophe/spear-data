@@ -30,7 +30,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/795/tei</idno>
+                <idno type="URI">https://spear-prosop/795/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -46,7 +46,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -87,7 +87,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/795-18</idno>
+                <idno type="URI">https://spear-prosop/795-18</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1320">
                         <desc>
@@ -101,7 +101,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36-55</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-1</idno>
+                <idno type="URI">https://spear-prosop/795-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"> John the perfect Nazarite
@@ -112,7 +112,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-2</idno>
+                <idno type="URI">https://spear-prosop/795-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
@@ -125,7 +125,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-3</idno>
+                <idno type="URI">https://spear-prosop/795-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
@@ -136,7 +136,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-4</idno>
+                <idno type="URI">https://spear-prosop/795-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
@@ -149,7 +149,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-5" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-5</idno>
+                <idno type="URI">https://spear-prosop/795-5</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/1320"/>
@@ -161,7 +161,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">36</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-6</idno>
+                <idno type="URI">https://spear-prosop/795-6</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/education http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName>
@@ -173,7 +173,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">37</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-7</idno>
+                <idno type="URI">https://spear-prosop/795-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> decided
@@ -186,7 +186,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">40</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-8</idno>
+                <idno type="URI">https://spear-prosop/795-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/fasting http://syriaca.org/keyword/anchorites">
                         <desc> A place was made for <persName ref="http://syriaca.org/person/1320">John</persName> in a monastery enclosure, which he dwelt in night
@@ -197,7 +197,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">40</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-9</idno>
+                <idno type="URI">https://spear-prosop/795-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> had
@@ -208,7 +208,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">40</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-10</idno>
+                <idno type="URI">https://spear-prosop/795-10</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/demons http://syriaca.org/keyword/spiritual-or-ascetic-disciplines">
                         <desc> After ten years of prayer and contending with demons, <persName ref="http://syriaca.org/person/1320">John</persName> was granted
@@ -221,7 +221,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">41</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-11</idno>
+                <idno type="URI">https://spear-prosop/795-11</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3678"> The scholastics and other
@@ -233,7 +233,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">41</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-12</idno>
+                <idno type="URI">https://spear-prosop/795-12</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/heresy http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName>
@@ -245,7 +245,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-13</idno>
+                <idno type="URI">https://spear-prosop/795-13</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> went
@@ -256,7 +256,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-14" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-14</idno>
+                <idno type="URI">https://spear-prosop/795-14</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3679"> Thirty men and the chiefs of
@@ -268,7 +268,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-15</idno>
+                <idno type="URI">https://spear-prosop/795-15</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/1320 http://syriaca.org/person/3679"><desc><persName ref="http://syriaca.org/person/1320">John the Nazarite</persName> and <persName ref="http://syriaca.org/person/3679">Anonymous 3679</persName> were fellow clergy.</desc></relation>
                 </listRelation>
@@ -276,7 +276,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-16</idno>
+                <idno type="URI">https://spear-prosop/795-16</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/miracles http://syriaca.org/keyword/demons http://syriaca.org/keyword/healing">
                         <desc> Wherever <persName ref="http://syriaca.org/person/1320">John</persName> went, he healed the sick and exorcised demons.
@@ -287,7 +287,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42-43</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-17" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/795-17</idno>
+                <idno type="URI">https://spear-prosop/795-17</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3680"> Demoniacs who were exorcised

@@ -32,7 +32,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/3002/tei</idno>
+                <idno type="URI">https://spear-prosop/3002/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
@@ -50,7 +50,7 @@
                 <title level="m" xml:lang="en">The Letters of Severus of Antioch</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/letters-severus</idno>
+                <idno type="URI">https://spear-prosop/letters-severus</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -107,7 +107,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-1</idno>
+                <idno type="URI">https://spear-prosop/3002-1</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
                         <desc>
@@ -126,7 +126,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-2</idno>
+                <idno type="URI">https://spear-prosop/3002-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3721"/>
@@ -142,7 +142,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-3</idno>
+                <idno type="URI">https://spear-prosop/3002-3</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
                         <desc>
@@ -161,7 +161,7 @@
             </ab>
             
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-4</idno>
+                <idno type="URI">https://spear-prosop/3002-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2582"> Father Abba </persName>
@@ -173,7 +173,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-5" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-5</idno>
+                <idno type="URI">https://spear-prosop/3002-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2582"/>
@@ -189,7 +189,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-6</idno>
+                <idno type="URI">https://spear-prosop/3002-6</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
                         <desc>
@@ -207,7 +207,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-7</idno>
+                <idno type="URI">https://spear-prosop/3002-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
                         <desc><persName ref="http://syriaca.org/person/2582">Abba</persName> sent a
@@ -226,7 +226,7 @@
             </ab>
             
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-10" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-10</idno>
+                <idno type="URI">https://spear-prosop/3002-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2722"> Brother Maximus </persName>
@@ -238,7 +238,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-11" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-11</idno>
+                <idno type="URI">https://spear-prosop/3002-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2722"/>
@@ -254,7 +254,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3002-12</idno>
+                <idno type="URI">https://spear-prosop/3002-12</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/professional-relationship"
                         mutual="http://syriaca.org/person/2582 http://syriaca.org/person/51 http://syriaca.org/person/2722">

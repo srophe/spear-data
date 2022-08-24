@@ -66,7 +66,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/818/tei</idno>
+                <idno type="URI">https://spear-prosop/818/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -82,7 +82,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -126,7 +126,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
-                <idno type="URI">http://syriaca.org/spear/818-1</idno>
+                <idno type="URI">https://spear-prosop/818-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2125"> Thomas </persName>
@@ -136,7 +136,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
-                <idno type="URI">http://syriaca.org/spear/818-2</idno>
+                <idno type="URI">https://spear-prosop/818-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2125"> Thomas, bishop of <placeName ref="http://syriaca.org/place/66">Damascus</placeName></persName>
@@ -146,7 +146,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
-                <idno type="URI">http://syriaca.org/spear/818-3</idno>
+                <idno type="URI">https://spear-prosop/818-3</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/50 http://syriaca.org/person/1813 http://syriaca.org/person/2125"><desc><persName ref="http://syriaca.org/person/50">John of Tella</persName>, <persName ref="http://syriaca.org/person/1813">John of Hephaestopolis</persName> and <persName ref="http://syriaca.org/person/2125">Thomas of Damascus</persName> were fellow clergy.</desc></relation>
                 </listRelation>
@@ -154,7 +154,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
-                <idno type="URI">http://syriaca.org/spear/818-4</idno>
+                <idno type="URI">https://spear-prosop/818-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2125"/>
@@ -167,7 +167,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/818-6</idno>
+                <idno type="URI">https://spear-prosop/818-6</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2125">
                         <desc>
@@ -181,7 +181,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540-41</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-7" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/818-7</idno>
+                <idno type="URI">https://spear-prosop/818-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2125"/>

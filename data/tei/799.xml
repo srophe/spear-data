@@ -35,7 +35,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/799/tei</idno>
+                <idno type="URI">https://spear-prosop/799/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -51,7 +51,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -95,7 +95,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/799-8</idno>
+                <idno type="URI">https://spear-prosop/799-8</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1555">
                         <desc>
@@ -109,7 +109,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118-24</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-9" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/799-9</idno>
+                <idno type="URI">https://spear-prosop/799-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1555"/>
@@ -124,7 +124,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-1</idno>
+                <idno type="URI">https://spear-prosop/799-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1555"> Abraham, layman and recluse
@@ -135,7 +135,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-2</idno>
+                <idno type="URI">https://spear-prosop/799-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1555"/>
@@ -148,7 +148,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">119</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="mentalState" xml:id="factoid-3" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-3</idno>
+                <idno type="URI">https://spear-prosop/799-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1555"/>
@@ -161,7 +161,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">119</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-4</idno>
+                <idno type="URI">https://spear-prosop/799-4</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3648"> The monks who gave the
@@ -172,7 +172,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-5</idno>
+                <idno type="URI">https://spear-prosop/799-5</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/3648 http://syriaca.org/person/1555"><desc><persName ref="http://syriaca.org/person/3648">Anonymi 3648</persName> and <persName ref="http://syriaca.org/person/1555">Abraham the Recluse</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -180,7 +180,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-6</idno>
+                <idno type="URI">https://spear-prosop/799-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1555"/>
@@ -191,7 +191,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#tbaillargeon #tmcneir">
-                <idno type="URI">http://syriaca.org/spear/799-7</idno>
+                <idno type="URI">https://spear-prosop/799-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/natural-disasters http://syriaca.org/keyword/redemption">
                         <desc> By the power of <persName ref="http://syriaca.org/person/1555">Abrahams’s</persName> prayers the village was delivered and escaped

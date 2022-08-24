@@ -31,7 +31,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/3006/tei</idno>
+                <idno type="URI">https://spear-prosop/3006/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
@@ -49,7 +49,7 @@
                 <title level="m" xml:lang="en">The Letters of Severus of Antioch</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/letters-severus</idno>
+                <idno type="URI">https://spear-prosop/letters-severus</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -105,7 +105,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3006-1</idno>
+                <idno type="URI">https://spear-prosop/3006-1</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3722">The Patricians</persName>
@@ -117,7 +117,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3006-2</idno>
+                <idno type="URI">https://spear-prosop/3006-2</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3722">Rational stars of the sacred Senate</persName>
@@ -130,7 +130,7 @@
             </ab>
             
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3006-4</idno>
+                <idno type="URI">https://spear-prosop/3006-4</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/sacraments http://syriaca.org/keyword/letters" notBefore="0508" notAfter="0511">
                         <desc>

@@ -41,7 +41,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/847/tei</idno>
+                <idno type="URI">https://spear-prosop/847/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -57,7 +57,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -101,7 +101,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-25</idno>
+                <idno type="URI">https://spear-prosop/847-25</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2011">
                         <desc>
@@ -115,7 +115,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197-99</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-26" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-26</idno>
+                <idno type="URI">https://spear-prosop/847-26</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
@@ -130,7 +130,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-27</idno>
+                <idno type="URI">https://spear-prosop/847-27</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3014">
                         <desc>
@@ -144,7 +144,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197-99</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-28" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-28</idno>
+                <idno type="URI">https://spear-prosop/847-28</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
@@ -159,7 +159,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-1</idno>
+                <idno type="URI">https://spear-prosop/847-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"> Peter, bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName></persName>
@@ -169,7 +169,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-2" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-2</idno>
+                <idno type="URI">https://spear-prosop/847-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
@@ -181,7 +181,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-3</idno>
+                <idno type="URI">https://spear-prosop/847-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
@@ -193,7 +193,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-4</idno>
+                <idno type="URI">https://spear-prosop/847-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"> Photius the Chartulary
@@ -204,7 +204,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-5" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-5</idno>
+                <idno type="URI">https://spear-prosop/847-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
@@ -215,7 +215,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-6" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-6</idno>
+                <idno type="URI">https://spear-prosop/847-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
@@ -226,7 +226,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197-199</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-7</idno>
+                <idno type="URI">https://spear-prosop/847-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
                         <desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, later
@@ -238,7 +238,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-8</idno>
+                <idno type="URI">https://spear-prosop/847-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
                         <desc><persName ref="http://syriaca.org/person/3693">Anonymi 3693</persName>
@@ -250,7 +250,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-9</idno>
+                <idno type="URI">https://spear-prosop/847-9</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3014 http://syriaca.org/person/3693"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3014">Photius</persName> and <persName ref="http://syriaca.org/person/3693">Anonymi 3693</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -258,7 +258,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-10</idno>
+                <idno type="URI">https://spear-prosop/847-10</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/travel">
                         <desc><persName ref="http://syriaca.org/person/74">John of
@@ -271,7 +271,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-11</idno>
+                <idno type="URI">https://spear-prosop/847-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2621"> Caesaria </persName>
@@ -281,7 +281,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-12" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-12</idno>
+                <idno type="URI">https://spear-prosop/847-12</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3654"> The brother of <persName ref="http://syriaca.org/person/2011">Peter, bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName></persName></persName>
@@ -291,7 +291,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-13" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-13</idno>
+                <idno type="URI">https://spear-prosop/847-13</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3655"> Sister of <persName ref="http://syriaca.org/person/2011">Peter, bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName></persName></persName>
@@ -301,7 +301,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-14</idno>
+                <idno type="URI">https://spear-prosop/847-14</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3654 http://syriaca.org/person/3655"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3654">Anonymous 3654</persName> and <persName ref="http://syriaca.org/person/3655">Anonymous 3655</persName> were siblings.</desc></relation>
                 </listRelation>
@@ -309,7 +309,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-15" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-15</idno>
+                <idno type="URI">https://spear-prosop/847-15</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3656"> Those enslaved by the <persName ref="http://syriaca.org/person/3654">Brother</persName> and
@@ -322,7 +322,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-16" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-16</idno>
+                <idno type="URI">https://spear-prosop/847-16</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3656"/>
@@ -337,7 +337,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-17</idno>
+                <idno type="URI">https://spear-prosop/847-17</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/liturgy http://syriaca.org/keyword/hours http://syriaca.org/keyword/education">
                         <desc> The <persName ref="http://syriaca.org/person/3654">Brother</persName>
@@ -351,7 +351,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-18</idno>
+                <idno type="URI">https://spear-prosop/847-18</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/travel">
                         <desc> The <persName ref="http://syriaca.org/person/3654">Brother</persName>
@@ -364,7 +364,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-19" resp="#upossekel #mdebie #egarret #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-19</idno>
+                <idno type="URI">https://spear-prosop/847-19</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/letters">
                         <desc> The <persName ref="http://syriaca.org/person/3654">brother</persName>
@@ -378,7 +378,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-20" resp="#upossekel #mdebie #egarret #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/847-20</idno>
+                <idno type="URI">https://spear-prosop/847-20</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/travel">
                         <desc> 18 years after entering <placeName ref="http://syriaca.org/place/2777">the Monastery of the
@@ -392,7 +392,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-21" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-21</idno>
+                <idno type="URI">https://spear-prosop/847-21</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
@@ -403,7 +403,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-22" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-22</idno>
+                <idno type="URI">https://spear-prosop/847-22</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
@@ -415,7 +415,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">199</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-23</idno>
+                <idno type="URI">https://spear-prosop/847-23</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination">
                         <desc> 5 years after arriving in <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>, <persName ref="http://syriaca.org/person/2011">Peter</persName> was elevated
@@ -426,7 +426,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">199</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#upossekel #mdebie #egarret">
-                <idno type="URI">http://syriaca.org/spear/847-24</idno>
+                <idno type="URI">https://spear-prosop/847-24</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death">
                         <desc> 4 years after being elevated as bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>, <persName ref="http://syriaca.org/person/2011">Peter</persName> died. </desc>

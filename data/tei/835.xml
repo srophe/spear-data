@@ -20,7 +20,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/spear/835/tei</idno>
+            <idno type="URI">https://spear-prosop/835/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed
                      under a Creative Commons Attribution 3.0 Unported License.</p></licence>
@@ -36,7 +36,7 @@
             <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
             <title type="sub">A SPEAR Prosopography</title>
             <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+            <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
             <biblScope unit="volume">
                <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                <idno type="URI">http://syriaca.org/spear</idno>
@@ -76,7 +76,7 @@
    <text>
       <body>
          <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-1</idno>
+            <idno type="URI">https://spear-prosop/835-1</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155">Tribunus</persName>
@@ -92,7 +92,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="sanctity" xml:id="factoid-3" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-3</idno>
+            <idno type="URI">https://spear-prosop/835-3</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
@@ -113,7 +113,7 @@
             </bibl>
          </ab>
        <ab type="factoid" subtype="socecStatus" xml:id="factoid-4" resp="#dschwartz">
-          <idno type="URI">http://syriaca.org/spear/835-4</idno>
+          <idno type="URI">https://spear-prosop/835-4</idno>
           <listPerson>
              <person>
                 <persName ref="http://syriaca.org/person/3155"/>
@@ -135,7 +135,7 @@
           </bibl>
        </ab>
        <ab type="factoid" subtype="birth" xml:id="factoid-5" resp="#dschwartz">
-          <idno type="URI">http://syriaca.org/spear/835-5</idno>
+          <idno type="URI">https://spear-prosop/835-5</idno>
           <listPerson>
              <person>
                 <persName ref="http://syriaca.org/person/3155"/>
@@ -159,7 +159,7 @@
           </bibl>
        </ab>
        <ab type="factoid" subtype="education" xml:id="factoid-6" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-6</idno>
+            <idno type="URI">https://spear-prosop/835-6</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
@@ -181,7 +181,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="langKnown" xml:id="factoid-7" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-7</idno>
+            <idno type="URI">https://spear-prosop/835-7</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
@@ -204,7 +204,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="langKnown" xml:id="factoid-8" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-8</idno>
+            <idno type="URI">https://spear-prosop/835-8</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
@@ -227,7 +227,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="langKnown" xml:id="factoid-9" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-9</idno>
+            <idno type="URI">https://spear-prosop/835-9</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
@@ -250,7 +250,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-10</idno>
+            <idno type="URI">https://spear-prosop/835-10</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/celibacy http://syriaca.org/keyword/sin">
                   <desc>
@@ -269,7 +269,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="residence" xml:id="factoid-11" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-11</idno>
+            <idno type="URI">https://spear-prosop/835-11</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1524"/>
@@ -293,7 +293,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="residence" xml:id="factoid-12" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/835-12</idno>
+            <idno type="URI">https://spear-prosop/835-12</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3763"/>

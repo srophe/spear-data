@@ -27,7 +27,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/822/tei</idno>
+                <idno type="URI">https://spear-prosop/822/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -43,7 +43,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -85,7 +85,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">http://syriaca.org/spear/822-1</idno>
+                <idno type="URI">https://spear-prosop/822-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1704">
                         <desc>
@@ -99,7 +99,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575-76</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-2</idno>
+                <idno type="URI">https://spear-prosop/822-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1704"/>
@@ -112,7 +112,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-3</idno>
+                <idno type="URI">https://spear-prosop/822-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1704"/>
@@ -123,7 +123,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-4</idno>
+                <idno type="URI">https://spear-prosop/822-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1704"/>
@@ -136,7 +136,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-5</idno>
+                <idno type="URI">https://spear-prosop/822-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3697">Persecutors of <persName ref="http://syriaca.org/person/1704"/> Elijah </persName>
@@ -146,7 +146,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-6" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-6</idno>
+                <idno type="URI">https://spear-prosop/822-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2284"> The Emperor </persName>
@@ -156,7 +156,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-7" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-7</idno>
+                <idno type="URI">https://spear-prosop/822-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2284"/>
@@ -170,7 +170,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-8" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-8</idno>
+                <idno type="URI">https://spear-prosop/822-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2284"/>
@@ -181,7 +181,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-9</idno>
+                <idno type="URI">https://spear-prosop/822-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/anathema http://syriaca.org/keyword/persecution http://syriaca.org/keyword/emperors">
                         <desc><persName ref="http://syriaca.org/person/1704"> Elijah of Dara
@@ -192,7 +192,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-10</idno>
+                <idno type="URI">https://spear-prosop/822-10</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/anathema http://syriaca.org/keyword/persecution http://syriaca.org/keyword/emperors">
                         <desc><persName ref="http://syriaca.org/person/3697">Anonymi 3697</persName>
@@ -205,7 +205,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">575</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi">
-                <idno type="URI">http://syriaca.org/spear/822-11</idno>
+                <idno type="URI">https://spear-prosop/822-11</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
                         <desc><persName ref="http://syriaca.org/person/1704">Elijah of

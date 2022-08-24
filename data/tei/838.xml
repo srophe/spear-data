@@ -20,7 +20,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/spear/838/tei</idno>
+            <idno type="URI">https://spear-prosop/838/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed
                      under a Creative Commons Attribution 3.0 Unported License.</p></licence>
@@ -36,7 +36,7 @@
             <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
             <title type="sub">A SPEAR Prosopography</title>
             <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <idno type="URI">http://syriaca.org/spear/lives-eastern-saints</idno>
+            <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
             <biblScope unit="volume">
                <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                <idno type="URI">http://syriaca.org/spear</idno>
@@ -76,7 +76,7 @@
    <text>
       <body>
          <ab type="factoid" subtype="sanctity" xml:id="factoid-2" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-2</idno>
+            <idno type="URI">https://spear-prosop/838-2</idno>
             <listPerson>
                <personGrp>
                   <persName ref="http://syriaca.org/person/3771"/>
@@ -97,7 +97,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-3</idno>
+            <idno type="URI">https://spear-prosop/838-3</idno>
             <listRelation>
                <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/http://syriaca.org/person/74" passive="http://syriaca.org/person/3771">
                   <desc>
@@ -117,7 +117,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="residence" xml:id="factoid-4" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-4</idno>
+            <idno type="URI">https://spear-prosop/838-4</idno>
             <listPerson>
                <personGrp>
                   <persName ref="http://syriaca.org/person/3771"/>
@@ -141,7 +141,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-5</idno>
+            <idno type="URI">https://spear-prosop/838-5</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/patronage http://syriaca.org/keyword/buildings http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/saints">
                   <desc>
@@ -162,7 +162,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-6</idno>
+            <idno type="URI">https://spear-prosop/838-6</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/ecumenism http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/christology http://syriaca.org/keyword/saints http://syriaca.org/keyword/conversion http://syriaca.org/keyword/council-of-chalcedon-451">
                   <desc>
@@ -182,7 +182,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-7</idno>
+            <idno type="URI">https://spear-prosop/838-7</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/christology http://syriaca.org/keyword/saints" when="0565">
                   <desc>
@@ -203,7 +203,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="residence" xml:id="factoid-8" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-8</idno>
+            <idno type="URI">https://spear-prosop/838-8</idno>
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/74"/>
@@ -227,7 +227,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-9</idno>
+            <idno type="URI">https://spear-prosop/838-9</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/conversion http://syriaca.org/keyword/christianization http://syriaca.org/keyword/traditional-religions http://syriaca.org/keyword/churches http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/synagogues">
                   <desc>
@@ -248,7 +248,7 @@
             </bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
-            <idno type="URI">http://syriaca.org/spear/838-10</idno>
+            <idno type="URI">https://spear-prosop/838-10</idno>
             <listEvent>
                <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/buildings http://syriaca.org/keyword/miracles http://syriaca.org/keyword/disaster">
                   <desc>

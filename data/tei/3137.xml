@@ -32,7 +32,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/spear/3137/tei</idno>
+                <idno type="URI">https://spear-prosop/3137/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
@@ -50,7 +50,7 @@
                 <title level="m" xml:lang="en">The Letters of Severus of Antioch</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear/letters-severus</idno>
+                <idno type="URI">https://spear-prosop/letters-severus</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -106,7 +106,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-1</idno>
+                <idno type="URI">https://spear-prosop/3137-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2620"
@@ -120,7 +120,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-3" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-3</idno>
+                <idno type="URI">https://spear-prosop/3137-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2620"/>
@@ -136,7 +136,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-4</idno>
+                <idno type="URI">https://spear-prosop/3137-4</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2620">
@@ -151,7 +151,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-5</idno>
+                <idno type="URI">https://spear-prosop/3137-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"> The religious deacon Misael
@@ -164,7 +164,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-6" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-6</idno>
+                <idno type="URI">https://spear-prosop/3137-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
@@ -180,7 +180,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-7</idno>
+                <idno type="URI">https://spear-prosop/3137-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
@@ -196,7 +196,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-8" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-8</idno>
+                <idno type="URI">https://spear-prosop/3137-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2593"> Brother Ammian </persName>
@@ -208,7 +208,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-9" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-9</idno>
+                <idno type="URI">https://spear-prosop/3137-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2593"/>
@@ -224,7 +224,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-10" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-10</idno>
+                <idno type="URI">https://spear-prosop/3137-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2642">Brother Epagathus </persName>
@@ -236,7 +236,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-11" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-11</idno>
+                <idno type="URI">https://spear-prosop/3137-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2642"/>
@@ -252,7 +252,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-12</idno>
+                <idno type="URI">https://spear-prosop/3137-12</idno>
                 <listRelation>
                     <!-- It is not clear whether Misael AND the brothers Ammian and Epagathus asked Severus for communion in a box or if it was just the brothers Ammian and Epagathus who made the request-->
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
@@ -272,7 +272,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#ktorabi #dschwartz">
-                <idno type="URI">http://syriaca.org/spear/3137-13</idno>
+                <idno type="URI">https://spear-prosop/3137-13</idno>
                 <listRelation>
                     <!-- It is not clear whether Misael AND the brothers Ammian and Epagathus asked Severus for communion in a box or if it was just the brothers Ammian and Epagathus who made the request -->
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
