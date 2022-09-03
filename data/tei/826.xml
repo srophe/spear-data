@@ -28,7 +28,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/826/tei</idno>
+                <idno type="URI">https://spear-prosop.org/826/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -44,7 +44,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -85,7 +85,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/826-14</idno>
+                <idno type="URI">https://spear-prosop.org/826-14</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2098">
                         <desc>
@@ -99,7 +99,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602-06</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-1</idno>
+                <idno type="URI">https://spear-prosop.org/826-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"> Simeon the old, the scribe
@@ -111,7 +111,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-2</idno>
+                <idno type="URI">https://spear-prosop.org/826-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
@@ -124,7 +124,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-3</idno>
+                <idno type="URI">https://spear-prosop.org/826-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
@@ -135,7 +135,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-4</idno>
+                <idno type="URI">https://spear-prosop.org/826-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
@@ -148,7 +148,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-5</idno>
+                <idno type="URI">https://spear-prosop.org/826-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3683"> The patriarch whom <persName ref="http://syriaca.org/person/2098"/> Simeon was desirous of
@@ -159,7 +159,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-6" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-6</idno>
+                <idno type="URI">https://spear-prosop.org/826-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3683"/>
@@ -172,7 +172,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-7</idno>
+                <idno type="URI">https://spear-prosop.org/826-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/charity">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> provided exceptional care for the poor. </desc>
@@ -182,7 +182,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-8" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-8</idno>
+                <idno type="URI">https://spear-prosop.org/826-8</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3684"> Those for whom charitable
@@ -193,7 +193,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603-604</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-9</idno>
+                <idno type="URI">https://spear-prosop.org/826-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/charity">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> spent
@@ -204,7 +204,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-10</idno>
+                <idno type="URI">https://spear-prosop.org/826-10</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/charity http://syriaca.org/keyword/blindness">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> brought <persName ref="http://syriaca.org/person/3685">four blind men</persName> into his cell and fed them. </desc>
@@ -214,7 +214,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604-605</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-11</idno>
+                <idno type="URI">https://spear-prosop.org/826-11</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3685"> Four blind men who were
@@ -226,7 +226,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604-605</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-12</idno>
+                <idno type="URI">https://spear-prosop.org/826-12</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/charity">
                         <desc> Just prior to his death, <persName ref="http://syriaca.org/person/2098">Simeon</persName> distributed
@@ -237,7 +237,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">606</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/826-13</idno>
+                <idno type="URI">https://spear-prosop.org/826-13</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> Died

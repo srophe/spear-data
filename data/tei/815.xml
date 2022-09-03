@@ -40,7 +40,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/815/tei</idno>
+                <idno type="URI">https://spear-prosop.org/815/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -60,7 +60,7 @@
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz"
                     >Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -120,7 +120,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/815-1</idno>
+                <idno type="URI">https://spear-prosop.org/815-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates"
                         active="http://syriaca.org/person/74"
@@ -141,7 +141,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-15" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/815-15</idno>
+                <idno type="URI">https://spear-prosop.org/815-15</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"/>
@@ -161,7 +161,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-2</idno>
+                <idno type="URI">https://spear-prosop.org/815-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"> the blessed man </persName>
@@ -177,7 +177,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-3</idno>
+                <idno type="URI">https://spear-prosop.org/815-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"> bondsman </persName>
@@ -193,7 +193,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-4" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-4</idno>
+                <idno type="URI">https://spear-prosop.org/815-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"/>
@@ -216,7 +216,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-6" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-6</idno>
+                <idno type="URI">https://spear-prosop.org/815-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3651"> the enemy </persName>
@@ -232,7 +232,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-7" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-7</idno>
+                <idno type="URI">https://spear-prosop.org/815-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3651"> the teacher of evil
@@ -249,7 +249,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-8</idno>
+                <idno type="URI">https://spear-prosop.org/815-8</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/cooks http://syriaca.org/keyword/food http://syriaca.org/keyword/wine http://syriaca.org/keyword/bread http://syriaca.org/keyword/inscriptions">
@@ -269,7 +269,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-9" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-9</idno>
+                <idno type="URI">https://spear-prosop.org/815-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"/>
@@ -293,7 +293,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-10</idno>
+                <idno type="URI">https://spear-prosop.org/815-10</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/architecture">
@@ -313,7 +313,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-11</idno>
+                <idno type="URI">https://spear-prosop.org/815-11</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/asceticism">
@@ -331,7 +331,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-12</idno>
+                <idno type="URI">https://spear-prosop.org/815-12</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/prayer http://syriaca.org/keyword/miracles">
@@ -353,7 +353,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-13</idno>
+                <idno type="URI">https://spear-prosop.org/815-13</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries">
@@ -371,7 +371,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#cjohnson #dkiger">
-                <idno type="URI">https://spear-prosop/815-14</idno>
+                <idno type="URI">https://spear-prosop.org/815-14</idno>
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/persecution http://syriaca.org/keyword/baptism http://syriaca.org/keyword/confession http://syriaca.org/keyword/fasting">

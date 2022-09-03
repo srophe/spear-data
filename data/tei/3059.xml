@@ -32,7 +32,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/3059/tei</idno>
+                <idno type="URI">https://spear-prosop.org/3059/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -52,7 +52,7 @@
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz"
                     >Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/letters-severus</idno>
+                <idno type="URI">https://spear-prosop.org/letters-severus</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -108,7 +108,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-1</idno>
+                <idno type="URI">https://spear-prosop.org/3059-1</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3080"
@@ -126,7 +126,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-2</idno>
+                <idno type="URI">https://spear-prosop.org/3059-2</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
@@ -143,7 +143,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-3</idno>
+                <idno type="URI">https://spear-prosop.org/3059-3</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                         active="http://syriaca.org/person/3080"
@@ -160,7 +160,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-4</idno>
+                <idno type="URI">https://spear-prosop.org/3059-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3082"> The rhetor of Greece
@@ -174,7 +174,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-5" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-5</idno>
+                <idno type="URI">https://spear-prosop.org/3059-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3082"/>
@@ -190,7 +190,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-6</idno>
+                <idno type="URI">https://spear-prosop.org/3059-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3082"/>
@@ -207,7 +207,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-7</idno>
+                <idno type="URI">https://spear-prosop.org/3059-7</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/3080"
@@ -225,7 +225,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-8" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-8</idno>
+                <idno type="URI">https://spear-prosop.org/3059-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2578"> Isaac </persName>
@@ -238,7 +238,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-9" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-9</idno>
+                <idno type="URI">https://spear-prosop.org/3059-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2578"/>
@@ -255,7 +255,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-10</idno>
+                <idno type="URI">https://spear-prosop.org/3059-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2578"/>
@@ -273,7 +273,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-11</idno>
+                <idno type="URI">https://spear-prosop.org/3059-11</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
                         active="http://syriaca.org/person/2578"
@@ -290,7 +290,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-12" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-12</idno>
+                <idno type="URI">https://spear-prosop.org/3059-12</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3083"> The man given stewardship of
@@ -309,7 +309,7 @@
                 <note/>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-13" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-13</idno>
+                <idno type="URI">https://spear-prosop.org/3059-13</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3083"/>
@@ -326,7 +326,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-14" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-14</idno>
+                <idno type="URI">https://spear-prosop.org/3059-14</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3083"/>
@@ -344,7 +344,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-15</idno>
+                <idno type="URI">https://spear-prosop.org/3059-15</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
                         active="http://syriaca.org/person/2578"
@@ -362,7 +362,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-16" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-16</idno>
+                <idno type="URI">https://spear-prosop.org/3059-16</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3081"> The men unlawfully given
@@ -384,7 +384,7 @@
                     </bibl></note>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-17" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-17</idno>
+                <idno type="URI">https://spear-prosop.org/3059-17</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3081"/>
@@ -401,7 +401,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3059-18</idno>
+                <idno type="URI">https://spear-prosop.org/3059-18</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2578"

@@ -58,7 +58,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/833/tei</idno>
+                <idno type="URI">https://spear-prosop.org/833/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -74,7 +74,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -119,7 +119,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/833-19</idno>
+                <idno type="URI">https://spear-prosop.org/833-19</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1672">
                         <desc>
@@ -133,7 +133,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-20" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/833-20</idno>
+                <idno type="URI">https://spear-prosop.org/833-20</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"/>
@@ -148,7 +148,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/833-21</idno>
+                <idno type="URI">https://spear-prosop.org/833-21</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2070">
                         <desc>
@@ -162,7 +162,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-22" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/833-22</idno>
+                <idno type="URI">https://spear-prosop.org/833-22</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"/>
@@ -177,7 +177,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/833-24</idno>
+                <idno type="URI">https://spear-prosop.org/833-24</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1876">
                         <desc>
@@ -191,7 +191,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-1</idno>
+                <idno type="URI">https://spear-prosop.org/833-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1876"> Mari </persName>
@@ -201,7 +201,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-2</idno>
+                <idno type="URI">https://spear-prosop.org/833-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"> Sergius </persName>
@@ -211,7 +211,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-3</idno>
+                <idno type="URI">https://spear-prosop.org/833-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"> Daniel </persName>
@@ -221,7 +221,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-4" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-4</idno>
+                <idno type="URI">https://spear-prosop.org/833-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1876"/>
@@ -233,7 +233,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-5</idno>
+                <idno type="URI">https://spear-prosop.org/833-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"> Mari </persName>
@@ -243,7 +243,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-6</idno>
+                <idno type="URI">https://spear-prosop.org/833-6</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/student-of" active="http://syriaca.org/person/1876" passive="http://syriaca.org/person/1866"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> studied under <persName ref="http://syriaca.org/person/1866">Mara of Beth Urtaye</persName>.</desc></relation>
                 </listRelation>
@@ -251,7 +251,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-7" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-7</idno>
+                <idno type="URI">https://spear-prosop.org/833-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
@@ -264,7 +264,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-8" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-8</idno>
+                <idno type="URI">https://spear-prosop.org/833-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
@@ -277,7 +277,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-9" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-9</idno>
+                <idno type="URI">https://spear-prosop.org/833-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
@@ -289,7 +289,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-10" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-10</idno>
+                <idno type="URI">https://spear-prosop.org/833-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
@@ -301,7 +301,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-11</idno>
+                <idno type="URI">https://spear-prosop.org/833-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"> Mari of Hula </persName>
@@ -311,7 +311,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-12</idno>
+                <idno type="URI">https://spear-prosop.org/833-12</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/1876 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -319,7 +319,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-13" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-13</idno>
+                <idno type="URI">https://spear-prosop.org/833-13</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1876"/>
@@ -336,7 +336,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-14" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-14</idno>
+                <idno type="URI">https://spear-prosop.org/833-14</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"/>
@@ -349,7 +349,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-15" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-15</idno>
+                <idno type="URI">https://spear-prosop.org/833-15</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"/>
@@ -362,7 +362,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-16</idno>
+                <idno type="URI">https://spear-prosop.org/833-16</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2070 http://syriaca.org/person/1672"><desc><persName ref="http://syriaca.org/person/2070">Sergius</persName> and <persName ref="http://syriaca.org/person/1672">Daniel</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -370,7 +370,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-17" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-17</idno>
+                <idno type="URI">https://spear-prosop.org/833-17</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"/>
@@ -386,7 +386,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-18" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
-                <idno type="URI">https://spear-prosop/833-18</idno>
+                <idno type="URI">https://spear-prosop.org/833-18</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"/>

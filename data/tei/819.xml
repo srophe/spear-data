@@ -27,7 +27,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/819/tei</idno>
+                <idno type="URI">https://spear-prosop.org/819/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -43,7 +43,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -85,7 +85,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/819-1</idno>
+                <idno type="URI">https://spear-prosop.org/819-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2092">
                         <desc>
@@ -99,7 +99,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-59</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-2</idno>
+                <idno type="URI">https://spear-prosop.org/819-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"> The Blessed Virgin of
@@ -110,7 +110,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-3</idno>
+                <idno type="URI">https://spear-prosop.org/819-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"> Eulogia, or "blessing"
@@ -121,7 +121,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-4" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-4</idno>
+                <idno type="URI">https://spear-prosop.org/819-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -134,7 +134,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-5" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-5</idno>
+                <idno type="URI">https://spear-prosop.org/819-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -147,7 +147,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-6</idno>
+                <idno type="URI">https://spear-prosop.org/819-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -159,7 +159,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-7" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-7</idno>
+                <idno type="URI">https://spear-prosop.org/819-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -172,7 +172,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-8" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-8</idno>
+                <idno type="URI">https://spear-prosop.org/819-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -183,7 +183,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-9</idno>
+                <idno type="URI">https://spear-prosop.org/819-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage">
                         <desc> At the age of eight, <persName ref="http://syriaca.org/person/2092">Susan</persName> wanted to go on pilgrimage, but <persName ref="http://syriaca.org/person/3706">Susan's parents </persName>
@@ -194,7 +194,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">542-543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-10" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-10</idno>
+                <idno type="URI">https://spear-prosop.org/819-10</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3706"> Susan's parents </persName>
@@ -204,7 +204,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-11" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-11</idno>
+                <idno type="URI">https://spear-prosop.org/819-11</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3706"/>
@@ -216,7 +216,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-12</idno>
+                <idno type="URI">https://spear-prosop.org/819-12</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/parent-of" active="http://syriaca.org/person/3706" passive="http://syriaca.org/person/2092"><desc><persName ref="http://syriaca.org/person/3706">Anonymi 3706</persName> was the parent of <persName ref="http://syriaca.org/person/2092">Suzanna</persName>.</desc></relation>
                 </listRelation>
@@ -224,7 +224,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-13</idno>
+                <idno type="URI">https://spear-prosop.org/819-13</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> put
@@ -236,7 +236,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-14</idno>
+                <idno type="URI">https://spear-prosop.org/819-14</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage">
                         <desc> After three or four miles, <persName ref="http://syriaca.org/person/2092">Susan</persName> came upon a
@@ -249,7 +249,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-15" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-15</idno>
+                <idno type="URI">https://spear-prosop.org/819-15</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3658"> A large party of women and
@@ -261,7 +261,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-16</idno>
+                <idno type="URI">https://spear-prosop.org/819-16</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage">
                         <desc> After worshipping in <placeName ref="http://syriaca.org/place/104">Jerusalem</placeName>, <persName ref="http://syriaca.org/person/3658"> the men and women in Susan's
@@ -273,7 +273,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-17</idno>
+                <idno type="URI">https://spear-prosop.org/819-17</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> sought
@@ -286,7 +286,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-18</idno>
+                <idno type="URI">https://spear-prosop.org/819-18</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> was at
@@ -298,7 +298,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-19" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-19</idno>
+                <idno type="URI">https://spear-prosop.org/819-19</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -313,7 +313,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-20" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-20</idno>
+                <idno type="URI">https://spear-prosop.org/819-20</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3659"> The portress of women's
@@ -326,7 +326,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-21" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-21</idno>
+                <idno type="URI">https://spear-prosop.org/819-21</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3659"/>
@@ -340,7 +340,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-22" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-22</idno>
+                <idno type="URI">https://spear-prosop.org/819-22</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3659"/>
@@ -352,7 +352,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-23" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-23</idno>
+                <idno type="URI">https://spear-prosop.org/819-23</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3659"/>
@@ -364,7 +364,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">544-545</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-24</idno>
+                <idno type="URI">https://spear-prosop.org/819-24</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName>'s
@@ -376,7 +376,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-25" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-25</idno>
+                <idno type="URI">https://spear-prosop.org/819-25</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/fasting http://syriaca.org/keyword/prayer">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName>
@@ -388,7 +388,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-26" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-26</idno>
+                <idno type="URI">https://spear-prosop.org/819-26</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/identity http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName>
@@ -400,7 +400,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-27" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-27</idno>
+                <idno type="URI">https://spear-prosop.org/819-27</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3660"> The women of the monastery
@@ -413,7 +413,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-28" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-28</idno>
+                <idno type="URI">https://spear-prosop.org/819-28</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3660"/>
@@ -426,7 +426,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-29" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-29</idno>
+                <idno type="URI">https://spear-prosop.org/819-29</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2092 http://syriaca.org/person/3660 http://syriaca.org/person/3659"><desc><persName ref="http://syriaca.org/person/2092">Suzanna</persName>, <persName ref="http://syriaca.org/person/3660">Anonymous 3660</persName> and <persName ref="http://syriaca.org/person/3659">Anonymous 3655</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -434,7 +434,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-30" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-30</idno>
+                <idno type="URI">https://spear-prosop.org/819-30</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile http://syriaca.org/keyword/monasticism">
                         <desc> After ten years of service in the monastery, the Chalcedonian
@@ -446,7 +446,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546-547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-31" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-31</idno>
+                <idno type="URI">https://spear-prosop.org/819-31</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile http://syriaca.org/keyword/monasticism">
                         <desc> The majority of the nuns in <persName ref="http://syriaca.org/person/2092">Susan</persName>'s convent
@@ -457,7 +457,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">546-547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-32" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-32</idno>
+                <idno type="URI">https://spear-prosop.org/819-32</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> chose
@@ -468,7 +468,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-33" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-33</idno>
+                <idno type="URI">https://spear-prosop.org/819-33</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -481,7 +481,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-34" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-34</idno>
+                <idno type="URI">https://spear-prosop.org/819-34</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/exile">
                         <desc> Of <persName ref="http://syriaca.org/person/3661"> the women who had
@@ -494,7 +494,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-35" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-35</idno>
+                <idno type="URI">https://spear-prosop.org/819-35</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3661"> The women of the monastery
@@ -505,7 +505,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-36" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-36</idno>
+                <idno type="URI">https://spear-prosop.org/819-36</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3662"> The five women who rejected
@@ -516,7 +516,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-37" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-37</idno>
+                <idno type="URI">https://spear-prosop.org/819-37</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/exile">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> heard
@@ -528,7 +528,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-38" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-38</idno>
+                <idno type="URI">https://spear-prosop.org/819-38</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
@@ -541,7 +541,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-39" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-39</idno>
+                <idno type="URI">https://spear-prosop.org/819-39</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3662"/>
@@ -554,7 +554,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">547</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-40" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-40</idno>
+                <idno type="URI">https://spear-prosop.org/819-40</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3694"> The blessed Syrians, who
@@ -567,7 +567,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-41" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-41</idno>
+                <idno type="URI">https://spear-prosop.org/819-41</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
                         <desc> A tower was erected in <placeName ref="http://syriaca.org/place/2819">Mars Menas</placeName> for protection, in which <persName ref="http://syriaca.org/person/3662">the women who
@@ -579,7 +579,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-42" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-42</idno>
+                <idno type="URI">https://spear-prosop.org/819-42</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/3662 http://syriaca.org/person/2092"><desc><persName ref="http://syriaca.org/person/3662">Anonymous 3662</persName> and <persName ref="http://syriaca.org/person/2092">Suzanna</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -587,7 +587,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-43" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-43</idno>
+                <idno type="URI">https://spear-prosop.org/819-43</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-cells http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
                         <desc> There was a cave outside the tower in <placeName ref="http://syriaca.org/place/2821">the desert near Mendis</placeName>, where
@@ -600,7 +600,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-44" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-44</idno>
+                <idno type="URI">https://spear-prosop.org/819-44</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3663"> A certain blessed man who
@@ -612,7 +612,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-45" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-45</idno>
+                <idno type="URI">https://spear-prosop.org/819-45</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3663"/>
@@ -625,7 +625,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-46" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/819-46</idno>
+                <idno type="URI">https://spear-prosop.org/819-46</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3663"/>
@@ -637,7 +637,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-47" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-47</idno>
+                <idno type="URI">https://spear-prosop.org/819-47</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3663"/>
@@ -650,7 +650,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-48" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-48</idno>
+                <idno type="URI">https://spear-prosop.org/819-48</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/fasting http://syriaca.org/keyword/prayer http://syriaca.org/keyword/exile">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> found
@@ -663,7 +663,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">548-549</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-49" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-49</idno>
+                <idno type="URI">https://spear-prosop.org/819-49</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-cells">
                         <desc><persName ref="http://syriaca.org/person/3662">Anonymi 3662</persName>
@@ -676,7 +676,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">549</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-50" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-50</idno>
+                <idno type="URI">https://spear-prosop.org/819-50</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-cells http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
                         <desc> After ten days, <persName ref="http://syriaca.org/person/3695">people
@@ -689,7 +689,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">549</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-51" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-51</idno>
+                <idno type="URI">https://spear-prosop.org/819-51</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3695"> Persons from the village in
@@ -701,7 +701,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">549</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-52" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-52</idno>
+                <idno type="URI">https://spear-prosop.org/819-52</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monastic-cells">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName>, who
@@ -714,7 +714,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">549</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-53" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-53</idno>
+                <idno type="URI">https://spear-prosop.org/819-53</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/3695">Anonymi 3695</persName>
@@ -730,7 +730,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">549-550</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-54" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-54</idno>
+                <idno type="URI">https://spear-prosop.org/819-54</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/asceticism">
                         <desc> Even though <persName ref="http://syriaca.org/person/3662">Anonymi
@@ -747,7 +747,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">550-551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-55" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-55</idno>
+                <idno type="URI">https://spear-prosop.org/819-55</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrims http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3664">Anonymi 3664</persName>
@@ -760,7 +760,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-56" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-56</idno>
+                <idno type="URI">https://spear-prosop.org/819-56</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3664"> Pilgrims who visited
@@ -775,7 +775,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-57" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-57</idno>
+                <idno type="URI">https://spear-prosop.org/819-57</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3234">Maro</persName> and
@@ -792,7 +792,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-58" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-58</idno>
+                <idno type="URI">https://spear-prosop.org/819-58</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"> A great old man who lived in
@@ -804,7 +804,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-59" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-59</idno>
+                <idno type="URI">https://spear-prosop.org/819-59</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"/>
@@ -817,7 +817,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-60" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-60</idno>
+                <idno type="URI">https://spear-prosop.org/819-60</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"/>
@@ -828,7 +828,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-61" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-61</idno>
+                <idno type="URI">https://spear-prosop.org/819-61</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"/>
@@ -841,7 +841,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-62" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-62</idno>
+                <idno type="URI">https://spear-prosop.org/819-62</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3665"/>
@@ -855,7 +855,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-63" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-63</idno>
+                <idno type="URI">https://spear-prosop.org/819-63</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3665"/>
@@ -867,7 +867,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-64" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-64</idno>
+                <idno type="URI">https://spear-prosop.org/819-64</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3665"/>
@@ -881,7 +881,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-65" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-65</idno>
+                <idno type="URI">https://spear-prosop.org/819-65</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3234" passive="http://syriaca.org/person/3253 http://syriaca.org/person/3665"><desc><persName ref="http://syriaca.org/person/3234">Maro</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3253">Samuel</persName> and <persName ref="http://syriaca.org/person/3665">Anonymous 3665</persName>.</desc></relation>
                 </listRelation>
@@ -889,7 +889,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">551</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-66" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-66</idno>
+                <idno type="URI">https://spear-prosop.org/819-66</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"> Maro </persName>
@@ -899,7 +899,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-67" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-67</idno>
+                <idno type="URI">https://spear-prosop.org/819-67</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3234"/>
@@ -911,7 +911,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-68" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-68</idno>
+                <idno type="URI">https://spear-prosop.org/819-68</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3253"> Samuel </persName>
@@ -921,7 +921,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-69" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-69</idno>
+                <idno type="URI">https://spear-prosop.org/819-69</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3253"/>
@@ -934,7 +934,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-70" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-70</idno>
+                <idno type="URI">https://spear-prosop.org/819-70</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3253"/>
@@ -945,7 +945,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-71" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-71</idno>
+                <idno type="URI">https://spear-prosop.org/819-71</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3253"/>
@@ -961,7 +961,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-72" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-72</idno>
+                <idno type="URI">https://spear-prosop.org/819-72</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/3253 http://syriaca.org/person/3665"><desc><persName ref="http://syriaca.org/person/3253">Samuel</persName> and <persName ref="http://syriaca.org/person/3665">Anonymous 3665</persName> were fellow clergy.</desc></relation>
                 </listRelation>
@@ -969,7 +969,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-73" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-73</idno>
+                <idno type="URI">https://spear-prosop.org/819-73</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3667"> The sister of <persName ref="http://syriaca.org/person/3253"> Samuel </persName></persName>
@@ -979,7 +979,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-74" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-74</idno>
+                <idno type="URI">https://spear-prosop.org/819-74</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3667"/>
@@ -992,7 +992,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-75" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-75</idno>
+                <idno type="URI">https://spear-prosop.org/819-75</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3667"/>
@@ -1004,7 +1004,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-76" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-76</idno>
+                <idno type="URI">https://spear-prosop.org/819-76</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3667"/>
@@ -1016,7 +1016,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-77" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-77</idno>
+                <idno type="URI">https://spear-prosop.org/819-77</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/3253 http://syriaca.org/person/3667"><desc><persName ref="http://syriaca.org/person/3253">Samuel</persName> and <persName ref="http://syriaca.org/person/3667">Anonymous 3667</persName> were siblings.</desc></relation>
                 </listRelation>
@@ -1024,7 +1024,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-78" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-78</idno>
+                <idno type="URI">https://spear-prosop.org/819-78</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3667" passive="http://syriaca.org/person/3662"><desc><persName ref="http://syriaca.org/person/3667">Anonymous 3667</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3662">Anonymous 3662</persName>.</desc></relation>
                 </listRelation>
@@ -1032,7 +1032,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-79" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-79</idno>
+                <idno type="URI">https://spear-prosop.org/819-79</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3234">Maro</persName> and
@@ -1049,7 +1049,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552-553</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-80" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-80</idno>
+                <idno type="URI">https://spear-prosop.org/819-80</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3234">Maro</persName> and
@@ -1065,7 +1065,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">552-553</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-81" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-81</idno>
+                <idno type="URI">https://spear-prosop.org/819-81</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism">
                         <desc> God granted <persName ref="http://syriaca.org/person/2092">Susan</persName> power over the fiends that attacked her day and
@@ -1079,7 +1079,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">553-554</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-82" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-82</idno>
+                <idno type="URI">https://spear-prosop.org/819-82</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName> was
@@ -1091,7 +1091,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">554-555</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-83" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-83</idno>
+                <idno type="URI">https://spear-prosop.org/819-83</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/3668">Anonymous
@@ -1107,7 +1107,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">554-557</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-84" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-84</idno>
+                <idno type="URI">https://spear-prosop.org/819-84</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/3668">Anonymous
@@ -1120,7 +1120,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">558</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-85" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-85</idno>
+                <idno type="URI">https://spear-prosop.org/819-85</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3668"> The blessed man who
@@ -1131,7 +1131,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">555-558</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-86" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-86</idno>
+                <idno type="URI">https://spear-prosop.org/819-86</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3668"/>
@@ -1144,7 +1144,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">555-558</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-87" resp="#ktorabi">
-                <idno type="URI">https://spear-prosop/819-87</idno>
+                <idno type="URI">https://spear-prosop.org/819-87</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3668"/>

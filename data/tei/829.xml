@@ -33,7 +33,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/829/tei</idno>
+                <idno type="URI">https://spear-prosop.org/829/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -49,7 +49,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -94,7 +94,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/829-14</idno>
+                <idno type="URI">https://spear-prosop.org/829-14</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1533">
                         <desc>
@@ -108,7 +108,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641-45</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-15" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/829-15</idno>
+                <idno type="URI">https://spear-prosop.org/829-15</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -123,7 +123,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-1</idno>
+                <idno type="URI">https://spear-prosop.org/829-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"> Aaron </persName>
@@ -133,7 +133,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-2" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-2</idno>
+                <idno type="URI">https://spear-prosop.org/829-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -145,7 +145,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-3</idno>
+                <idno type="URI">https://spear-prosop.org/829-3</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3691"> The presbyters and deacons
@@ -157,7 +157,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-4</idno>
+                <idno type="URI">https://spear-prosop.org/829-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1875"> The blessed Mare </persName>
@@ -167,7 +167,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-5" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-5</idno>
+                <idno type="URI">https://spear-prosop.org/829-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -180,7 +180,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">641</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-6" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-6</idno>
+                <idno type="URI">https://spear-prosop.org/829-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -199,7 +199,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">644</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-13</idno>
+                <idno type="URI">https://spear-prosop.org/829-13</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/burial" when="0560-10-22">
                         <desc>
@@ -219,7 +219,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">644</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-7</idno>
+                <idno type="URI">https://spear-prosop.org/829-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monks">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> passed the
@@ -231,7 +231,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">642</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-8</idno>
+                <idno type="URI">https://spear-prosop.org/829-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/clergy">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> so, when he
@@ -242,7 +242,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">642</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-9" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-9</idno>
+                <idno type="URI">https://spear-prosop.org/829-9</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -254,7 +254,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">642</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-10" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-10</idno>
+                <idno type="URI">https://spear-prosop.org/829-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -266,7 +266,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">642</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="physicalTrait" xml:id="factoid-11" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-11</idno>
+                <idno type="URI">https://spear-prosop.org/829-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -280,7 +280,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">643</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-12</idno>
+                <idno type="URI">https://spear-prosop.org/829-12</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/illness">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> had a surgery,
@@ -293,7 +293,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">644</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-16" resp="#ayousif #ekowalik">
-                <idno type="URI">https://spear-prosop/829-16</idno>
+                <idno type="URI">https://spear-prosop.org/829-16</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>

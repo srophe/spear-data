@@ -28,7 +28,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/830/tei</idno>
+                <idno type="URI">https://spear-prosop.org/830/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -44,7 +44,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -89,7 +89,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/830-1</idno>
+                <idno type="URI">https://spear-prosop.org/830-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1853">
                         <desc>
@@ -103,7 +103,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-47</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-2</idno>
+                <idno type="URI">https://spear-prosop.org/830-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -116,7 +116,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-3</idno>
+                <idno type="URI">https://spear-prosop.org/830-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -127,7 +127,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-4" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-4</idno>
+                <idno type="URI">https://spear-prosop.org/830-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -138,7 +138,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-5" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-5</idno>
+                <idno type="URI">https://spear-prosop.org/830-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -151,7 +151,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-6</idno>
+                <idno type="URI">https://spear-prosop.org/830-6</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/villages http://syriaca.org/keyword/cities">
                         <desc><persName ref="http://syriaca.org/person/1853">The blessed Leontius
@@ -163,7 +163,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jfalconer #dschwartz">
-                <idno type="URI">https://spear-prosop/830-7</idno>
+                <idno type="URI">https://spear-prosop.org/830-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> left his
@@ -177,7 +177,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-8</idno>
+                <idno type="URI">https://spear-prosop.org/830-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
                         <desc> After many years of wandering, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and
@@ -192,7 +192,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jfalconer #dschwartz">
-                <idno type="URI">https://spear-prosop/830-9</idno>
+                <idno type="URI">https://spear-prosop.org/830-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> was
@@ -205,7 +205,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-10" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-10</idno>
+                <idno type="URI">https://spear-prosop.org/830-10</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/1533"> Aaron </persName>
@@ -215,7 +215,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-11" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-11</idno>
+                <idno type="URI">https://spear-prosop.org/830-11</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -228,7 +228,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-12" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-12</idno>
+                <idno type="URI">https://spear-prosop.org/830-12</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -240,7 +240,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-13" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-13</idno>
+                <idno type="URI">https://spear-prosop.org/830-13</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
@@ -252,7 +252,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-14" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-14</idno>
+                <idno type="URI">https://spear-prosop.org/830-14</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -263,7 +263,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-15</idno>
+                <idno type="URI">https://spear-prosop.org/830-15</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533 http://syriaca.org/person/2032"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>, <persName ref="http://syriaca.org/person/1533">Aaron</persName> and <persName ref="http://syriaca.org/person/2032">Qashish</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
@@ -271,7 +271,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-16" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-16</idno>
+                <idno type="URI">https://spear-prosop.org/830-16</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"> Qashish, who also named
@@ -282,7 +282,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-17</idno>
+                <idno type="URI">https://spear-prosop.org/830-17</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>
@@ -294,7 +294,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-18</idno>
+                <idno type="URI">https://spear-prosop.org/830-18</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/casual-intimate-relationship-with" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had a casual intimate relationship.</desc></relation>
                 </listRelation>
@@ -302,7 +302,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-19" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-19</idno>
+                <idno type="URI">https://spear-prosop.org/830-19</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
@@ -313,7 +313,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-20" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-20</idno>
+                <idno type="URI">https://spear-prosop.org/830-20</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
@@ -324,7 +324,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-21</idno>
+                <idno type="URI">https://spear-prosop.org/830-21</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had an intimate relationship.</desc></relation>
                 </listRelation>
@@ -332,7 +332,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-22" resp="#jfalconer">
-                <idno type="URI">https://spear-prosop/830-22</idno>
+                <idno type="URI">https://spear-prosop.org/830-22</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>

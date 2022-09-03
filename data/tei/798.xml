@@ -26,7 +26,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/798/tei</idno>
+                <idno type="URI">https://spear-prosop.org/798/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
@@ -45,7 +45,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -99,7 +99,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/798-1</idno>
+                <idno type="URI">https://spear-prosop.org/798-1</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1980">
                         <desc>
@@ -119,7 +119,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-2" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/798-2</idno>
+                <idno type="URI">https://spear-prosop.org/798-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1980"/>
@@ -140,7 +140,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-3" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-3</idno>
+                <idno type="URI">https://spear-prosop.org/798-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1980"/>
@@ -161,7 +161,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-4</idno>
+                <idno type="URI">https://spear-prosop.org/798-4</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/buildings http://syriaca.org/keyword/architecture">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> went to
@@ -181,7 +181,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-5</idno>
+                <idno type="URI">https://spear-prosop.org/798-5</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/holy-places http://syriaca.org/keyword/relics">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> entered
@@ -199,7 +199,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-6" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-6</idno>
+                <idno type="URI">https://spear-prosop.org/798-6</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3657"> The ten disciples of
@@ -217,7 +217,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-7</idno>
+                <idno type="URI">https://spear-prosop.org/798-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/holy-places http://syriaca.org/keyword/altars">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> made an
@@ -234,7 +234,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-8</idno>
+                <idno type="URI">https://spear-prosop.org/798-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries">
                         <desc> A monastery was built at the site of <persName ref="http://syriaca.org/person/1980">Paul's</persName> cave. </desc>
@@ -250,7 +250,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jwalters">
-                <idno type="URI">https://spear-prosop/798-9</idno>
+                <idno type="URI">https://spear-prosop.org/798-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/relics http://syriaca.org/keyword/miracles">
                         <desc>

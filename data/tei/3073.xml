@@ -32,7 +32,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/3073/tei</idno>
+                <idno type="URI">https://spear-prosop.org/3073/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -52,7 +52,7 @@
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz"
                     >Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/letters-severus</idno>
+                <idno type="URI">https://spear-prosop.org/letters-severus</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -108,7 +108,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-1</idno>
+                <idno type="URI">https://spear-prosop.org/3073-1</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3080"
@@ -124,7 +124,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-2</idno>
+                <idno type="URI">https://spear-prosop.org/3073-2</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
@@ -141,7 +141,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-3</idno>
+                <idno type="URI">https://spear-prosop.org/3073-3</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3096"> The notables of <placeName
@@ -156,7 +156,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-4</idno>
+                <idno type="URI">https://spear-prosop.org/3073-4</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
@@ -173,7 +173,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-5</idno>
+                <idno type="URI">https://spear-prosop.org/3073-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2539"> The devout presbyter Cosmas
@@ -187,7 +187,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-6" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-6</idno>
+                <idno type="URI">https://spear-prosop.org/3073-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2539"/>
@@ -204,7 +204,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
-                <idno type="URI">https://spear-prosop/3073-7</idno>
+                <idno type="URI">https://spear-prosop.org/3073-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2539"/>

@@ -34,7 +34,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">https://spear-prosop/832/tei</idno>
+                <idno type="URI">https://spear-prosop.org/832/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -50,7 +50,7 @@
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">https://spear-prosop/lives-eastern-saints</idno>
+                <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                     <idno type="URI">http://syriaca.org/spear</idno>
@@ -95,7 +95,7 @@
     <text>
         <body>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-12</idno>
+                <idno type="URI">https://spear-prosop.org/832-12</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2093">
                         <desc>
@@ -109,7 +109,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652-55</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-13" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-13</idno>
+                <idno type="URI">https://spear-prosop.org/832-13</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2093"/>
@@ -124,7 +124,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-14</idno>
+                <idno type="URI">https://spear-prosop.org/832-14</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1630">
                         <desc>
@@ -138,7 +138,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652-55</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-15" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-15</idno>
+                <idno type="URI">https://spear-prosop.org/832-15</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
@@ -153,7 +153,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-16</idno>
+                <idno type="URI">https://spear-prosop.org/832-16</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2040">
                         <desc>
@@ -167,7 +167,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652-55</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-17" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop/832-17</idno>
+                <idno type="URI">https://spear-prosop.org/832-17</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
@@ -182,7 +182,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-1</idno>
+                <idno type="URI">https://spear-prosop.org/832-1</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"> Bassian the Solitary
@@ -193,7 +193,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-2</idno>
+                <idno type="URI">https://spear-prosop.org/832-2</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"> Romanus the Presbyter
@@ -204,7 +204,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-3</idno>
+                <idno type="URI">https://spear-prosop.org/832-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
@@ -217,7 +217,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-4</idno>
+                <idno type="URI">https://spear-prosop.org/832-4</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2093"> Simeon the Archimandrite
@@ -228,7 +228,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-5" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-5</idno>
+                <idno type="URI">https://spear-prosop.org/832-5</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2093"/>
@@ -239,7 +239,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-6</idno>
+                <idno type="URI">https://spear-prosop.org/832-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
@@ -250,7 +250,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-7" resp="#jdaccache #syoung #dschwartz">
-                <idno type="URI">https://spear-prosop/832-7</idno>
+                <idno type="URI">https://spear-prosop.org/832-7</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
@@ -261,7 +261,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">652</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-8</idno>
+                <idno type="URI">https://spear-prosop.org/832-8</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/speech-acts">
                         <desc><persName ref="http://syriaca.org/person/1630">Bassian</persName> was brought
@@ -275,7 +275,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">653</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-9</idno>
+                <idno type="URI">https://spear-prosop.org/832-9</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/revelation">
                         <desc><persName ref="http://syriaca.org/person/1630">Bassian</persName> had a
@@ -287,7 +287,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">654</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-10" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-10</idno>
+                <idno type="URI">https://spear-prosop.org/832-10</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
@@ -300,7 +300,7 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#jdaccache #syoung">
-                <idno type="URI">https://spear-prosop/832-11</idno>
+                <idno type="URI">https://spear-prosop.org/832-11</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death">
                         <desc><persName ref="http://syriaca.org/person/74">John of
