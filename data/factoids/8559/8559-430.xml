@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:srophe="https://srophe.app"
+     xmlns:sc="http://www.ascc.net/xml/schematron"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:local="http://syriaca.org/ns">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+                <title level="m" type="main">Chronicle of Edessa</title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+                <editor role="creator"
+                    ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <respStmt>
+                    <resp>Data architecture, data entry, editing, proofreading, and revision
+                        by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L.
+                        Schwartz</name>
+                </respStmt>
+            </titleStmt>
+         <editionStmt>
+                <edition n="1.0"/>
+            </editionStmt>
+         <publicationStmt>
+            <authority>Syriaca.org: The Syriac Reference Portal</authority>
+            <idno type="URI">https://spear-prosop.org/8559-430</idno>
+            <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Distributed under a Creative Commons Attribution 3.0 Unported
+                            License.</p>
+               </licence>
+                </availability>
+            <date>2020-01-03-05:00</date>
+         </publicationStmt>
+         <seriesStmt>
+                <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                <editor role="general"
+                    ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">http://syriaca.org/spear</idno>
+            </seriesStmt>
+         <sourceDesc>
+                <listBibl>
+                    <head>Sources for the Data in this Born Digital Prosopography</head>
+                    <bibl type="primary">
+                        <title xml:lang="la">Chronica minora</title>
+                        <editor>Ignatius Guidi</editor>
+                        <ptr target="http://syriaca.org/bibl/633"/>
+                    </bibl>
+                    <bibl type="primary">
+                        <title xml:lang="en" level="a">The Chronicle of Edessa</title>
+                        <title level="j">The Journal of Sacred Literature, New Series [=Series
+                            4]</title>
+                        <editor role="translator">B. Cowper</editor>
+                        <date when="1865">1865</date>
+                        <biblScope unit="vol">5</biblScope>
+                        <biblScope unit="pp">28-45</biblScope>
+                        <ptr target="http://syriaca.org/bibl/657"/>
+                    </bibl>
+                    <bibl type="urn">
+                        <ptr target="urn:cts:syriacLit:nhsl8559.syriacCorpus57"/>
+                    </bibl>
+                    <bibl type="primary">
+                        <title>Chronicle of Edessa</title>
+                        <ptr target="http://syriaca.org/work/8559"/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+            <editorialDecl>
+                <p><!-- POINT USERS TO WIKI DOCUMENTATION WHEN COMPLETED. --></p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="calculated">
+                        <catDesc> Used to denote a date calculated by the editor from a regnal year
+                            or some other dating method given in the text. </catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+      <profileDesc><!-- HAVE WE USED THIS CORRECTLY IN THE GAZETTEER? GUIDELINES HAVE NO EXAMPLE OF USE WITH A "BORN DIGITAL" DOC. ALL EXAMPLES DESCRIBE THE DOCUMENT ENCODED. --></profileDesc>
+      <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util"
+                 when="2020-01-03-05:00">CHANGED: Add a human readable version or the tei:relation element in a tei:desc.</change>
+         <change status="draft"/>
+        </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="factoid"
+             subtype="nameVariant"
+             xml:id="factoid-430"
+             resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/8559-430</idno>
+                <listPerson>
+                    <person>
+                        <persName ref="http://syriaca.org/person/2265"> Anastus the king </persName>
+                    </person>
+                </listPerson>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/657"/>
+                    <citedRange unit="part">83</citedRange>
+                </bibl>
+            </ab>
+      </body>
+      <back>
+            <listBibl>
+                <head>Works Cited</head>
+                <bibl type="primary" xml:id="bibl8559-1">
+                    <title xml:lang="la">Chronica minora</title>
+                    <editor>Ignatius Guidi</editor>
+                    <ptr target="http://syriaca.org/bibl/633"/>
+                </bibl>
+                <bibl type="primary" xml:id="bibl8559-2">
+                    <title xml:lang="en" level="a">The Chronicle of Edessa</title>
+                    <title level="j">The Journal of Sacred Literature, New Series [=Series
+                        4]</title>
+                    <editor role="translator">B. Cowper</editor>
+                    <date when="1865">1865</date>
+                    <biblScope unit="vol">5</biblScope>
+                    <biblScope unit="pp">28-45</biblScope>
+                    <ptr target="http://syriaca.org/bibl/657"/>
+                </bibl>
+                <bibl type="secondary" xml:id="bibl8559-3">
+                    <title xml:lang="de">Untersuchungen über die Edessenische Chronik. Texte und
+                        Untersuchungen zur Geschichte der altchristlichen Literatur 9.1</title>
+                    <author>Ludwig Hallier</author>
+                    <pubPlace>Leipzig</pubPlace>
+                    <publisher>J.C. Hinrichs</publisher>
+                    <date>1892</date>
+                    <ptr target="http://syriaca.org/bibl/660"/>
+                </bibl>
+                <bibl type="secondary" xml:id="bibl8559-4">
+                    <title xml:lang="en">Stewards of the Poor: The Man of God, Rabbula, and Hiba in
+                        Fifth-Century Edessa</title>
+                    <editor role="translator">Robert Doran</editor>
+                    <pubPlace>Kalamazoo, MI</pubPlace>
+                    <publisher>Cistercian Publications</publisher>
+                    <date>2006</date>
+                    <ptr target="http://syriaca.org/bibl/2322"/>
+                </bibl>
+            </listBibl>
+        </back>
+   </text>
+</TEI>
