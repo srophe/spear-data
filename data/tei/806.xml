@@ -41,7 +41,7 @@
             <seriesStmt>
                 <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-                <idno type="URI">http://syriaca.org/spear</idno>
+                <idno type="URI">https://spear-prosop.org</idno>
             </seriesStmt>
             <seriesStmt>
                 <title level="m" xml:lang="en">The Lives of the Eastern Saints</title>
@@ -50,7 +50,7 @@
                 <idno type="URI">https://spear-prosop.org/lives-eastern-saints</idno>
                 <biblScope unit="volume">
                     <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
-                    <idno type="URI">http://syriaca.org/spear</idno>
+                    <idno type="URI">https://spear-prosop.org</idno>
                 </biblScope>
             </seriesStmt>
             <sourceDesc>
