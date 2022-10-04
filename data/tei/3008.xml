@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2591">Alypius</persName> on the subject of him unlawfully
                             dismissing <persName ref="http://syriaca.org/person/3775">his wife</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2591"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2591" notBefore="0490" notAfter="0512"/>
                             </listRelation>
                         </desc>
                     </event>
