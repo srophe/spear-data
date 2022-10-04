@@ -106,7 +106,7 @@
                             on the subject of <persName ref="http://syriaca.org/person/3783">Anonymous 3783</persName> who took communion and later said he did not know
                             whether he had ever been baptized.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2439"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2439" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -127,7 +127,7 @@
                             on the subject of <persName ref="http://syriaca.org/person/3783">Anonymous 3783</persName> who took communion and later said he did not know
                             whether he had ever been baptized.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2439"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2439" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

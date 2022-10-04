@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2595">Ammonius</persName> on the necessity of
                             affirming correct theology but also anathematizing incorrect theology.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2595"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2595" notBefore="0513" notAfter="0516"/>
                             </listRelation>
                         </desc>
                     </event>

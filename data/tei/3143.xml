@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2438">John Canopites</persName> 
                             on the subject of being careful about whom one communes with.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2438"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2438" notBefore="0519" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>

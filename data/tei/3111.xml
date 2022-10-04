@@ -117,7 +117,7 @@
                             He refuted their claims with references to scripture, canon law, and the lifestyles of these men.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/3753"/>
+                                    passive="http://syriaca.org/person/3753" notBefore="0519" notAfter="0520"/>
                             </listRelation>
                         </desc>
                     </event>

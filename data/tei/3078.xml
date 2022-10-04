@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2600">Anastasius</persName> 
                             arguing that the validity of sacraments is not based on the morality of the clergy.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2600"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2600" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

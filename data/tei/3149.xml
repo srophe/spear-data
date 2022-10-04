@@ -118,7 +118,7 @@
                             emphasized proper order in judicial matters, especially the need for multiple witnesses.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/3751"/>
+                                    passive="http://syriaca.org/person/3751" notBefore="0519" notAfter="0525"/>
                             </listRelation>
                         </desc>
                     </event>

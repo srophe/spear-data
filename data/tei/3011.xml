@@ -106,7 +106,7 @@
                             against entering the monastic life unless <persName ref="http://syriaca.org/person/3776">his wife</persName>
                             also agreed to do the same.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2766"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2766" notBefore="0508" notAfter="0511"/>
                             </listRelation>
                         </desc>
                     </event>

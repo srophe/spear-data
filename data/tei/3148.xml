@@ -115,7 +115,7 @@
                             the persecution of non-Chalcedonians and the commemoration of faithful non-Chalcedonians no longer living.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/3750"/>
+                                    passive="http://syriaca.org/person/3750" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>

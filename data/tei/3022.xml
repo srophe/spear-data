@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2520">Dionysios</persName> 
                             on the subject of avoiding communion with heretics.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

@@ -106,7 +106,7 @@
                             on the subject of forgiving those who involuntarily commune with heretic
                             provided they confess their sin.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2629"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2629" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

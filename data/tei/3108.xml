@@ -120,7 +120,7 @@
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                                     active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/3732"/>
+                                    passive="http://syriaca.org/person/3732" notBefore="0519" notAfter="0520"/>
                             </listRelation>
                         </desc>
                     </event>

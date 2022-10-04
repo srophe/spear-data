@@ -104,7 +104,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2684">John</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2684"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2684" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -124,8 +124,8 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> denouncing 
                             <persName ref="http://syriaca.org/person/792">Timothy</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2684" passive="http://syriaca.org/person/51"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/2684" passive="http://syriaca.org/person/792"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2684" passive="http://syriaca.org/person/51" notBefore="0489" notAfter="0508"/>
+                                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/2684" passive="http://syriaca.org/person/792" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>

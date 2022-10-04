@@ -106,7 +106,7 @@
                             on the subject of receiving heretical clergy who have repented
                             and seek communion.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2526"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2526" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -127,8 +127,8 @@
                             <persName ref="http://syriaca.org/person/2655">Gennadius</persName> doubted that 
                              heretical clergy who have repented could be received.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2526" passive="http://syriaca.org/person/51"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/2526 http://syriaca.org/person/51 http://syriaca.org/person/2655"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2526" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/2526 http://syriaca.org/person/51 http://syriaca.org/person/2655" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

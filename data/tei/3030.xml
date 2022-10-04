@@ -106,7 +106,7 @@
                             in which he urged him to remain as head of his monastery and not withdraw 
                             to live as an anchorite.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

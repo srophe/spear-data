@@ -106,7 +106,7 @@
                             <persName ref="http://syriaca.org/person/3774">Conon's daughter</persName>. He merely recommended that she be 
                             given in marriage to someone of orthodox faith.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2628"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2628" notBefore="0508" notAfter="0511"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -126,7 +126,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> about the marriage of 
                             <persName ref="http://syriaca.org/person/3774">Conon's daughter</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2685" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2685" passive="http://syriaca.org/person/51" notBefore="0508" notAfter="0511"/>
                             </listRelation>
                         </desc>
                     </event>

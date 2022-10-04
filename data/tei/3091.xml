@@ -107,7 +107,7 @@
                             <persName ref="http://syriaca.org/person/2520">Dionysius</persName> to bring 
                             <persName ref="http://syriaca.org/person/2660">Indacus</persName> to repentance.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520" notBefore="0515" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

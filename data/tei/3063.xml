@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2568">Theotecnus</persName> 
                             on the subject of receiving clergy who repented after holding heretical views.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2568"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2568" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -165,7 +165,7 @@
                             presbyter <persName ref="http://syriaca.org/person/2701">Mark</persName>
                             after he repented of heresy.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -224,7 +224,7 @@
                             about the theological erros of 
                             <persName ref="http://syriaca.org/person/2744">Romanus</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -282,7 +282,7 @@
                             on the subject of the repentance of <persName ref="http://syriaca.org/person/2701">Mark</persName>
                             and whether he should become an archimandrite.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2701"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2701" notBefore="0515" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -311,7 +311,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             about uncanonical ordinations.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2568" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

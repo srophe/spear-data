@@ -109,7 +109,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName>'s refusal because the sacrament is not 
                             dependent upon the standing of the clergy who administers it.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2593 http://syriaca.org/person/2642"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2593 http://syriaca.org/person/2642" notBefore="0519" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>

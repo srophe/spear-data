@@ -107,7 +107,7 @@
                             on the subject of converts form Chalcedonianism doing penance but not being 
                             re-baptized or re-anointed and the subject of needing more ordained clergy.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -128,7 +128,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName>
                             on the subject of what rites to perform when receiving converts form Chalcedonianism.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2751 http://syriaca.org/person/2407" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2751 http://syriaca.org/person/2407" passive="http://syriaca.org/person/51" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -239,8 +239,8 @@
                             in which he warmly greeted
                             <persName ref="http://syriaca.org/person/2522">Maximin</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2522"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2522" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>

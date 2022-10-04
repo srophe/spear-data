@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/3053">the Fathers</persName> 
                             on the subject of baptism and ordination.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3053"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3053" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -337,7 +337,7 @@
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> having trouble with the 
                             clergy in <placeName ref="http://syriaca.org/place/46">Beirut</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3053" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3053" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -380,7 +380,7 @@
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> to repent 
                             and abandon his Eutychian views of the incarnation.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

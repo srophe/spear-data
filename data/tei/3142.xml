@@ -126,7 +126,7 @@
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                                     active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/2480"/>
+                                    passive="http://syriaca.org/person/2480" notBefore="0537-09"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -316,7 +316,7 @@
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                                     active="http://syriaca.org/person/3126"
-                                    passive="http://syriaca.org/person/51"/>
+                                    passive="http://syriaca.org/person/51" notAfter="0537-08"/>
                             </listRelation></desc>
                     </event>
                 </listEvent>

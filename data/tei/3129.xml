@@ -106,7 +106,7 @@
                             in which he answered questions posed by another. The questions dealt with repentance for
                             refusing to submit to monastic discipline and repentance for self-castration in one's youth.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2681"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2681" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -127,7 +127,7 @@
                             in which he sought answers to questions someone else had asked him. The questions dealt with repentance for
                             refusing to submit to monastic discipline and repentance for self-castration in one's youth.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2681"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2681" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>

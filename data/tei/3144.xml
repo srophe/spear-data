@@ -160,7 +160,7 @@
                             on the subject of interaction with heretics.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
-                                    passive="http://syriaca.org/person/2620"/>
+                                    passive="http://syriaca.org/person/2620" notBefore="0519" notAfter="0535"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -180,7 +180,7 @@
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
                                     active="http://syriaca.org/person/2620"
-                                    passive="http://syriaca.org/person/51"/>
+                                    passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0535"/>
                             </listRelation>
                         </desc>
                     </event>

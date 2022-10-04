@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2424">John</persName> 
                             on the subject of not communing with heretics.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2424"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2424" notBefore="0519" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -126,7 +126,7 @@
                             commending <persName ref="http://syriaca.org/person/3777">his wife</persName> to Severus and 
                             discussing his refusal to commune with heretics.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2424" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2424" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>
