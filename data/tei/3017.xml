@@ -125,7 +125,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> defending 
                             <persName ref="http://syriaca.org/person/2736">Peter Mongus</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2595" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2595" passive="http://syriaca.org/person/51" notAfter="0516"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -146,8 +146,8 @@
                             of agreement wiht the decision to add <persName ref="http://syriaca.org/person/2736">Peter Mongus</persName> 
                             to the dyptichs in <placeName ref="http://syriaca.org/place/2620">Alexandria</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2595"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2736"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2595" notAfter="0516"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2736" notAfter="0516"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -214,7 +214,7 @@
                             <persName ref="http://syriaca.org/person/2572">John</persName> and others in which he did not
                             anathematize the Council of Chalcedon.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2773" passive="http://syriaca.org/person/2572"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2773" passive="http://syriaca.org/person/2572" when="0511"/>
                             </listRelation>
                         </desc>
                     </event>

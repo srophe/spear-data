@@ -106,7 +106,7 @@
                             on the subject of the ordination and theology of 
                             <persName ref="http://syriaca.org/person/2686">John of Cappadocia</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2567"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2567" when="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -126,7 +126,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName>
                             about a trial of some presbyters.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2567" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2567" passive="http://syriaca.org/person/51" when="0518"/>
                             </listRelation>
                         </desc>
                     </event>

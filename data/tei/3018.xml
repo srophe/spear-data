@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2430">Dioscorus</persName> 
                             on the subject of receiving Chalcedonians who sought communion with non-Chalcedonians.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2430"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2430" when="0516"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -125,7 +125,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             indicating that he had received into communion <persName ref="http://syriaca.org/person/2527">Castor</persName>
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2430" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2430" passive="http://syriaca.org/person/51" when="0516"/>
                             </listRelation>
                         </desc>
                     </event>

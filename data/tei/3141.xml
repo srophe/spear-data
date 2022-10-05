@@ -105,7 +105,7 @@
                             <persName ref="http://syriaca.org/person/2480">Andrew</persName> 
                             on the subject of .
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2480"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2480" when="0537"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -124,7 +124,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> received a letter from 
                             <persName ref="http://syriaca.org/person/2480">Andrew</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2480" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2480" passive="http://syriaca.org/person/51" when="0537-07-31"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -376,7 +376,7 @@
                             <persName ref="http://syriaca.org/person/2675">John bar Aphthonia</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2480">Andrew</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2675" passive="http://syriaca.org/person/2480"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2675" passive="http://syriaca.org/person/2480" notAfter="0537"/>
                             </listRelation>
                         </desc>
                     </event>

@@ -107,7 +107,7 @@
                             <persName ref="http://syriaca.org/person/2771">Thomas of Dara</persName>
                             on the subject of receiving into communion those baptized in another confession.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/50 http://syriaca.org/person/2574 http://syriaca.org/person/2771"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/50 http://syriaca.org/person/2574 http://syriaca.org/person/2771" when="0527"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -129,7 +129,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName>
                             on the subject of receiving into communion those baptized in another confession.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/50 http://syriaca.org/person/2574 http://syriaca.org/person/2771" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/50 http://syriaca.org/person/2574 http://syriaca.org/person/2771" passive="http://syriaca.org/person/51" when="0527"/>
                             </listRelation>
                         </desc>
                     </event>
