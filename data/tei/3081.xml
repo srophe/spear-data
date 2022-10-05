@@ -324,8 +324,8 @@
                     <citedRange unit="p">123</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop.org/3081-21</idno>
+            <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3081-24</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/carrier-of-letter-to" active="http://syriaca.org/person/2419" passive="http://syriaca.org/person/3738">
                         <desc>
