@@ -537,8 +537,8 @@
                     <person>
                         <persName ref="http://syriaca.org/person/50"/>
                         <death notBefore="0529">
-                            <placeName ref="http://syriaca.org/place/10">Antioch</placeName>
                             <date notBefore="0529">529</date>
+                            <placeName ref="http://syriaca.org/place/10">Antioch</placeName>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/50">John</persName> was martyred in 
                                 <placeName ref="http://syriaca.org/place/10">Antioch</placeName>
