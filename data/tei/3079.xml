@@ -412,7 +412,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3079-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/petitioned" active="http://syriaca.org/person/2410" passive="http://syriaca.org/person/2411">
+                    <relation type="person" ref="http://syriaca.org/keyword/submitter-of-petition-to" active="http://syriaca.org/person/2410" passive="http://syriaca.org/person/2411">
                         <desc>
                             <persName ref="http://syriaca.org/person/2410">Julian</persName> 
                             made a legal petition to

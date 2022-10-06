@@ -324,7 +324,7 @@
                                 >Severus</persName> to allow <persName
                                 ref="http://syriaca.org/person/3064">Anonymous 3064</persName> to be
                             instituted as their bishop. <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/petitioned"
+                                <relation type="person" ref="http://syriaca.org/keyword/submitter-of-petition-to"
                                     active="http://syriaca.org/person/3062 http://syriaca.org/person/3063"
                                     passive="http://syriaca.org/person/51"/>
                                 <relation type="person"
