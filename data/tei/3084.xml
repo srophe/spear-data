@@ -259,7 +259,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/judged"
+                    <relation type="person" ref="http://syriaca.org/keyword/judge-of"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3097">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of

@@ -213,7 +213,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3058-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/judged"
+                    <relation type="person" ref="http://syriaca.org/keyword/judge-of"
                         active="http://syriaca.org/person/3078"
                         passive="http://syriaca.org/person/2576">
                         <desc><persName ref="http://syriaca.org/person/3078">Anonymi 3078</persName>
