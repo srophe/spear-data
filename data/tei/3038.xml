@@ -252,7 +252,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3038-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3046"
                         passive="http://syriaca.org/person/2547">
                         <desc><persName ref="http://syriaca.org/person/3046">Anonymi 3046</persName>
@@ -304,7 +304,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3038-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3050"
                         passive="http://syriaca.org/person/2547">
                         <desc><persName ref="http://syriaca.org/person/3050">Anonymi 3050</persName>
@@ -534,7 +534,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3038-26</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3051"
                         passive="http://syriaca.org/person/2549">
                         <desc><persName ref="http://syriaca.org/person/3051">Anonymi 3051</persName>
@@ -724,7 +724,7 @@
                 <idno type="URI">https://spear-prosop.org/3038-37</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/clergy http://syriaca.org/keyword/old-age http://syriaca.org/keyword/bishops http://syriaca.org/keyword/justice http://syriaca.org/keyword/authority http://syriaca.org/keyword/legal-charges-against">
+                        ana="http://syriaca.org/keyword/clergy http://syriaca.org/keyword/old-age http://syriaca.org/keyword/bishops http://syriaca.org/keyword/justice http://syriaca.org/keyword/authority http://syriaca.org/keyword/bringer-of-legal-charges-against">
                         <desc>
                             <persName ref="http://syriaca.org/person/3046">Anonymi 3046</persName>
                             and <persName ref="http://syriaca.org/person/3050">Anonymi

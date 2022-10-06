@@ -252,7 +252,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName>

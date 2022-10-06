@@ -243,7 +243,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3025-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3723"
                         passive="http://syriaca.org/person/2459">
                         <desc><persName ref="http://syriaca.org/person/3723"> The party of <persName
@@ -583,7 +583,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-41" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3025-41</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2460 http://syriaca.org/person/2458"
                         passive="http://syriaca.org/person/2497">
                         <desc><persName ref="http://syriaca.org/person/2460">Musonius</persName> and

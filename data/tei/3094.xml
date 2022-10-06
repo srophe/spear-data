@@ -270,7 +270,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3094-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3101"
                         passive="http://syriaca.org/person/2537">
                         <desc><persName ref="http://syriaca.org/person/3101">Anonymi 3101</persName>
@@ -288,7 +288,7 @@
                 <idno type="URI">https://spear-prosop.org/3094-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/keyword/bringer-of-legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -307,7 +307,7 @@
                 <idno type="URI">https://spear-prosop.org/3094-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/bringer-of-legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/bishops">
                         <desc> Though <persName ref="http://syriaca.org/person/3101">the people of
                                     <placeName ref="http://syriaca.org/place/2702"
                                     >Paltus</placeName></persName> had found <persName
