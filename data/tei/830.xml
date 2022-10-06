@@ -296,7 +296,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/casual-intimate-relationship-with" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had a casual intimate relationship.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/keyword/acquaintance-of" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> were acquainted.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443-444</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-646</citedRange></bibl>

@@ -489,12 +489,12 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/casual-intimate-relationship-with"
+                    <relation type="person" ref="http://syriaca.org/keyword/acquaintance-of"
                         mutual="http://syriaca.org/person/74 http://syriaca.org/person/3718">
                         <desc><persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> and <persName
                                 ref="http://syriaca.org/person/3718">the monk who stole</persName>
-                            had a casual intimate relationship.</desc>
+                            were acquainted.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

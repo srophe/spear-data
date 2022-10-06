@@ -275,7 +275,7 @@
                             <persName ref="http://syriaca.org/person/51">Severus</persName> who was in exile in 
                             <placeName ref="http://syriaca.org/place/715">Egypt</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/casual-intimate-relationship-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2503" notAfter="0520"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/acquaintance-of" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2503" notAfter="0520"/>
                             </listRelation>
                         </desc>
                     </event>
