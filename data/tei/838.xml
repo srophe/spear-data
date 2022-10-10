@@ -99,7 +99,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-3</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/http://syriaca.org/person/74" passive="http://syriaca.org/person/3771">
+               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3771">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemmorated
