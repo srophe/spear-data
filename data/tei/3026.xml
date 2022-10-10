@@ -264,11 +264,11 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/">
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/wealth http://syriaca.org/keyword/property">
                         <desc>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2511">Longinus</persName>
-                            .
+                            seeking illicity gain.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2460" passive="http://syriaca.org/person/2511"/>
                             </listRelation>
@@ -277,7 +277,7 @@
                 </listEvent>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>
-                    <citedRange unit="p">79</citedRange>
+                    <citedRange unit="p">25-26</citedRange>
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
