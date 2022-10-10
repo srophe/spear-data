@@ -605,7 +605,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3196"/>
-                        <socecStatus ana="http://syriaca.org/keyword/wealthy">
+                        <socecStatus ana="http://syriaca.org/keyword/wealth">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3196">Anonymous 3196</persName> 
                                 was wealthy.
