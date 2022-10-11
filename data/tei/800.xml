@@ -193,7 +193,7 @@
                 <idno type="URI">https://spear-prosop.org/800-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/exile http://syriaca.org/keyword/council-of-chacledon-451 http://syriaca.org/keyword/apostasy http://syriaca.org/keyword/bishops" notBefore="0451">
+                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/exile http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/apostasy http://syriaca.org/keyword/bishops" notBefore="0451">
                         <desc><date notBefore="0451" calendar="Gregorian">Sometime after
                                 451</date><persName ref="http://syriaca.org/person/1116"
                                 >Addai</persName>was deposed by those attempting to enforce the
