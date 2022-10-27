@@ -251,7 +251,7 @@
                         <residence>
                             <placeName ref="http://syriaca.org/place/586"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/3225"
-                                    >John</persName>resided in<placeName
+                                    >John</persName> resided in<placeName
                                     ref="http://syriaca.org/place/586">Constantinople</placeName>.
                             </note>
                         </residence>
@@ -271,7 +271,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/memory">
-                        <desc><persName ref="http://syriaca.org/person/3225">John</persName>moved
+                        <desc><persName ref="http://syriaca.org/person/3225">John</persName> moved
                                 to<placeName ref="http://syriaca.org/place/586"
                                 >Constantinople</placeName>because of a spiritual loss that
                             consistently brought him to tears. </desc>
@@ -325,11 +325,11 @@
                     <event
                         ana="http://syriaca.org/keyword/actors http://syriaca.org/keyword/clergy http://syriaca.org/keyword/liturgy">
                         <desc> Nine years previously, when<persName
-                                ref="http://syriaca.org/person/3225">John</persName>was ministering
+                                ref="http://syriaca.org/person/3225">John</persName> was ministering
                             in <placeName ref="http://syriaca.org/place/8">Amida</placeName>, a
                                 <persName ref="http://syriaca.org/person/2121">handsome
-                                man</persName>and<persName ref="http://syriaca.org/person/3021">a
-                                beautiful woman</persName>often would put on the garb of a mime
+                                man</persName> and<persName ref="http://syriaca.org/person/3021">a
+                                beautiful woman</persName> often would put on the garb of a mime
                             actor, that they might entertain the public. </desc>
                     </event>
                 </listEvent>
@@ -367,14 +367,14 @@
                     <event
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/passions http://syriaca.org/keyword/sexuality http://syriaca.org/keyword/sin http://syriaca.org/keyword/marriage http://syriaca.org/keyword/shame http://syriaca.org/keyword/misogyny">
                         <desc> Because<persName ref="http://syriaca.org/person/3021">the
-                                woman</persName>was very beautiful, many of the men of <placeName
+                                woman</persName> was very beautiful, many of the men of <placeName
                                 ref="http://syriaca.org/place/8">Amida</placeName>sought to sleep
                             with her. When they could not prevail against her, they petitioned the
                             governor of<placeName ref="http://syriaca.org/place/8"
                             >Amida</placeName>to arrest her. <persName
-                                ref="http://syriaca.org/person/2121">The young man</persName>cried
+                                ref="http://syriaca.org/person/2121">The young man</persName> cried
                             out in a loud voice that<persName ref="http://syriaca.org/person/3021"
-                                >the woman</persName>was his wife. </desc>
+                                >the woman</persName> was his wife. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -409,9 +409,9 @@
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/repentance http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/pearls http://syriaca.org/keyword/sexuality http://syriaca.org/keyword/sin http://syriaca.org/keyword/prayer http://syriaca.org/keyword/tears">
                         <desc><persName ref="http://syriaca.org/person/3202">Cosmo</persName>,seeing
                             that <persName ref="http://syriaca.org/person/3021">the
-                            woman</persName>was beautiful like a pearl, took her away from the
+                            woman</persName> was beautiful like a pearl, took her away from the
                             governor's men. Weeping, she asked<persName ref="http://syriaca.org/person/3202"
-                                >Cosmo</persName>to pray for her. </desc>
+                                >Cosmo</persName> to pray for her. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -429,15 +429,15 @@
                     <event
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/repentance http://syriaca.org/keyword/virginity http://syriaca.org/keyword/marriage http://syriaca.org/keyword/sin http://syriaca.org/keyword/oaths http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions">
                         <desc><persName ref="http://syriaca.org/person/3225"
-                                >John</persName>followed<persName
-                                ref="http://syriaca.org/person/2121">the man</persName>and<persName
+                                >John</persName> followed<persName
+                                ref="http://syriaca.org/person/2121">the man</persName> and<persName
                                 ref="http://syriaca.org/person/3021">woman</persName>, hoping to
                             find out their identity. When he found them<persName
-                                ref="http://syriaca.org/person/3225">John</persName>took an oath to
+                                ref="http://syriaca.org/person/3225">John</persName> took an oath to
                             protect the secret of their marriage and holiness. <persName
-                                ref="http://syriaca.org/person/3021">The woman</persName>spoke
+                                ref="http://syriaca.org/person/3021">The woman</persName> spoke
                                 to<persName ref="http://syriaca.org/person/3225"
-                            >John</persName>about the sin and evil of the world, bringing him to
+                            >John</persName> about the sin and evil of the world, bringing him to
                             teras and repentance. </desc>
                     </event>
                 </listEvent>
@@ -532,13 +532,13 @@
                     <event
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/light http://syriaca.org/keyword/visions http://syriaca.org/keyword/oaths http://syriaca.org/keyword/slaves http://syriaca.org/keyword/horses">
                         <desc> When<persName ref="http://syriaca.org/person/2121"
-                                >Theophilus</persName>was 15 and tending horses, he saw an
+                                >Theophilus</persName> was 15 and tending horses, he saw an
                             incredible light coming out of the stable. Inside, he saw <persName
                                 ref="http://syriaca.org/person/3247">an old man</persName> flinging
                             himself into the dung, so that the light was overcome with darkness.
                                 <persName ref="http://syriaca.org/person/2121"
-                                >Theophilus</persName>pressed<persName
-                                ref="http://syriaca.org/person/3247">the old man</persName>about the
+                                >Theophilus</persName> pressed<persName
+                                ref="http://syriaca.org/person/3247">the old man</persName> about the
                             light. </desc>
                     </event>
                 </listEvent>
@@ -575,7 +575,7 @@
                         <birth>
                             <placeName ref="http://syriaca.org/place/641">Rome</placeName>
                             <note type="desc">
-                                <persName ref="http://syriaca.org/person/3247">Procopius</persName>was from
+                                <persName ref="http://syriaca.org/person/3247">Procopius</persName> was from
                                 <placeName ref="http://syriaca.org/place/641">Rome</placeName>. </note>
                         </birth>
                     </person>
@@ -595,10 +595,10 @@
                     <event
                         ana="http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/oracles http://syriaca.org/keyword/oaths http://syriaca.org/keyword/marriage http://syriaca.org/keyword/chastity http://syriaca.org/keyword/virginity http://syriaca.org/keyword/religion http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing">
                         <desc><persName ref="http://syriaca.org/person/3247"
-                            >Procopius</persName>prophesied the death of<persName
+                            >Procopius</persName> prophesied the death of<persName
                                 ref="http://syriaca.org/person/2121"
-                                >Theophilus's</persName>parents. He and<persName
-                                ref="http://syriaca.org/person/3021">Maria</persName>committed
+                                >Theophilus's</persName> parents. He and<persName
+                                ref="http://syriaca.org/person/3021">Maria</persName> committed
                             themselves to the teaching of <persName ref="http://syriaca.org/person/3247">Procopius</persName>, refusing
                             to consummate their marriage and concealling their secret. </desc>
                     </event>
@@ -618,9 +618,9 @@
                     <event
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/oaths http://syriaca.org/keyword/shame http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/blame">
                         <desc><persName ref="http://syriaca.org/person/2121"
-                                >Theophilus</persName>and<persName
-                                ref="http://syriaca.org/person/3021">Maria</persName>made<persName
-                                ref="http://syriaca.org/person/3225">John</persName>promise to
+                                >Theophilus</persName> and<persName
+                                ref="http://syriaca.org/person/3021">Maria</persName> made<persName
+                                ref="http://syriaca.org/person/3225">John</persName> promise to
                             conceal their secret, or else they would leave <placeName
                                 ref="http://syriaca.org/place/8">Amida</placeName>. </desc>
                     </event>
@@ -639,10 +639,10 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/travel">
                         <desc> After one year,<persName ref="http://syriaca.org/person/2121"
-                                >Theophilus</persName>and<persName
-                                ref="http://syriaca.org/person/3021">Maria</persName>left<placeName
+                                >Theophilus</persName> and<persName
+                                ref="http://syriaca.org/person/3021">Maria</persName> left<placeName
                                 ref="http://syriaca.org/place/8">Amida</placeName>, leaving<persName
-                                ref="http://syriaca.org/person/3225">John</persName>behind. </desc>
+                                ref="http://syriaca.org/person/3225">John</persName> behind. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -676,10 +676,10 @@
                     <event
                         ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/blessing http://syriaca.org/keyword/love">
                         <desc><persName ref="http://syriaca.org/person/74"
-                                >John</persName>visited<persName
+                                >John</persName> visited<persName
                                 ref="http://syriaca.org/person/2121"
-                                >Theophilus</persName>and<persName
-                                ref="http://syriaca.org/person/3021">Maria</persName>in<placeName
+                                >Theophilus</persName> and<persName
+                                ref="http://syriaca.org/person/3021">Maria</persName> in<placeName
                                 ref="http://syriaca.org/place/715">Egypt</placeName>outside
                                 of<placeName ref="http://syriaca.org/place/200"
                             >Thella</placeName>and received a blessing from them. </desc>

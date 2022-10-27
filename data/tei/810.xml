@@ -303,7 +303,7 @@
                     <event ana="http://syriaca.org/keyword/death">
                         <desc>
                                 The<persName ref="http://syriaca.org/person/1932">blessed
-                                man</persName>dies. </desc>
+                                man</persName> dies. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">

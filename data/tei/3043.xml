@@ -287,10 +287,10 @@
                         ana="http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/economics http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/liturgy" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
-                                >Severus</persName>wrote a letter to<persName
+                                >Severus</persName> wrote a letter to<persName
                                 ref="http://syriaca.org/person/2553">Antoninus bishop of<placeName
                                     ref="http://syriaca.org/place/3055"
-                                >Berrhoea</placeName></persName>about forms of worship, Church
+                                >Berrhoea</placeName></persName> about forms of worship, Church
                             property, and treatment of the Jews. </desc>
                     </event>
                 </listEvent>
@@ -305,9 +305,9 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/polemics http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/liturgy">
-                        <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName>had
+                        <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName> had
                                 accused<persName ref="http://syriaca.org/person/51"
-                                >Severus</persName>of staying silent after administering the
+                                >Severus</persName> of staying silent after administering the
                             Eucharist. </desc>
                     </event>
                 </listEvent>
@@ -345,9 +345,9 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/wealth http://syriaca.org/keyword/socioeconomic-status http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
-                        <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName>had
+                        <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName> had
                                 sent<persName ref="http://syriaca.org/person/2557"
-                                >Mark</persName>to<placeName ref="http://syriaca.org/place/10"
+                                >Mark</persName> to<placeName ref="http://syriaca.org/place/10"
                                 >Antioch</placeName>in order to give presents to the Christians
                             there. </desc>
                     </event>
@@ -364,8 +364,8 @@
                     <event
                         ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/economics">
                         <desc><persName ref="http://syriaca.org/person/51"
-                                >Severus</persName>assured<persName
-                                ref="http://syriaca.org/person/2553">Antoninus</persName>that he
+                                >Severus</persName> assured<persName
+                                ref="http://syriaca.org/person/2553">Antoninus</persName> that he
                             would do everything in his power to ensure that the estates
                                 near<placeName ref="http://syriaca.org/place/2635">Beth
                                 Remsha</placeName>would remain in the Church's possession. </desc>
@@ -382,9 +382,9 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/bishops http://syriaca.org/keyword/wisdom">
-                        <desc><persName ref="http://syriaca.org/person/51">Severus</persName>again
+                        <desc><persName ref="http://syriaca.org/person/51">Severus</persName> again
                                 counselled<persName ref="http://syriaca.org/person/2553"
-                                >Antoninus</persName>to show restraint with the Jews. </desc>
+                                >Antoninus</persName> to show restraint with the Jews. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">

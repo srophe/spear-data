@@ -375,7 +375,7 @@
                     <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/incarnation http://syriaca.org/keyword/repentance" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent 
-                            <persName ref="http://syriaca.org/person/2649">Eusebius</persName>and 
+                            <persName ref="http://syriaca.org/person/2649">Eusebius</persName> and 
                             <persName ref="http://syriaca.org/person/2433">Victor</persName> to urge
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> to repent 
                             and abandon his Eutychian views of the incarnation.
@@ -398,7 +398,7 @@
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             was bishop over
-                            <persName ref="http://syriaca.org/person/2649">Eusebius</persName>and 
+                            <persName ref="http://syriaca.org/person/2649">Eusebius</persName> and 
                             <persName ref="http://syriaca.org/person/2433">Victor</persName>.
                         </desc>
                     </relation>

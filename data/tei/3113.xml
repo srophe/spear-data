@@ -124,7 +124,7 @@
                         <desc>
                             <persName ref="http://syriaca.org/person/2569">Proclus</persName> and 
                             <persName ref="http://syriaca.org/person/2650">Eusebuna</persName> wrote a letter to 
-                            <persName ref="http://syriaca.org/person/51">Severus</persName>on the subject of how to readmit the lapsed cleric
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> on the subject of how to readmit the lapsed cleric
                             <persName ref="http://syriaca.org/person/2632">Cyrus</persName>.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2569 http://syriaca.org/person/2650" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0537"/>

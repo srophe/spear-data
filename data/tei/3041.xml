@@ -370,10 +370,10 @@
                         ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/polemics" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>,<persName ref="http://syriaca.org/person/51"
-                                >Severus</persName>wrote to<persName
+                                >Severus</persName> wrote to<persName
                                 ref="http://syriaca.org/person/2553">Antoninus bishop of<placeName
                                     ref="http://syriaca.org/place/3055"
-                                >Berrhoea</placeName></persName>about the treatment of Jews. </desc>
+                                >Berrhoea</placeName></persName> about the treatment of Jews. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -388,9 +388,9 @@
                     <event
                         ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/polemics http://syriaca.org/keyword/letters http://syriaca.org/keyword/generals http://syriaca.org/keyword/wisdom">
                         <desc> In his letters to<persName ref="http://syriaca.org/person/51"
-                                >Severus</persName>and his uncle <persName
+                                >Severus</persName> and his uncle <persName
                                 ref="http://syriaca.org/person/2556">Hypatius</persName>, <persName
-                                ref="http://syriaca.org/person/2553">Antoninus</persName>showed
+                                ref="http://syriaca.org/person/2553">Antoninus</persName> showed
                             wisdom in his handling the presumptuous deeds of the Jews, who are
                             beyond all forgiveness. </desc>
                     </event>

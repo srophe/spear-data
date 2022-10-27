@@ -211,7 +211,7 @@
                         <persName ref="http://syriaca.org/person/3260"/>
                         <occupation ana="http://syriaca.org/keyword/civil-servants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3260"
-                                    >Šnq</persName>held the office of the satrapy in the districts
+                                    >Šnq</persName> held the office of the satrapy in the districts
                                 of <placeName ref="http://syriaca.org/place/486">Syria</placeName>
                                 and <placeName ref="http://syriaca.org/place/576"
                                     >Armenia</placeName>. </note>
@@ -253,7 +253,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/wealth http://syriaca.org/keyword/inheritance">
-                        <desc><persName ref="http://syriaca.org/person/3260">Šnq</persName>died,
+                        <desc><persName ref="http://syriaca.org/person/3260">Šnq</persName> died,
                             giving his position and wealth to his son, <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName>. </desc>
                     </event>
@@ -273,7 +273,7 @@
                     <event
                         ana="http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/judgment http://syriaca.org/keyword/death http://syriaca.org/keyword/wealth http://syriaca.org/keyword/worship http://syriaca.org/keyword/conversion http://syriaca.org/keyword/hell">
                         <desc><persName ref="http://syriaca.org/person/2126"
-                            >Thomas</persName>decided to sell his possessions and forfeit his
+                            >Thomas</persName> decided to sell his possessions and forfeit his
                             position, giving his life to God and the poor. </desc>
                     </event>
                 </listEvent>
@@ -307,7 +307,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/wealth http://syriaca.org/keyword/property http://syriaca.org/keyword/inheritance http://syriaca.org/keyword/civil-servants">
-                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName>went
+                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> went
                             before the king, and released all of his wealth and property. </desc>
                     </event>
                 </listEvent>
@@ -345,8 +345,8 @@
                     <event
                         ana="http://syriaca.org/keyword/poverty http://syriaca.org/keyword/justice http://syriaca.org/keyword/charity http://syriaca.org/keyword/illness http://syriaca.org/keyword/widows">
                         <desc> Unlike <persName ref="http://syriaca.org/person/3260"
-                            >Šnq</persName>who was cruel and rapacious, <persName
-                                ref="http://syriaca.org/person/2126">Thomas</persName>devoted his
+                            >Šnq</persName> who was cruel and rapacious, <persName
+                                ref="http://syriaca.org/person/2126">Thomas</persName> devoted his
                             life to the poor, sick, widowed, and orphaned. </desc>
                     </event>
                 </listEvent>
@@ -364,8 +364,8 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/buildings">
-                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName>and
-                            his <persName ref="http://syriaca.org/person/3233">wife</persName>built
+                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> and
+                            his <persName ref="http://syriaca.org/person/3233">wife</persName> built
                             a monastery. </desc>
                     </event>
                 </listEvent>
@@ -386,11 +386,11 @@
                         <desc> Brothers and sisters came from <placeName
                                 ref="http://syriaca.org/place/2763">Cappadocia</placeName>to educate
                                 <persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName>and<persName ref="http://syriaca.org/person/3233"
-                                >his wife</persName>in religion. Many followed <persName
-                                ref="http://syriaca.org/person/2126">Thomas</persName>in selling
+                                >Thomas</persName> and<persName ref="http://syriaca.org/person/3233"
+                                >his wife</persName> in religion. Many followed <persName
+                                ref="http://syriaca.org/person/2126">Thomas</persName> in selling
                             their possessions. <persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName>devoted himself to an ascetic life. </desc>
+                                >Thomas</persName> devoted himself to an ascetic life. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -407,7 +407,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/fathers http://syriaca.org/keyword/books http://syriaca.org/keyword/bishops http://syriaca.org/keyword/education http://syriaca.org/keyword/spices">
-                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName>bought
+                        <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> bought
                             books from <placeName ref="http://syriaca.org/place/572"
                                 >Alexandria</placeName>and spices from <placeName
                                 ref="http://syriaca.org/place/78">Edessa</placeName>. </desc>
@@ -428,7 +428,7 @@
                     <event
                         ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/council-of-chalcedon-451">
                         <desc> After 12 years, persecution against <persName
-                                ref="http://syriaca.org/person/2126">Thomas</persName>and the
+                                ref="http://syriaca.org/person/2126">Thomas</persName> and the
                             brothers came from<placeName ref="http://syriaca.org/place/576"
                                 >Armenia</placeName>, instigated by <persName
                                 ref="http://syriaca.org/person/2274">Ephraim</persName>. </desc>
@@ -466,7 +466,7 @@
                         <persName ref="http://syriaca.org/person/2274"/>
                         <occupation ana="http://syriaca.org/keyword/patriarchates">
                             <note type="desc"><persName ref="http://syriaca.org/person/2274"
-                                    >Ephraim</persName>was patriarch of<placeName
+                                    >Ephraim</persName> was patriarch of<placeName
                                     ref="http://syriaca.org/place/10">Antioch</placeName>. </note>
                         </occupation>
                     </person>
@@ -503,7 +503,7 @@
                         <persName ref="http://syriaca.org/person/3226"/>
                         <occupation ana="http://syriaca.org/keyword/civil-servants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3226"
-                                    >John</persName>was the satrap of <placeName
+                                    >John</persName> was the satrap of <placeName
                                     ref="http://syriaca.org/place/486">Syria</placeName>and
                                     <placeName ref="http://syriaca.org/place/576"
                                     >Armenia</placeName>. </note>
@@ -565,7 +565,7 @@
                         <desc> Many of the persecuted convent leaders and bishops flocked to
                                 <persName ref="http://syriaca.org/person/2126">Thomas</persName>,
                                 so<persName ref="http://syriaca.org/person/3226"
-                            >John</persName>targeted him in the persecution. </desc>
+                            >John</persName> targeted him in the persecution. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -590,8 +590,8 @@
                                 >Chalcedon</placeName>or they would have to leave<placeName
                                 ref="http://syriaca.org/place/576">Armenia</placeName>. <persName
                                 ref="http://syriaca.org/person/3226"
-                                >John</persName>commanded<persName
-                                ref="http://syriaca.org/person/2126">Thomas</persName>to leave as
+                                >John</persName> commanded<persName
+                                ref="http://syriaca.org/person/2126">Thomas</persName> to leave as
                             well. </desc>
                     </event>
                 </listEvent>
@@ -611,12 +611,12 @@
                         ana="http://syriaca.org/keyword/buildings http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism">
                         <desc> Because of the persecution of<persName
                                 ref="http://syriaca.org/person/3226">John</persName>, <persName
-                                ref="http://syriaca.org/person/2126">Thomas</persName>and his
+                                ref="http://syriaca.org/person/2126">Thomas</persName> and his
                             followers departed from<placeName ref="http://syriaca.org/place/576"
                                 >Armenia</placeName>. Travelling to <placeName
                                 ref="http://syriaca.org/place/2769">the district of
                                 Claudias</placeName>, <persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName>build two monasteries on a mountain overlooking
+                                >Thomas</persName> build two monasteries on a mountain overlooking
                             the Euphrates. </desc>
                     </event>
                 </listEvent>
@@ -651,8 +651,8 @@
                     <event
                         ana="http://syriaca.org/keyword/wine http://syriaca.org/keyword/bread http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families">
                         <desc><persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName>and<persName ref="http://syriaca.org/person/3233"
-                                >Maria</persName>and their sons committed themselves to a diet of
+                                >Thomas</persName> and<persName ref="http://syriaca.org/person/3233"
+                                >Maria</persName> and their sons committed themselves to a diet of
                             only fruit and some grain, tasting bread and wine only when absolutely
                             necessary. </desc>
                     </event>

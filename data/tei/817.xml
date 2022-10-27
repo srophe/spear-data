@@ -234,7 +234,7 @@
                         <persName ref="http://syriaca.org/person/784"/>
                         <occupation ana="http://syriaca.org/keyword/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/784"
-                                    >Theodosius</persName>was archbishop of Alexandria. </note>
+                                    >Theodosius</persName> was archbishop of Alexandria. </note>
                         </occupation>
                     </person>
                 </listPerson>
@@ -347,7 +347,7 @@
                     <event
                         ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/illness http://syriaca.org/keyword/ordination http://syriaca.org/keyword/physicians">
                         <desc> Convicted,<persName ref="http://syriaca.org/person/1813"
-                                >John</persName>resolved to perform ordinations, journeying into
+                                >John</persName> resolved to perform ordinations, journeying into
                                 <placeName ref="http://syriaca.org/place/586">the
                             city</placeName>under the pretext of illnesses and seeing physicians.
                             His cause was made known to<persName ref="http://syriaca.org/person/779"
@@ -369,11 +369,11 @@
                     <event
                         ana="http://syriaca.org/keyword/clergy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/illness http://syriaca.org/keyword/altars http://syriaca.org/keyword/exile">
                         <desc><persName ref="http://syriaca.org/person/779"
-                                >Theodora</persName>allowed<persName
-                                ref="http://syriaca.org/person/1813">John</persName>to stay in
+                                >Theodora</persName> allowed<persName
+                                ref="http://syriaca.org/person/1813">John</persName> to stay in
                                 <placeName ref="http://syriaca.org/place/2739">a great
                                 mansion</placeName>. Here <persName
-                                ref="http://syriaca.org/person/1813">John</persName>set up altars to
+                                ref="http://syriaca.org/person/1813">John</persName> set up altars to
                             encourage exiled Christians. </desc>
                     </event>
                 </listEvent>
@@ -394,8 +394,8 @@
                         <desc> Jelous of the zealous activity of<persName
                                 ref="http://syriaca.org/person/1813">John</persName>, bishops and
                             priests began to petition<persName ref="http://syriaca.org/person/784"
-                                >Theodosius</persName>to censure. The <persName
-                                ref="http://syriaca.org/person/784">archbishop</persName>refused.
+                                >Theodosius</persName> to censure. The <persName
+                                ref="http://syriaca.org/person/784">archbishop</persName> refused.
                         </desc>
                     </event>
                 </listEvent>
@@ -414,9 +414,9 @@
                     <event
                         ana="http://syriaca.org/keyword/wisdom http://syriaca.org/keyword/evil http://syriaca.org/keyword/persecution http://syriaca.org/keyword/bishops">
                         <desc><persName ref="http://syriaca.org/person/1813"
-                            >John</persName>exercised judgment when deciding who he would ordain.
+                            >John</persName> exercised judgment when deciding who he would ordain.
                             The jealous bishops, meanwhile, plotted to reveal <persName
-                                ref="http://syriaca.org/person/1813">John's</persName>actions
+                                ref="http://syriaca.org/person/1813">John's</persName> actions
                                 to<persName ref="http://syriaca.org/person/779">the
                             queen</persName>. </desc>
                     </event>
@@ -436,14 +436,14 @@
                     <event
                         ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/ordination http://syriaca.org/keyword/clergy http://syriaca.org/keyword/justice http://syriaca.org/keyword/repentance http://syriaca.org/keyword/honour http://syriaca.org/keyword/mercy http://syriaca.org/keyword/suffering http://syriaca.org/keyword/illness">
                         <desc><persName ref="http://syriaca.org/person/1813"
-                                >John</persName>confronted<persName
-                                ref="http://syriaca.org/person/779">Theodora</persName>about the
+                                >John</persName> confronted<persName
+                                ref="http://syriaca.org/person/779">Theodora</persName> about the
                             corrupt bishops and the persecution of Christians. <persName
                                 ref="http://syriaca.org/person/779">Theodora</persName>, angry,
                             sought to punish the jealous bishops, but relented after <persName
-                                ref="http://syriaca.org/person/1813">John</persName>interceded on
+                                ref="http://syriaca.org/person/1813">John</persName> interceded on
                             their behalf. She commanded<persName
-                                ref="http://syriaca.org/person/1813">John</persName>to cease his
+                                ref="http://syriaca.org/person/1813">John</persName> to cease his
                             ordinations, something he was glad to do due to a growing illness.
                         </desc>
                     </event>
@@ -463,7 +463,7 @@
                     <event
                         ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/ordination http://syriaca.org/keyword/persecution">
                         <desc>
-                            <persName ref="http://syriaca.org/person/1813">John</persName>continued to ordain believers, travelling to 
+                            <persName ref="http://syriaca.org/person/1813">John</persName> continued to ordain believers, travelling to 
                             <placeName ref="http://syriaca.org/place/2811">Lydia in <placeName ref="http://syriaca.org/place/2746">Asia</placeName></placeName>,
                             <placeName ref="http://syriaca.org/place/196">Tarsus in <placeName ref="http://syriaca.org/place/55">Cilicia</placeName></placeName>,
                             and all of <placeName ref="http://syriaca.org/place/486">Syria</placeName> before returning to
@@ -503,12 +503,12 @@
                     <event
                         ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/letters http://syriaca.org/keyword/ordination http://syriaca.org/keyword/justice http://syriaca.org/keyword/love http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy">
                         <desc><persName ref="http://syriaca.org/person/2274"
-                            >Ephraim</persName>appealed to the king and queen, revealing that
-                                <persName ref="http://syriaca.org/person/1813">John</persName>was
+                            >Ephraim</persName> appealed to the king and queen, revealing that
+                                <persName ref="http://syriaca.org/person/1813">John</persName> was
                             causing division by ordaining priests around the empire.<persName
                                 ref="http://syriaca.org/person/779">Theodora</persName>, convinced
                                 that<persName ref="http://syriaca.org/person/1813"
-                            >John</persName>had been laying sick in<placeName
+                            >John</persName> had been laying sick in<placeName
                                 ref="http://syriaca.org/place/2739">the palace</placeName>,
                             dismissed the charges. </desc>
                     </event>

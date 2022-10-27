@@ -171,11 +171,11 @@
                         ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/poverty http://syriaca.org/keyword/vespers http://syriaca.org/keyword/prayer" notBefore="0530" notAfter="0536">
                         <desc><date notBefore="0530" notAfter="0536" calendar="Gregorian">Sometime
                                 between 530 and 536, in the month of November</date>,<persName
-                                ref="http://syriaca.org/person/1862">a stranger</persName>came to
+                                ref="http://syriaca.org/person/1862">a stranger</persName> came to
                                 the<placeName ref="http://syriaca.org/place/399">convent outside
                                     of<placeName ref="http://syriaca.org/place/8"
                                 >Amida</placeName></placeName>. Dirty and worn out,<persName
-                                ref="http://syriaca.org/person/1862">he</persName>stood at vespers
+                                ref="http://syriaca.org/person/1862">he</persName> stood at vespers
                             and at table without speaking. </desc>
                     </event>
                 </listEvent>
@@ -231,10 +231,10 @@
                         ana="http://syriaca.org/keyword/sleep http://syriaca.org/keyword/humility http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions">
                         <desc> While in <placeName ref="http://syriaca.org/place/399">the
                                 convent</placeName><persName ref="http://syriaca.org/person/1862"
-                                >the man</persName>refused to sleep during the night while others
+                                >the man</persName> refused to sleep during the night while others
                             were awake, and during service he would lie on the floor crying,
                                 leading<persName ref="http://syriaca.org/person/3183">the
-                                archimandrite</persName>question him. </desc>
+                                archimandrite</persName> question him. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -268,8 +268,8 @@
                     <event
                         ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/vespers">
                         <desc><persName ref="http://syriaca.org/person/3183">The
-                                archimandrite</persName>approached<persName
-                                ref="http://syriaca.org/person/1862">the man</persName>about his
+                                archimandrite</persName> approached<persName
+                                ref="http://syriaca.org/person/1862">the man</persName> about his
                             actions. Attending vespers, he began to cry
                             because of his humility and sinfulness before God. </desc>
                     </event>
@@ -290,7 +290,7 @@
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/emotions">
                         <desc> Speaking with<persName ref="http://syriaca.org/person/3183">the
                                 archimandrite</persName>,<persName
-                                ref="http://syriaca.org/person/1862">the man</persName>decided to
+                                ref="http://syriaca.org/person/1862">the man</persName> decided to
                             stay in<placeName ref="http://syriaca.org/place/399">the
                                 convent</placeName>for the winter. He continued in his
                             silence and weeping, garnering the appreciation of the brothers, who
@@ -312,7 +312,7 @@
                     <event
                         ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/memory http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/humility http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/prophecy">
                         <desc> In his tears and sighs,<persName ref="http://syriaca.org/person/1862"
-                                >the blessed man</persName>prophecied that he would die in three
+                                >the blessed man</persName> prophecied that he would die in three
                             days. While on his deathbed, he shared with the
                             brothers that he had been thirty-nine years since he had taken his
                             monastic vows, asking for their prayers and blessings. </desc>
@@ -333,14 +333,14 @@
                     <event
                         ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/sleep">
                         <desc> Close to death,<persName ref="http://syriaca.org/person/1862">the
-                                blessed man</persName>went into the vestry to pray. After a
+                                blessed man</persName> went into the vestry to pray. After a
                                 while,<persName ref="http://syriaca.org/person/3183">the
-                                archimandrite</persName>entered to find<persName
-                                ref="http://syriaca.org/person/1862">the man</persName>praying on
+                                archimandrite</persName> entered to find<persName
+                                ref="http://syriaca.org/person/1862">the man</persName> praying on
                             his mat, as if he was asleep. As <persName
                                 ref="http://syriaca.org/person/3183"> the
-                                Archimandrite</persName>spoke,<persName
-                                ref="http://syriaca.org/person/1862">the man</persName>gave up his
+                                Archimandrite</persName> spoke,<persName
+                                ref="http://syriaca.org/person/1862">the man</persName> gave up his
                             soul to God. </desc>
                     </event>
                 </listEvent>

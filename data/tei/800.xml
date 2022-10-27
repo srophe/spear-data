@@ -153,7 +153,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/1116"/>
                         <occupation ana="http://syriaca.org/keyword/bishops">
-                            <note type="desc"><persName ref="http://syriaca.org/person/1116">Addai</persName>was
+                            <note type="desc"><persName ref="http://syriaca.org/person/1116">Addai</persName> was
                                 chorepisocpus in a monastery in a village called <placeName ref="http://syriaca.org/place/2776">Fardaisa</placeName>, at the
                                 approach to the Armenian frontier in<placeName
                                     ref="http://syriaca.org/place/2758">the district called
@@ -176,7 +176,7 @@
                     <event
                         ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/bishops http://syriaca.org/keyword/sanctity http://syriaca.org/keyword/laity">
                         <desc><persName ref="http://syriaca.org/person/1116"
-                            >Addai</persName>exercised his pastoral office by exhorting all to love
+                            >Addai</persName> exercised his pastoral office by exhorting all to love
                             the poor and repent from sin. </desc>
                     </event>
                 </listEvent>
@@ -196,7 +196,7 @@
                         ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/exile http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/apostasy http://syriaca.org/keyword/bishops" notBefore="0451">
                         <desc><date notBefore="0451" calendar="Gregorian">Sometime after
                                 451</date><persName ref="http://syriaca.org/person/1116"
-                                >Addai</persName>was deposed by those attempting to enforce the
+                                >Addai</persName> was deposed by those attempting to enforce the
                             heresy of the Council of <placeName ref="http://syriaca.org/place/622"
                                 >Chalcedon</placeName>. He exhorted the
                             brothers to remember the poor, and retreated to his exile in the
@@ -222,13 +222,13 @@
                             when the monastery at <placeName ref="http://syriaca.org/place/2776"
                                 >Fardaisa</placeName>was brought to indigence, the brothers
                             approached <persName ref="http://syriaca.org/person/1116"
-                                >Addai</persName>in his exile. To recover financially, they began
+                                >Addai</persName> in his exile. To recover financially, they began
                             planting vineyards throughout the mountains east of <placeName
                                 ref="http://syriaca.org/place/2758">Anzetene</placeName>. Merchants
                             from <placeName ref="http://syriaca.org/place/2763">Cappadocia</placeName>, who would go as far <placeName
                                 ref="http://syriaca.org/place/486">Syria</placeName>to buy wine.
                             Selling wine allowed <persName ref="http://syriaca.org/person/1116"
-                                >Addai</persName>to begin feeding the poor again. </desc>
+                                >Addai</persName> to begin feeding the poor again. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -246,16 +246,16 @@
                     <event
                         ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/wine http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing">
                         <desc> Though <persName ref="http://syriaca.org/person/1116"
-                            >Addai</persName>remained reclusive, <persName
-                                ref="http://syriaca.org/person/74">John</persName>and one of the
+                            >Addai</persName> remained reclusive, <persName
+                                ref="http://syriaca.org/person/74">John</persName> and one of the
                             brothers discovered where he would be. As the men approached, <persName
-                                ref="http://syriaca.org/person/1116">Addai</persName>fled. <persName
-                                ref="http://syriaca.org/person/74">John</persName>returned to the
+                                ref="http://syriaca.org/person/1116">Addai</persName> fled. <persName
+                                ref="http://syriaca.org/person/74">John</persName> returned to the
                             monastery to rest. They met <persName
-                                ref="http://syriaca.org/person/1116">Addai</persName>the next day.
+                                ref="http://syriaca.org/person/1116">Addai</persName> the next day.
                             Perceiving that <persName ref="http://syriaca.org/person/1116"
-                                >Addai</persName>wanted his privacy, <persName
-                                ref="http://syriaca.org/person/74">John</persName>stopped pestering
+                                >Addai</persName> wanted his privacy, <persName
+                                ref="http://syriaca.org/person/74">John</persName> stopped pestering
                             him, but simply asked for a blessing and a prayer. </desc>
                     </event>
                 </listEvent>
@@ -295,7 +295,7 @@
                     <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/asceticism">
                         <desc>
                             <persName ref="http://syriaca.org/person/1116"
-                                >Addai</persName>lived as a recluse in the mountains for
+                                >Addai</persName> lived as a recluse in the mountains for
                             twenty-five years before dying.
                         </desc>
                     </event>
