@@ -177,7 +177,7 @@
                     <event
                         ana="http://syriaca.org/keyword/poverty http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/food http://syriaca.org/keyword/dress">
                         <desc> The <placeName ref="http://syriaca.org/place/2736"
-                                >Convent</placeName>treated all men kindly, zealously feeding,
+                                >Convent</placeName> treated all men kindly, zealously feeding,
                             washing, and providing for the poor. </desc>
                     </event>
                 </listEvent>
@@ -277,7 +277,7 @@
                         ana="http://syriaca.org/keyword/sin http://syriaca.org/keyword/prayer http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/sleep http://syriaca.org/keyword/food http://syriaca.org/keyword/wine">
                         <desc><persName ref="http://syriaca.org/person/1988">The old
                             man</persName> continuously asked the archimandrite of <placeName
-                                ref="http://syriaca.org/place/2736">the Amida convent</placeName>for
+                                ref="http://syriaca.org/place/2736">the Amida convent</placeName> for
                             a dismissal. Curious, <persName ref="http://syriaca.org/person/74"
                                 >John</persName> asks the man about his eating, sleeping, and prayer
                             habits. <persName ref="http://syriaca.org/person/1988">He</persName> eats

@@ -273,7 +273,7 @@
                         ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/memory">
                         <desc><persName ref="http://syriaca.org/person/3225">John</persName> moved
                                 to<placeName ref="http://syriaca.org/place/586"
-                                >Constantinople</placeName>because of a spiritual loss that
+                                >Constantinople</placeName> because of a spiritual loss that
                             consistently brought him to tears. </desc>
                     </event>
                 </listEvent>
@@ -368,10 +368,10 @@
                         ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/passions http://syriaca.org/keyword/sexuality http://syriaca.org/keyword/sin http://syriaca.org/keyword/marriage http://syriaca.org/keyword/shame http://syriaca.org/keyword/misogyny">
                         <desc> Because<persName ref="http://syriaca.org/person/3021">the
                                 woman</persName> was very beautiful, many of the men of <placeName
-                                ref="http://syriaca.org/place/8">Amida</placeName>sought to sleep
+                                ref="http://syriaca.org/place/8">Amida</placeName> sought to sleep
                             with her. When they could not prevail against her, they petitioned the
                             governor of<placeName ref="http://syriaca.org/place/8"
-                            >Amida</placeName>to arrest her. <persName
+                            >Amida</placeName> to arrest her. <persName
                                 ref="http://syriaca.org/person/2121">The young man</persName> cried
                             out in a loud voice that<persName ref="http://syriaca.org/person/3021"
                                 >the woman</persName> was his wife. </desc>
@@ -680,9 +680,9 @@
                                 ref="http://syriaca.org/person/2121"
                                 >Theophilus</persName> and<persName
                                 ref="http://syriaca.org/person/3021">Maria</persName> in<placeName
-                                ref="http://syriaca.org/place/715">Egypt</placeName>outside
+                                ref="http://syriaca.org/place/715">Egypt</placeName> outside
                                 of<placeName ref="http://syriaca.org/place/200"
-                            >Thella</placeName>and received a blessing from them. </desc>
+                            >Thella</placeName> and received a blessing from them. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">

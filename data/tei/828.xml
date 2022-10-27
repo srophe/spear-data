@@ -357,8 +357,8 @@
                                 >Paul</persName>,<persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was tired of being pestered by his family, so he
                                 left<placeName ref="http://syriaca.org/place/486"
-                            >Syria</placeName>and journeyed to<placeName
-                                ref="http://syriaca.org/place/715">Egypt</placeName>and<placeName
+                            >Syria</placeName> and journeyed to<placeName
+                                ref="http://syriaca.org/place/715">Egypt</placeName> and<placeName
                                 ref="http://syriaca.org/place/2847">Thebais</placeName>, where he
                             went to and fro in the desert with the saints, observing the prayer
                             practices of monks and solitaries. </desc>
@@ -379,14 +379,14 @@
                     <event
                         ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/emperors http://syriaca.org/keyword/kings http://syriaca.org/keyword/monks">
                         <desc> Followers of the Council of<placeName
-                                ref="http://syriaca.org/place/622">Chalcedon</placeName>expelled
+                                ref="http://syriaca.org/place/622">Chalcedon</placeName> expelled
                             Christians from<placeName ref="http://syriaca.org/place/572"
-                                >Alexandria</placeName>and<persName
+                                >Alexandria</placeName> and<persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> from his desert
                             cell. On account of the persecution,<persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> resolved to
                             travel to<placeName ref="http://syriaca.org/place/586"
-                                >Constantinople</placeName>to err his grievacnes with<persName
+                                >Constantinople</placeName> to err his grievacnes with<persName
                                 ref="http://syriaca.org/person/2284">the king</persName> and<persName
                                 ref="http://syriaca.org/person/779">queen</persName>. </desc>
                     </event>

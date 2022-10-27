@@ -220,13 +220,13 @@
                         ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/poverty http://syriaca.org/keyword/wine http://syriaca.org/keyword/economics" notBefore="0456">
                         <desc><date notBefore="0456" calendar="Gregorian">Five years after the Council of Chalcedon</date>,
                             when the monastery at <placeName ref="http://syriaca.org/place/2776"
-                                >Fardaisa</placeName>was brought to indigence, the brothers
+                                >Fardaisa</placeName> was brought to indigence, the brothers
                             approached <persName ref="http://syriaca.org/person/1116"
                                 >Addai</persName> in his exile. To recover financially, they began
                             planting vineyards throughout the mountains east of <placeName
                                 ref="http://syriaca.org/place/2758">Anzetene</placeName>. Merchants
                             from <placeName ref="http://syriaca.org/place/2763">Cappadocia</placeName>, who would go as far <placeName
-                                ref="http://syriaca.org/place/486">Syria</placeName>to buy wine.
+                                ref="http://syriaca.org/place/486">Syria</placeName> to buy wine.
                             Selling wine allowed <persName ref="http://syriaca.org/person/1116"
                                 >Addai</persName> to begin feeding the poor again. </desc>
                     </event>

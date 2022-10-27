@@ -391,7 +391,7 @@
                         ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monks http://syriaca.org/keyword/death http://syriaca.org/keyword/succession">
                         <desc> After <persName ref="http://syriaca.org/person/3710">Bar
                             Nbyl</persName> lived 90 years, he died, leaving <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
-                                ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>to
+                                ref="http://syriaca.org/place/2779">Fytr</placeName></placeName> to
                                 <persName ref="http://syriaca.org/person/3763">Habib</persName>.
                         </desc>
                     </event>
@@ -468,7 +468,7 @@
                         <desc> Confronting a man possessed by Satan,<persName
                                 ref="http://syriaca.org/person/3763">Habib</persName> returned to
                                 <placeName ref="http://syriaca.org/place/2778">the
-                                monastery</placeName>in order to pray. God answered <persName
+                                monastery</placeName> in order to pray. God answered <persName
                                 ref="http://syriaca.org/person/3763">Habib's</persName> prayer by
                             striking the demon-possessed man with sickness. </desc>
                     </event>
@@ -678,7 +678,7 @@
                                 <persName ref="http://syriaca.org/person/3763">the holy
                                 man</persName>, the barren woman concieving a son and bringing him
                             to the <placeName ref="http://syriaca.org/place/2778"
-                                >monastery</placeName>for baptism. </desc>
+                                >monastery</placeName> for baptism. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -816,7 +816,7 @@
                         ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> died,
                             leaving the <placeName ref="http://syriaca.org/place/2778"
-                                >monastery</placeName>to<persName
+                                >monastery</placeName> to<persName
                                 ref="http://syriaca.org/person/1524">Z'ura</persName>.</desc>
                     </event>
                 </listEvent>

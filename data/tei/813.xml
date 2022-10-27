@@ -384,7 +384,7 @@
                     <event
                         ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/illness http://syriaca.org/keyword/prayer http://syriaca.org/keyword/religion http://syriaca.org/keyword/education">
                         <desc> Brothers and sisters came from <placeName
-                                ref="http://syriaca.org/place/2763">Cappadocia</placeName>to educate
+                                ref="http://syriaca.org/place/2763">Cappadocia</placeName> to educate
                                 <persName ref="http://syriaca.org/person/2126"
                                 >Thomas</persName> and<persName ref="http://syriaca.org/person/3233"
                                 >his wife</persName> in religion. Many followed <persName
@@ -409,7 +409,7 @@
                         ana="http://syriaca.org/keyword/fathers http://syriaca.org/keyword/books http://syriaca.org/keyword/bishops http://syriaca.org/keyword/education http://syriaca.org/keyword/spices">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> bought
                             books from <placeName ref="http://syriaca.org/place/572"
-                                >Alexandria</placeName>and spices from <placeName
+                                >Alexandria</placeName> and spices from <placeName
                                 ref="http://syriaca.org/place/78">Edessa</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -504,7 +504,7 @@
                         <occupation ana="http://syriaca.org/keyword/civil-servants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3226"
                                     >John</persName> was the satrap of <placeName
-                                    ref="http://syriaca.org/place/486">Syria</placeName>and
+                                    ref="http://syriaca.org/place/486">Syria</placeName> and
                                     <placeName ref="http://syriaca.org/place/576"
                                     >Armenia</placeName>. </note>
                         </occupation>
@@ -587,7 +587,7 @@
                             were brought before <persName ref="http://syriaca.org/person/3226">the
                                 satrap</persName>, who demanded that they accept the decress of the
                             Council of <placeName ref="http://syriaca.org/place/622"
-                                >Chalcedon</placeName>or they would have to leave<placeName
+                                >Chalcedon</placeName> or they would have to leave<placeName
                                 ref="http://syriaca.org/place/576">Armenia</placeName>. <persName
                                 ref="http://syriaca.org/person/3226"
                                 >John</persName> commanded<persName
