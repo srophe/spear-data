@@ -243,15 +243,15 @@
                     <event
                         ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monks" when="0526">
                         <desc><date when="0526" calendar="Gregorian">After five
-                                years</date>in<placeName ref="http://syriaca.org/place/2813">Mar
-                                Mara</placeName>,<persName ref="http://syriaca.org/person/1934">the
-                                community</persName> returned to<placeName
+                                years</date> in <placeName ref="http://syriaca.org/place/2813">Mar
+                                Mara</placeName>, <persName ref="http://syriaca.org/person/1934">the
+                                community</persName> returned to <placeName
                                 ref="http://syriaca.org/place/2737">Amida</placeName>, but because
-                            of persecution, relocated to the border territory of<placeName
+                            of persecution, relocated to the border territory of <placeName
                                 ref="http://syriaca.org/place/2774">the East</placeName>, near
-                                the<placeName ref="http://syriaca.org/place/2785">hot
-                                springs</placeName> of<placeName ref="http://syriaca.org/place/2751"
-                                >Abarne</placeName>, settling at the<placeName
+                                the <placeName ref="http://syriaca.org/place/2785">hot
+                                springs</placeName> of <placeName ref="http://syriaca.org/place/2751"
+                                >Abarne</placeName>, settling at the <placeName
                                 ref="http://syriaca.org/place/2834">convent of the
                                 Poplars</placeName>. </desc>
                     </event>

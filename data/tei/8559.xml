@@ -1163,11 +1163,13 @@
                 <idno type="URI">https://spear-prosop.org/8559-48</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/administration" notBefore="-0132-10" notAfter="-0131-09">
-                        <desc> In <choice>
+                        <desc> 
+                            In 
+                            <choice>
                                 <reg><date notBefore="-0132-10" notAfter="-0131-09" calendar="Gregorian">132/1 B.C.</date></reg>
-                                <orig><date when-custom="0180" datingMethod="Seleucid">A. Gr.
-                                        180</date></orig>
-                            </choice>Kings began to rule in <placeName ref="http://syriaca.org/place/78"> Edessa </placeName>. </desc>
+                                <orig><date when-custom="0180" datingMethod="Seleucid">A. Gr. 180</date></orig>
+                            </choice>
+                            Kings began to rule in <placeName ref="http://syriaca.org/place/78">Edessa</placeName>. </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
