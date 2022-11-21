@@ -132,7 +132,7 @@
                     <citedRange unit="p">250-51</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="residence" xml:id="factoid-3" resp="#dschwartz">
+            <ab type="factoid" subtype="birth" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3021-3</idno>
                 <listPerson>
                     <person>
