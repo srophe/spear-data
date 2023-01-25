@@ -282,7 +282,7 @@
                     <event
                         ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/incense http://syriaca.org/keyword/relics http://syriaca.org/keyword/fasting">
                         <desc>
-                            A group of monks prayed over the<persName
+                            A group of monks prayed over the <persName
                                 ref="http://syriaca.org/person/1932">blessed man</persName> and held
                             vigil for ten days. </desc>
                     </event>
@@ -302,7 +302,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death">
                         <desc>
-                                The<persName ref="http://syriaca.org/person/1932">blessed
+                                The <persName ref="http://syriaca.org/person/1932">blessed
                                 man</persName> dies. </desc>
                     </event>
                 </listEvent>

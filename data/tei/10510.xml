@@ -101,7 +101,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3218"> John Urtaya, Archimandrite
-                            of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                            of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </persName>
                     </person>
                 </listPerson>
@@ -151,7 +151,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
                         <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3218">John
-                                    Urtaya</persName> resided in<placeName ref="http://syriaca.org/place/399">Convent of John
+                                    Urtaya</persName> resided in <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName>. </note></residence>
                     </person>
                 </listPerson>
@@ -162,7 +162,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-6</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries" notBefore="0388-10" notAfter="0389-09">
-                        <desc> The<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> was founded in <choice>
                                 <reg><date notBefore="0388-10" notAfter="0389-09" calendar="Gregorian">388/9</date></reg>
                                 <orig><date when-custom="0700" datingMethod="Seleucid">A. Gr.
@@ -177,7 +177,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-7</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries" notBefore="0566-10" notAfter="0567-09">
-                        <desc> The<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> closed in <choice>
                                 <reg><date notBefore="0566-10" notAfter="0567-09" calendar="Gregorian">566/7</date></reg>
                                 <orig><date when-custom="0878" datingMethod="Seleucid">A. Gr.
@@ -264,7 +264,7 @@
                                 <persName ref="http://syriaca.org/person/3251">Mar
                             Samuel</persName> went into exile in the district of <placeName ref="http://syriaca.org/place/2769">Claudias</placeName> where he
                             took up residence in the <placeName ref="http://syriaca.org/place/2795">Convent of the Huts</placeName>. He related the story of the
-                            establishment of the<placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> to <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>. This
+                            establishment of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> to <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>. This
                             occurred <choice>
                                 <reg><date notBefore="0536-10" notAfter="0537-09" calendar="Gregorian">536/7</date></reg>
                                 <orig><date when-custom="0848" datingMethod="Seleucid">A. Gr.
@@ -354,7 +354,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries" when="0700">
                         <desc><persName ref="http://syriaca.org/person/3218">Mar
-                            John</persName> built a hut near the huts of<persName ref="http://syriaca.org/person/3192">Mar Afwrsm</persName> in the
+                            John</persName> built a hut near the huts of <persName ref="http://syriaca.org/person/3192">Mar Afwrsm</persName> in the
                             year <date when="0700" calendar="Gregorian"> 700 </date></desc>
                     </event>
                 </listEvent>
@@ -487,7 +487,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <residence><placeName ref="http://syriaca.org/place/1528"/><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> resided in the<placeName ref="http://syriaca.org/place/1528">Convent of the
+                        <residence><placeName ref="http://syriaca.org/place/1528"/><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> resided in the <placeName ref="http://syriaca.org/place/1528">Convent of the
                                     Edessenes</placeName>. </note></residence>
                     </person>
                 </listPerson>
@@ -565,7 +565,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-37</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries">
-                        <desc> During the time that <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and<persName ref="http://syriaca.org/person/3249">Samuel</persName> lived with
+                        <desc> During the time that <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3249">Samuel</persName> lived with
                                 <persName ref="http://syriaca.org/person/3218">Mar John
                                 Urtaya</persName>, they learned a great deal about asceticism and
                             the Christian faith. The convent flourished, buildings were established,
@@ -580,7 +580,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> came to reside in the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> came to reside in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </note></residence>
                     </person>
                 </listPerson>
@@ -592,7 +592,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> came to reside in the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> came to reside in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </note></residence>
                     </person>
                 </listPerson>
@@ -617,7 +617,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3669"/>
                         <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3669">Anonymi
-                                    3669</persName> were monks in <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                    3669</persName> were monks in <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </personGrp>
                 </listPerson>
@@ -630,7 +630,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3669"/>
                         <residence><placeName ref="http://syriaca.org/place/399"/><note type="desc"><persName ref="http://syriaca.org/person/3669">Anonymi
-                                    3669</persName> resided in the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                    3669</persName> resided in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </note></residence>
                     </personGrp>
                 </listPerson>
@@ -672,7 +672,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -692,7 +692,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName>,
-                            who had left the monastery while<persName ref="http://syriaca.org/person/3218">John Urtaya</persName> was still
+                            who had left the monastery while <persName ref="http://syriaca.org/person/3218">John Urtaya</persName> was still
                             alive, returned after his death and lived in a brotherly fashion with
                                 <persName ref="http://syriaca.org/person/3249">Samuel</persName>.
                         </desc>
@@ -728,7 +728,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was archimandrite of <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                                 </placeName></note></occupation>
                     </person>
@@ -770,7 +770,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3217"> Job, Archimandrite of
-                                <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></persName>
                     </person>
                 </listPerson>
@@ -795,7 +795,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3217"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3217">Job</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3217">Job</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                                 </placeName></note></occupation>
                     </person>
@@ -839,7 +839,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"> Abraham I, Archimandrite of
-                                <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                     Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></persName>
                     </person>
                 </listPerson>
@@ -864,7 +864,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -950,7 +950,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3671"/>
                         <residence><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3671">Anonymi
-                                    3671</persName> resided in<placeName ref="http://syriaca.org/place/8">Amida</placeName>.
+                                    3671</persName> resided in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                             </note></residence>
                     </personGrp>
                 </listPerson>
@@ -990,7 +990,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3672"/>
                         <residence><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3672">Anonymi
-                                    3672</persName> resided in<placeName ref="http://syriaca.org/place/8">Amida</placeName>.
+                                    3672</persName> resided in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                             </note></residence>
                     </personGrp>
                 </listPerson>
@@ -1056,7 +1056,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <residence><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> resided in his home in<placeName ref="http://syriaca.org/place/8">Amida</placeName>.
+                        <residence><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> resided in his home in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                             </note></residence>
                     </person>
                 </listPerson>
@@ -1080,8 +1080,8 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3186"> Abraham II, Archimandrite of
-                                <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
-                                    Urtaya</placeName> in<placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></persName>
+                                <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                                    Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">557</citedRange></bibl>
@@ -1107,8 +1107,8 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3186"/>
                         <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
-                                    II</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the<placeName ref="http://syriaca.org/place/399">Convent of John
-                                        Urtaya</placeName> in<placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
+                                    II</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                                        Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">557</citedRange></bibl>
@@ -1225,7 +1225,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-94</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries">
-                        <desc> The<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> grew to include 400 brothers. </desc>
                     </event>
                 </listEvent>
@@ -1270,7 +1270,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3673">Anonymi 3673</persName>
-                            of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                            of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> urged <persName ref="http://syriaca.org/person/3186">Bishop Abraham</persName> to
                             appoint a new head. <persName ref="http://syriaca.org/person/3186">Abraham</persName> chose <persName ref="http://syriaca.org/person/3187">Abraham the
                             Shepherd</persName>, who was formerly a shepherd from the <placeName ref="http://syriaca.org/place/2849">Village of Thella d
@@ -1286,7 +1286,7 @@
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3187">Abraham the
                                 Shepherd</persName> succeeded <persName ref="http://syriaca.org/person/3186">Abraham II</persName> as head of
-                                the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -1384,7 +1384,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3673">Anonymi
-                            3673</persName> of the<placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> disliked <persName ref="http://syriaca.org/person/3186">Abraham II</persName>'s
+                            3673</persName> of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> disliked <persName ref="http://syriaca.org/person/3186">Abraham II</persName>'s
                             appointment of <persName ref="http://syriaca.org/person/3187">Abraham
                                 III</persName> as his successor, believing him to be a lowly
                             peasant. <persName ref="http://syriaca.org/person/3675">Sixty
@@ -1399,7 +1399,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3675"> The <persName ref="http://syriaca.org/person/3675">sixty monks</persName> who left
-                                the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </persName>
                     </personGrp>
                 </listPerson>
@@ -1440,7 +1440,7 @@
                     <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/travel">
                         <desc><persName ref="http://syriaca.org/person/3250">Mar Samuel</persName>,
                             prior to founding <placeName ref="http://syriaca.org/place/2840">Mar
-                                Samuel Convent</placeName>, visited the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                Samuel Convent</placeName>, visited the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -1617,7 +1617,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/war http://syriaca.org/keyword/exile">
                         <desc><persName ref="http://syriaca.org/person/2286">King Kawad</persName>'s
-                            invasion was devastating and drove many away from the<placeName ref="http://syriaca.org/place/399">Convent of John
+                            invasion was devastating and drove many away from the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. <persName ref="http://syriaca.org/person/3676">The white-haired man</persName> fled from <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -1640,7 +1640,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/war">
                         <desc><persName ref="http://syriaca.org/person/3239">Paul</persName> was a
-                            monk in the<placeName ref="http://syriaca.org/place/399">Convent of John
+                            monk in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> when there were 400 monks residing within its
                             walls, and shortly before King Kawad's invasion of <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </desc>
                     </event>
@@ -1653,7 +1653,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/war">
                         <desc> Because <persName ref="http://syriaca.org/person/2286">King
-                                Kawad</persName>'s invasion destroyed the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                Kawad</persName>'s invasion destroyed the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>, <persName ref="http://syriaca.org/person/3239">Paul</persName> took up residence in <placeName ref="http://syriaca.org/place/390">Monastery in Orientals in
                                 Edessa</placeName>. </desc>
                     </event>
@@ -1722,7 +1722,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-135</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/death">
-                        <desc> The<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> was rebuilt after <persName ref="http://syriaca.org/person/2286">King Kawad</persName>'s
                             invasion, but on a smaller scale--both in the number of buildings
                             erected and in the number of monks admitted. </desc>
@@ -1748,7 +1748,7 @@
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3200">Cosmas</persName>
                             succeeded <persName ref="http://syriaca.org/person/3187">Abraham
-                                III</persName> as head of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                III</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> and served during the reign of the <persName ref="http://syriaca.org/person/2265">Emperor Anastasius</persName>.
                         </desc>
                     </event>
@@ -1841,7 +1841,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3255">Sergius</persName> succeeded <persName ref="http://syriaca.org/person/3200">Cosmas</persName> as head of
-                                the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -1915,7 +1915,7 @@
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession" when="0522">
                         <desc><persName ref="http://syriaca.org/person/3263">Symy</persName>
                             succeeded <persName ref="http://syriaca.org/person/3255">Sergius
-                                I</persName> as the head of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                I</persName> as the head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> in <date when="0522" calendar="Gregorian"> 522
                             </date></desc>
                     </event>
@@ -2000,7 +2000,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-158</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/internment http://syriaca.org/keyword/exile" when="0530">
-                        <desc> The monks of the<placeName ref="http://syriaca.org/place/399">Convent
+                        <desc> The monks of the <placeName ref="http://syriaca.org/place/399">Convent
                                 of John Urtaya</placeName> who were in exile during the first
                             persecution were allowed to return to their convent and inter <persName ref="http://syriaca.org/person/3263">Symy</persName>'s bones there
                             in <date when="0530" calendar="Gregorian"> 530 </date></desc>
@@ -2013,7 +2013,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-159</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
-                        <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> succeeded <persName ref="http://syriaca.org/person/3263">Symy</persName> as head of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                        <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> succeeded <persName ref="http://syriaca.org/person/3263">Symy</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -2182,7 +2182,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3677"><persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName> of
-                                the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> who accompanied <persName ref="http://syriaca.org/person/3183">Abba</persName> into exile.
                         </persName>
                     </personGrp>
@@ -2376,7 +2376,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
                         <desc><persName ref="http://syriaca.org/person/3188">Abraham
-                            IV</persName> succeeded <persName ref="http://syriaca.org/person/3183">Abba</persName> as head of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                            IV</persName> succeeded <persName ref="http://syriaca.org/person/3183">Abba</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -2449,7 +2449,7 @@
                         <desc><persName ref="http://syriaca.org/person/3256">Sergius</persName> of
                                 <placeName ref="http://syriaca.org/place/8">Amida</placeName>
                             succeeded <persName ref="http://syriaca.org/person/3188">Abraham
-                                IV</persName> as head of the<placeName ref="http://syriaca.org/place/399">Convent of John
+                                IV</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName></desc>
                     </event>
                 </listEvent>
@@ -2472,7 +2472,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3256"><persName ref="http://syriaca.org/person/3256">Sergius II</persName>,
-                            archimandrite of the<placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName>. </persName>
+                            archimandrite of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName>. </persName>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">571-572</citedRange></bibl>
@@ -2549,7 +2549,7 @@
                 <idno type="URI">https://spear-prosop.org/10510-203</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/persecution" notBefore="0520-10" notAfter="0568-09">
-                        <desc> The brothers of the<placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> and the other religious believers
+                        <desc> The brothers of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> and the other religious believers
                             persevered during the persecutions, which began in <choice>
                                 <reg><date notBefore="0520-10" notAfter="0521-09" calendar="Gregorian">520/1</date></reg>
                                 <orig><date when-custom="0832" datingMethod="Seleucid">A. Gr.

@@ -386,7 +386,7 @@
                         <desc> Brothers and sisters came from <placeName
                                 ref="http://syriaca.org/place/2763">Cappadocia</placeName> to educate
                                 <persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName> and<persName ref="http://syriaca.org/person/3233"
+                                >Thomas</persName> and <persName ref="http://syriaca.org/person/3233"
                                 >his wife</persName> in religion. Many followed <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> in selling
                             their possessions. <persName ref="http://syriaca.org/person/2126"
@@ -429,7 +429,7 @@
                         ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/council-of-chalcedon-451">
                         <desc> After 12 years, persecution against <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> and the
-                            brothers came from<placeName ref="http://syriaca.org/place/576"
+                            brothers came from <placeName ref="http://syriaca.org/place/576"
                                 >Armenia</placeName>, instigated by <persName
                                 ref="http://syriaca.org/person/2274">Ephraim</persName>. </desc>
                     </event>
@@ -466,7 +466,7 @@
                         <persName ref="http://syriaca.org/person/2274"/>
                         <occupation ana="http://syriaca.org/keyword/patriarchates">
                             <note type="desc"><persName ref="http://syriaca.org/person/2274"
-                                    >Ephraim</persName> was patriarch of<placeName
+                                    >Ephraim</persName> was patriarch of <placeName
                                     ref="http://syriaca.org/place/10">Antioch</placeName>. </note>
                         </occupation>
                     </person>
@@ -564,7 +564,7 @@
                         ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/heresy http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/persecution">
                         <desc> Many of the persecuted convent leaders and bishops flocked to
                                 <persName ref="http://syriaca.org/person/2126">Thomas</persName>,
-                                so<persName ref="http://syriaca.org/person/3226"
+                                so <persName ref="http://syriaca.org/person/3226"
                             >John</persName> targeted him in the persecution. </desc>
                     </event>
                 </listEvent>
@@ -582,15 +582,15 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/theology">
-                        <desc> Those who had assembled to<persName
+                        <desc> Those who had assembled to <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName>, over 800,
                             were brought before <persName ref="http://syriaca.org/person/3226">the
                                 satrap</persName>, who demanded that they accept the decress of the
                             Council of <placeName ref="http://syriaca.org/place/622"
-                                >Chalcedon</placeName> or they would have to leave<placeName
+                                >Chalcedon</placeName> or they would have to leave <placeName
                                 ref="http://syriaca.org/place/576">Armenia</placeName>. <persName
                                 ref="http://syriaca.org/person/3226"
-                                >John</persName> commanded<persName
+                                >John</persName> commanded <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> to leave as
                             well. </desc>
                     </event>
@@ -609,10 +609,10 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/buildings http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism">
-                        <desc> Because of the persecution of<persName
+                        <desc> Because of the persecution of <persName
                                 ref="http://syriaca.org/person/3226">John</persName>, <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> and his
-                            followers departed from<placeName ref="http://syriaca.org/place/576"
+                            followers departed from <placeName ref="http://syriaca.org/place/576"
                                 >Armenia</placeName>. Travelling to <placeName
                                 ref="http://syriaca.org/place/2769">the district of
                                 Claudias</placeName>, <persName ref="http://syriaca.org/person/2126"
@@ -651,7 +651,7 @@
                     <event
                         ana="http://syriaca.org/keyword/wine http://syriaca.org/keyword/bread http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families">
                         <desc><persName ref="http://syriaca.org/person/2126"
-                                >Thomas</persName> and<persName ref="http://syriaca.org/person/3233"
+                                >Thomas</persName> and <persName ref="http://syriaca.org/person/3233"
                                 >Maria</persName> and their sons committed themselves to a diet of
                             only fruit and some grain, tasting bread and wine only when absolutely
                             necessary. </desc>

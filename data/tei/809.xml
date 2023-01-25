@@ -196,7 +196,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/prayer http://syriaca.org/keyword/humility http://syriaca.org/keyword/blessing">
-                        <desc> When the<persName ref="http://syriaca.org/person/1988">old
+                        <desc> When the <persName ref="http://syriaca.org/person/1988">old
                                 man</persName> came to <placeName ref="http://syriaca.org/place/2736"
                                 >the convent</placeName>, the leaders wanted to give him a place of
                             honor. Instead, he chose to sit at the lowest table, refusing even to
@@ -299,7 +299,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/wine http://syriaca.org/keyword/food http://syriaca.org/keyword/sin http://syriaca.org/keyword/shame http://syriaca.org/keyword/emotions">
-                        <desc> After hearing about<persName ref="http://syriaca.org/person/1988">the
+                        <desc> After hearing about <persName ref="http://syriaca.org/person/1988">the
                                 old man's</persName> practices, <persName
                                 ref="http://syriaca.org/person/74">John</persName> repented of his
                             sins. </desc>

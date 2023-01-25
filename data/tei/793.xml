@@ -816,7 +816,7 @@
                         ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> died,
                             leaving the <placeName ref="http://syriaca.org/place/2778"
-                                >monastery</placeName> to<persName
+                                >monastery</placeName> to <persName
                                 ref="http://syriaca.org/person/1524">Z'ura</persName>.</desc>
                     </event>
                 </listEvent>

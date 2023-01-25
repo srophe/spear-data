@@ -271,7 +271,7 @@
                                     <placeName ref="http://syriaca.org/place/622"
                                     >Chalcedon</placeName></date>, <persName
                                 ref="http://syriaca.org/person/50">John</persName> and the other
-                            bishops of<placeName ref="http://syriaca.org/place/200"
+                            bishops of <placeName ref="http://syriaca.org/place/200"
                                 >Thella</placeName> were exiled. </desc>
                     </event>
                 </listEvent>
@@ -289,7 +289,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/bishops http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile">
-                        <desc> After leaving<placeName ref="http://syriaca.org/place/200"
+                        <desc> After leaving <placeName ref="http://syriaca.org/place/200"
                                 >Thella</placeName>, <persName ref="http://syriaca.org/person/50"
                                 >John</persName> returned to his <placeName
                                 ref="http://syriaca.org/place/356">former convent</placeName> in the
@@ -419,7 +419,7 @@
                                 <orig><date when="0840" calendar="Seleucid">840</date></orig>
                             </choice>, <persName ref="http://syriaca.org/person/50"
                             >John</persName> ordained seventy men from the <placeName
-                                ref="http://syriaca.org/place/2736">convents</placeName> of<placeName
+                                ref="http://syriaca.org/place/2736">convents</placeName> of <placeName
                                 ref="http://syriaca.org/place/2737">Amida</placeName>. </desc>
                     </event>
                 </listEvent>
@@ -495,9 +495,9 @@
                     <event
                         ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/death http://syriaca.org/keyword/martyrdom http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName> was
-                            captured and brought to<placeName ref="http://syriaca.org/place/10"
-                                >Antioch</placeName>, where he was tortured and killed by<persName
-                                ref="http://syriaca.org/person/2274">Ephraim of<placeName
+                            captured and brought to <placeName ref="http://syriaca.org/place/10"
+                                >Antioch</placeName>, where he was tortured and killed by <persName
+                                ref="http://syriaca.org/person/2274">Ephraim of <placeName
                                     ref="http://syriaca.org/place/2737"
                             >Amida</placeName></persName>. </desc>
                     </event>

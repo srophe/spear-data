@@ -370,8 +370,8 @@
                         ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/polemics" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>,<persName ref="http://syriaca.org/person/51"
-                                >Severus</persName> wrote to<persName
-                                ref="http://syriaca.org/person/2553">Antoninus bishop of<placeName
+                                >Severus</persName> wrote to <persName
+                                ref="http://syriaca.org/person/2553">Antoninus bishop of <placeName
                                     ref="http://syriaca.org/place/3055"
                                 >Berrhoea</placeName></persName> about the treatment of Jews. </desc>
                     </event>
@@ -387,7 +387,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/polemics http://syriaca.org/keyword/letters http://syriaca.org/keyword/generals http://syriaca.org/keyword/wisdom">
-                        <desc> In his letters to<persName ref="http://syriaca.org/person/51"
+                        <desc> In his letters to <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> and his uncle <persName
                                 ref="http://syriaca.org/person/2556">Hypatius</persName>, <persName
                                 ref="http://syriaca.org/person/2553">Antoninus</persName> showed
@@ -406,7 +406,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/generals http://syriaca.org/keyword/bishops http://syriaca.org/keyword/wisdom http://syriaca.org/keyword/justice http://syriaca.org/keyword/anti-judaism">
-                        <desc> Meeting with<persName ref="http://syriaca.org/person/2556">the
+                        <desc> Meeting with <persName ref="http://syriaca.org/person/2556">the
                                 general</persName>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> counselled <persName
                                 ref="http://syriaca.org/person/2553">Antoninus</persName> to show

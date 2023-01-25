@@ -216,7 +216,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/prayer http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families http://syriaca.org/keyword/ordination">
-                        <desc> When<persName ref="http://syriaca.org/person/1875">Mare</persName> was
+                        <desc> When <persName ref="http://syriaca.org/person/1875">Mare</persName> was
                             thirty, he went against his family's wish for him to marry by committing
                             himself to the Lord. </desc>
                     </event>
@@ -312,7 +312,7 @@
                     <event
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/students http://syriaca.org/keyword/prayer">
                         <desc> After much prayer,<persName ref="http://syriaca.org/person/1875"
-                                >Mare</persName> was led by God to<persName
+                                >Mare</persName> was led by God to <persName
                                 ref="http://syriaca.org/person/1980">Paul the
                             Anchorite</persName> who received him as his student. </desc>
                     </event>
@@ -331,10 +331,10 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/fasting http://syriaca.org/keyword/prayer http://syriaca.org/keyword/labor http://syriaca.org/keyword/religion http://syriaca.org/keyword/asceticism">
-                        <desc> After spending five years with<persName
+                        <desc> After spending five years with <persName
                                 ref="http://syriaca.org/person/1980">Paul</persName>,<persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> exceeded his
-                            teacher in prayer, asceticism, and moderation. Many criticized<persName
+                            teacher in prayer, asceticism, and moderation. Many criticized <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> for the severity
                             of his practices. </desc>
                     </event>
@@ -353,12 +353,12 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/families http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/travel http://syriaca.org/keyword/prayer http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks">
-                        <desc> While staying with<persName ref="http://syriaca.org/person/1980"
+                        <desc> While staying with <persName ref="http://syriaca.org/person/1980"
                                 >Paul</persName>,<persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was tired of being pestered by his family, so he
-                                left<placeName ref="http://syriaca.org/place/486"
-                            >Syria</placeName> and journeyed to<placeName
-                                ref="http://syriaca.org/place/715">Egypt</placeName> and<placeName
+                                left <placeName ref="http://syriaca.org/place/486"
+                            >Syria</placeName> and journeyed to <placeName
+                                ref="http://syriaca.org/place/715">Egypt</placeName> and <placeName
                                 ref="http://syriaca.org/place/2847">Thebais</placeName>, where he
                             went to and fro in the desert with the saints, observing the prayer
                             practices of monks and solitaries. </desc>
@@ -378,16 +378,16 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/emperors http://syriaca.org/keyword/kings http://syriaca.org/keyword/monks">
-                        <desc> Followers of the Council of<placeName
+                        <desc> Followers of the Council of <placeName
                                 ref="http://syriaca.org/place/622">Chalcedon</placeName> expelled
-                            Christians from<placeName ref="http://syriaca.org/place/572"
-                                >Alexandria</placeName> and<persName
+                            Christians from <placeName ref="http://syriaca.org/place/572"
+                                >Alexandria</placeName> and <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> from his desert
                             cell. On account of the persecution,<persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> resolved to
-                            travel to<placeName ref="http://syriaca.org/place/586"
-                                >Constantinople</placeName> to err his grievacnes with<persName
-                                ref="http://syriaca.org/person/2284">the king</persName> and<persName
+                            travel to <placeName ref="http://syriaca.org/place/586"
+                                >Constantinople</placeName> to err his grievacnes with <persName
+                                ref="http://syriaca.org/person/2284">the king</persName> and <persName
                                 ref="http://syriaca.org/person/779">queen</persName>. </desc>
                     </event>
                 </listEvent>
@@ -438,9 +438,9 @@
                     <event
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/persecution http://syriaca.org/keyword/justice http://syriaca.org/keyword/emperors http://syriaca.org/keyword/kings http://syriaca.org/keyword/wealth http://syriaca.org/keyword/dress http://syriaca.org/keyword/poverty http://syriaca.org/keyword/polemics http://syriaca.org/keyword/blame">
                         <desc><persName ref="http://syriaca.org/person/1875"
-                                >Mare</persName> confronted<persName
+                                >Mare</persName> confronted <persName
                                 ref="http://syriaca.org/person/2284"
-                                >Justinian</persName> and<persName
+                                >Justinian</persName> and <persName
                                 ref="http://syriaca.org/person/779">Theodora</persName> concerning
                             the persecution. Because of his words and dress, they esteemed him a
                             holy man, and gave him a hundred weight of gold, which he promptly threw
@@ -484,7 +484,7 @@
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/shame http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/civil-servants">
                         <desc> Feeling guilty about the hundredweight gold,<persName
                                 ref="http://syriaca.org/person/779">the queen</persName> sent her
-                            chamberlains several times to<persName
+                            chamberlains several times to <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> to seek his
                             forgiveness. </desc>
                     </event>
@@ -503,7 +503,7 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks http://syriaca.org/keyword/food http://syriaca.org/keyword/fasting http://syriaca.org/keyword/bread http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/dress">
-                        <desc> Many began to flock to<persName ref="http://syriaca.org/person/1875"
+                        <desc> Many began to flock to <persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> for a blessing, and they were amazed at his prayer
                             and dress. <persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> refused to eat anything that was not produced by the
@@ -524,9 +524,9 @@
                 <listEvent>
                     <event
                         ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/violence http://syriaca.org/keyword/wealth http://syriaca.org/keyword/justice http://syriaca.org/keyword/demonology">
-                        <desc> Observing the holiness of<persName
+                        <desc> Observing the holiness of <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName>, Satan
-                            encouraged robbers to abuse him, under the impression that<persName
+                            encouraged robbers to abuse him, under the impression that <persName
                                 ref="http://syriaca.org/person/779">the
                             queen</persName>'s chamberlains were bringing him gold. <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> overtook his
@@ -549,7 +549,7 @@
                         ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/wealth http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/monks http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/poor">
                         <desc> After many years, <persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was fatigued due to his strenuous way of life.
-                                He sought out one of<persName ref="http://syriaca.org/person/779">Theodora</persName>'s chamberlains, who secured the goal necessary to
+                                He sought out one of <persName ref="http://syriaca.org/person/779">Theodora</persName>'s chamberlains, who secured the goal necessary to
                             buy a villa suited for a life of retreat. </desc>
                     </event>
                 </listEvent>
