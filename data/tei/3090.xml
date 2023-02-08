@@ -139,7 +139,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop.org/3090-3    </idno>
+                <idno type="URI">https://spear-prosop.org/3090-3</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2439"/>
