@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" type="main">Chronicle of Edessa</title>
+                <title level="m" type="main">The Chronicle of Edessa</title>
                 <title type="sub">A SPEAR Prosopography</title>
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
@@ -31,6 +31,16 @@
                 <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
                 <idno type="URI">https://spear-prosop.org</idno>
+            </seriesStmt>
+            <seriesStmt>
+                <title level="m" xml:lang="en">The Chronicle of Edessa</title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">https://spear-prosop.org/chronicle-edessa</idno>
+                <biblScope unit="volume">
+                    <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                    <idno type="URI">https://spear-prosop.org</idno>
+                </biblScope>
             </seriesStmt>
             <sourceDesc>
                 <listBibl>
