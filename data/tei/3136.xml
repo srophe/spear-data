@@ -199,11 +199,11 @@
                 <idno type="URI">https://spear-prosop.org/3136-6</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/2558 http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2558">Misael</persName> and
                                 <persName ref="http://syriaca.org/person/51">Severus of
-                                Antioch</persName> had an intimate relationship.</desc>
+                                Antioch</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

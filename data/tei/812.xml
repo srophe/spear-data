@@ -159,10 +159,10 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/812-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3762">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3762">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> and <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName> 
-                            had an intimate relationship.
+                            had a friendship.
                         </desc>
                     </relation>
                 </listRelation>

@@ -869,11 +869,11 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-62" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3111-62</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with"
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/2562 http://syriaca.org/person/2504">
                         <desc><persName ref="http://syriaca.org/person/2562">Epiphanius</persName>
                             and <persName ref="http://syriaca.org/person/2504">Eusebius</persName>
-                            had an intimate relationship.</desc>
+                            had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

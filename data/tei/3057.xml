@@ -239,11 +239,11 @@
                 <idno type="URI">https://spear-prosop.org/3057-8</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/2571 http://syriaca.org/person/2570">
                         <desc><persName ref="http://syriaca.org/person/2571">Musonius</persName> and
                                 <persName ref="http://syriaca.org/person/2570">Alexander</persName>
-                            had an intimate relationship.</desc>
+                            had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -512,12 +512,12 @@
                 <idno type="URI">https://spear-prosop.org/3057-24</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/2570 http://syriaca.org/person/2571 http://syriaca.org/person/2573">
                         <desc><persName ref="http://syriaca.org/person/2570">Alexander</persName>,
                                 <persName ref="http://syriaca.org/person/2571">Musonius</persName>
                             and <persName ref="http://syriaca.org/person/2573">Martyrius</persName>
-                            had an intimate relationship.</desc>
+                            had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

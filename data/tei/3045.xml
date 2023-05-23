@@ -328,7 +328,7 @@
                                     active="http://syriaca.org/person/3062 http://syriaca.org/person/3063"
                                     passive="http://syriaca.org/person/51"/>
                                 <relation type="person"
-                                    ref="http://syriaca.org/keyword/intimate-relationship-with"
+                                    ref="http://syriaca.org/keyword/friendship-for"
                                     mutual="http://syriaca.org/person/3062 http://syriaca.org/person/3063 http://syriaca.org/person/3064"
                                 />
                             </listRelation>
