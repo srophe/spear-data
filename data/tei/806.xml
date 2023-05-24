@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
                 <idno type="URI">https://spear-prosop.org/806/tei</idno>
-                <!-- Add URI -->
+                
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/"><p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p></licence>
@@ -84,7 +84,6 @@
         <profileDesc/>
         <revisionDesc status="draft">
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-03-05:00">CHANGED: Add a human readable version or the tei:relation element in a tei:desc.</change><change status="draft"/>
-            <!-- Add when information is known. -->
         </revisionDesc>
     </teiHeader>
     <text>

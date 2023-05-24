@@ -59,7 +59,7 @@
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
                 <idno type="URI">https://spear-prosop.org/807/tei</idno>
-                <!-- Add URI -->
+                
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -110,10 +110,7 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>The prosopographical data in this document was encoded from E. W.
-                    Brooks' edition and English translation of John of Ephesus’s Lives of the
-                    Eastern Saints, Patrologia Orientalis, volume 17, 1923. </p>
-                <!-- Fix volume number -->
+                <p><!-- POINT USERS TO WIKI DOCUMENTATION WHEN COMPLETED. --></p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
