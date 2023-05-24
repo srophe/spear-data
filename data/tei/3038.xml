@@ -636,9 +636,9 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3049"> The Bishops of <placeName
                                 ref="http://syriaca.org/place/2669"
-                                ><!-- This URI is for Galatia the region. --> Galatia </placeName>
+                                >Galatia</placeName>
                             who attended a council in Cappadocia Secunda led by <persName
-                                ref="http://syriaca.org/person/2551"> Soteric </persName></persName>
+                                ref="http://syriaca.org/person/2551">Soteric</persName></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">

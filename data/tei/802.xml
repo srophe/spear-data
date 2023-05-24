@@ -518,7 +518,6 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3620"/>
-                        <!-- Christians in Hirtha Nu'man -->
                         <residence><placeName ref="http://syriaca.org/place/219"/><note type="desc"><persName ref="http://syriaca.org/person/3620">Anonymi
                                     3620</persName> lived in <placeName ref="http://syriaca.org/place/219"> Hirtha Nu'man </placeName>.
                             </note></residence>
@@ -860,7 +859,6 @@
                 <idno type="URI">https://spear-prosop.org/802-112</idno>
                 <listRelation>
                     <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/53" passive="http://syriaca.org/person/3623"><desc><persName ref="http://syriaca.org/person/53">Simeon of Beth Arsham</persName> had ecclesiastical authority over <persName ref="http://syriaca.org/person/3623">Anonymous 3623</persName>.</desc></relation>
-                    <!-- URI needed for Simeon's presbyter -->
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>

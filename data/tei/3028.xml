@@ -577,7 +577,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/56"
-                            ><!-- Since Oecumenius is a count, should we add a Social Rank div? -->
+                            >
                             Count Oecumenius </persName>
                     </person>
                 </listPerson>

@@ -269,8 +269,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
                         <occupation ana="http://syriaca.org/keyword/teachers"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
-                                was a doctor
-                                (malphono).<!-- We added (malphono) to show that the Syriac text means "teacher" not "physician"  --></note></occupation>
+                                was a doctor (malphono).</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
@@ -323,7 +322,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1876"/>
-                        <!-- Same name below. Different URI. Make sure this is correct. -->
                         <death>
                             <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>
                             <note type="desc">

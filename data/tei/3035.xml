@@ -205,7 +205,7 @@
                             <note type="desc"><persName ref="http://syriaca.org/person/2539"
                                     >Cosmas</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2630"
-                                    ><!-- I added the place name here, since it isn't mentioned in Cosmas's name variant. Place names are not included in occupation divs in the examples in the Pers_Element_Testing file, so if this is incorrect I can delete the place name. -->
+                                    >
                                     Apamea </placeName></note>
                         </occupation>
                     </person>
@@ -429,7 +429,7 @@
                             <note type="desc"><persName ref="http://syriaca.org/person/2514"
                                     >Peter</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2630"
-                                    ><!-- I added the place name here, since it isn't mentioned in Peter's name variant. Place names are not included in occupation divs in the examples in the Pers_Element_Testing file, so if this is incorrect I can delete the place name. -->
+                                    >
                                     Apamea </placeName></note>
                         </occupation>
                     </person>

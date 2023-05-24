@@ -414,7 +414,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3626"/>
-                        <!-- URI needed for this monk -->
                         <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3626">Anonymous
                                     3626</persName> was a monk.</note></occupation>
                     </person>
@@ -518,7 +517,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3627"/>
-                        <!-- URI needed -->
                         <trait type="gender" ana="http://syriaca.org/keyword/male">
                             <note type="desc"><persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> was male.</note>
                         </trait>

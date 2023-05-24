@@ -90,8 +90,6 @@
     </teiHeader>
     <text>
         <body>
-            <!-- Encoding Description: Multiple analysis refs encouraged and allowed. -->
-            <!-- Encoding Description: Since event will be visualized on a timeline, event factoids should contain a date wherever possible even if that date spans centuries and requires a note type="dubia".  -->
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-1</idno>
                 <listPerson>
@@ -160,9 +158,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-4</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2201"> Abgar the king
-                            <!-- Encoding description: Syriaca.org does not generally separate out name types like "Bar" and "ibn". When the type of name refers to something like nobility, office, etc. we will include it. --></persName>
-                        <!-- Endocing description: The purpose of the person factoid type "name" is to make discoverable proper names and to create a list of persons mentioned. The first occurance of each name should get a factoid entry. For fuller information about a person in a text, see event and/or relation factoids. -->
+                        <persName ref="http://syriaca.org/person/2201">Abgar the king</persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -240,8 +236,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-8</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2291"><!-- Encoding description: For differences of name spelling or transliteration, give each variant a separate factoid and include only the bibliography that contains that variant. -->
-                            Maano the king </persName>
+                        <persName ref="http://syriaca.org/person/2291">Maano the king</persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -1381,8 +1376,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-57</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2200"> Abgar the king
-                            <!-- Encoding description: When the person factoid is the name, record the name exactly as it appears, i.e. Abgar. In the desc of a person factoid about "state", etc., record a human readable name that is more descriptive, i.e. Abgar VI --></persName>
+                        <persName ref="http://syriaca.org/person/2200">Abgar the king</persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -2213,12 +2207,12 @@
                 </bibl>
                 <note type="certainty" subtype="incerta"> The text seems to be confused regarding the relative dates of
                     several events in this section.
-                        <!-- The English translation has ammended the text without comment (following Assemmani). In mss. section 13 refers to the year 636 A. Gr. while section 14 refers to 635 A. Gr. But, they refer to the same events. Moreover, section 15 of the Chronicle says that in the next year, 325 C. E., the council of Nicaea took place. While there is no comment in the English footnotes, Hallier discusses the issues. --><bibl type="secondary">
+                    <bibl type="secondary">
                         <ptr target="http://syriaca.org/bibl/660"/>
                         <citedRange unit="p">94-95</citedRange>
-                    </bibl></note>
+                    </bibl>
+                </note>
             </ab>
-            <!-- I NEED TO REVISIT 633-77 AND 633-78 -->
             <ab type="factoid" subtype="event" xml:id="factoid-96" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-96</idno>
                 <listEvent>
@@ -2246,7 +2240,7 @@
                 </bibl>
                 <note type="certainty" subtype="incerta"> The text seems to be confused regarding the relative dates of
                     several events in this section.
-                        <!-- The English translation has ammended the text without comment (following Assemmani). In mss. section 13 refers to the year 636 A. Gr. while section 14 refers to 635 A. Gr. But, they refer to the same events. Moreover, section 15 of the Chronicle says that in the next year, 325 C. E., the council of Nicaea took place. While there is no comment in the English footnotes, Hallier discusses the issues. --><bibl type="secondary">
+                    <bibl type="secondary">
                         <ptr target="http://syriaca.org/bibl/660"/>
                         <citedRange unit="p">94-95</citedRange>
                     </bibl></note>
@@ -2275,7 +2269,7 @@
                 </bibl>
                 <note type="certainty" subtype="incerta"> The text seems to be confused regarding the relative dates of
                     several events in this section.
-                        <!-- Problem: stemming from the oddities above. The text says "in the next year". It is "in the next year" from the perspective of section 13 (year 635 = 323/24), but not "in the next year" from the perspective of section 14 (year 636 = 324/325). --><bibl type="secondary">
+                    <bibl type="secondary">
                         <ptr target="http://syriaca.org/bibl/660"/>
                         <citedRange unit="p">94-95</citedRange>
                     </bibl></note>
@@ -2659,7 +2653,7 @@
                                         661</date></orig>
                             </choice><persName ref="http://syriaca.org/person/2249"> Constantius
                             </persName> rebuilt the city of <placeName ref="http://syriaca.org/place/200"> Tella </placeName>.
-                            <!-- We are also told that the city was formerly called Antipolis. Where/how should I record this? Or, should I just submit the data to the Gazetteer? Also, Cowper gives "Tela".--></desc>
+                         </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary">
@@ -5937,7 +5931,6 @@
                     <citedRange unit="part">53</citedRange>
                 </bibl>
             </ab>
-            <!-- Eutyches is described as he "who rejected the incarnation." This isn't part of his name. This isn't an event actually. There is no suggestion that it happened in 732. There is no person factoid type for beliefs. -->
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-268" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-268</idno>
                 <listPerson>
@@ -6185,12 +6178,13 @@
                 <idno type="URI">https://spear-prosop.org/8559-279</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/council-of-ephesus-i-431 http://syriaca.org/keyword/councils" when="0431">
-                        <desc> In <choice>
+                        <desc> In 
+                            <choice>
                                 <reg><date when="0431" calendar="Gregorian">431</date></reg>
                                 <!-- Encoding description: Since A. Gr. refers to parts of two years in the Gregorian calendar, the dates of well-known events with uncontested dates are simply listed as occurring in the asknowledged year rather than listing a two-year span. -->
-                                <orig><date when-custom="0742" datingMethod="Seleucid">A. Gr.
-                                        742</date></orig>
-                            </choice> the first Council of <placeName ref="http://syriaca.org/place/623"> Ephesus </placeName> was
+                                <orig><date when-custom="0742" datingMethod="Seleucid">A. Gr. 742</date></orig>
+                            </choice> 
+                            the first Council of <placeName ref="http://syriaca.org/place/623">Ephesus</placeName> was
                             assembled. </desc>
                     </event>
                 </listEvent>
@@ -6993,8 +6987,8 @@
                 <idno type="URI">https://spear-prosop.org/8559-315</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/council-of-ephesus-ii-449">
-                        <desc><!-- NO DATE IS GIVEN FOR THIS WELL-KNOWN EVENT WITH A WELL-KNOWN DATE. HOW SHOULD SPEAR HANDLE THIS? 
-                                The dates before and after don't help. Ephesus II met in spring 449 = 760. The previous year given is 756 = 444/5. The next year given is 1 Jan. 448.--><persName ref="http://syriaca.org/person/2314"> The bishops assembled at the
+                        <desc>
+                            <persName ref="http://syriaca.org/person/2314"> The bishops assembled at the
                                 Second Council of <placeName ref="http://syriaca.org/place/623">
                                     Ephesus </placeName></persName> anathematized <persName ref="http://syriaca.org/person/2282"> Flavian of <placeName ref="http://syriaca.org/place/586"> Constantinople
                                 </placeName></persName>, <persName ref="http://syriaca.org/person/2264"> Domnus of <placeName ref="http://syriaca.org/place/10"> Antioch
@@ -7852,7 +7846,6 @@
                                         771</date></orig>
                             </choice>
                             <note type="desc"> <persName ref="http://syriaca.org/person/744">Simeon</persName> the Stylite died on 28 October 460. </note>
-                            <!-- Should this be the incorrect date contained in the mss? -->
                         </death>
                     </person>
                 </listPerson>
@@ -8306,7 +8299,6 @@
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-373" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-373</idno>
                 <listPerson>
-                    <!-- Encoding description: There is a strong preference for encoding the individuals who made up an organization using the <personGrp> element rather than using the <org> element. This requires a more involved descriptive <persName> but will allow us to link specific individuals who appear in other texts to the specific participants in an organization at specific times and places. -->
                     <personGrp>
                         <persName ref="http://syriaca.org/person/2225"> The participants in the <ref target="http://syriaca.org/keyword/SchoolPersians"><ref target="http://syriaca.org/keyword/school"> School </ref> of the
                                     <ref target="http://syriaca.org/keyword/Persian"> Persians
@@ -9315,7 +9307,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-415" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-415</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war">
+                    <event ana="http://syriaca.org/keyword/war" from="0502-11-05" to="0503-02-10">
                         <desc><persName ref="http://syriaca.org/person/2286"> Kavad </persName>
                             besieged the city of <placeName ref="http://syriaca.org/place/8"> Amida </placeName><choice>
                                 <reg><date from="0502-11-05" to="0503-02-10" calendar="Gregorian">from 5 November A. D.
@@ -10121,11 +10113,12 @@
                 <idno type="URI">https://spear-prosop.org/8559-451</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/emperors http://syriaca.org/keyword/accession" notBefore="0518-07-09">
-                        <desc> After <choice>
+                        <desc> After 
+                            <choice>
                                 <reg><date notBefore="0518-07-09" calendar="Gregorian">9 July 518</date></reg>
-                                <orig><date notBefore-custom="0829-10-09" datingMethod="Seleucid-SyriacMonths">9 Tammuz A. Gr.
-                                        829</date></orig>
-                            </choice><!-- I think this dating method works well for something that occurred "after" a dated event but I want some input. --><persName ref="http://syriaca.org/person/2268"> Justin </persName> became King
+                                <orig><date notBefore-custom="0829-10-09" datingMethod="Seleucid-SyriacMonths">9 Tammuz A. Gr. 829</date></orig>
+                            </choice>
+                            <persName ref="http://syriaca.org/person/2268"> Justin </persName> became King
                             of <placeName ref="http://syriaca.org/place/166"> Rome </placeName>.
                         </desc>
                     </event>

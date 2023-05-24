@@ -164,9 +164,7 @@
                         <occupation ana="http://syriaca.org/keyword/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2413"
                                     >Maximus</persName> was a presbyter of <placeName
-                                    ref="http://syriaca.org/place/2714"> Seleucia in <placeName
-                                        ref="http://syriaca.org/place/99"> Isauria
-                                    </placeName></placeName></note>
+                                    ref="http://syriaca.org/place/2714"> Seleucia</placeName>.</note>
                         </occupation>
                     </person>
                 </listPerson>
@@ -214,7 +212,6 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3088"/>
-                        <!-- This URI needs to be corrected -->
                         <trait type="gender" ana="http://syriaca.org/keyword/male">
                             <note type="desc"><persName ref="http://syriaca.org/person/3088">Anonymi
                                     3088</persName> were male.</note>

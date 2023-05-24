@@ -348,7 +348,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3639"/>
-                        <!-- URI needed for the Hun soldier -->
                         <occupation ana="http://syriaca.org/keyword/soldiers"><note type="desc"><persName ref="http://syriaca.org/person/3639">Anonymous
                                     3639</persName> was a soldier.</note></occupation>
                     </person>

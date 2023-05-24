@@ -277,7 +277,6 @@
                         <persName ref="http://syriaca.org/person/3701"> A man who assisted in
                             tonsuring the children marked by <persName ref="http://syriaca.org/person/2097"> Simeon the mountaineer
                             </persName></persName>
-                        <!-- Add the correct keyword -->
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/808"/><citedRange unit="p">242-243</citedRange></bibl>
