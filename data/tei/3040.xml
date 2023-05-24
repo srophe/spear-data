@@ -299,7 +299,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3040-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2553"
                         passive="http://syriaca.org/person/2587">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -534,7 +534,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3040-26</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2553"
                         passive="http://syriaca.org/person/2545">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus

@@ -483,7 +483,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-33" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-33</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2432">
                         <desc>
@@ -502,7 +502,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-34" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-34</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/2432"
                         passive="http://syriaca.org/person/1529 http://syriaca.org/person/847">
                         <desc>A letter by <persName ref="http://syriaca.org/person/2432">Dioscorus I</persName> referenced 
