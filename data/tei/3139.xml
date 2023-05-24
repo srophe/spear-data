@@ -1,0 +1,173 @@
+<?xml-model href="https://raw.githubusercontent.com/srophe/srophe-eXist-app/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/srophe-eXist-app/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Severus of Antioch, Letter, <title
+                        ref="http://syriaca.org/work/3139">To Thomas, Bishop of Germanicea</title></title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+                <funder>Texas A&amp;M University</funder>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <respStmt>
+                    <resp>>Data architecture, data entry, editing, proofreading, and revision
+                        by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#dschwartz"
+                        >Daniel L. Schwartz</name>
+                </respStmt>
+                
+            </titleStmt> 
+            <editionStmt>
+                <edition n="1.0"/>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Syriaca.org: The Syriac Reference Portal</authority>
+                <idno type="URI">http://syriaca.org/spear/3139/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                            License.</p>
+                    </licence>
+                </availability>
+                <date>2020-01-03-05:00</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">http://syriaca.org/spear</idno>
+            </seriesStmt>
+            <seriesStmt>
+                <title level="m" xml:lang="en">The Letters of Severus of Antioch</title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">http://syriaca.org/spear/letters-severus</idno>
+                <biblScope unit="volume">
+                    <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                    <idno type="URI">http://syriaca.org/spear</idno>
+                </biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <listBibl>
+                    <head>Sources for the Data in this Born Digital Prosopography</head>
+                    <bibl type="primary">
+                        <title xml:lang="en">A Collection of Letters of Severus of Antioch</title>
+                        <title xml:lang="la" level="s">Patrologia Orientalis</title>
+                        <author><persName ref="http://syriaca.org/person/51">Severus of
+                            Antioch</persName></author>
+                        <editor><persName ref="http://syriaca.org/person/403">E. W.
+                            Brooks</persName></editor>
+                        <biblScope unit="tomus">14</biblScope>
+                        <ptr target="http://syriaca.org/bibl/671"/>
+                        <citedRange unit="p">264-72</citedRange>
+                        <citedRange unit="part">108</citedRange>
+                    </bibl>
+                    <bibl type="primary">
+                        <title xml:lang="en">To Thomas, Bishop of Germanicea</title>
+                        <author><persName ref="http://syriaca.org/person/51"/>Severus of
+                            Antioch</author>
+                        <ptr target="http://syriaca.org/work/3139"/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p><!-- POINT USERS TO WIKI DOCUMENTATION WHEN COMPLETED. --></p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="calculated">
+                        <catDesc> Used to denote a date calculated by the editor from a regnal year
+                            or some other dating method given in the text. </catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc/>
+        <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#dschwartz" when="2021-11" status="draft">CREATED</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
+                <idno type="URI">http://syriaca.org/spear/3139-1</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/falsification" notBefore="0519" notAfter="0538">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
+                            <persName ref="http://syriaca.org/person/57">Thomas of Germaniciea</persName>
+                            discussing in detail a late addition in the 
+                            <title ref="http://syriaca.org/work/9646">the Gospel of Matthew</title> indicating that the soldier
+                            who pierced the side of Christ did so before Christ had died.
+                            <listRelation>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/57" notBefore="0519" notAfter="0538"/>
+                            </listRelation>
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <citedRange unit="p">264-72</citedRange>
+                    <citedRange unit="part">108</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
+                <idno type="URI">http://syriaca.org/spear/3139-2</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/falsification" when="0511">
+                        <desc>
+                            During the investigation of 
+                            <persName ref="http://syriaca.org/person/2696">Macedonius II</persName> that led to his exile, there was close examination of 
+                            copies of <title ref="http://syriaca.org/work/9646">the Gospel of Matthew</title> showing that someone had falsely
+                            added the story of the soldier piercing the side of Christ.
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <citedRange unit="p">266</citedRange>
+                    <citedRange unit="part">108</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
+                <idno type="URI">http://syriaca.org/spear/3139-3</idno>
+                <listRelation>
+                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/480">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> 
+                            cited positively
+                            <persName ref="http://syriaca.org/person/480">Eusebius</persName>.
+                        </desc>
+                    </relation>
+                </listRelation>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <citedRange unit="p">270-72</citedRange>
+                    <citedRange unit="part">108</citedRange>
+                </bibl>
+            </ab>
+        </body>
+        <back>
+            <listBibl>
+                <head>Works Cited</head>
+                <bibl type="primary" xml:id="bibl3139-1">
+                    <title xml:lang="en">A Collection of Letters of Severus of Antioch</title>
+                    <title xml:lang="la" level="s">Patrologia Orientalis</title>
+                    <author><persName ref="http://syriaca.org/person/51">Severus of
+                        Antioch</persName></author>
+                    <editor><persName ref="http://syriaca.org/person/403">E. W.
+                        Brooks</persName></editor>
+                    <biblScope unit="tomus">14</biblScope>
+                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <citedRange unit="p">264-72</citedRange>
+                    <citedRange unit="part">108</citedRange>
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
