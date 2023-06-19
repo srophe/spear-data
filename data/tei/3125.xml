@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3125-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2597">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2597">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> and <persName ref="http://syriaca.org/person/2597">Anastasia</persName> 
                             expressed deep affection for one another in their letters.
