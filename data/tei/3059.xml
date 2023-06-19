@@ -115,7 +115,7 @@
                             <placeName ref="http://syriaca.org/place/2630">Apamea</placeName> 
                             following the death of the bishop 
                             <persName ref="http://syriaca.org/person/2578">Isaac</persName> in 
-                            <date when="0513"> 513 </date><!-- Alpi II, 68 --></persName>
+                            <date when="0513"> 513 </date></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -123,6 +123,13 @@
                     <citedRange unit="part">1.30</citedRange>
                     <citedRange unit="p">92</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">68</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-2</idno>
@@ -295,7 +302,7 @@
                         <persName ref="http://syriaca.org/person/3083"> The man given stewardship of
                             the church property of <placeName ref="http://syriaca.org/place/2630">
                                 Apamea </placeName><date notBefore="0513"
-                                ><!-- Alpi II, 68 ADD NOTE!--> after the death of <persName
+                                > after the death of <persName
                                     ref="http://syriaca.org/person/2578"> Isaac </persName> in 513
                             </date></persName>
                     </person>
@@ -305,7 +312,13 @@
                     <citedRange unit="part">1.30</citedRange>
                     <citedRange unit="p">95-96</citedRange>
                 </bibl>
-                <note/>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">68</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-13</idno>

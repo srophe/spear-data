@@ -122,7 +122,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3066"> Bishops under the metropolis
                             of <placeName ref="http://syriaca.org/place/2630"> Apamea </placeName>
-                            in <date when="0515"><!-- Date from Honigman, p. 58. --> 515
+                            in <date when="0515"> 515
                             </date></persName>
                     </personGrp>
                 </listPerson>
@@ -131,6 +131,13 @@
                     <citedRange unit="part">1.20</citedRange>
                     <citedRange unit="p">70</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Honigmann.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1379"/>
+                        <citedRange unit="p">58</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-2</idno>
@@ -138,7 +145,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3072"> Bishops present at a synod
                             in <placeName ref="http://syriaca.org/place/10"> Antioch </placeName> in
-                                <date when="0515"><!-- Date from Honigman, p. 58. --> 515
+                                <date when="0515"> 515
                             </date></persName>
                     </personGrp>
                 </listPerson>
@@ -147,6 +154,13 @@
                     <citedRange unit="part">1.20</citedRange>
                     <citedRange unit="p">70</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Honigmann.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1379"/>
+                        <citedRange unit="p">58</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-3</idno>

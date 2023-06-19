@@ -257,7 +257,7 @@
                <event ana="http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination" notBefore="0543">
                   <desc>
                      <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName> 
-                     <persName ref="http://syriaca.org/person/1336?">Conon</persName>, and 
+                     <persName ref="http://syriaca.org/person/1336">Conon</persName>, and 
                      <persName ref="http://syriaca.org/person/3208">Eugene</persName>
                      ordained non-Chalcedonian priests and bishops throughout the areas under his authority: 
                      <placeName ref="http://syriaca.org/place/486">Syria</placeName>, 
@@ -293,9 +293,9 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/1336?">Conon</persName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> 
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/1336">Conon</persName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> 
                      traveled to <placeName ref="http://syriaca.org/place/586">Constantinople</placeName> where <persName ref="http://syriaca.org/person/784">Theodosius</persName> directed them to travel to 
-                     <placeName ref="http://syriaca.org/place/572">Alexandria</placeName> so that <persName ref="http://syriaca.org/person/1336?">Conon</persName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> could be
+                     <placeName ref="http://syriaca.org/place/572">Alexandria</placeName> so that <persName ref="http://syriaca.org/person/1336">Conon</persName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> could be
                      ordained bishops.
                   </desc>
                </event>
@@ -315,10 +315,10 @@
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
                      <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName> and other bishops in Alexandria, with the blessing of <persName ref="http://syriaca.org/person/784">Theodosius</persName>
-                     ordained <persName ref="http://syriaca.org/person/1336?">Conon</persName> as bishop of <placeName ref="http://syriaca.org/place/2722">Tarsus</placeName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> 
+                     ordained <persName ref="http://syriaca.org/person/1336">Conon</persName> as bishop of <placeName ref="http://syriaca.org/place/2722">Tarsus</placeName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName> 
                      as bishop of <placeName ref="http://syriaca.org/place/2714">Seleucia</placeName>.
                      <listRelation>
-                        <relation type="person" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69" passive="http://syriaca.org/person/1336?" notBefore="0543"/>
+                        <relation type="person" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69" passive="http://syriaca.org/person/1336" notBefore="0543"/>
                      </listRelation>
                   </desc>
                </event>
@@ -357,9 +357,9 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/841-13</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/3208 http://syriaca.org/person/1336?" notBefore="0543">
+               <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/3208 http://syriaca.org/person/1336" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/3208">Eugene</persName> and <persName ref="http://syriaca.org/person/1336?">Conon</persName> 
+                     <persName ref="http://syriaca.org/person/3208">Eugene</persName> and <persName ref="http://syriaca.org/person/1336">Conon</persName> 
                      were fellow clergy.
                   </desc>
                </relation>
@@ -378,10 +378,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/3207">Dimet</persName> as bishop of <placeName ref="http://syriaca.org/place/2809">Laodicea</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/3207" notBefore="0543"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/3207" notBefore="0543"/>
                      </listRelation>
                   </desc>
                </event>
@@ -444,10 +444,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/3222">John</persName> as bishop of <placeName ref="http://syriaca.org/place/2714">Seleucia</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/3222" notBefore="0543"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/3222" notBefore="0543"/>
                      </listRelation>
                   </desc>
                </event>
@@ -510,10 +510,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/61">John</persName> as bishop.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/61" notBefore="0543"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/61" notBefore="0543"/>
                      </listRelation>
                   </desc>
                </event>
@@ -576,10 +576,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/71">Sergius</persName> as bishop of <placeName ref="http://syriaca.org/place/216">Harran</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/71"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/71"/>
                      </listRelation>
                   </desc>
                </event>
@@ -642,10 +642,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" notBefore="0543">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/3223">John</persName> as bishop of <placeName ref="http://syriaca.org/place/185">Sura Romanorum</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/3223" notBefore="0543"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/3223" notBefore="0543"/>
                      </listRelation>
                   </desc>
                </event>
@@ -708,11 +708,11 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops" when="0544">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      traveled to <placeName ref="http://syriaca.org/place/586">Constantinople</placeName> where they 
                      ordained <persName ref="http://syriaca.org/person/1463">Sergius</persName> as bishop of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/1463" when="0544"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/1463" when="0544"/>
                      </listRelation>
                   </desc>
                </event>
@@ -926,10 +926,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/74">John</persName> as bishop of <placeName ref="http://syriaca.org/place/2666">Ephesus</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/74"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/74"/>
                      </listRelation>
                   </desc>
                </event>
@@ -964,7 +964,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/74"/>
-                  <occupation ana="http://syriaca.org/keyword/bishop">
+                  <occupation ana="http://syriaca.org/keyword/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/74">John</persName> 
                         was bishop of <placeName ref="http://syriaca.org/place/2666">Ephesus</placeName>
@@ -986,10 +986,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/2011">Peter</persName> as bishop of <placeName ref="http://syriaca.org/place/2719">Smyrna</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/2011"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/2011"/>
                      </listRelation>
                   </desc>
                </event>
@@ -1030,10 +1030,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/3221">John</persName> as bishop of <placeName ref="http://syriaca.org/place/2829">Pergamum</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/74"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/74"/>
                      </listRelation>
                   </desc>
                </event>
@@ -1052,7 +1052,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3221"/>
-                  <occupation ana="http://syriaca.org/keyword/bishop">
+                  <occupation ana="http://syriaca.org/keyword/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3221">John</persName> 
                         was bishop of <placeName ref="http://syriaca.org/place/2829">Pergamum</placeName>
@@ -1074,10 +1074,10 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     While traveling in <placeName ref="http://syriaca.org/place/2747">Asia</placeName> <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      ordained <persName ref="http://syriaca.org/person/3243">Peter</persName> as bishop of <placeName ref="http://syriaca.org/place/2856">Tralles</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/74"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/74"/>
                      </listRelation>
                   </desc>
                </event>
@@ -1183,11 +1183,11 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      traveled to <placeName ref="http://syriaca.org/place/1472">Caria</placeName> where they ordained
                      <persName ref="http://syriaca.org/person/3240">Paul</persName> as bishop of <placeName ref="http://syriaca.org/place/2741">Aphrodisias</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/3240"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/3240"/>
                      </listRelation>
                   </desc>
                </event>
@@ -1228,11 +1228,11 @@
             <listEvent>
                <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops">
                   <desc>
-                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336?">Conon</persName>
+                     <persName ref="http://syriaca.org/person/69">Jacob Baradaeus</persName>, <persName ref="http://syriaca.org/person/3208">Eugene</persName>, and <persName ref="http://syriaca.org/person/1336">Conon</persName>
                      traveled to <placeName ref="http://syriaca.org/place/1472">Caria</placeName> where they ordained
                      <persName ref="http://syriaca.org/person/3228">Julian</persName> as bishop of <placeName ref="http://syriaca.org/place/2732">Alabanda</placeName>.
                      <listRelation>
-                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336?" passive="http://syriaca.org/person/3240"/>
+                        <relation type="personal" ref="http://syriaca.org/keyword/ordained" active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336" passive="http://syriaca.org/person/3240"/>
                      </listRelation>
                   </desc>
                </event>

@@ -365,7 +365,6 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3127"/>
-                        <!-- The Syriac term can mean either free born women or freedwomen. -->
                         <socecStatus ana="http://syriaca.org/keyword/freed-person">
                             <note type="desc"><persName ref="http://syriaca.org/person/3127">Anonymi
                                     3127</persName> were freewomen</note>
@@ -377,6 +376,9 @@
                     <citedRange unit="part">4.09</citedRange>
                     <citedRange unit="p">270</citedRange>
                 </bibl>
+                <note type="certainty" subtype="incerta">
+                    The Syriac term can mean either free born women or freedwomen.
+                </note>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-19" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3142-19</idno>

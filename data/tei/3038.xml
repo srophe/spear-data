@@ -526,7 +526,7 @@
                     <citedRange unit="part">1.13</citedRange>
                     <citedRange unit="p">55</citedRange>
                 </bibl>
-                <note> This date comes from Honigman. <bibl type="secondary">
+                <note> This date comes from Honigmann. <bibl type="secondary">
                         <ptr target="http://syriaca.org/bibl/1379"/>
                         <citedRange unit="p">119</citedRange>
                     </bibl></note>

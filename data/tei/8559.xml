@@ -3813,8 +3813,7 @@
                         <persName ref="http://syriaca.org/person/2209"> The orthodox who returned to
                             the city of <placeName ref="http://syriaca.org/place/78"> Edessa
                             </placeName> in <!-- According to Hallier, the chronicler made an error in his dating; this event took place on 27 December 378. Check Segal! --><choice>
-                                <reg><date when="0377-12" calendar="Gregorian">December A.
-                                    D.377</date></reg>
+                                <reg><date when="0377-12" calendar="Gregorian">December A.D. 377</date></reg>
                                 <orig><date when-custom="0689-03" datingMethod="Seleucid-SyriacMonths">Kānun I A. Gr.
                                         689</date></orig>
                             </choice> after being persecuted by the <persName ref="http://syriaca.org/person/2211"> Arians </persName></persName>
@@ -3837,8 +3836,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/holy-places" when="0377-12">
                         <desc> In <!-- According to Hallier, the chronicler made an error in his dating; this event took place on 27 December 378. Check Segal! --><choice>
-                                <reg><date when="0377-12" calendar="Gregorian">December A.
-                                    D.377</date></reg>
+                                <reg><date when="0377-12" calendar="Gregorian">December A.D. 377</date></reg>
                                 <orig><date when-custom="0689-03" datingMethod="Seleucid-SyriacMonths">Kānun I A. Gr.
                                         689</date></orig>
                             </choice><persName ref="http://syriaca.org/person/2209"> The orthodox
