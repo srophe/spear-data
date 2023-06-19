@@ -342,8 +342,7 @@
                     <event>
                         <desc>
                             <persName ref="http://syriaca.org/person/2540">Theodore</persName>
-                            sent a letter to <persName ref="http://syriaca.org/person/2539"
-                                >Cosmas</persName>.
+                            sent a letter to <persName ref="http://syriaca.org/person/2539">Cosmas</persName>.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2540" passive="http://syriaca.org/person/2539"/>
                             </listRelation>

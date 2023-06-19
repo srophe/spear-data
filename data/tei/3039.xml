@@ -111,9 +111,7 @@
                 <idno type="URI">https://spear-prosop.org/3039-1</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/3053"
-                            ><!-- the fathers were sent the letter through the monastery at Aphthoria, they are not located in Aphthoria -->
-                            The fathers </persName>
+                        <persName ref="http://syriaca.org/person/3053">The fathers </persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">

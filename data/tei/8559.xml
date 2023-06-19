@@ -6181,7 +6181,6 @@
                         <desc> In 
                             <choice>
                                 <reg><date when="0431" calendar="Gregorian">431</date></reg>
-                                <!-- Encoding description: Since A. Gr. refers to parts of two years in the Gregorian calendar, the dates of well-known events with uncontested dates are simply listed as occurring in the asknowledged year rather than listing a two-year span. -->
                                 <orig><date when-custom="0742" datingMethod="Seleucid">A. Gr. 742</date></orig>
                             </choice> 
                             the first Council of <placeName ref="http://syriaca.org/place/623">Ephesus</placeName> was

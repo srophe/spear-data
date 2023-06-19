@@ -264,10 +264,8 @@
                 <idno type="URI">https://spear-prosop.org/3071-10</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/3093"
-                            ><!-- See Letter I.38 #3072 --> The chorepiscopus and periodeutes in the
-                            village of <placeName ref="http://syriaca.org/place/198"> Thelhadin
-                            </placeName></persName>
+                        <persName ref="http://syriaca.org/person/3093"><!-- See Letter I.38 #3072 --> The chorepiscopus and periodeutes in the
+                            village of <placeName ref="http://syriaca.org/place/198">Thelhadin</placeName></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">

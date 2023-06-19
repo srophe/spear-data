@@ -274,7 +274,6 @@
                             <placeName ref="http://syriaca.org/place/526">Persia</placeName>
                             <note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName> was born in 
                                 <placeName ref="http://syriaca.org/place/526">Persia</placeName>.
-                                <!-- John notes that all four saints in this account were born in Syria before noting that Abraham was from Persia. -->
                             </note></birth>
                     </person>
                 </listPerson>

@@ -405,11 +405,9 @@
                 <idno type="URI">https://spear-prosop.org/3049-16</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/3070"> The Bishop of <placeName
-                                ref="http://syriaca.org/place/2708"
-                                ><!-- This URI is for the settlement, not the diocese --> Rhaphania
-                            </placeName> in <date when="0515"> 515
-                            </date><!-- Date from Alpi II, 80-81 --></persName>
+                        <persName ref="http://syriaca.org/person/3070">
+                            The Bishop of <placeName ref="http://syriaca.org/place/2708" >Rhaphania</placeName> 
+                            in <date when="0515"> 515</date><!-- Date from Alpi II, 80-81 --></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">

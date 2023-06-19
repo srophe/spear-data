@@ -282,7 +282,6 @@
                                 <persName ref="http://syriaca.org/person/3040">Anonymi
                                 3040</persName>.</desc>
                     </relation>
-                    <!-- Not sure if a petition to the church rises to the level of bringing formal legal charges against another entity. Good question. Let's go with yes, since the ruling given in response to a petition had legal force. -->
                 </listRelation>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>

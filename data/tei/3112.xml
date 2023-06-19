@@ -99,7 +99,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2455"> Theodore, presbyter and
-                            archimandrite of <placeName ref="http://syriaca.org/place/1466"><!-- There was another Mor Romanos in Syria [Ps.-Zach. Rhetor viii.5.c] but this one seems to be in Palestine. -->
+                            archimandrite of <placeName ref="http://syriaca.org/place/1466">
                                 the monastery of Father Romanus among the saints
                             </placeName></persName>
                     </person>

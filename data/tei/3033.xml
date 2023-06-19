@@ -118,9 +118,7 @@
                 <idno type="URI">https://spear-prosop.org/3033-1</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2531"
-                            ><!-- Since Timostratus is a duke, should we add a social rank div?  -->
-                            Timostratus, the Duke </persName>
+                        <persName ref="http://syriaca.org/person/2531">Timostratus, the Duke </persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -201,10 +199,8 @@
                 <idno type="URI">https://spear-prosop.org/3033-6</idno>
                 <listPerson>
                     <personGrp>
-                        <!-- The discussion here is so vague that even though Severus breaks this group down into three, I've decided to encode them together as one anonymi -->
                         <persName ref="http://syriaca.org/person/3041"> Certain persons who
-                            ceaselessly sought ordination from <persName
-                                ref="http://syriaca.org/person/51"> Severus </persName> sometime
+                            ceaselessly sought ordination from <persName ref="http://syriaca.org/person/51">Severus</persName> sometime
                             between <date notBefore="0513" notAfter="0518"> 513-518
                             </date></persName>
                     </personGrp>

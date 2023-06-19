@@ -160,11 +160,9 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2413"/>
-                        <!-- I'm including the URI for Seleucia and Isaria in this div because these place names were not in the PersName div. -->
                         <occupation ana="http://syriaca.org/keyword/priests">
-                            <note type="desc"><persName ref="http://syriaca.org/person/2413"
-                                    >Maximus</persName> was a presbyter of <placeName
-                                    ref="http://syriaca.org/place/2714"> Seleucia</placeName>.</note>
+                            <note type="desc"><persName ref="http://syriaca.org/person/2413">Maximus</persName> was a presbyter of 
+                                <placeName ref="http://syriaca.org/place/2714">Seleucia</placeName>.</note>
                         </occupation>
                     </person>
                 </listPerson>
