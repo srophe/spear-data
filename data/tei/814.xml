@@ -171,7 +171,7 @@
                     <event ana="http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
-                            founded twelve monasteries over the course of twenty-five years..
+                            founded twelve monasteries over the course of twenty-five years.
                         </desc>
                     </event>
                 </listEvent>
@@ -243,11 +243,11 @@
                     <person>
                         <persName ref="http://syriaca.org/person/1117"/>
                         <death>
-                            <placeName ref="http://syriaca.org/place/3048">A monastery built by Addai and Abraham.</placeName>
+                            <placeName ref="http://syriaca.org/place/3048">A monastery built by Addai and Abraham</placeName>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/1117">Addai</persName>
                                 died in 
-                                <placeName ref="http://syriaca.org/place/3048">a monastery that Addai built.</placeName>. </note></death>
+                                <placeName ref="http://syriaca.org/place/3048">a monastery that Addai built</placeName>. </note></death>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">300</citedRange></bibl>

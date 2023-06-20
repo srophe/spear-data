@@ -111,7 +111,7 @@
                 <idno type="URI">https://spear-prosop.org/3059-1</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/3080" ><!-- See Letter I.39 #3073 --> The clergy of 
+                        <persName ref="http://syriaca.org/person/3080">The clergy of 
                             <placeName ref="http://syriaca.org/place/2630">Apamea</placeName> 
                             following the death of the bishop 
                             <persName ref="http://syriaca.org/person/2578">Isaac</persName> in 

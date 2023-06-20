@@ -336,15 +336,15 @@
                     <citedRange unit="p">48</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ktorabi #dschwartz"><!-- check for detail re this letter -->
+            <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3035-15</idno>
                 <listEvent>
-                    <event>
+                    <event ana="http://syriaca.org/keyword/letters" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/2540">Theodore</persName>
-                            sent a letter to <persName ref="http://syriaca.org/person/2539">Cosmas</persName>.
+                            sent letters to <persName ref="http://syriaca.org/person/2539">Cosmas</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2540" passive="http://syriaca.org/person/2539"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2540" passive="http://syriaca.org/person/2539" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

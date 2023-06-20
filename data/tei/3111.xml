@@ -630,7 +630,6 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-42" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3111-42</idno>
                 <listRelation>
-                    <!-- According to Severus (p. 222), Epiphanius elevated Isaiah to the station of presbyter in his last will and testament, and not bishop, as Isaiah claims. -->
                     <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
                         active="http://syriaca.org/person/2562"
                         passive="http://syriaca.org/person/2496">

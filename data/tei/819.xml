@@ -560,7 +560,7 @@
                         <persName ref="http://syriaca.org/person/3694"> The blessed Syrians, who
                             fled from those who supported the Council of Chalcedon to the village
                             named <placeName ref="http://syriaca.org/place/2820">Mendis</placeName>
-                            at a later time. </persName>
+                            at a later time</persName>.
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/819"/><citedRange unit="p">346</citedRange></bibl>

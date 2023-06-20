@@ -363,7 +363,7 @@
                         <occupation ana="http://syriaca.org/keyword/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/3266"
                                     >Theodore</persName> was a bishop in <placeName
-                                    ref="http://syriaca.org/place/716">Arabia.</placeName></note>
+                                    ref="http://syriaca.org/place/716">Arabia</placeName>.</note>
                         </occupation>
                     </person>
                 </listPerson>

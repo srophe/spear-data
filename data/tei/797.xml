@@ -757,7 +757,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
                         <death>
-                            <placeName ref="http://syriaca.org/place/2837">the monastery of Qlwfyte.</placeName>
+                            <placeName ref="http://syriaca.org/place/2837">the monastery of Qlwfyte</placeName>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3154">Sergius</persName> died in 
                                 <placeName ref="http://syriaca.org/place/2837">the monastery of Qlwfyte</placeName>. 
@@ -774,10 +774,10 @@
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
                         <death>
-                            <placeName ref="http://syriaca.org/place/2837">The monastery of Qlwfyte.</placeName>
+                            <placeName ref="http://syriaca.org/place/2837">The monastery of Qlwfyte</placeName>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2095">Simeon</persName> died in 
-                                <placeName ref="http://syriaca.org/place/2837">the monastery of Qlwfyte.</placeName>. </note></death>
+                                <placeName ref="http://syriaca.org/place/2837">the monastery of Qlwfyte</placeName>.. </note></death>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">108</citedRange></bibl>

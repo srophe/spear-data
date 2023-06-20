@@ -310,7 +310,7 @@
                         <persName ref="http://syriaca.org/person/3617">Wealthy residents of
                                 <placeName ref="http://syriaca.org/place/2792">camp of the
                                 Saracens</placeName> who built Christian churches after they
-                            converted to Christianity. </persName>
+                            converted to Christianity</persName>.
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">140</citedRange></bibl>
@@ -698,8 +698,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3622">The ambassadors of the
-                                <persName ref="http://syriaca.org/person/3191"> Aethiopian king.
-                            </persName></persName>
+                                <persName ref="http://syriaca.org/person/3191"> Aethiopian king</persName>.</persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>

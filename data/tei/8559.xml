@@ -83,7 +83,7 @@
                 </taxonomy>
             </classDecl>
         </encodingDesc>
-        <profileDesc><!-- HAVE WE USED THIS CORRECTLY IN THE GAZETTEER? GUIDELINES HAVE NO EXAMPLE OF USE WITH A "BORN DIGITAL" DOC. ALL EXAMPLES DESCRIBE THE DOCUMENT ENCODED. --></profileDesc>
+        <profileDesc/>
         <revisionDesc status="draft">
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-03-05:00">CHANGED: Add a human readable version or the tei:relation element in a tei:desc.</change><change status="draft"/>
         </revisionDesc>
@@ -3812,10 +3812,10 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/2209"> The orthodox who returned to
                             the city of <placeName ref="http://syriaca.org/place/78"> Edessa
-                            </placeName> in <!-- According to Hallier, the chronicler made an error in his dating; this event took place on 27 December 378. Check Segal! --><choice>
-                                <reg><date when="0377-12" calendar="Gregorian">December A.D. 377</date></reg>
-                                <orig><date when-custom="0689-03" datingMethod="Seleucid-SyriacMonths">Kānun I A. Gr.
-                                        689</date></orig>
+                            </placeName> in 
+                            <choice>
+                                <sic><date when="0377-12" calendar="Gregorian">December A.D. 377</date></sic>
+                                <corr><date when="0378-12" calendar="Gregorian">December A.D. 378</date></corr>
                             </choice> after being persecuted by the <persName ref="http://syriaca.org/person/2211"> Arians </persName></persName>
                     </personGrp>
                 </listPerson>
@@ -3830,17 +3830,25 @@
                     <ptr target="http://syriaca.org/bibl/657"/>
                     <citedRange unit="part">33</citedRange>
                 </bibl>
+                <note type="desc">
+                    Hallier rightly points out that chronicler made an error in the date. Instead of December 377, it should be December 378.
+                    <bibl type="secondary">
+                        <ptr target="https://syriaca.org/bibl/660"/>
+                        <citedRange unit="p">102</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-168" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-168</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/holy-places" when="0377-12">
-                        <desc> In <!-- According to Hallier, the chronicler made an error in his dating; this event took place on 27 December 378. Check Segal! --><choice>
-                                <reg><date when="0377-12" calendar="Gregorian">December A.D. 377</date></reg>
-                                <orig><date when-custom="0689-03" datingMethod="Seleucid-SyriacMonths">Kānun I A. Gr.
-                                        689</date></orig>
-                            </choice><persName ref="http://syriaca.org/person/2209"> The orthodox
-                            </persName> recovered the <placeName ref="http://syriaca.org/place/2588"> Church of <placeName ref="http://syriaca.org/place/78"> Edessa
+                    <event ana="http://syriaca.org/keyword/holy-places" when="0378-12">
+                        <desc> In 
+                            <choice>
+                                <sic><date when="0377-12" calendar="Gregorian">December A.D. 377</date></sic>
+                                <corr><date when="0378-12" calendar="Gregorian">December A.D. 378</date></corr>
+                            </choice>
+                            <persName ref="http://syriaca.org/person/2209">The orthodox</persName> recovered the 
+                            <placeName ref="http://syriaca.org/place/2588"> Church of <placeName ref="http://syriaca.org/place/78"> Edessa
                                 </placeName></placeName>. </desc>
                     </event>
                 </listEvent>
@@ -3855,6 +3863,13 @@
                     <ptr target="http://syriaca.org/bibl/657"/>
                     <citedRange unit="part">33</citedRange>
                 </bibl>
+                <note type="desc">
+                    Hallier rightly points out that chronicler made an error in the date. Instead of December 377, it should be December 378.
+                    <bibl type="secondary">
+                        <ptr target="https://syriaca.org/bibl/660"/>
+                        <citedRange unit="p">102</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-169" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-169</idno>
@@ -8565,7 +8580,7 @@
                                 <reg><date notBefore="0498-10" notAfter="0499-09" calendar="Gregorian">498/9</date></reg>
                                 <orig><date when-custom="0810" datingMethod="Seleucid">A. Gr.
                                         810</date></orig>
-                            </choice><!-- The Emmaus identification comes from Hallier. --></persName>
+                            </choice></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -8579,6 +8594,13 @@
                     <ptr target="http://syriaca.org/bibl/657"/>
                     <citedRange unit="part">76</citedRange>
                 </bibl>
+                <note type="desc">
+                    I follow Hallier in identifying this location as Nicopolis.
+                    <bibl type="secondary">
+                        <ptr target="https://syriaca.org/bibl/660"/>
+                        <citedRange unit="p">118-19</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-385" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-385</idno>
@@ -8700,7 +8722,7 @@
                                         810</date></orig>
                             </choice><persName ref="http://syriaca.org/person/2217"> the inhabitants
                                 of <placeName ref="http://syriaca.org/place/2574"> Nicopolis
-                                </placeName><!-- The Emmaus identification comes from Hallier. --></persName>
+                                </placeName></persName>
                             died in an earthquake. </desc>
                     </event>
                 </listEvent>
@@ -8724,6 +8746,13 @@
                             </desc>
                         </relation>
                     </listRelation>
+                </note>
+                <note type="desc">
+                    I follow Hallier in identifying this location as Nicopolis.
+                    <bibl type="secondary">
+                        <ptr target="https://syriaca.org/bibl/660"/>
+                        <citedRange unit="p">118-19</citedRange>
+                    </bibl>
                 </note>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-390" resp="#dschwartz">

@@ -111,7 +111,7 @@
                 <idno type="URI">https://spear-prosop.org/3073-1</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/3080"><!-- See Letter I.30 #3059 --> The clergy of 
+                        <persName ref="http://syriaca.org/person/3080">The clergy of 
                             <placeName ref="http://syriaca.org/place/2630"> Apamea </placeName> in <date when="0513"> 513 </date></persName>
                     </personGrp>
                 </listPerson>
