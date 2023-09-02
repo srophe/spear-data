@@ -891,7 +891,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <nationality><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was from <placeName ref="http://syriaca.org/place/2737">Amida</placeName>.</note></nationality>
+                        <state type="citizenship">
+                            <placeName ref="http://syriaca.org/place/8"/>
+                            <note type="desc">
+                                <persName ref="http://syriaca.org/person/3185">Abraham</persName> was from 
+                                <placeName ref="http://syriaca.org/place/8">Amida</placeName>.</note>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
@@ -2182,7 +2187,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3677"><persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName> of
                                 the <placeName ref="http://syriaca.org/place/399">Convent of John
-                                Urtaya</placeName> who accompanied <persName ref="http://syriaca.org/person/3183">Abba</persName> into exile</persName>.
+                                Urtaya</placeName> who accompanied <persName ref="http://syriaca.org/person/3183">Abba</persName> into exile.</persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">570</citedRange></bibl>

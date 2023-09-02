@@ -735,12 +735,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2562"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/1469"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2562"
                                     >Epiphanius</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/1469">Perga</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">

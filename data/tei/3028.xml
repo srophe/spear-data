@@ -387,12 +387,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2517"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/215"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2517"
                                     >Irenaeus</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/215">Emesa</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -541,12 +541,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2516"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/196"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2516"
                                     >Anatolius</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/196">Tarsus</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">

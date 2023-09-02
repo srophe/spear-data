@@ -177,13 +177,13 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2495"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/633"/>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2495">Gregory</persName> was from 
                                 <placeName ref="http://syriaca.org/place/633">Pontus</placeName>.
                             </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -240,13 +240,13 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2496"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/2743"/>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2496">Isaiah</persName> was from 
                                 <placeName ref="http://syriaca.org/place/2743">Armenia</placeName>.
                             </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
