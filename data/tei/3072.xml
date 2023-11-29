@@ -35,7 +35,7 @@
                 <idno type="URI">https://spear-prosop.org/3072/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -282,7 +282,6 @@
                                     ref="http://syriaca.org/person/3093">Anonymous 3093</persName> had a professional
                             relationship.</desc>
                     </relation>
-                    <!-- Fix anonymous1 and fix schema. -->
                 </listRelation>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>

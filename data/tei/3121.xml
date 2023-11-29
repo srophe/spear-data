@@ -28,7 +28,7 @@
                 <idno type="URI">https://spear-prosop.org/3121/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -341,13 +341,13 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2626"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/1476"/>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2626">Charisius</persName> was from 
                                 <placeName ref="http://syriaca.org/place/1476">Philadelphia</placeName>.
                             </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">

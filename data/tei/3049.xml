@@ -306,7 +306,7 @@
                         <persName ref="http://syriaca.org/person/3072"> The God-loving bishops
                             attending a synod in <placeName ref="http://syriaca.org/place/10">
                                 Antioch </placeName> in <date when="0515"> 515
-                            </date><!-- Date from Alpi II, 80-81 --></persName>
+                            </date></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -314,7 +314,13 @@
                     <citedRange unit="part">1.21</citedRange>
                     <citedRange unit="p">73</citedRange>
                 </bibl>
-                <note/>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">80-81</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3049-11</idno>
@@ -339,7 +345,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3068"> The Bishop of <placeName
                                 ref="http://syriaca.org/place/91"> Epiphania </placeName> in <date
-                                when="0515"> 515 </date><!-- Date from Alpi II, 80-81 --></persName>
+                                when="0515"> 515 </date></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -347,6 +353,13 @@
                     <citedRange unit="part">1.21</citedRange>
                     <citedRange unit="p">73</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">80-81</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3049-13</idno>
@@ -405,11 +418,9 @@
                 <idno type="URI">https://spear-prosop.org/3049-16</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/3070"> The Bishop of <placeName
-                                ref="http://syriaca.org/place/2708"
-                                ><!-- This URI is for the settlement, not the diocese --> Rhaphania
-                            </placeName> in <date when="0515"> 515
-                            </date><!-- Date from Alpi II, 80-81 --></persName>
+                        <persName ref="http://syriaca.org/person/3070">
+                            The Bishop of <placeName ref="http://syriaca.org/place/2708" >Rhaphania</placeName> 
+                            in <date when="0515"> 515</date></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -417,6 +428,13 @@
                     <citedRange unit="part">1.21</citedRange>
                     <citedRange unit="p">73</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">80-81</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-17" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3049-17</idno>

@@ -24,7 +24,7 @@
             </titleStmt>
             <editionStmt>
                 <edition n="1.0"/>
-                <!-- Check edition -->
+                
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
@@ -248,7 +248,7 @@
                     <event ana="http://syriaca.org/keyword/asceticism">
                         <desc><persName ref="http://syriaca.org/person/1880">Mary</persName>
                             travelled to <placeName ref="http://syriaca.org/place/2781">Golgotha,
-                                where she prayed and fasted for three days.</placeName></desc>
+                                where she prayed and fasted for three days</placeName>.</desc>
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/804"/><citedRange unit="p">167</citedRange></bibl>
@@ -462,7 +462,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3611"> The men and women expelled
                             from their monasteries during the persecution whom <persName ref="http://syriaca.org/person/3025">Euphemia</persName> tried to
-                            help by securing rooms for them. </persName>
+                            help by securing rooms for them</persName>.
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/804"/><citedRange unit="p">176</citedRange></bibl>

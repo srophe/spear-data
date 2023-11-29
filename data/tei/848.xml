@@ -553,10 +553,10 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/848-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/3224 http://syriaca.org/person/2108">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/3224 http://syriaca.org/person/2108">
                         <desc>
                             <persName ref="http://syriaca.org/person/3224">John</persName> and <persName ref="http://syriaca.org/person/2108">Theodore</persName> 
-                            had an intimate relationship.
+                            had a friendship.
                         </desc>
                     </relation>
                 </listRelation>

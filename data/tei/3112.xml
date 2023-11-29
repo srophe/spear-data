@@ -99,7 +99,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2455"> Theodore, presbyter and
-                            archimandrite of <placeName ref="http://syriaca.org/place/1466"><!-- There was another Mor Romanos in Syria [Ps.-Zach. Rhetor viii.5.c] but this one seems to be in Palestine. -->
+                            archimandrite of <placeName ref="http://syriaca.org/place/1466">
                                 the monastery of Father Romanus among the saints
                             </placeName></persName>
                     </person>
@@ -248,8 +248,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3112"> The archimandrites banished
-                            from <placeName ref="http://syriaca.org/place/149"><!-- The URI listed in the chart for Palestine is 2701 -->
-                                Palestine </placeName> during <date notBefore="0525" notAfter="0531"> the late 520s </date></persName>
+                            from <placeName ref="http://syriaca.org/place/149">Palestine</placeName> during <date notBefore="0525" notAfter="0531"> the late 520s </date></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -275,8 +274,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3113"> Those who created divisions
                             between the non-Chalcedonian churches of <placeName ref="http://syriaca.org/place/2298"> Egypt </placeName> and
-                                <placeName ref="http://syriaca.org/place/2604"><!-- This is the URI for the region, not the province --> the East
-                            </placeName> during <date notBefore="0525" notAfter="0531"> the late
+                                <placeName ref="http://syriaca.org/place/2604">the East</placeName> during <date notBefore="0525" notAfter="0531"> the late
                                 520s </date></persName>
                     </personGrp>
                 </listPerson>
@@ -321,7 +319,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2440"/>
-                        <!-- I included the place name URI in this div because there is no place name in the persname div. -->
                         <occupation ana="http://syriaca.org/keyword/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2440">Timothy</persName> was Bishop of <placeName ref="http://syriaca.org/place/2620"> Alexandria
                                 </placeName></note>

@@ -1,4 +1,5 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +25,7 @@
             </titleStmt>
             <editionStmt>
                 <edition n="1.0"/>
-                <!-- Check edition -->
+                
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
@@ -181,9 +182,11 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/emperors" when="0518">
                         <desc><persName ref="http://syriaca.org/person/2268">Justin</persName>
-                            became the new emperor upon <persName ref="http://syriaca.org/person/2265">Anastasius</persName>'s death
-                            in <date when="0518"> 518 (830 Alexander).
-                            </date><!-- Check original and give Gk date if it's in the text. --></desc>
+                            became the new emperor upon <persName ref="http://syriaca.org/person/2265">Anastasius</persName>'s death in 
+                            <choice>
+                                <reg><date when="0518" calendar="Gregorian">518</date></reg>
+                                <orig><date when-custom="830" calendar="Seleucid">830</date></orig>
+                            </choice>.</desc>
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/805"/><citedRange unit="p">187</citedRange></bibl>
@@ -229,8 +232,12 @@
                     <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile" when="0518">
                         <desc><persName ref="http://syriaca.org/person/2268">Justin</persName>
                             introduced the impious synod of Chalcedon. Those who did not assent,
-                            lived under persecution and exile. This began in the year <date when="0518"> 518 (830 Alexander).
-                            </date><!-- Check original and give Gk date if it's in the text. --></desc>
+                            lived under persecution and exile. This began in the year 
+                            <choice>
+                                <reg><date when="0518" calendar="Gregorian">518</date></reg>
+                                <orig><date when-custom="830" calendar="Seleucid">830</date></orig>
+                            </choice>
+                        </desc>
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/805"/><citedRange unit="p">187</citedRange></bibl>
@@ -820,7 +827,6 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3604"/>
-                        <!-- URI needed for this group -->
                         <residence><placeName ref="http://syriaca.org/place/2820"/><note type="desc"><persName ref="http://syriaca.org/person/3604">Anonymi
                                     3604</persName> resided in exile near the village of <placeName ref="http://syriaca.org/place/2820">Mendis</placeName>.
                             </note></residence>
@@ -953,7 +959,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3605"/>
-                        <!-- URI needed -->
                         <trait type="gender" ana="http://syriaca.org/keyword/male">
                             <note type="desc"><persName ref="http://syriaca.org/person/3605">Anonymous 3605</persName> was male.</note>
                         </trait>
@@ -1039,7 +1044,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3606"/>
-                        <!-- URI needed -->
                         <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/3606">Anonymous
                                     3606</persName> was a deaconess.</note></occupation>
                     </person>
@@ -1089,7 +1093,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3607"/>
-                        <!-- URI needed -->
                         <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/3607">Anonymous
                                     3607</persName> was a deaconess.</note></occupation>
                     </person>

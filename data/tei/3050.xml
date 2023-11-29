@@ -34,7 +34,7 @@
                 <idno type="URI">https://spear-prosop.org/3050/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -152,7 +152,6 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-7</idno>
                 <listRelation>
-                    <!-- I thought this would be the best way to encode the relationship between Musonius and Solon; however, their alliance is profesional, rather than personal.  I did not see an @type "professional" AllianceWith option in the spreadsheet. -->
                     <relation type="person" ref="http://syriaca.org/keyword/alliance-with"
                         mutual="http://syriaca.org/person/2460 http://syriaca.org/person/2417">
                         <desc><persName ref="http://syriaca.org/person/2460">Musonius</persName> and

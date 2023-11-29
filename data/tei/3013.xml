@@ -115,7 +115,6 @@
     </teiHeader>
     <text>
         <body>
-            <!-- The URI's for all occupations listed in this document may need to be revised. -->
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3013-1</idno>
                 <listPerson>
@@ -317,7 +316,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3013-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/3033"
                         passive="http://syriaca.org/person/51 http://syriaca.org/person/2669">
                         <desc>A letter between <persName ref="http://syriaca.org/person/3033"

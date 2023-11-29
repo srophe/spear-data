@@ -217,7 +217,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2533"/>
-                        <!-- I included the place name in this div since the place name was not included in the persname div. -->
                         <occupation ana="http://syriaca.org/keyword/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2533"
                                     >Stephen</persName> was a presbyter of <placeName
@@ -347,7 +346,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3086-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2532"
                         passive="http://syriaca.org/person/2534">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -432,7 +431,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3086-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2532"
                         passive="http://syriaca.org/person/2535">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus

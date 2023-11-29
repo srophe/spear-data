@@ -317,7 +317,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3028-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/2518">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -387,12 +387,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2517"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/215"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2517"
                                     >Irenaeus</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/215">Emesa</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -471,7 +471,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3028-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/2520">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -541,12 +541,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2516"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/196"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2516"
                                     >Anatolius</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/196">Tarsus</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -577,7 +577,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/56"
-                            ><!-- Since Oecumenius is a count, should we add a Social Rank div? -->
+                            >
                             Count Oecumenius </persName>
                     </person>
                 </listPerson>
@@ -624,7 +624,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-33" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3028-33</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/56">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -645,11 +645,11 @@
                 <idno type="URI">https://spear-prosop.org/3028-34</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/56">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName ref="http://syriaca.org/person/56"
-                                >Oecumenius, comes</persName> had an intimate relationship.</desc>
+                                >Oecumenius, comes</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -979,7 +979,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-55" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3028-55</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/epistolary-reference-to"
+                    <relation type="person" ref="http://syriaca.org/keyword/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/2525 http://syriaca.org/person/2524 http://syriaca.org/person/2523 http://syriaca.org/person/2522">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -1000,12 +1000,11 @@
                 <idno type="URI">https://spear-prosop.org/3028-56</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/2525">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
-                                ref="http://syriaca.org/person/2525">John</persName> had an intimate
-                            relationship.</desc>
+                                ref="http://syriaca.org/person/2525">John</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -1018,12 +1017,11 @@
                 <idno type="URI">https://spear-prosop.org/3028-57</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/2524">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
-                                ref="http://syriaca.org/person/2524">Sergius</persName> had an
-                            intimate relationship.</desc>
+                                ref="http://syriaca.org/person/2524">Sergius</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -1036,12 +1034,11 @@
                 <idno type="URI">https://spear-prosop.org/3028-58</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/2523">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
-                                ref="http://syriaca.org/person/2523">Peter</persName> had an
-                            intimate relationship.</desc>
+                                ref="http://syriaca.org/person/2523">Peter</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -1054,12 +1051,11 @@
                 <idno type="URI">https://spear-prosop.org/3028-59</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/2522">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
-                                ref="http://syriaca.org/person/2522">Maximin</persName> had an
-                            intimate relationship.</desc>
+                                ref="http://syriaca.org/person/2522">Maximin</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

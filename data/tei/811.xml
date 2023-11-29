@@ -158,10 +158,10 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/74">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/74">
                         <desc>
                             <persName ref="http://syriaca.org/person/2153">Zacharias</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
-                            had a intimate relationship.
+                            had a close friendship.
                         </desc>
                     </relation>
                 </listRelation>

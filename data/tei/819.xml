@@ -1,4 +1,5 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +24,7 @@
             </titleStmt>
             <editionStmt>
                 <edition n="1.0"/>
-                <!-- Check edition -->
+                
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
@@ -303,7 +304,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
                         <residence>
-                            <placeName ref="http://syriaca.org/place/3049"/><!-- Does this need a URI? -->
+                            <placeName ref="http://syriaca.org/place/3049"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2092">Susan</persName> 
                                 resided in <placeName ref="http://syriaca.org/place/3049">a women's monastery</placeName> between <placeName ref="http://syriaca.org/place/674">Ascalon</placeName> and
                                 <placeName ref="http://syriaca.org/place/87">Gaza</placeName></note></residence>
@@ -417,7 +418,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3660"/>
-                        <!-- URI needed for the women of the monastery between Ascalon and Gaza -->
                         <occupation ana="http://syriaca.org/keyword/nuns"><note type="desc"><persName ref="http://syriaca.org/person/3660">Anonymi
                                     3660</persName> were nuns.</note></occupation>
                     </person>
@@ -560,7 +560,7 @@
                         <persName ref="http://syriaca.org/person/3694"> The blessed Syrians, who
                             fled from those who supported the Council of Chalcedon to the village
                             named <placeName ref="http://syriaca.org/place/2820">Mendis</placeName>
-                            at a later time. </persName>
+                            at a later time</persName>.
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/819"/><citedRange unit="p">346</citedRange></bibl>

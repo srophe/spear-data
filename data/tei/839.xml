@@ -234,7 +234,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-14</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/patronage">
+               <event ana="http://syriaca.org/keyword/patronage" from="0538" to="0548-06-28">
                   <desc>
                      Following the self-exile of <persName ref="http://syriaca.org/person/1592">Anthimus</persName>, 
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> hid him in one of her palaces. Only she
@@ -242,7 +242,7 @@
                      <persName ref="http://syriaca.org/person/3769">Anonymous 3769</persName> knew about this. He remained in 
                      hiding <date from="0538" to="0548-06-28" calendar="Gregorian">for ten years, ending with the death of Theodora.</date>
                      <listRelation>
-                        <relation type="person" ref="http://syriaca.org/keyword/patron-of" active="http://syriaca.org/person/779" passive="http://syriaca.org/person/1592"/>
+                        <relation type="person" ref="http://syriaca.org/keyword/patron-of" active="http://syriaca.org/person/779" passive="http://syriaca.org/person/1592" from="0538" to="0548-06-28"/>
                      </listRelation>
                   </desc>
                </event>

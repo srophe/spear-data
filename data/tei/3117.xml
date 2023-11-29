@@ -35,7 +35,7 @@
                 <idno type="URI">https://spear-prosop.org/3117/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -274,7 +274,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3117-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2568">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2568">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> and 
                             <persName ref="http://syriaca.org/person/2568">Theotecnus</persName>
@@ -289,7 +289,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3117-13</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/2764 http://syriaca.org/person/2568">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/2764 http://syriaca.org/person/2568">
                         <desc>
                             <persName ref="http://syriaca.org/person/2568">Theotecnus</persName> and 
                             <persName ref="http://syriaca.org/person/2764">Thecla</persName>

@@ -526,7 +526,7 @@
                     <citedRange unit="part">1.13</citedRange>
                     <citedRange unit="p">55</citedRange>
                 </bibl>
-                <note> This date comes from Honigman. <bibl type="secondary">
+                <note> This date comes from Honigmann. <bibl type="secondary">
                         <ptr target="http://syriaca.org/bibl/1379"/>
                         <citedRange unit="p">119</citedRange>
                     </bibl></note>
@@ -636,9 +636,9 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3049"> The Bishops of <placeName
                                 ref="http://syriaca.org/place/2669"
-                                ><!-- This URI is for Galatia the region. --> Galatia </placeName>
+                                >Galatia</placeName>
                             who attended a council in Cappadocia Secunda led by <persName
-                                ref="http://syriaca.org/person/2551"> Soteric </persName></persName>
+                                ref="http://syriaca.org/person/2551">Soteric</persName></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">

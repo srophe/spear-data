@@ -111,10 +111,8 @@
                 <idno type="URI">https://spear-prosop.org/3073-1</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/3080"
-                            ><!-- See Letter I.30 #3059 --> The clergy of <placeName
-                                ref="http://syriaca.org/place/2630"> Apamea </placeName> in <date
-                                when="0513"> 513 </date><!-- Alpi II, 68 --></persName>
+                        <persName ref="http://syriaca.org/person/3080">The clergy of 
+                            <placeName ref="http://syriaca.org/place/2630"> Apamea </placeName> in <date when="0513"> 513 </date></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -122,6 +120,13 @@
                     <citedRange unit="part">1.39</citedRange>
                     <citedRange unit="p">110</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">68</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3073-2</idno>
@@ -146,7 +151,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3096"> The notables of <placeName
                                 ref="http://syriaca.org/place/2630"> Apamea </placeName> in <date
-                                when="0513"> 513 </date><!-- Alpi II, 68 --></persName>
+                                when="0513"> 513 </date></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -154,6 +159,13 @@
                     <citedRange unit="part">1.39</citedRange>
                     <citedRange unit="p">110</citedRange>
                 </bibl>
+                <note type="desc">
+                    This date comes from Alpi.
+                    <bibl type="secondary">
+                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <citedRange unit="p">68</citedRange>
+                    </bibl>
+                </note>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3073-4</idno>

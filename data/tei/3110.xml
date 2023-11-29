@@ -28,7 +28,7 @@
                 <idno type="URI">https://spear-prosop.org/3110/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -108,8 +108,8 @@
                             into communion, natural disasters, and Nestorians.
                             <listRelation>
                                 <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428" when="0520"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2427" when="0520"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2428" when="0520"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2427" when="0520"/>
+                                <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2428" when="0520"/>
                             </listRelation>
                         </desc>
                     </event>

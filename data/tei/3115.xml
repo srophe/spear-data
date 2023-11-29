@@ -400,7 +400,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/573"/>
-                        <!-- I included the place name in this div because there is no place name in the persname div. -->
                         <occupation ana="http://syriaca.org/keyword/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/573"
                                     >John</persName> was Bishop of <placeName

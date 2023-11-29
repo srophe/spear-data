@@ -34,7 +34,7 @@
                 <idno type="URI">https://spear-prosop.org/3111/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -177,13 +177,13 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2495"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/633"/>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2495">Gregory</persName> was from 
                                 <placeName ref="http://syriaca.org/place/633">Pontus</placeName>.
                             </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -240,13 +240,13 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2496"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/2743"/>
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2496">Isaiah</persName> was from 
                                 <placeName ref="http://syriaca.org/place/2743">Armenia</placeName>.
                             </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -630,7 +630,6 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-42" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3111-42</idno>
                 <listRelation>
-                    <!-- According to Severus (p. 222), Epiphanius elevated Isaiah to the station of presbyter in his last will and testament, and not bishop, as Isaiah claims. -->
                     <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
                         active="http://syriaca.org/person/2562"
                         passive="http://syriaca.org/person/2496">
@@ -869,11 +868,11 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-62" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3111-62</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/intimate-relationship-with"
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/2562 http://syriaca.org/person/2504">
                         <desc><persName ref="http://syriaca.org/person/2562">Epiphanius</persName>
                             and <persName ref="http://syriaca.org/person/2504">Eusebius</persName>
-                            had an intimate relationship.</desc>
+                            had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">

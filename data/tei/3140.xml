@@ -475,12 +475,11 @@
                 <idno type="URI">https://spear-prosop.org/3140-22</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/serious-intimate-relationship-with"
+                        ref="http://syriaca.org/keyword/friendship-for"
                         mutual="http://syriaca.org/person/3121 http://syriaca.org/person/2483">
                         <desc><persName ref="http://syriaca.org/person/3121">Anonymous
                                 3121</persName> and <persName ref="http://syriaca.org/person/2483"
-                                >Sergius bar Fathya</persName> had a serious intimate
-                            relationship.</desc>
+                                >Sergius bar Fathya</persName> had a friendship.</desc>
                     </relation>
                 </listRelation>
                 <bibl type="primary">
@@ -819,7 +818,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3089"> The bishops attending the
                             Council of <placeName ref="http://syriaca.org/place/621"
-                                ><!-- Check URI --> Nicaea </placeName></persName>
+                                >Nicaea</placeName></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -900,7 +899,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2484"/>
-                        <!-- I included the URI for the place name in this div because the persname div does not include the place name URI. -->
                         <occupation ana="http://syriaca.org/keyword/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2484"
                                     >Alexander</persName> was bishop of <placeName

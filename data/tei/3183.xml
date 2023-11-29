@@ -1,0 +1,273 @@
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main">Severus of Antioch, Letter, <title
+                        ref="http://syriaca.org/work/3183">To the Presbyters at Alexandria</title></title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+                <funder>Texas A&amp;M University</funder>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <respStmt>
+                    <resp>>Data architecture, data entry, editing, proofreading, and revision
+                        by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#dschwartz"
+                        >Daniel L. Schwartz</name>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.0"/>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Syriaca.org: The Syriac Reference Portal</authority>
+                <idno type="URI">https://spear-prosop.org/3183/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
+                            License.</p>
+                    </licence>
+                </availability>
+                <date>2020-01-03-05:00</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">https://spear-prosop.org</idno>
+            </seriesStmt>
+            <seriesStmt>
+                <title level="m" xml:lang="en">The Letters of Severus of Antioch</title>
+                <title type="sub">A SPEAR Prosopography</title>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+                <idno type="URI">https://spear-prosop.org/letters-severus</idno>
+                <biblScope unit="volume">
+                    <title level="s">SPEAR: Syriac Persons, Events, and Relations</title>
+                    <idno type="URI">https://spear-prosop.org</idno>
+                </biblScope>
+            </seriesStmt>
+            <sourceDesc>
+                <listBibl>
+                    <head>Sources for the Data in this Born Digital Prosopography</head>
+                    <bibl type="primary">
+                        <title xml:lang="en">A Collection of Letters of Severus of Antioch</title>
+                        <title xml:lang="la" level="s">Patrologia Orientalis</title>
+                        <author><persName ref="http://syriaca.org/person/51">Severus of
+                            Antioch</persName></author>
+                        <editor><persName ref="http://syriaca.org/person/403">E. W.
+                            Brooks</persName></editor>
+                        <biblScope unit="tomus">12</biblScope>
+                        <ptr target="http://syriaca.org/bibl/670"/>
+                        <citedRange unit="p">295-305</citedRange>
+                        <citedRange unit="part">39</citedRange>
+                    </bibl>
+                    <bibl type="primary">
+                        <title xml:lang="en">To the Presbyters at Alexandria</title>
+                        <author><persName ref="http://syriaca.org/person/51"/>Severus of
+                            Antioch</author>
+                        <ptr target="http://syriaca.org/work/3183"/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p><!-- POINT USERS TO WIKI DOCUMENTATION WHEN COMPLETED. --></p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="calculated">
+                        <catDesc> Used to denote a date calculated by the editor from a regnal year
+                            or some other dating method given in the text. </catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc/>
+        <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#dschwartz" when="2020-11" status="draft">CREATED</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-1</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian" notBefore="0516" notAfter="0518">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
+                            <persName ref="http://syriaca.org/person/3786">the presbyters of Alexandria</persName>
+                            defending his communion with the Christians of
+                            <placeName ref="http://syriaca.org/place/2799">Isauria</placeName>
+                            despite his stance of moderation with regard to the <title>Henotikon</title>.
+                            <listRelation>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3786" notBefore="0516" notAfter="0518"/>
+                            </listRelation>
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">295-305</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-2</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian" notBefore="0516" notAfter="0518">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/3786">The presbyters of Alexandria</persName> wrote a letter to
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> criticizing him for 
+                            being in communion with rigorous anti-Chalcedonians in
+                            <placeName ref="http://syriaca.org/place/2799">Isauria</placeName>.
+                            <listRelation>
+                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3786" passive="http://syriaca.org/person/51" notBefore="0516" notAfter="0518"/>
+                            </listRelation>
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">295</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-3</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian">
+                        <desc>
+                            Non-Chalcedonians in 
+                            <placeName ref="http://syriaca.org/place/2799">Isauria</placeName> opposed 
+                            <persName ref="http://syriaca.org/person/44">Philoxenus</persName> because he held that the 
+                            <title>Henotikon</title> was sufficient for communion between Christians.
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">296-97</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-4</idno>
+                <listRelation>
+                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/511">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> 
+                            cited positively
+                            <persName ref="http://syriaca.org/person/511">Gregory Nazianzen</persName>.
+                        </desc>
+                    </relation>
+                </listRelation>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">299-301</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-5</idno>
+                <listRelation>
+                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/376">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> 
+                            cited positively
+                            <persName ref="http://syriaca.org/person/376">Basil of Caesarea</persName>.
+                        </desc>
+                    </relation>
+                </listRelation>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">301-02</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-6</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/letters">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/2427">John</persName> sent a letter to
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> 
+                            offering him refuge from the turbulance of his see in
+                            <placeName ref="http://syriaca.org/place/715">Egypt</placeName>.
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">303-04</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-7</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/ordination" notBefore="0516" notAfter="0518">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/2442">Stephen</persName>
+                            was ordained bishop of 
+                            <placeName ref="http://syriaca.org/place/2714">Seleucia in Isauria</placeName>.
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">304</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+                <note type="certainty" subtype="incerta">
+                    The person ordained in the passage is likely 
+                    <persName ref="http://syriaca.org/person/2442">Stephen</persName>
+                    but that identification is not certain.
+                </note>
+            </ab>
+            <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
+                <idno type="URI">https://spear-prosop.org/3183-8</idno>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/anti-chalcedonian" notBefore="0516" notAfter="0518">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/2442">Stephen</persName> sent a letter to 
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> 
+                            assuring him of his orthodox beliefs.
+                        </desc>
+                    </event>
+                </listEvent>
+                <bibl type="primary">
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">304</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+                <note type="certainty" subtype="incerta">
+                    The person ordained in the passage is likely 
+                    <persName ref="http://syriaca.org/person/2442">Stephen</persName>
+                    but that identification is not certain.
+                </note>
+            </ab>
+        </body>
+        <back>
+            <listBibl>
+                <head>Works Cited</head>
+                <bibl type="primary" xml:id="bibl3183-1">
+                    <title xml:lang="en">A Collection of Letters of Severus of Antioch</title>
+                    <title xml:lang="la" level="s">Patrologia Orientalis</title>
+                    <author><persName ref="http://syriaca.org/person/51">Severus of
+                        Antioch</persName></author>
+                    <editor><persName ref="http://syriaca.org/person/403">E. W.
+                        Brooks</persName></editor>
+                    <biblScope unit="tomus">12</biblScope>
+                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <citedRange unit="p">295-305</citedRange>
+                    <citedRange unit="part">39</citedRange>
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

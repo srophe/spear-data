@@ -224,9 +224,8 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3103"> The monks of <placeName
                                 ref="http://syriaca.org/place/635"> the monastery of <persName
-                                    ref="http://syriaca.org/person/744"
-                                    ><!-- Check the URI for this Place Name --> St. Simeon
-                                </persName></placeName> during the banishment of <date
+                                    ref="http://syriaca.org/person/635"
+                                    >St. Simeon</persName></placeName> during the banishment of <date
                                 notBefore="0521" notAfter="0531"> the 520s </date></persName>
                     </personGrp>
                 </listPerson>

@@ -269,8 +269,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
                         <occupation ana="http://syriaca.org/keyword/teachers"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
-                                was a doctor
-                                (malphono).<!-- We added (malphono) to show that the Syriac text means "teacher" not "physician"  --></note></occupation>
+                                was a doctor (malphono).</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
@@ -323,7 +322,6 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1876"/>
-                        <!-- Same name below. Different URI. Make sure this is correct. -->
                         <death>
                             <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>
                             <note type="desc">
@@ -379,7 +377,7 @@
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2070">Sergius</persName> died in a convent in 
                                 <placeName ref="http://syriaca.org/place/586">the royal
-                                city</placeName>.<!-- The text says "in this convent" but we don't know which convent he means --></note></death>
+                                city</placeName>.</note></death>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
@@ -393,11 +391,12 @@
                         <death>
                             <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>
                             <note type="desc"><persName ref="http://syriaca.org/person/1672">Daniel</persName> died in a convent in 
-                                <placeName ref="http://syriaca.org/place/586">the royal city</placeName>.<!-- The text says "in this convent" but we don't know which convent he means --></note></death>
+                                <placeName ref="http://syriaca.org/place/586">the royal city</placeName>.</note></death>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <note type="desc"></note>
             </ab>
         </body>
         <back>

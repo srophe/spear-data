@@ -360,20 +360,16 @@
                     <citedRange unit="p">598-599</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="physicalTrait" xml:id="factoid-11"
-                resp="#tmcneir #rtrupiano #syoung #egibes #jnsaint-laurent">
+            <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/825-11</idno>
-                <listPerson>
-                    <person>
-                        <persName ref="http://syriaca.org/person/1769"/>
-                        <trait type="physical"
-                            ana="http://syriaca.org/keyword/illness http://syriaca.org/keyword/asceticism">
-                            <note type="desc"><persName ref="http://syriaca.org/person/1769"
-                                    >Hala</persName> was feeble and fell into a serious illness
-                                caused by his asceticism. </note>
-                        </trait>
-                    </person>
-                </listPerson>
+                <listEvent>
+                    <event ana="http://syriaca.org/keyword/illness http://syriaca.org/keyword/asceticism">
+                        <desc>
+                            <persName ref="http://syriaca.org/person/1769">Hala</persName> was feeble and fell into a 
+                            serious illness caused by his asceticism.
+                        </desc>
+                    </event>
+                </listEvent>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/work/825"/>
                     <citedRange unit="p">398</citedRange>

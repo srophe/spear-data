@@ -34,7 +34,7 @@
                 <idno type="URI">https://spear-prosop.org/3138/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p part="N">Distributed under a Creative Commons Attribution 3.0 Unported
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                     </licence>
                 </availability>
@@ -311,10 +311,10 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/serious-intimate-relationship-with" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
+                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
                         <desc>
                             <persName ref="http://syriaca.org/person/2664">Isadora</persName> and <persName ref="http://syriaca.org/person/3759">Anonymous 3759</persName> 
-                            had an intimate relationship.
+                            had a friendship.
                         </desc>
                     </relation>
                 </listRelation>

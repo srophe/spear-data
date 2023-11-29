@@ -94,7 +94,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-03-05:00">CHANGED: Add a human readable version or the tei:relation element in a tei:desc.</change><change status="draft"/>
         </revisionDesc>
     </teiHeader>
-    <text><!-- MAKE SURE THAT PERSON URIS THAT APPEAR IN THIS DOCUMENT ARE IN SBD. -->
+    <text>
         <body>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-1</idno>
@@ -464,7 +464,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
                         <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a monk in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
-                                    Edessenes. </placeName></note></occupation>
+                                    Edessenes</placeName>.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
@@ -476,7 +476,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
                         <occupation ana="http://syriaca.org/keyword/scribes"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a scribe in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
-                                    Edessenes. </placeName></note></occupation>
+                                    Edessenes</placeName>.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
@@ -891,7 +891,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <nationality><placeName ref="http://syriaca.org/place/8"/><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was from <placeName ref="http://syriaca.org/place/2737">Amida</placeName>.</note></nationality>
+                        <state type="citizenship">
+                            <placeName ref="http://syriaca.org/place/8"/>
+                            <note type="desc">
+                                <persName ref="http://syriaca.org/person/3185">Abraham</persName> was from 
+                                <placeName ref="http://syriaca.org/place/8">Amida</placeName>.</note>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
@@ -1251,7 +1256,7 @@
                         <persName ref="http://syriaca.org/person/3186"/>
                         <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
                                     II</persName> was Bishop of <placeName ref="http://syriaca.org/place/2758"> Urtaye in the district of
-                                    Anzetene. </placeName></note></occupation>
+                                    Anzetene</placeName>.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">558</citedRange></bibl>
@@ -1427,8 +1432,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3675">Anonymi
-                            3675</persName> established a <placeName ref="http://syriaca.org/place/2751"> monastery in Beth Bar 'rubtha.
-                            </placeName></desc>
+                            3675</persName> established a <placeName ref="http://syriaca.org/place/2751"> monastery in Beth Bar 'rubtha</placeName>.</desc>
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">562</citedRange></bibl>
@@ -2183,8 +2187,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3677"><persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName> of
                                 the <placeName ref="http://syriaca.org/place/399">Convent of John
-                                Urtaya</placeName> who accompanied <persName ref="http://syriaca.org/person/3183">Abba</persName> into exile.
-                        </persName>
+                                Urtaya</placeName> who accompanied <persName ref="http://syriaca.org/person/3183">Abba</persName> into exile.</persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">570</citedRange></bibl>

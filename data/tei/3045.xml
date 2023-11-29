@@ -169,12 +169,10 @@
                 <idno type="URI">https://spear-prosop.org/3045-5</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/3062"> The clergy of <placeName
-                                ref="http://syriaca.org/place/173"
-                                ><!-- This URI is for Rhosus the settlement. --> Rhosus </placeName>
+                        <persName ref="http://syriaca.org/person/3062"> 
+                            The clergy of <placeName ref="http://syriaca.org/place/173" >Rhosus</placeName>
                             some time between <date notBefore="0513" notAfter="0518">513-518</date>
-                            who submittted a petition to <persName
-                                ref="http://syriaca.org/person/51"> Severus </persName></persName>
+                            who submittted a petition to <persName ref="http://syriaca.org/person/51"> Severus </persName></persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -328,7 +326,7 @@
                                     active="http://syriaca.org/person/3062 http://syriaca.org/person/3063"
                                     passive="http://syriaca.org/person/51"/>
                                 <relation type="person"
-                                    ref="http://syriaca.org/keyword/intimate-relationship-with"
+                                    ref="http://syriaca.org/keyword/friendship-for"
                                     mutual="http://syriaca.org/person/3062 http://syriaca.org/person/3063 http://syriaca.org/person/3064"
                                 />
                             </listRelation>

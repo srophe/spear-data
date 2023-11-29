@@ -496,7 +496,7 @@
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> visited <persName ref="http://syriaca.org/person/1771">Harfat</persName>
                             to learn about his asceticism and to urge him to moderate its severity, especially his use of heavy chains.
                             <listRelation>
-                                <relation type="personal" ref="http://syriaca.org/keyword/intimate-relationship-with" mutual="http://syriaca.org/person/1771 http://syriaca.org/person/74"></relation>
+                                <relation type="personal" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/1771 http://syriaca.org/person/74"></relation>
                             </listRelation>
                         </desc>
                     </event>

@@ -735,12 +735,12 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2562"/>
-                        <nationality>
+                        <state type="citizenship">
                             <placeName ref="http://syriaca.org/place/1469"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/2562"
                                     >Epiphanius</persName> was a citizen of <placeName
                                     ref="http://syriaca.org/place/1469">Perga</placeName>. </note>
-                        </nationality>
+                        </state>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -1027,7 +1027,7 @@
                                 <persName ref="http://syriaca.org/person/958"> Eusebius, the Bishop
                                 of <placeName ref="http://syriaca.org/place/2607"> Samosata
                                 </placeName></persName> outside his jurisdiction during a time of
-                            persecution. </persName>
+                            persecution</persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
