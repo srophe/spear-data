@@ -101,8 +101,7 @@
                 <listEvent>
                     <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/heretics http://syriaca.org/keyword/persecution http://syriaca.org/keyword/administration http://syriaca.org/keyword/communion" notBefore="0519" notAfter="0538">
                         <desc>
-                            <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
-                            <persName ref="http://syriaca.org/person/10">Antioch</persName> in an attempt to
+                            <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter attempting to
                             administer his see while in exile. He discussed being forced to commune with heretics and perseverance in the face of persecution.
                         </desc>
                     </event>
