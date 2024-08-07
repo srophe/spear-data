@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
+<?xml-model href="https://raw.githubusercontent.com/srophe/spear/main/documentation/Schema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/spear/main/documentation/Schema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -462,7 +464,7 @@
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3611"> The men and women expelled
                             from their monasteries during the persecution whom <persName ref="http://syriaca.org/person/3025">Euphemia</persName> tried to
-                            help by securing rooms for them</persName>.
+                            help by securing rooms for them</persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/804"/><citedRange unit="p">176</citedRange></bibl>

@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/srophe/syriaca/master/documentation/SPEARschema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
+<?xml-model href="https://raw.githubusercontent.com/srophe/spear/main/documentation/Schema/out/SPEAR.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/spear/main/documentation/Schema/out/SPEAR.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -308,9 +310,9 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3617">Wealthy residents of
-                                <placeName ref="http://syriaca.org/place/2792">camp of the
+                            <placeName ref="http://syriaca.org/place/2792">camp of the
                                 Saracens</placeName> who built Christian churches after they
-                            converted to Christianity</persName>.
+                            converted to Christianity</persName>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">140</citedRange></bibl>
