@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing http://syriaca.org/keyword/chalcedonians" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing http://syriaca.org/keyword/conversion" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to the
                             <placeName ref="http://syriaca.org/place/3060">monastery at Tagai</placeName> 
@@ -171,7 +171,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/chalcedonians http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing" when="0513">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing" when="0513">
                         <desc>
                             When <persName ref="http://syriaca.org/person/51">Severus</persName> became bishop of 
                             <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>, he opposed those who
@@ -189,7 +189,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/chalcedonians http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing">
                         <desc>
                             When <persName ref="http://syriaca.org/person/2759">Stephen</persName>
                             united with bishops in the regions of

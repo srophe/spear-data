@@ -164,7 +164,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/heterodoxy">
                         <desc><persName ref="http://syriaca.org/person/53">Simeon</persName>
                             travelled far and wide to preach against the followers of <persName ref="http://syriaca.org/person/780"> Theodore </persName>, <persName ref="http://syriaca.org/person/655"> Nestorius </persName>,
                                 <persName ref="http://syriaca.org/person/608"> Mani </persName>,
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-38" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-38</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/school-of-the-persians">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/school-of-the-persians">
                         <desc><persName ref="http://syriaca.org/person/534">Hiba</persName> the
                             Bishop of <placeName ref="http://syriaca.org/place/2605">Edessa</placeName> allowed certain heresies to spread in <placeName ref="http://syriaca.org/place/78">Edessa</placeName>, such as
                             Nestorianism, which was promoted by the School of the Persians. </desc>
@@ -236,7 +236,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-43" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-43</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/heterodoxy">
                         <desc> Bishop <persName ref="http://syriaca.org/person/2253">Cyrus</persName> of <placeName ref="http://syriaca.org/place/2605">Edessa</placeName> was opposed to the School of the Persians and
                             stopped it from flourishing in <placeName ref="http://syriaca.org/place/78">Edessa</placeName>. The School
                             moved to <placeName ref="http://syriaca.org/place/142">Nisbis</placeName>. </desc>
@@ -283,7 +283,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-47" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-47</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/heterodoxy">
                         <desc><persName ref="http://syriaca.org/person/53">Simeon</persName>
                             travelled wherever heresy was taking root and debated with those who
                             promoted heresy until they all fell silent. </desc>
@@ -321,7 +321,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-51" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-51</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/conversion">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion">
                         <desc><persName ref="http://syriaca.org/person/53">Simeon</persName> also
                             battled the Magian heresy and converted <persName ref="http://syriaca.org/person/3618">three distinguished
                                 Magians</persName> to Christianity. </desc>
@@ -459,7 +459,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-68" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-68</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/rhetoric http://syriaca.org/keyword/polemic">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/rhetoric http://syriaca.org/keyword/polemic">
                         <desc><persName ref="http://syriaca.org/person/53">Simeon</persName> gained
                             a reputation among the leaders and doctors of the heretical movements in
                             various countries for being a great debater. He was nicknamed the
@@ -480,10 +480,10 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">144-145</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">144-145</citedRange></bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-70" resp="#ktorabi">
+            <ab type="factoid" subtype="event" xml:id="factoid-70" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/802-70</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/disguise">
+                    <event ana="http://syriaca.org/keyword/affective-piety">
                         <desc> Because <persName ref="http://syriaca.org/person/53">Simeon</persName> humiliated so many heretical leaders whenever he
                             debated with them, many wanted him dead. In order to move about in
                             safety, <persName ref="http://syriaca.org/person/53">Simeon</persName>
@@ -742,7 +742,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-96" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-96</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/heterodoxy">
                         <desc> The Nestorian faith flourished under <persName ref="http://syriaca.org/person/2244">Khosrau</persName></desc>
                     </event>
                 </listEvent>

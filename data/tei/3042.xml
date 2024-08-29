@@ -449,7 +449,7 @@
                 <idno type="URI">https://spear-prosop.org/3042-21</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/arianism http://syriaca.org/keyword/bible http://syriaca.org/keyword/heresy http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/keyword/arianism http://syriaca.org/keyword/bible http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
                         <desc> To convince <persName ref="http://syriaca.org/person/2558"
                                 >Misael</persName> to remain in his position, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> cited several

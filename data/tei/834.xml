@@ -503,19 +503,6 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">458</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">660</citedRange></bibl>
             </ab>
-            <ab type="factoid" subtype="physicalTrait" xml:id="factoid-24" resp="#nelder">
-                <idno type="URI">https://spear-prosop.org/834-24</idno>
-                <listPerson>
-                    <person>
-                        <persName ref="http://syriaca.org/person/1547"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/strength">
-                            <note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName> was physically strong. </note>
-                        </trait>
-                    </person>
-                </listPerson>
-                <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">457</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">659</citedRange></bibl>
-            </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-25" resp="#nelder">
                 <idno type="URI">https://spear-prosop.org/834-25</idno>
                 <listPerson>
@@ -585,17 +572,6 @@
                         </persName>
                     </person>
                 </listPerson>
-                <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">457</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">659</citedRange></bibl>
-            </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-31" resp="#nelder">
-                <idno type="URI">https://spear-prosop.org/834-31</idno>
-                <listEvent>
-                    <event ana="http://syriaca.org/keyword/edification">
-                        <desc><persName ref="http://syriaca.org/person/1547">Abraham</persName>
-                            gratified the spirit of <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>. </desc>
-                    </event>
-                </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">457</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">659</citedRange></bibl>
             </ab>

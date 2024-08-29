@@ -705,7 +705,7 @@
                 <idno type="URI">https://spear-prosop.org/3038-36</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/heresy" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/heterodoxy" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -765,7 +765,7 @@
                 <idno type="URI">https://spear-prosop.org/3038-39</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/heresy http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops http://syriaca.org/keyword/greed">
+                        ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops">
                         <desc><persName ref="http://syriaca.org/person/2547">Procopius</persName>
                             had attempted to profit off his ordinations, and had ordained <persName
                                 ref="http://syriaca.org/person/2550">Lampetius</persName>, a known
@@ -785,7 +785,7 @@
                 <idno type="URI">https://spear-prosop.org/3038-40</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
                         <desc> The heresy of <persName ref="http://syriaca.org/person/2549"
                                 >Adelphius</persName> had been condemned by <persName
                                 ref="http://syriaca.org/person/2551">Soteric of <placeName

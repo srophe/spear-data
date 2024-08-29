@@ -212,10 +212,10 @@
                     <citedRange unit="p">672</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#ngibson">
+            <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#ngibson #dschwartz">
                 <idno type="URI">https://spear-prosop.org/837-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/rebuke">
+                    <event ana="http://syriaca.org/keyword/labor http://syriaca.org/keyword/rebuke">
                         <desc><persName ref="http://syriaca.org/person/1977">Paul, patriarch of
                                 Antioch</persName> rebuked those who approached religious work
                             sluggishly. </desc>
@@ -274,11 +274,11 @@
                     <citedRange unit="p">672-673</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ngibson">
+            <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ngibson #dschwartz">
                 <idno type="URI">https://spear-prosop.org/837-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/dress http://syriaca.org/keyword/disguise http://syriaca.org/keyword/poor http://syriaca.org/keyword/illness http://syriaca.org/keyword/charity">
+                        ana="http://syriaca.org/keyword/dress http://syriaca.org/keyword/affective-piety http://syriaca.org/keyword/poor http://syriaca.org/keyword/illness http://syriaca.org/keyword/charity">
                         <desc> Many of <persName ref="http://syriaca.org/person/3653">the great and
                                 eminent men of <placeName ref="http://syriaca.org/place/10"
                                     >Antioch</placeName></persName> disguised themselves in poor
@@ -385,10 +385,10 @@
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ngibson">
+            <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ngibson #dschwartz">
                 <idno type="URI">https://spear-prosop.org/837-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/distinction">
+                    <event ana="http://syriaca.org/keyword/zeal">
                         <desc><persName ref="http://syriaca.org/person/1977">Paul, patriarch of
                                 Antioch</persName> continued to gain distinction and show prowess in
                             the Lord's work in <placeName ref="http://syriaca.org/place/586"
@@ -408,7 +408,7 @@
                 <idno type="URI">https://spear-prosop.org/837-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/money http://syriaca.org/keyword/poor http://syriaca.org/keyword/charity http://syriaca.org/keyword/cities">
+                        ana="http://syriaca.org/keyword/poor http://syriaca.org/keyword/charity http://syriaca.org/keyword/cities">
                         <desc><persName ref="http://syriaca.org/person/1977">Paul, patriarch of
                                 Antioch</persName> sent money to the cities around <placeName ref="http://syriaca.org/place/2845">Sycae</placeName> to support the
                             ministry to the poor that he had started there. </desc>
@@ -423,11 +423,11 @@
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ngibson">
+            <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ngibson #dschwartz">
                 <idno type="URI">https://spear-prosop.org/837-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/money http://syriaca.org/keyword/charity http://syriaca.org/keyword/deacons http://syriaca.org/keyword/institutions">
+                        ana="http://syriaca.org/keyword/charity http://syriaca.org/keyword/deacons">
                         <desc>Deaconries were established for the men and women who emulated
                                 <persName ref="http://syriaca.org/person/1977">Paul, patriarch of
                                 Antioch</persName>'s zeal and earnestness by serving and
@@ -447,7 +447,7 @@
                 <idno type="URI">https://spear-prosop.org/837-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/work http://syriaca.org/keyword/abstinence">
+                        ana="http://syriaca.org/keyword/labor http://syriaca.org/keyword/abstinence">
                         <desc>By the end of his ministry, <persName
                                 ref="http://syriaca.org/person/1977">Paul, patriarch of
                                 Antioch</persName>'s body was dried up from his labor, abstinence,

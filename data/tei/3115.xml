@@ -455,7 +455,7 @@
                 <idno type="URI">https://spear-prosop.org/3115-21</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/falsification http://syriaca.org/keyword/theology http://syriaca.org/keyword/heresy">
+                        ana="http://syriaca.org/keyword/falsification http://syriaca.org/keyword/theology http://syriaca.org/keyword/heterodoxy">
                         <desc><persName ref="http://syriaca.org/person/3115">Anonymi 3115</persName>
                             were circulating theological treatises, falsely bearing the name of
                                 <persName ref="http://syriaca.org/person/51">Severus</persName>.

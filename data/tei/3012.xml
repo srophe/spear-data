@@ -119,7 +119,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/3012-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heresy http://syriaca.org/keyword/anathema http://syriaca.org/keyword/bishops http://syriaca.org/keyword/sanctity" notBefore="0508" notAfter="0511">
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/anathema http://syriaca.org/keyword/bishops http://syriaca.org/keyword/sanctity" notBefore="0508" notAfter="0511">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2417">Solon</persName> concerning his
@@ -176,7 +176,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3012-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/communion" notBefore="0508" notAfter="0511">
+                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/fellowship" notBefore="0508" notAfter="0511">
                         <desc><persName ref="http://syriaca.org/person/2417">Solon</persName> sent a
                             letter to <persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> asking about the conditions for entering into communion with another person.
@@ -594,7 +594,7 @@
                 <idno type="URI">https://spear-prosop.org/3012-31</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/greek-fathers http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heresy http://syriaca.org/keyword/arianism http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/keyword/greek-fathers http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/arianism http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy http://syriaca.org/keyword/bishops">
                         <desc> To defend his belief in the ordination of priests by those outside of
                             a particular diocese, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> appeals to the examples of <persName
@@ -614,7 +614,7 @@
                 <idno type="URI">https://spear-prosop.org/3012-32</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heresy http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
                         <desc><persName ref="http://syriaca.org/person/2530">Flavian</persName>, who
                             was challengeing the ordination of <persName
                                 ref="http://syriaca.org/person/2417">Solon</persName>, had

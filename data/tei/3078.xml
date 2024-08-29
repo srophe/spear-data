@@ -174,7 +174,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3078-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/orthodoxy http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/orthodoxy http://syriaca.org/keyword/heterodoxy">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent the eucharistic elements to 
                             <persName ref="http://syriaca.org/person/2600">Anastasius</persName> because he was unable to find

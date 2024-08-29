@@ -277,7 +277,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3125-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/body http://syriaca.org/keyword/heresy" notBefore="0522" notAfter="0526">
+                    <event ana="http://syriaca.org/keyword/body http://syriaca.org/keyword/heterodoxy" notBefore="0522" notAfter="0526">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> denounced 
                             <persName ref="http://syriaca.org/person/2496">Isaiah</persName> 

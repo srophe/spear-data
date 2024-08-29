@@ -314,7 +314,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3093"/>
-                        <occupation ana="http://syriaca.org/keyword/periodeutes">
+                        <occupation ana="http://syriaca.org/keyword/periodeutai">
                             <note type="desc"><persName ref="http://syriaca.org/person/3093"
                                     >Anonymous 3093</persName> was a periodeutes.</note>
                         </occupation>

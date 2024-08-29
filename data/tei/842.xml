@@ -384,7 +384,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/hospital">
+                    <event ana="http://syriaca.org/keyword/hospices">
                         <desc>
                             <persName ref="http://syriaca.org/person/779">Theodora</persName> built a hospital on <placeName ref="http://syriaca.org/place/1529">Chios</placeName>.
                         </desc>

@@ -355,7 +355,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3141-15</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/commemoration http://syriaca.org/keyword/heresy">
+                    <event ana="http://syriaca.org/keyword/commemoration http://syriaca.org/keyword/heterodoxy">
                         <desc>
                             <persName ref="http://syriaca.org/person/2654">Gaian</persName> was commemorated like a pagan diety
                             by heretical Christians.

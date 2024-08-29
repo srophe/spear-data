@@ -154,7 +154,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2571"/>
-                        <occupation ana="http://syriaca.org/keyword/vindex">
+                        <occupation ana="http://syriaca.org/keyword/vindices">
                             <note type="desc"><persName ref="http://syriaca.org/person/2571"
                                     >Musonius</persName> was a vindex of <placeName
                                     ref="http://syriaca.org/place/9">Anazarba</placeName>.</note>
@@ -204,7 +204,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2570"/>
-                        <occupation ana="http://syriaca.org/keyword/vindex">
+                        <occupation ana="http://syriaca.org/keyword/vindices">
                             <note type="desc"><persName ref="http://syriaca.org/person/2570"
                                     >Alexander</persName> was a vindex of <placeName
                                     ref="http://syriaca.org/place/9">Anazarba</placeName>.</note>

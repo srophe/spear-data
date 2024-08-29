@@ -305,7 +305,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2610"/>
-                        <occupation ana="http://syriaca.org/keyword/prefects">
+                        <occupation ana="http://syriaca.org/keyword/urban-prefects">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2610">Asterius</persName> 
                                 was an imperial prefect.

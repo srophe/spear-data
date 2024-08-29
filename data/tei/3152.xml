@@ -118,7 +118,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2755"/>
-                        <occupation ana="http://syriaca.org/keyword/scriniarii">
+                        <occupation ana="http://syriaca.org/keyword/scrinarii">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2755">Simus</persName> 
                                 was a scrinarius.

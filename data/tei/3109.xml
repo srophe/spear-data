@@ -199,7 +199,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heresy http://syriaca.org/keyword/repentence">
+                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/repentence">
                         <desc>
                             <persName ref="http://syriaca.org/person/2752">Silvanus</persName>, although ordained by Chalcedonians,
                             sought to be a clergyman with the non-Chalcedonians. He was to follow the procedure set down by

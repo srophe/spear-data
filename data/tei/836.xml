@@ -170,7 +170,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1788"/>
-                  <socecStatus ana="http://syriaca.org/keyword/protectors"><note type="desc"><persName ref="http://syriaca.org/person/1788">Isaac of Dara</persName>
+                  <socecStatus ana="http://syriaca.org/keyword/protectores"><note type="desc"><persName ref="http://syriaca.org/person/1788">Isaac of Dara</persName>
                         was a Protector. </note></socecStatus>
                </person>
             </listPerson>

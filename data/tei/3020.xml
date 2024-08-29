@@ -169,7 +169,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3020-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/letters http://syriaca.org/keyword/readers http://syriaca.org/keyword/anathema" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/letters http://syriaca.org/keyword/readers http://syriaca.org/keyword/anathema" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2606">Archaelaus</persName>
@@ -419,7 +419,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-21" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3020-21</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heresy http://syriaca.org/keyword/anathema http://syriaca.org/keyword/letters http://syriaca.org/keyword/readers http://syriaca.org/keyword/bishops http://syriaca.org/keyword/communion" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/anathema http://syriaca.org/keyword/letters http://syriaca.org/keyword/readers http://syriaca.org/keyword/bishops http://syriaca.org/keyword/communion" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/2705">Menas</persName> and
                             <persName ref="http://syriaca.org/person/2667">Isidore</persName>

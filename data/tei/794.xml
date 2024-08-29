@@ -547,7 +547,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-48" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/794-48</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/petitions http://syriaca.org/keyword/blasphemy">
+                    <event ana="http://syriaca.org/keyword/commemoration http://syriaca.org/keyword/exile">
                         <desc><persName ref="http://syriaca.org/person/3193">Pope
                                 Agapetus</persName>, who was about to blaspheme by declaring that
                                 <persName ref="http://syriaca.org/person/624">Mary</persName> should
@@ -604,7 +604,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-57" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/794-57</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/arrest http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/keyword/miracles">
                         <desc>
                             <persName ref="http://syriaca.org/person/3193">Agapetus</persName>
                             sent a message to <persName ref="http://syriaca.org/person/1524">Zeʿora</persName> 

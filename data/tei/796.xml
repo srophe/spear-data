@@ -437,7 +437,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-32" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-32</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/religious-dedication">
+                    <event ana="http://syriaca.org/keyword/child-dedication">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> made
                                 <persName ref="http://syriaca.org/person/74">John</persName>'s
                                 <persName ref="http://syriaca.org/person/3624">mother</persName> and
@@ -452,7 +452,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-33" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-33</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/religious-dedication">
+                    <event ana="http://syriaca.org/keyword/child-dedication">
                         <desc> After two years, <persName ref="http://syriaca.org/person/74">John</persName>'s <persName ref="http://syriaca.org/person/3624">mother</persName> and <persName ref="http://syriaca.org/person/3625">father</persName> brought him
                             to <persName ref="http://syriaca.org/person/1885">Maro</persName> to be
                             raised in the monastery. </desc>
@@ -846,12 +846,12 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">75</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">75</citedRange></bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-65" resp="#ktorabi">
+            <ab type="factoid" subtype="event" xml:id="factoid-65" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-65</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/divine-punishment http://syriaca.org/keyword/pride">
+                    <event ana="http://syriaca.org/keyword/pride">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> used
-                            the story of the fall of the <persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> and
+                            the story of the fall of <persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> and
                             his household as a warning against pride. </desc>
                     </event>
                 </listEvent>

@@ -280,7 +280,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/greed http://syriaca.org/keyword/usury">
+                    <event ana="http://syriaca.org/keyword/usury">
                         <desc>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> was convicted of lending money at interest 
                             in the episcopal court of <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName>.

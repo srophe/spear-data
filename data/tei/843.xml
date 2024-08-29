@@ -361,11 +361,11 @@
                     <citedRange unit="p">168</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#syoung">
+            <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/843-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/passions http://syriaca.org/keyword/sexuality http://syriaca.org/keyword/sin http://syriaca.org/keyword/marriage http://syriaca.org/keyword/shame http://syriaca.org/keyword/misogyny">
+                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/passions http://syriaca.org/keyword/sex http://syriaca.org/keyword/sin http://syriaca.org/keyword/marriage http://syriaca.org/keyword/shame http://syriaca.org/keyword/misogyny">
                         <desc> Because <persName ref="http://syriaca.org/person/3021">the
                                 woman</persName> was very beautiful, many of the men of <placeName
                                 ref="http://syriaca.org/place/8">Amida</placeName> sought to sleep

@@ -586,7 +586,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-41" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-41</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/anathema http://syriaca.org/keyword/religious-disputes http://syriaca.org/keyword/violence http://syriaca.org/keyword/persecution">
+                    <event ana="http://syriaca.org/keyword/anathema http://syriaca.org/keyword/polemics http://syriaca.org/keyword/violence http://syriaca.org/keyword/persecution">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName>
                             received a blessing from <persName ref="http://syriaca.org/person/1885">Maro</persName> and then set out to visit the churh in <placeName ref="http://syriaca.org/place/8">Amida</placeName>. <persName ref="http://syriaca.org/person/3154">Sergius</persName> walked into
                             the church in <placeName ref="http://syriaca.org/place/8">Amida</placeName>, carrying a cross, and planted his cross on the

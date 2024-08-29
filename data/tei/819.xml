@@ -589,7 +589,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-43" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/819-43</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-cells http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/keyword/hermitages http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
                         <desc> There was a cave outside the tower in <placeName ref="http://syriaca.org/place/2821">the desert near Mendis</placeName>, where
                                 <persName ref="http://syriaca.org/person/3663">Anonymous
                                 3663</persName> once dwelt and to which <persName ref="http://syriaca.org/person/2092">Susan</persName> travelled.
@@ -665,7 +665,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-49" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/819-49</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-cells">
+                    <event ana="http://syriaca.org/keyword/hermitages">
                         <desc><persName ref="http://syriaca.org/person/3662">Anonymi 3662</persName>
                             who followed <persName ref="http://syriaca.org/person/2092">Susan</persName> into exile became very distressed over her absence
                             because they did not know that she had taken up residence in the
@@ -678,7 +678,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-50" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/819-50</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-cells http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/keyword/hermitages http://syriaca.org/keyword/exile http://syriaca.org/keyword/asceticism">
                         <desc> After ten days, <persName ref="http://syriaca.org/person/3695">people
                                 of the village</persName> were moved by the <persName ref="http://syriaca.org/person/3662">sisters'</persName> weeping and
                             distress and discovered that <persName ref="http://syriaca.org/person/2092">Susan</persName> had been
@@ -703,7 +703,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-52" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/819-52</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monastic-cells">
+                    <event ana="http://syriaca.org/keyword/demons http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/hermitages">
                         <desc><persName ref="http://syriaca.org/person/2092">Susan</persName>, who
                             was attacked by demons in the cave day and night, thought that <persName ref="http://syriaca.org/person/3695">anonymi 3695</persName> who
                             discovered her were fiends as well. She did not respond to them when
@@ -749,7 +749,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-55" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/819-55</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrims http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
+                    <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3664">Anonymi 3664</persName>
                             came to <persName ref="http://syriaca.org/person/2092">Susan</persName>
                             and <persName ref="http://syriaca.org/person/3662">Anonymi

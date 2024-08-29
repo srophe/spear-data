@@ -100,7 +100,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-8</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/intellectual-conflict">
+               <event ana="http://syriaca.org/keyword/polemics">
                   <desc>
                      While in exile, <persName ref="http://syriaca.org/person/51">Severus</persName> came into conflict with 
                      <persName ref="http://syriaca.org/person/579">Julian of Halicarnassus</persName>.
