@@ -294,7 +294,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3126"/>
-                        <occupation ana="http://syriaca.org/keyword/holy-virgins">
+                        <occupation ana="http://syriaca.org/keyword/virgins-of-the-church">
                             <note type="desc"><persName ref="http://syriaca.org/person/3126">Anonymi
                                     3126</persName> were virgins of the church.</note>
                         </occupation>

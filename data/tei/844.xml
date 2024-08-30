@@ -240,7 +240,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/sanctity">
+                    <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/holiness">
                         <desc>
                             <persName ref="http://syriaca.org/person/3720">Anonymous 3720 </persName> began to observe the poor man 
                             <persName ref="http://syriaca.org/person/2024">Priscus</persName> because of his sanctity. He saw him engaged 
@@ -283,7 +283,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/sanctity http://syriaca.org/keyword/poverty http://syriaca.org/keyword/madness">
+                    <event ana="http://syriaca.org/keyword/holiness http://syriaca.org/keyword/poverty http://syriaca.org/keyword/madness">
                         <desc>
                             <persName ref="http://syriaca.org/person/3720">Anonymous 3720 </persName> returned to  
                             <persName ref="http://syriaca.org/person/2024">Priscus</persName> and they discussed his mode of life:

@@ -510,7 +510,7 @@
                 <idno type="URI">https://spear-prosop.org/3115-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/virginity http://syriaca.org/keyword/divorce http://syriaca.org/keyword/sin http://syriaca.org/keyword/bible http://syriaca.org/keyword/sanctity">
+                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/virginity http://syriaca.org/keyword/divorce http://syriaca.org/keyword/sin http://syriaca.org/keyword/bible http://syriaca.org/keyword/holiness">
                         <desc> In response to <persName ref="http://syriaca.org/person/2621"
                                 >Caesarea's</persName> desire to leave her marriage to live a
                             sanctified life, <persName ref="http://syriaca.org/person/51"

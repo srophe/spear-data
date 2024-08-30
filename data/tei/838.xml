@@ -252,7 +252,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-10</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/buildings http://syriaca.org/keyword/miracles http://syriaca.org/keyword/disaster">
+               <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/buildings http://syriaca.org/keyword/miracles">
                   <desc>
                      The number of visitors to the holy men in <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName> resulted 
                      in the floor collapsing. Thanks to the prayers of <persName ref="http://syriaca.org/person/3771">the saints</persName> and the mercy 

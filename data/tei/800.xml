@@ -174,7 +174,7 @@
                 <idno type="URI">https://spear-prosop.org/800-3</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/bishops http://syriaca.org/keyword/sanctity http://syriaca.org/keyword/laity">
+                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/bishops http://syriaca.org/keyword/holiness http://syriaca.org/keyword/laity">
                         <desc><persName ref="http://syriaca.org/person/1116"
                             >Addai</persName> exercised his pastoral office by exhorting all to love
                             the poor and repent from sin. </desc>

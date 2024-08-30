@@ -234,7 +234,7 @@
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
                   <langKnowledge>
-                     <langKnown ana="http://syriaca.org/keyword/armenian"/>
+                     <langKnown ana="http://syriaca.org/keyword/armenians"/>
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         was a native speaker of Armenian.
