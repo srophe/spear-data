@@ -128,7 +128,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2421"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2421"
                                     >Conon</persName> was male.</note>
                         </trait>
@@ -145,7 +145,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2421"/>
-                        <occupation ana="http://syriaca.org/keyword/brigand-chasers">
+                        <occupation ana="http://syriaca.org/taxonomy/brigand-chasers">
                             <note type="desc"><persName ref="http://syriaca.org/person/2421"
                                     >Conon</persName> was a brigand-chaser.</note>
                         </occupation>
@@ -160,7 +160,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2421">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -210,7 +210,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3097"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3097"
                                     >Anonymous 3097</persName> was female.</note>
                         </trait>
@@ -227,7 +227,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3097"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/3097"
                                     >Anonymous 3097</persName> was a deaconess.</note>
                         </occupation>
@@ -242,7 +242,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3097">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -260,7 +260,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/judge-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/judge-of"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3097">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -297,7 +297,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3098"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3098"
                                     >Anonymous 3098</persName> was male.</note>
                         </trait>
@@ -312,7 +312,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-13</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of"
                         mutual="http://syriaca.org/person/3098 http://syriaca.org/person/3097">
                         <desc><persName ref="http://syriaca.org/person/3098">Anonymous
                                 3098</persName> and <persName ref="http://syriaca.org/person/3097"
@@ -329,7 +329,7 @@
                 <idno type="URI">https://spear-prosop.org/3084-14</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2556"> The glorious patrician and
+                        <persName ref="http://syriaca.org/person/3056"> The glorious patrician and
                             lieutenant of the Master of the Soldiers of the <placeName
                                 ref="http://syriaca.org/place/2662"> East </placeName></persName>
                     </person>
@@ -344,10 +344,10 @@
                 <idno type="URI">https://spear-prosop.org/3084-16</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2556"/>
-                        <occupation ana="http://syriaca.org/keyword/lieutenants">
-                            <note type="desc"><persName ref="http://syriaca.org/person/2556"
-                                    >Hypatius</persName> was lieutenant of the Master of the
+                        <persName ref="http://syriaca.org/person/3056"/>
+                        <occupation ana="http://syriaca.org/taxonomy/vicarii">
+                            <note type="desc"><persName ref="http://syriaca.org/person/3056"
+                                    >Anonymous 3056</persName> was lieutenant of the Master of the
                                 Soldiers of the East.</note>
                         </occupation>
                     </person>
@@ -362,10 +362,10 @@
                 <idno type="URI">https://spear-prosop.org/3084-17</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2556"/>
-                        <socecStatus ana="http://syriaca.org/keyword/patricians">
-                            <note type="desc"><persName ref="http://syriaca.org/person/2556"
-                                    >Hypatius</persName> was a patrician</note>
+                        <persName ref="http://syriaca.org/person/3056"/>
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians">
+                            <note type="desc"><persName ref="http://syriaca.org/person/3056"
+                                    >Anonymous 3056</persName> was a patrician</note>
                         </socecStatus>
                     </person>
                 </listPerson>
@@ -378,10 +378,10 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3084-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
-                        active="http://syriaca.org/person/2556"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
+                        active="http://syriaca.org/person/3056"
                         passive="http://syriaca.org/person/2421">
-                        <desc><persName ref="http://syriaca.org/person/2556">Hypatius</persName>
+                        <desc><persName ref="http://syriaca.org/person/3056">Anonymous 3056</persName>
                             sent a letter to <persName ref="http://syriaca.org/person/2421"
                                 >Conon</persName>.</desc>
                     </relation>

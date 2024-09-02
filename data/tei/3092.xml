@@ -129,7 +129,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/44"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/44"
                                     >Philoxenus</persName> was male.</note>
                         </trait>
@@ -146,7 +146,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/44"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/44"
                                     >Philoxenus</persName> was Bishop of Hierapolis.</note>
                         </occupation>
@@ -161,7 +161,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3092-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51" passive="http://syriaca.org/person/44">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName
@@ -194,7 +194,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530"
                                     >Flavian</persName> was male.</note>
                         </trait>
@@ -211,7 +211,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530"
                                     >Flavian</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName></note>
@@ -227,7 +227,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3092-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2530">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3092-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3100">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -298,7 +298,7 @@
                 <idno type="URI">https://spear-prosop.org/3092-12</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/3099 http://syriaca.org/person/3100">
                         <desc><persName ref="http://syriaca.org/person/3099">Anonymi 3099</persName>
                             and <persName ref="http://syriaca.org/person/3100">Anonymi

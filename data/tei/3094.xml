@@ -135,7 +135,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2536"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2536"
                                     >Eucharius</persName> was male.</note>
                         </trait>
@@ -152,7 +152,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2536"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2536"
                                     >Eucharius</persName> was the Bishop of <placeName
                                     ref="http://syriaca.org/place/3052"
@@ -169,7 +169,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3094-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2536">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -186,7 +186,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3094-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2536">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -219,7 +219,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2537"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2537"
                                     >Firminus</persName> was male.</note>
                         </trait>
@@ -234,7 +234,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3094-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over"
                         active="http://syriaca.org/person/2536"
                         passive="http://syriaca.org/person/2537 http://syriaca.org/person/3101">
                         <desc><persName ref="http://syriaca.org/person/2536">Eucharius</persName>
@@ -269,7 +269,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3094-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3101"
                         passive="http://syriaca.org/person/2537">
                         <desc><persName ref="http://syriaca.org/person/3101">Anonymi 3101</persName>
@@ -287,7 +287,7 @@
                 <idno type="URI">https://spear-prosop.org/3094-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bringer-of-legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/bringer-of-legal-charges-against http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -306,7 +306,7 @@
                 <idno type="URI">https://spear-prosop.org/3094-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/bringer-of-legal-charges-against http://syriaca.org/keyword/justice http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/bringer-of-legal-charges-against http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/bishops">
                         <desc> Though <persName ref="http://syriaca.org/person/3101">the people of
                                     <placeName ref="http://syriaca.org/place/2702"
                                     >Paltus</placeName></persName> had found <persName

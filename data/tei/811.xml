@@ -117,7 +117,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2153"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2153">Zacharias</persName> 
                                 was male
@@ -139,7 +139,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2153"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2153">Zacharias</persName>
                                 was a holy person.
                             </note>
@@ -158,7 +158,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/74">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/74">
                         <desc>
                             <persName ref="http://syriaca.org/person/2153">Zacharias</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             had a close friendship.
@@ -177,7 +177,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2153">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2153">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated 
@@ -198,7 +198,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/asceticism">
                         <desc>
                             <persName ref="http://syriaca.org/person/2153">Zacharias</persName> pursued the ascetic practice of always keeping a stone in his mouth
                             that kept him from speaking superfluously. <persName ref="http://syriaca.org/person/3772">Anonymi 3772</persName> followed him in this practice.
@@ -217,7 +217,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/3772">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2153 http://syriaca.org/person/3772">
                         <desc>
                             <persName ref="http://syriaca.org/person/2153">Zacharias</persName> and <persName ref="http://syriaca.org/person/3772">Anonymi 3772</persName> 
                             were monastics residing in the same monastery.
@@ -236,7 +236,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/memory http://syriaca.org/keyword/commandments">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/commandments">
                         <desc>
                             <persName ref="http://syriaca.org/person/2153">Zacharias</persName> bound a cord around his hand containing three knots. 
                             The first was to remind him to guard his thoughts. The second was to remind him
@@ -256,7 +256,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/commemoration">
+                    <event ana="http://syriaca.org/taxonomy/commemoration">
                         <desc>
                             Sworn to secrecy by <persName ref="http://syriaca.org/person/2153">Zacharias</persName>, 
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> did not reveal his ascetic practices to others until after the saint had died.
@@ -275,7 +275,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/811-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/saints http://syriaca.org/keyword/prayer http://syriaca.org/keyword/miracles http://syriaca.org/keyword/holy-places">
+                    <event ana="http://syriaca.org/taxonomy/saints http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/miracles http://syriaca.org/taxonomy/holy-places">
                         <desc>
                             Many miracles came about through the prayers and the bones of <persName ref="http://syriaca.org/person/2153">Zacharias</persName>.
                         </desc>

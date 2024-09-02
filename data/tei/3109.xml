@@ -99,14 +99,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/repentance http://syriaca.org/keyword/communion http://syriaca.org/keyword/heretics" notBefore="0520" notAfter="0534">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/heterodoxy" notBefore="0520" notAfter="0534">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2427">John</persName> and 
                             <persName ref="http://syriaca.org/person/2428">John</persName>
                             on how to interact with heretics seeking repentance and how to decide with whom one may commune.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428" notBefore="0520" notAfter="0534"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428" notBefore="0520" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -120,7 +120,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/repentance http://syriaca.org/keyword/communion http://syriaca.org/keyword/heretics" notBefore="0520" notAfter="0534">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/heterodoxy" notBefore="0520" notAfter="0534">
                         <desc>
                             <persName ref="http://syriaca.org/person/2427">John</persName> and 
                             <persName ref="http://syriaca.org/person/2428">John</persName>
@@ -131,7 +131,7 @@
                             and on the ordination of those who originally received ordination from heretics
                             but wish to join the non-Chalcedonians.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428" notBefore="0520" notAfter="0534"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428" notBefore="0520" notAfter="0534"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -147,7 +147,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2540"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2540">Theodore</persName>
                                 was a saint.
@@ -164,7 +164,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/2427 http://syriaca.org/person/2428" passive="http://syriaca.org/person/2540">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/2427 http://syriaca.org/person/2428" passive="http://syriaca.org/person/2540">
                         <desc>
                             <persName ref="http://syriaca.org/person/2427">John</persName> and 
                             <persName ref="http://syriaca.org/person/2428">John</persName>
@@ -182,7 +182,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/2545" passive="http://syriaca.org/person/2752">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/2545" passive="http://syriaca.org/person/2752">
                         <desc>
                             <persName ref="http://syriaca.org/person/2545">Isidore</persName> 
                             was bishop with authority over
@@ -199,7 +199,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/repentence">
+                    <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/repentence">
                         <desc>
                             <persName ref="http://syriaca.org/person/2752">Silvanus</persName>, although ordained by Chalcedonians,
                             sought to be a clergyman with the non-Chalcedonians. He was to follow the procedure set down by
@@ -218,7 +218,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2643"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2643">Epimachus</persName> 
                                 was bishop of 
@@ -238,7 +238,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2679"/>
-                        <occupation ana="http://syriaca.org/keyword/readers">
+                        <occupation ana="http://syriaca.org/taxonomy/readers">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2679">John</persName> 
                                 was a reader.
@@ -257,7 +257,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2679"/>
-                        <occupation ana="http://syriaca.org/keyword/scribes">
+                        <occupation ana="http://syriaca.org/taxonomy/scribes">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2679">John</persName> 
                                 was a scribe.
@@ -276,7 +276,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2710"/>
-                        <occupation ana="http://syriaca.org/keyword/readers">
+                        <occupation ana="http://syriaca.org/taxonomy/readers">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2710">Sergius</persName> 
                                 was a reader.
@@ -293,7 +293,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/2710 http://syriaca.org/person/2679">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy" mutual="http://syriaca.org/person/2710 http://syriaca.org/person/2679">
                         <desc>
                             <persName ref="http://syriaca.org/person/2710">Sergius</persName> and <persName ref="http://syriaca.org/person/2679">John</persName> 
                             were clergy together.
@@ -328,7 +328,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/dreams http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/communion">
+                    <event ana="http://syriaca.org/taxonomy/dreams http://syriaca.org/taxonomy/prophecy http://syriaca.org/taxonomy/communion">
                         <desc>
                             <persName ref="http://syriaca.org/person/2679">John</persName> and 
                             <persName ref="http://syriaca.org/person/2710">Sergius</persName>
@@ -348,7 +348,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/communion">
+                    <event ana="http://syriaca.org/taxonomy/communion">
                         <desc>
                             <persName ref="http://syriaca.org/person/2436">Mitras</persName>
                             caused problems in 
@@ -369,7 +369,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2692"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2692">Julian</persName> 
                                 was a presbyter.
@@ -386,7 +386,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commune-together" mutual="http://syriaca.org/person/2736 http://syriaca.org/person/2692">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commune-together" mutual="http://syriaca.org/person/2736 http://syriaca.org/person/2692">
                         <desc>
                             <persName ref="http://syriaca.org/person/2736">Peter Mongus</persName> and <persName ref="http://syriaca.org/person/2692">Julian</persName> 
                             communed together.
@@ -402,7 +402,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian">
+                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian">
                         <desc>
                             Those who thought the <title>Henotikon</title> was insufficient without an 
                             anathema of Chalcedon refused to commune with those who thought is was sufficient. 
@@ -416,7 +416,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
                             <desc>
                                 The following factoids deal with the closely related events: <rs ref="https://spear-prosop.org/3109-19">3109-19</rs>, <rs ref="https://spear-prosop.org/3109-18">3109-18</rs> <rs ref="https://spear-prosop.org/3109-17">3109-17</rs>.
                             </desc>
@@ -427,7 +427,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-18</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian">
+                    <event ana="http://syriaca.org/taxonomy/prophecy http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian">
                         <desc>
                             <persName ref="http://syriaca.org/person/2602">Anatolius</persName> prophesied the death of those
                             who communed with non-Chalcedonians who accepted the <title>Henotikon</title> even though it did 
@@ -442,7 +442,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
                             <desc>
                                 The following factoids deal with the closely related events: <rs ref="https://spear-prosop.org/3109-19">3109-19</rs>, <rs ref="https://spear-prosop.org/3109-18">3109-18</rs> <rs ref="https://spear-prosop.org/3109-17">3109-17</rs>.
                             </desc>
@@ -453,7 +453,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-19" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-19</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/healing http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chalcedonian">
+                    <event ana="http://syriaca.org/taxonomy/healing http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> healed a man with boils who thought he was
                             going to die because <persName ref="http://syriaca.org/person/2602">Anatolius</persName> prophesied the death of those
@@ -469,7 +469,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/proximate-event" mutual="https://spear-prosop.org/3109-19 https://spear-prosop.org/3109-18 https://spear-prosop.org/3109-17">
                             <desc>
                                 The following factoids deal with the closely related events: <rs ref="https://spear-prosop.org/3109-19">3109-19</rs>, <rs ref="https://spear-prosop.org/3109-18">3109-18</rs> <rs ref="https://spear-prosop.org/3109-17">3109-17</rs>.
                             </desc>
@@ -480,7 +480,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2602">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2602">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             called 
@@ -516,7 +516,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2659"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2659">Hosius</persName> 
                                 was a monk.
@@ -533,7 +533,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-24</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/arianism">
+                    <event ana="http://syriaca.org/taxonomy/arianism">
                         <desc>
                             <persName ref="http://syriaca.org/person/354">Athanasius</persName> attempted to refute
                             Arian claims that their theology agreed with the theology of
@@ -550,7 +550,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-25" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3109-25</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/arianism">
+                    <event ana="http://syriaca.org/taxonomy/arianism">
                         <desc>
                             <persName ref="http://syriaca.org/person/376">Basil</persName> demonstrated inconsistencies in
                             <persName ref="http://syriaca.org/person/2456">Dionysius</persName>'s theology.

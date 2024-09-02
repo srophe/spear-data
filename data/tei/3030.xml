@@ -99,14 +99,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3030-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monastic-heads" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monastic-heads" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2753">Simeon</persName> 
                             in which he urged him to remain as head of his monastery and not withdraw 
                             to live as an anchorite.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -122,7 +122,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2753"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2753">Simeon</persName> 
                                 was the monastic head of 
@@ -140,7 +140,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3030-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monastic-heads">
+                    <event ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monastic-heads">
                         <desc>
                             <persName ref="http://syriaca.org/person/2753">Simeon</persName> left his 
                             responsibilities as monastic head in order to live as an 
@@ -158,7 +158,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3030-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2753">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             was a bishop with authority over

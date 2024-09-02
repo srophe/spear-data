@@ -119,13 +119,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/deacons http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/readers http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishop-over" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/readers http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2527">Castor</persName>
                             about dissensions between readers and sub-deacons in his church. 
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2527" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2527" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -141,7 +141,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2527"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2527"
                                     >Castor</persName> was male.</note>
                         </trait>
@@ -158,7 +158,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2527"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2527"
                                     >Castor</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/3054">Perga</placeName>.</note>
@@ -191,7 +191,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2527"
                         passive="http://syriaca.org/person/3038">
                         <desc><persName ref="http://syriaca.org/person/2527">Castor</persName> had
@@ -224,7 +224,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2527"
                         passive="http://syriaca.org/person/3039">
                         <desc><persName ref="http://syriaca.org/person/2527">Castor</persName> had
@@ -257,7 +257,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2527"
                         passive="http://syriaca.org/person/3040">
                         <desc><persName ref="http://syriaca.org/person/2527">Castor</persName> had
@@ -274,7 +274,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3038"
                         passive="http://syriaca.org/person/3039 http://syriaca.org/person/3040">
                         <desc><persName ref="http://syriaca.org/person/3038">Anonymi 3038</persName>
@@ -293,7 +293,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3032-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/submitter-of-petition-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/submitter-of-petition-to"
                         active="http://syriaca.org/person/3038"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/3038">Anonymi 3038</persName>
@@ -313,7 +313,7 @@
                 <idno type="URI">https://spear-prosop.org/3032-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/polemics http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/bible http://syriaca.org/keyword/deacons http://syriaca.org/keyword/readers http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/readers http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> argued
                             that the order of deacons have greater honor than the readers of the
                             church. </desc>
@@ -329,7 +329,7 @@
                 <idno type="URI">https://spear-prosop.org/3032-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/deacons http://syriaca.org/keyword/authority http://syriaca.org/keyword/readers http://syriaca.org/keyword/clergy http://syriaca.org/keyword/letters" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/readers http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/letters" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/3038">Anonymi 3038</persName> 
                             wrote to 
@@ -338,7 +338,7 @@
                             <persName ref="http://syriaca.org/person/3040">and singers</persName> claiming
                             more authority than them. 
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3038" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/3038" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -353,7 +353,7 @@
                 <idno type="URI">https://spear-prosop.org/3032-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishop-over http://syriaca.org/keyword/readers http://syriaca.org/keyword/deacons http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over http://syriaca.org/taxonomy/readers http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             encouraged <persName ref="http://syriaca.org/person/2527"
                                 >Castor</persName> to preserve order by siding with <persName

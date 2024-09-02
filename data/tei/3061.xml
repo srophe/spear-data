@@ -99,13 +99,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/ordination" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/ordination" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/3053">the Fathers</persName> 
                             on the subject of baptism and ordination.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3053" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3053" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -121,7 +121,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2538"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2538">Aeneas</persName> 
                                 was a deacon.
@@ -140,7 +140,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2538"/>
-                        <occupation ana="http://syriaca.org/keyword/priests" notBefore="0513">
+                        <occupation ana="http://syriaca.org/taxonomy/priests" notBefore="0513">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2538">Aeneas</persName> 
                                 was a presbyter.
@@ -158,7 +158,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2718"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2718">Zacharias</persName> 
                                 was a deacon.
@@ -176,7 +176,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2718"/>
-                        <occupation ana="http://syriaca.org/keyword/priests" notBefore="0513">
+                        <occupation ana="http://syriaca.org/taxonomy/priests" notBefore="0513">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2718">Zacharias</persName> 
                                 was a presbyter.
@@ -194,7 +194,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2541"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2541">Elijah</persName> 
                                 was a monk.
@@ -212,7 +212,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2541"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons" when="0513">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons" when="0513">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2541">Elijah</persName> 
                                 was a deacon.
@@ -242,14 +242,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/baptism">
+                    <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/baptism">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> refused to recognize ordinations by
                             <persName ref="http://syriaca.org/person/2472">Theodotus</persName> and
                             <persName ref="http://syriaca.org/person/2495">Gregory</persName> 
                             but he did accept the baptisms they performed.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2472 http://syriaca.org/person/2495"></relation>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2472 http://syriaca.org/person/2495"></relation>
                             </listRelation>
                         </desc>
                     </event>
@@ -263,7 +263,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/3780" passive="http://syriaca.org/person/2496">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/3780" passive="http://syriaca.org/person/2496">
                         <desc>
                             <persName ref="http://syriaca.org/person/3780">Anonymous 3780</persName> 
                             was a follower of
@@ -280,7 +280,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/sin http://syriaca.org/keyword/canon-law">
+                    <event ana="http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/canon-law">
                         <desc>
                             <persName ref="http://syriaca.org/person/3780">Anonymous 3780</persName>
                             performed ordinations against canon law and made many false oaths.
@@ -296,7 +296,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2496 http://syriaca.org/person/3780">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2496 http://syriaca.org/person/3780">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             denounced 
@@ -314,7 +314,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/sin http://syriaca.org/keyword/bishops">
+                    <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/bishops">
                         <desc>
                             <persName ref="http://syriaca.org/person/2631">Cyrus</persName> falsely claimed to be a priest
                             and performed invalid ordinations.
@@ -330,14 +330,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/clergy http://syriaca.org/keyword/ordination" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/ordination" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/3053">the Fathers</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/51">Severus</persName> about
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> having trouble with the 
                             clergy in <placeName ref="http://syriaca.org/place/46">Beirut</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3053" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/3053" passive="http://syriaca.org/person/51" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -351,14 +351,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-15</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/incarnation">
+                    <event ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/incarnation">
                         <desc>
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> rejected the incarnation and adopted the errors of 
                             <persName ref="http://syriaca.org/person/482">Eutyches</persName> and
                             <persName ref="http://syriaca.org/person/2779">Valentinus</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/follower-of" ana="http://syriaca.org/keyword/alleged-relationship" active="http://syriaca.org/person/2699" passive="http://syriaca.org/person/482 http://syriaca.org/person/2779"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699 http://syriaca.org/person/482 http://syriaca.org/person/2779"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" ana="http://syriaca.org/taxonomy/alleged-relationship" active="http://syriaca.org/person/2699" passive="http://syriaca.org/person/482 http://syriaca.org/person/2779"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699 http://syriaca.org/person/482 http://syriaca.org/person/2779"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -372,7 +372,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-16</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/incarnation http://syriaca.org/keyword/repentance" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/incarnation http://syriaca.org/taxonomy/repentance" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent 
                             <persName ref="http://syriaca.org/person/2649">Eusebius</persName> and 
@@ -380,7 +380,7 @@
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> to repent 
                             and abandon his Eutychian views of the incarnation.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2699" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -394,7 +394,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-17" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-17</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2649 http://syriaca.org/person/2433">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2649 http://syriaca.org/person/2433">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             was bishop over
@@ -414,7 +414,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2649"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2649">Eusebius</persName> 
                                 was a priest.
@@ -433,7 +433,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2649"/>
-                        <occupation ana="http://syriaca.org/keyword/stewards">
+                        <occupation ana="http://syriaca.org/taxonomy/stewards">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2649">Eusebius</persName> 
                                 was a stweard.
@@ -452,7 +452,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2433"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2433">Victor</persName> 
                                 was a priest.
@@ -471,7 +471,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3781"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3781">Anonymous 3781</persName> 
                                 was bishop of <placeName ref="http://syriaca.org/place/2712">Scythopolis</placeName>.
@@ -488,7 +488,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-22" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-22</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commune-together" mutual="http://syriaca.org/person/3781 http://syriaca.org/person/2699">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commune-together" mutual="http://syriaca.org/person/3781 http://syriaca.org/person/2699">
                         <desc>
                             <persName ref="http://syriaca.org/person/2699">Marinus</persName> and <persName ref="http://syriaca.org/person/3781">Anonymous 3781</persName> 
                             communed together.
@@ -504,7 +504,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-23" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-23</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3781">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3781">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             had enmity for
@@ -523,7 +523,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3779"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3779">Zoninus</persName> 
                                 was a presbyter.
@@ -540,7 +540,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-25" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3061-25</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters">
+                    <event ana="http://syriaca.org/taxonomy/letters">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> asked that his letter be read to
                             <persName ref="http://syriaca.org/person/3779">Zoninus</persName>,
@@ -548,7 +548,7 @@
                             <persName ref="http://syriaca.org/person/2719">Zenobius</persName>, and
                             <persName ref="http://syriaca.org/person/2644">Eubulus</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3779 http://syriaca.org/person/2662 http://syriaca.org/person/2719 http://syriaca.org/person/2644"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3779 http://syriaca.org/person/2662 http://syriaca.org/person/2719 http://syriaca.org/person/2644"/>
                             </listRelation>
                         </desc>
                     </event>

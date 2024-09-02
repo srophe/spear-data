@@ -122,7 +122,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2566"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2566">
                                     Stephen </persName> was male. </note>
                         </trait>
@@ -138,7 +138,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2566"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2566">
                                     Stephen </persName> was a deacon. </note>
                         </occupation>
@@ -152,7 +152,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/alliance-with"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/alliance-with"
                         mutual="http://syriaca.org/person/2460 http://syriaca.org/person/2417">
                         <desc><persName ref="http://syriaca.org/person/2460">Musonius</persName> and
                                 <persName ref="http://syriaca.org/person/2417">Solon</persName>
@@ -183,7 +183,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2460"
                         passive="http://syriaca.org/person/3727">
                         <desc>
@@ -200,7 +200,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3727"
                         passive="http://syriaca.org/person/2460">
                         <desc>
@@ -217,13 +217,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/wealth http://syriaca.org/keyword/property">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/property">
                         <desc>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2511">Longinus</persName>
                             seeking illicit gain.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2460" passive="http://syriaca.org/person/2511"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2460" passive="http://syriaca.org/person/2511"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -234,7 +234,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/same-event" mutual="https://spear-prosop.org/3026-11 https://spear-prosop.org/3050-11">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/same-event" mutual="https://spear-prosop.org/3026-11 https://spear-prosop.org/3050-11">
                             <desc>
                                 The following factoids deal with the same event: <rs ref="https://spear-prosop.org/3026-11">3026-11</rs>, <rs ref="https://spear-prosop.org/3050-11">3050-11</rs>.
                             </desc>
@@ -245,13 +245,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/sin http://syriaca.org/keyword/greed http://syriaca.org/keyword/pride" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/greed http://syriaca.org/taxonomy/pride" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/3726">Anonymi 3726</persName> on the subject of 
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName>, especially his greed, pride, and disruptive behavior.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3726" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3726" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -264,7 +264,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/travel" notAfter="0517">
                         <desc>
                             <date notAfter="0517">Sometime before 0518</date>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> traveled from <placeName ref="http://syriaca.org/place/99">Isaurai</placeName>
@@ -280,7 +280,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3050-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/usury">
+                    <event ana="http://syriaca.org/taxonomy/usury">
                         <desc>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> was convicted of lending money at interest 
                             in the episcopal court of <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName>.

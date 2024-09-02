@@ -97,14 +97,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3208-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/56">Oecumenius</persName>
                             arguing against the use of summaries of arguments, preferring instead a 
                             reliance on a full discourse.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/56" notBefore="0513" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/56" notBefore="0513" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>

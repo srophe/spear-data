@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing http://syriaca.org/keyword/conversion" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/anointing http://syriaca.org/taxonomy/conversion" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to the
                             <placeName ref="http://syriaca.org/place/3060">monastery at Tagai</placeName> 
@@ -117,7 +117,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2724">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2724">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> and <persName ref="http://syriaca.org/person/2724">Neon</persName> 
                             had a professional relationship.
@@ -135,7 +135,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2724"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2724">Neon</persName> 
                                 was a presbyter.
@@ -154,7 +154,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2724"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2724">Neon</persName> 
                                 was an archimandrites.
@@ -171,7 +171,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing" when="0513">
+                    <event ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/anointing" when="0513">
                         <desc>
                             When <persName ref="http://syriaca.org/person/51">Severus</persName> became bishop of 
                             <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>, he opposed those who
@@ -189,7 +189,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3051-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing">
+                    <event ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/anointing">
                         <desc>
                             When <persName ref="http://syriaca.org/person/2759">Stephen</persName>
                             united with bishops in the regions of

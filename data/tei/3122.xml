@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3122-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/incarnation http://syriaca.org/keyword/trinity" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/exegesis http://syriaca.org/taxonomy/incarnation http://syriaca.org/taxonomy/trinity" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> responded to a letter of
                             <persName ref="http://syriaca.org/person/2620">Caesaria hypatissa</persName>
@@ -105,7 +105,7 @@
                             <title ref="http://syriaca.org/work/9646">Matthew</title> 14.25
                             and referencing biblical passages dealing with the incarnation.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2620" notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2620" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -119,14 +119,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3122-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/incarnation http://syriaca.org/keyword/trinity" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/exegesis http://syriaca.org/taxonomy/incarnation http://syriaca.org/taxonomy/trinity" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/2620">Caesaria hypatissa</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/51">Severus</persName>
                             asking questions about 
                             <title ref="http://syriaca.org/work/9646">Matthew</title> 14.25.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2620" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2620" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -140,7 +140,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3122-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/511">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/511">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited
@@ -157,7 +157,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3122-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/511">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/511">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited

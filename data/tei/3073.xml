@@ -132,7 +132,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3073-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3080">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -171,7 +171,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3073-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3096">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -204,7 +204,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2539"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2539"
                                     >Cosmas</persName> was male.</note>
                         </trait>
@@ -221,7 +221,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2539"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2539"
                                     >Cosmas</persName> was a presbyter.</note>
                         </occupation>

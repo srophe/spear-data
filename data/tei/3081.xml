@@ -110,7 +110,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3738"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3738">Anonymous 3738</persName>
                                 was male. </note>
                         </trait>
@@ -126,7 +126,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3738"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc"><persName ref="http://syriaca.org/person/3738">Anonymous 3738</persName>
                                 was an archimandrite. </note>
                         </occupation>
@@ -140,7 +140,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3738">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName
@@ -169,7 +169,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2418"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2418"> Nonnus
                                 </persName> was male. </note>
                         </trait>
@@ -185,7 +185,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2418"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/2418"> Nonnus
                                 </persName> was a monk of <placeName
                                     ref="http://syriaca.org/place/635"> the Monastery of Simeon
@@ -201,7 +201,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over"
                         active="http://syriaca.org/person/3738"
                         passive="http://syriaca.org/person/2418">
                         <desc><persName ref="http://syriaca.org/person/3738">Anonymous 3738</persName> was a monastic
@@ -219,7 +219,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3737"/>
-                        <occupation ana="http://syriaca.org/keyword/ekklesiekdikoi">
+                        <occupation ana="http://syriaca.org/taxonomy/ekklesiekdikoi">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3737">Anonymi 3737</persName> were ekklesiekdikoi of the church in 
                                 <placeName ref="http://syriaca.org/place/10">Antioch</placeName>
@@ -235,7 +235,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3737"
                         passive="http://syriaca.org/person/2418">
                         <desc><persName ref="http://syriaca.org/person/3737">Anonymi 3737</persName> brought legal
@@ -264,7 +264,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2419"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2419">
                                     Eusebius </persName> was male. </note>
                         </trait>
@@ -280,7 +280,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2419"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2419">
                                     Eusebius </persName> was a deacon of <placeName
                                     ref="http://syriaca.org/place/10"> Antioch </placeName>. </note>
@@ -295,7 +295,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2419">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had ecclesiastical authority over <persName
@@ -310,7 +310,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/carrier-of-letter-from" active="http://syriaca.org/person/2419" passive="http://syriaca.org/person/51">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/carrier-of-letter-from" active="http://syriaca.org/person/2419" passive="http://syriaca.org/person/51">
                         <desc>
                             <persName ref="http://syriaca.org/person/2419">Eusebius</persName> 
                             carried a letter from 
@@ -327,7 +327,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/carrier-of-letter-to" active="http://syriaca.org/person/2419" passive="http://syriaca.org/person/3738">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/carrier-of-letter-to" active="http://syriaca.org/person/2419" passive="http://syriaca.org/person/3738">
                         <desc>
                             <persName ref="http://syriaca.org/person/2419">Eusebius</persName> 
                             carried a letter between 
@@ -344,7 +344,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-22" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-22/</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/monks http://syriaca.org/keyword/letters" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/letters" notBefore="0513" notAfter="0518">
                         <desc>
                             <date notBefore="0513" notAfter="0518">Sometime during his episcopacy</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to  
@@ -362,7 +362,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3081-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/monks" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/monks" notBefore="0513" notAfter="0518">
                         <desc>
                             <date notBefore="0513" notAfter="0518">Sometime during the episcopacy of <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName></date>
                             <persName ref="http://syriaca.org/person/2418"> Nonnus </persName> fled <placeName ref="http://syriaca.org/place/10">Antioch</placeName> 

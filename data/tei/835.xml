@@ -98,7 +98,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/3155">Tribunus</persName>
                         was a saint.
                      </note>
@@ -119,7 +119,7 @@
           <listPerson>
              <person>
                 <persName ref="http://syriaca.org/person/3155"/>
-                <socecStatus ana="http://syriaca.org/keyword/comes">
+                <socecStatus ana="http://syriaca.org/taxonomy/comes">
                    <note type="desc">
                       <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                       was a count.
@@ -165,7 +165,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
-                  <education ana="http://syriaca.org/keyword/religion http://syriaca.org/keyword/bible">
+                  <education ana="http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/bible">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         had been taught religion and scripture. 
@@ -188,7 +188,7 @@
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
                   <langKnowledge>
-                     <langKnown ana="http://syriaca.org/keyword/classical-syriac"/>
+                     <langKnown ana="http://syriaca.org/taxonomy/classical-syriac"/>
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         recited the liturgy and read the Bible in Syriac.
@@ -211,7 +211,7 @@
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
                   <langKnowledge>
-                     <langKnown ana="http://syriaca.org/keyword/greek-language-ancient"/>
+                     <langKnown ana="http://syriaca.org/taxonomy/greek-language-ancient"/>
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         could read and write Greek
@@ -234,7 +234,7 @@
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
                   <langKnowledge>
-                     <langKnown ana="http://syriaca.org/keyword/armenians"/>
+                     <langKnown ana="http://syriaca.org/taxonomy/armenians"/>
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         was a native speaker of Armenian.
@@ -254,7 +254,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/835-10</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/celibacy http://syriaca.org/keyword/sin">
+               <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/celibacy http://syriaca.org/taxonomy/sin">
                   <desc>
                      <persName ref="http://syriaca.org/person/3155">Tribunus</persName> resists marriage fearing that such a worldly
                      attachment would lead to sin and the begetting of children who would sin and die.

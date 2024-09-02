@@ -89,7 +89,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/795-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1320">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1320">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -116,7 +116,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1320">John</persName> was male.</note>
                         </trait>
                     </person>
@@ -129,7 +129,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1320">John</persName> was a monk.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1320">John</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/795"/><citedRange unit="p">36</citedRange></bibl>
@@ -140,7 +140,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1320"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1320">John</persName> was a saint.</note>
                         </state>
                     </person>
@@ -163,7 +163,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/education http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/education http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName>
                             received religious training as a boy at the <placeName ref="http://syriaca.org/place/358">monastery of Zuknin</placeName>.
                         </desc>
@@ -175,7 +175,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> decided
                             that he would commit himself to an aescetic lifestyle by eating only
                             lentils, salt, water, and bread, despite the misgivings of those around
@@ -188,7 +188,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/fasting http://syriaca.org/keyword/anchorites">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/anchorites">
                         <desc> A place was made for <persName ref="http://syriaca.org/person/1320">John</persName> in a monastery enclosure, which he dwelt in night
                             and day so that he could pray, weep, and live an ascetic life. </desc>
                     </event>
@@ -199,7 +199,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/demons">
+                    <event ana="http://syriaca.org/taxonomy/demons">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> had
                             contests with demons. </desc>
                     </event>
@@ -210,7 +210,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/demons http://syriaca.org/keyword/spiritual-or-ascetic-disciplines">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/demons http://syriaca.org/taxonomy/spiritual-or-ascetic-disciplines">
                         <desc> After ten years of prayer and contending with demons, <persName ref="http://syriaca.org/person/1320">John</persName> was granted
                             divine authority over his enemies and sprititual clarity, so that his
                             understanding of Scripture equalled or surpassed most scholastics.
@@ -235,7 +235,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName>
                             completed twenty-five years in the monastery before the monks were
                             assailed by heresy. </desc>
@@ -247,7 +247,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1320">John</persName> went
                             into exile with thirty loyal monks </desc>
                     </event>
@@ -270,7 +270,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy" mutual="http://syriaca.org/person/1320 http://syriaca.org/person/3679"><desc><persName ref="http://syriaca.org/person/1320">John the Nazarite</persName> and <persName ref="http://syriaca.org/person/3679">Anonymous 3679</persName> were fellow clergy.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy" mutual="http://syriaca.org/person/1320 http://syriaca.org/person/3679"><desc><persName ref="http://syriaca.org/person/1320">John the Nazarite</persName> and <persName ref="http://syriaca.org/person/3679">Anonymous 3679</persName> were fellow clergy.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/795"/><citedRange unit="p">42</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">42</citedRange></bibl>
@@ -278,7 +278,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/795-16</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles http://syriaca.org/keyword/demons http://syriaca.org/keyword/healing">
+                    <event ana="http://syriaca.org/taxonomy/miracles http://syriaca.org/taxonomy/demons http://syriaca.org/taxonomy/healing">
                         <desc> Wherever <persName ref="http://syriaca.org/person/1320">John</persName> went, he healed the sick and exorcised demons.
                         </desc>
                     </event>

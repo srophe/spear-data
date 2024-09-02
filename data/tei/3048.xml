@@ -166,7 +166,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/3072"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/3072">Anonymi 3072</persName>
@@ -183,7 +183,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/member-of-group"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/member-of-group"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3072">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -200,7 +200,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/member-of-group"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/member-of-group"
                         active="http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/3072">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName> was
@@ -217,7 +217,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName> had
@@ -234,7 +234,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2514">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -267,7 +267,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3048-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2514"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName>
@@ -285,7 +285,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/councils http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/bishops http://syriaca.org/keyword/heterodoxy" when="0515">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/heterodoxy" when="0515">
                         <desc><date when="0515" calendar="Gregorian">In 515</date>, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> and <persName
                                 ref="http://syriaca.org/person/3072">the bishops gathered in
@@ -307,7 +307,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/councils http://syriaca.org/keyword/travel">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/3072">The bishops of
                                     <placeName ref="http://syriaca.org/place/10"
                                 >Antioch</placeName></persName> asked <persName
@@ -327,7 +327,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/councils http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/persecution">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName> told
                                 <persName ref="http://syriaca.org/person/3072">the
                                 bishops</persName> how <persName
@@ -348,7 +348,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/penitence http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/bishops http://syriaca.org/keyword/councils http://syriaca.org/keyword/sin">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/sin">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> and
                                 <persName ref="http://syriaca.org/person/3072">the bishops of
                                     <placeName ref="http://syriaca.org/place/10"

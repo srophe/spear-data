@@ -136,7 +136,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2520"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2520"
                                     >Dionysius</persName> was male.</note>
                         </trait>
@@ -153,7 +153,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2520"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2520"
                                     >Dionysius</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2722">Tarsus</placeName>.</note>
@@ -169,7 +169,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3054-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2520">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -206,7 +206,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3073"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3073"
                                     >Anonymous 3073</persName> was male.</note>
                         </trait>
@@ -223,7 +223,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3073"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/3073"
                                     >Anonymous 3073</persName> was a presbyter in the village of
                                     <placeName ref="http://syriaca.org/place/2703"
@@ -240,7 +240,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3054-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2520"
                         passive="http://syriaca.org/person/3073">
                         <desc><persName ref="http://syriaca.org/person/2520">Dionysios</persName>
@@ -259,7 +259,7 @@
                 <idno type="URI">https://spear-prosop.org/3054-9</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy http://syriaca.org/keyword/priests http://syriaca.org/keyword/demonology" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/demonology" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -280,7 +280,7 @@
                 <idno type="URI">https://spear-prosop.org/3054-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/demonology http://syriaca.org/keyword/clergy http://syriaca.org/keyword/countryside http://syriaca.org/keyword/illness">
+                        ana="http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/countryside http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/3073">A presbyter in the
                                 village of <placeName ref="http://syriaca.org/place/2703"
                                     >Pessinus</placeName></persName> became sick by possession of a
@@ -297,7 +297,7 @@
                 <idno type="URI">https://spear-prosop.org/3054-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy http://syriaca.org/keyword/demonology http://syriaca.org/keyword/countryside http://syriaca.org/keyword/communion http://syriaca.org/keyword/authority">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/countryside http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/authority">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             suggested that <persName ref="http://syriaca.org/person/2520"
                                 >Dionysius</persName> treat <persName

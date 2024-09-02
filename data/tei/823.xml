@@ -110,7 +110,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/823-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1705">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1705">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -132,7 +132,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1705"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1705">Elijah</persName>
                                 was a saint.
                             </note>
@@ -151,7 +151,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/823-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3140">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3140">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -173,7 +173,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3140"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3140">Theodore</persName>
                                 was a saint.
                             </note>
@@ -194,7 +194,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1705"/>
-                        <occupation ana="http://syriaca.org/keyword/merchants">
+                        <occupation ana="http://syriaca.org/taxonomy/merchants">
                             <note type="desc"><persName ref="http://syriaca.org/person/1705"
                                     >Elijah</persName> was a trader in <placeName
                                     ref="http://syriaca.org/place/526">Persia</placeName>. </note>
@@ -215,7 +215,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3140"/>
-                        <occupation ana="http://syriaca.org/keyword/merchants">
+                        <occupation ana="http://syriaca.org/taxonomy/merchants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3140"
                                     >Theodore</persName> was a trader in <placeName
                                     ref="http://syriaca.org/place/526">Persia</placeName>. </note>
@@ -235,7 +235,7 @@
                 <idno type="URI">https://spear-prosop.org/823-5</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/conversion http://syriaca.org/keyword/religion http://syriaca.org/keyword/oaths http://syriaca.org/keyword/trade http://syriaca.org/keyword/wealth http://syriaca.org/keyword/poverty http://syriaca.org/keyword/economics http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/oaths http://syriaca.org/taxonomy/trade http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/economics http://syriaca.org/taxonomy/blessing">
                         <desc><persName ref="http://syriaca.org/person/3140"
                                 >Theodore</persName> and <persName
                                 ref="http://syriaca.org/person/1705">Elijah</persName> committed
@@ -256,7 +256,7 @@
                 <idno type="URI">https://spear-prosop.org/823-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wealth http://syriaca.org/keyword/coins http://syriaca.org/keyword/property http://syriaca.org/keyword/economics http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/coins http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/economics http://syriaca.org/taxonomy/blessing">
                         <desc> God saw the integrity of <persName
                                 ref="http://syriaca.org/person/3140">Theodore</persName> and <persName
                                 ref="http://syriaca.org/person/1705">Elijah</persName> and blessed
@@ -276,7 +276,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/823-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc> After twenty years of trading,<persName
                                 ref="http://syriaca.org/person/3140">Theodore</persName> and <persName
                                 ref="http://syriaca.org/person/1705">Elijah</persName> returned
@@ -314,7 +314,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3715"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/virginity">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/virginity">
                             <note type="desc"><persName ref="http://syriaca.org/person/3715">the
                                     sisters</persName> were virgins. </note>
                         </state>
@@ -332,7 +332,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/823-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of"
                         mutual="http://syriaca.org/person/3140 http://syriaca.org/person/1705">
                         <desc><persName ref="http://syriaca.org/person/3140">Theodore</persName> and
                                 <persName ref="http://syriaca.org/person/1705">Elijah</persName>
@@ -351,7 +351,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/823-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of"
                         mutual="http://syriaca.org/person/3140 http://syriaca.org/person/3715">
                         <desc><persName ref="http://syriaca.org/person/3140">Theodore</persName> and
                                 <persName ref="http://syriaca.org/person/3715"> Anonymi 3715 </persName> were
@@ -370,7 +370,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/823-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of"
                         mutual="http://syriaca.org/person/1705 http://syriaca.org/person/3715">
                         <desc><persName ref="http://syriaca.org/person/1705">Elijah</persName> and
                             <persName ref="http://syriaca.org/person/3715"> Anonymi 3715 </persName> were
@@ -390,7 +390,7 @@
                 <idno type="URI">https://spear-prosop.org/823-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/religion http://syriaca.org/keyword/wealth http://syriaca.org/keyword/poverty http://syriaca.org/keyword/economics http://syriaca.org/keyword/charity">
+                        ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/economics http://syriaca.org/taxonomy/charity">
                         <desc><persName ref="http://syriaca.org/person/1705"
                                 >Elijah</persName>,<persName ref="http://syriaca.org/person/3140"
                                 >Theodore</persName>, and <persName
@@ -415,7 +415,7 @@
                 <idno type="URI">https://spear-prosop.org/823-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/fasting http://syriaca.org/keyword/laborers-unskilled http://syriaca.org/keyword/widows-of-the-church http://syriaca.org/keyword/prayer">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/laborers-unskilled http://syriaca.org/taxonomy/widows-of-the-church http://syriaca.org/taxonomy/prayer">
                         <desc><persName ref="http://syriaca.org/person/1705"
                                 >Elijah</persName>,<persName ref="http://syriaca.org/person/3140"
                                 >Theodore</persName>, and <persName
@@ -437,7 +437,7 @@
                 <idno type="URI">https://spear-prosop.org/823-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/children">
+                        ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/children">
                         <desc><persName ref="http://syriaca.org/person/1705">Elijah</persName> took a
                             wife, who bore him sons and one daughter, who would become a nun.
                         </desc>
@@ -456,7 +456,7 @@
                 <idno type="URI">https://spear-prosop.org/823-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/poverty http://syriaca.org/keyword/persecution http://syriaca.org/keyword/travel http://syriaca.org/keyword/trade http://syriaca.org/keyword/merchants http://syriaca.org/keyword/charity http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monasticism">
+                        ana="http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/trade http://syriaca.org/taxonomy/merchants http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monasticism">
                         <desc>
                             <persName ref="http://syriaca.org/person/1705">Elijah</persName>, 
                             <persName ref="http://syriaca.org/person/3140">Theodore</persName>, and 
@@ -480,7 +480,7 @@
                 <idno type="URI">https://spear-prosop.org/823-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads">
                         <desc><persName ref="http://syriaca.org/person/1705">Elijah</persName> died
                             before becoming a monk, but his wife and daughter joined a convent
                                 in <placeName ref="http://syriaca.org/place/2812">Mabbug</placeName>.

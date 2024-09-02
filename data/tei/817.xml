@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/817-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1813">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1813">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1813"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1813">John</persName>
                                 was a saint.
                             </note>
@@ -194,7 +194,7 @@
                 <idno type="URI">https://spear-prosop.org/817-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/wandering" notBefore="0451">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/wandering" notBefore="0451">
                         <desc>
                             <date notBefore="0451" calendar="Gregorian">After the Council of <placeName ref="http://syriaca.org/place/622">Chalcedon</placeName></date>, 
                             <persName ref="http://syriaca.org/person/1813">John</persName> was expelled from <placeName ref="http://syriaca.org/place/87">Gaza</placeName>, 
@@ -232,7 +232,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/784"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/784"
                                     >Theodosius</persName> was archbishop of Alexandria. </note>
                         </occupation>
@@ -251,7 +251,7 @@
                 <idno type="URI">https://spear-prosop.org/817-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/784">Theodosius</persName> appointed 
                             <persName ref="http://syriaca.org/person/1813">John</persName> as bishop of
                             <placeName ref="http://syriaca.org/place/2788">Hephaestu</placeName>. </desc>
@@ -302,7 +302,7 @@
                 <idno type="URI">https://spear-prosop.org/817-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/bishops http://syriaca.org/keyword/monks http://syriaca.org/keyword/travel http://syriaca.org/keyword/clergy http://syriaca.org/keyword/priests http://syriaca.org/keyword/nobles http://syriaca.org/keyword/emperors">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/nobles http://syriaca.org/taxonomy/emperors">
                         <desc>
                             <persName ref="http://syriaca.org/person/784">Theodosius</persName> and
                             the rest of the bishops were sent into exile. Along with three hundred
@@ -326,7 +326,7 @@
                 <idno type="URI">https://spear-prosop.org/817-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/travel http://syriaca.org/keyword/exile http://syriaca.org/keyword/ordination">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/ordination">
                         <desc> Under persecution, suffering Christians would go to <placeName ref="http://syriaca.org/place/586">Constantinople</placeName>, but
                             nowhere, not even in <placeName ref="http://syriaca.org/place/2854">Thrace</placeName>, could they find anyone willing to ordain
                             priests. </desc>
@@ -345,7 +345,7 @@
                 <idno type="URI">https://spear-prosop.org/817-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/illness http://syriaca.org/keyword/ordination http://syriaca.org/keyword/physicians">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/physicians">
                         <desc> Convicted,<persName ref="http://syriaca.org/person/1813"
                                 >John</persName> resolved to perform ordinations, journeying into
                                 <placeName ref="http://syriaca.org/place/586">the
@@ -367,7 +367,7 @@
                 <idno type="URI">https://spear-prosop.org/817-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/clergy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/illness http://syriaca.org/keyword/altars http://syriaca.org/keyword/exile">
+                        ana="http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/altars http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/779"
                                 >Theodora</persName> allowed <persName
                                 ref="http://syriaca.org/person/1813">John</persName> to stay in
@@ -390,7 +390,7 @@
                 <idno type="URI">https://spear-prosop.org/817-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/ordination http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/clergy">
                         <desc> Jelous of the zealous activity of <persName
                                 ref="http://syriaca.org/person/1813">John</persName>, bishops and
                             priests began to petition <persName ref="http://syriaca.org/person/784"
@@ -412,7 +412,7 @@
                 <idno type="URI">https://spear-prosop.org/817-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wisdom http://syriaca.org/keyword/evil http://syriaca.org/keyword/persecution http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/wisdom http://syriaca.org/taxonomy/evil http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/1813"
                             >John</persName> exercised judgment when deciding who he would ordain.
                             The jealous bishops, meanwhile, plotted to reveal <persName
@@ -434,7 +434,7 @@
                 <idno type="URI">https://spear-prosop.org/817-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/ordination http://syriaca.org/keyword/clergy http://syriaca.org/keyword/justice http://syriaca.org/keyword/repentance http://syriaca.org/keyword/honour http://syriaca.org/keyword/mercy http://syriaca.org/keyword/suffering http://syriaca.org/keyword/illness">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/honour http://syriaca.org/taxonomy/mercy http://syriaca.org/taxonomy/suffering http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/1813"
                                 >John</persName> confronted <persName
                                 ref="http://syriaca.org/person/779">Theodora</persName> about the
@@ -461,7 +461,7 @@
                 <idno type="URI">https://spear-prosop.org/817-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/ordination http://syriaca.org/keyword/persecution">
+                        ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/persecution">
                         <desc>
                             <persName ref="http://syriaca.org/person/1813">John</persName> continued to ordain believers, travelling to 
                             <placeName ref="http://syriaca.org/place/2811">Lydia in <placeName ref="http://syriaca.org/place/2746">Asia</placeName></placeName>,
@@ -501,7 +501,7 @@
                 <idno type="URI">https://spear-prosop.org/817-19</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/letters http://syriaca.org/keyword/ordination http://syriaca.org/keyword/justice http://syriaca.org/keyword/love http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/love http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/2274"
                             >Ephraim</persName> appealed to the king and queen, revealing that
                                 <persName ref="http://syriaca.org/person/1813">John</persName> was
@@ -526,7 +526,7 @@
                 <idno type="URI">https://spear-prosop.org/817-20</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/persecution http://syriaca.org/keyword/illness http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy">
                         <desc> After a time,<persName ref="http://syriaca.org/person/1813">John</persName> 
                             feigned illness again as a pretense to travel around
                             the empire to ordain more priests. He travelled to <placeName
@@ -569,7 +569,7 @@
                 <idno type="URI">https://spear-prosop.org/817-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/eucharist">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/eucharist">
                         <desc> 
                             While <persName ref="http://syriaca.org/person/1813">John</persName> was ordaining priests in 
                             <placeName ref="http://syriaca.org/place/2855">the Church at <placeName ref="http://syriaca.org/place/2857">Tralles</placeName></placeName>, 

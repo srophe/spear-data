@@ -97,13 +97,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3186-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/diptychs http://syriaca.org/keyword/names" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/diptychs http://syriaca.org/taxonomy/names" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2769">Theophanes</persName> discussing 
                             the need to be moderate regarding names included in the diptychs.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2769" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2769" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -119,7 +119,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2769"/>
-                        <occupation ana="http://syriaca.org/keyword/scholastics">
+                        <occupation ana="http://syriaca.org/taxonomy/scholastics">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2769">Theophanes</persName> 
                                 was a scholastic.
@@ -136,7 +136,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3186-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/heterodoxy">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/heterodoxy">
                         <desc>
                             <persName ref="http://syriaca.org/person/792">Timothy II</persName>,
                             <persName ref="http://syriaca.org/person/2470">Paul of Ephesus</persName>,
@@ -144,7 +144,7 @@
                             <persName ref="http://syriaca.org/person/2598">Anastasius of Jerusalem</persName>
                             co-authored an encyclical letter condemning heresy.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/co-authors" mutual="http://syriaca.org/person/792 http://syriaca.org/person/2470 http://syriaca.org/person/2474 http://syriaca.org/person/2598"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/co-authors" mutual="http://syriaca.org/person/792 http://syriaca.org/person/2470 http://syriaca.org/person/2474 http://syriaca.org/person/2598"/>
                             </listRelation>
                         </desc>
                     </event>

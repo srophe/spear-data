@@ -80,7 +80,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-7</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/asceticism">
+               <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/asceticism">
                   <desc>
                      <persName ref="http://syriaca.org/person/51">Severus</persName> was forced to flee <placeName ref="http://syriaca.org/place/10">Antioch</placeName> 
                      because of his opposition to the Council of Chalcedon. He went first to <placeName ref="http://syriaca.org/place/572">Alexandria</placeName> 
@@ -100,12 +100,12 @@
          <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-8</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/polemics">
+               <event ana="http://syriaca.org/taxonomy/polemics">
                   <desc>
                      While in exile, <persName ref="http://syriaca.org/person/51">Severus</persName> came into conflict with 
                      <persName ref="http://syriaca.org/person/579">Julian of Halicarnassus</persName>.
                      <listRelation>
-                        <relation type="person" ref="http://syriaca.org/keyword/refuter-of" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/579"/>
+                        <relation type="person" ref="http://syriaca.org/taxonomy/refuter-of" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/579"/>
                      </listRelation>
                   </desc>
                </event>
@@ -122,7 +122,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-9</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
+               <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution">
                   <desc>
                      <persName ref="http://syriaca.org/person/784">Theodosius</persName> was forced to flee 
                      <placeName ref="http://syriaca.org/place/572">Alexandria</placeName> because of his opposition to 
@@ -144,7 +144,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1592"/>
-                  <occupation ana="http://syriaca.org/keyword/bishops">
+                  <occupation ana="http://syriaca.org/taxonomy/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/1592">Anthimus</persName> 
                         was bishop of <placeName ref="http://syriaca.org/place/3059">Trebizond</placeName>.
@@ -166,7 +166,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1592"/>
-                  <occupation ana="http://syriaca.org/keyword/bishops">
+                  <occupation ana="http://syriaca.org/taxonomy/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/1592">Anthimus</persName> 
                         was bishop of <placeName ref="http://syriaca.org/place/2290">Constantinople</placeName>.
@@ -186,7 +186,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-12</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
+               <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution">
                   <desc>
                      <persName ref="http://syriaca.org/person/1592">Anthimus</persName> chose to exile himself from 
                      <placeName ref="http://syriaca.org/place/2290">Constantinople</placeName> when he learned that 
@@ -208,16 +208,16 @@
          <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-13</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/letters">
+               <event ana="http://syriaca.org/taxonomy/letters">
                   <desc>
                      <persName ref="http://syriaca.org/person/1592">Anthimus</persName> sent letters to 
                      <persName ref="http://syriaca.org/person/51">Severus</persName> and 
                      <persName ref="http://syriaca.org/person/784">Theodosius</persName> who sent synodical letters
                      to him as well. They agreed to a union in opposition to the Council of Chalcedon.
                      <listRelation>
-                        <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/1592" passive="http://syriaca.org/person/51 http://syriaca.org/person/784"/>
-                        <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51 http://syriaca.org/person/784" passive="http://syriaca.org/person/1592"/>
-                        <relation type="person" ref="http://syriaca.org/keyword/alliance-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/784 http://syriaca.org/person/1592"/>
+                        <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/1592" passive="http://syriaca.org/person/51 http://syriaca.org/person/784"/>
+                        <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51 http://syriaca.org/person/784" passive="http://syriaca.org/person/1592"/>
+                        <relation type="person" ref="http://syriaca.org/taxonomy/alliance-with" mutual="http://syriaca.org/person/51 http://syriaca.org/person/784 http://syriaca.org/person/1592"/>
                      </listRelation>
                   </desc>
                </event>
@@ -234,7 +234,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-14</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/patronage" from="0538" to="0548-06-28">
+               <event ana="http://syriaca.org/taxonomy/patronage" from="0538" to="0548-06-28">
                   <desc>
                      Following the self-exile of <persName ref="http://syriaca.org/person/1592">Anthimus</persName>, 
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> hid him in one of her palaces. Only she
@@ -242,7 +242,7 @@
                      <persName ref="http://syriaca.org/person/3769">Anonymous 3769</persName> knew about this. He remained in 
                      hiding <date from="0538" to="0548-06-28" calendar="Gregorian">for ten years, ending with the death of Theodora.</date>
                      <listRelation>
-                        <relation type="person" ref="http://syriaca.org/keyword/patron-of" active="http://syriaca.org/person/779" passive="http://syriaca.org/person/1592" from="0538" to="0548-06-28"/>
+                        <relation type="person" ref="http://syriaca.org/taxonomy/patron-of" active="http://syriaca.org/person/779" passive="http://syriaca.org/person/1592" from="0538" to="0548-06-28"/>
                      </listRelation>
                   </desc>
                </event>
@@ -269,7 +269,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3768"/>
-                  <occupation ana="http://syriaca.org/keyword/chamberlains">
+                  <occupation ana="http://syriaca.org/taxonomy/chamberlains">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3768">Anonymous 3768</persName> 
                         was a chamberlain.
@@ -291,7 +291,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3768"/>
-                  <trait type="gender" ana="http://syriaca.org/keyword/male">
+                  <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3768">Anonymous 3768</persName> 
                         was male.
@@ -311,7 +311,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-17" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-17</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/3768 http://syriaca.org/person/779">
+               <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/3768 http://syriaca.org/person/779">
                   <desc>
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> and <persName ref="http://syriaca.org/person/3768">Anonymous 3768 </persName> 
                      had a professional relationship.
@@ -332,7 +332,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3769"/>
-                  <occupation ana="http://syriaca.org/keyword/chamberlains">
+                  <occupation ana="http://syriaca.org/taxonomy/chamberlains">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3769">Anonymous 3769</persName> 
                         was a chamberlain.
@@ -354,7 +354,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3769"/>
-                  <trait type="gender" ana="http://syriaca.org/keyword/male">
+                  <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3769">Anonymous 3769</persName> 
                         was male.
@@ -374,7 +374,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-20</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/3769 http://syriaca.org/person/779">
+               <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/3769 http://syriaca.org/person/779">
                   <desc>
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> and <persName ref="http://syriaca.org/person/3769">Anonymous 3769 </persName> 
                      had a professional relationship.
@@ -393,7 +393,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-21</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/3768 http://syriaca.org/person/3769">
+               <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/3768 http://syriaca.org/person/3769">
                   <desc>
                      <persName ref="http://syriaca.org/person/3768">Anonymous 3768</persName> and <persName ref="http://syriaca.org/person/3769">Anonymous 3769</persName> 
                      had a professional relationship.
@@ -414,7 +414,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1592"/>
-                  <occupation ana="http://syriaca.org/keyword/monks">
+                  <occupation ana="http://syriaca.org/taxonomy/monks">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/1592">Anthimus</persName> 
                         was a monk before becoming bishop.
@@ -434,7 +434,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-23</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/emperors http://syriaca.org/keyword/court">
+               <event ana="http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/court">
                   <desc>
                      At the summons of <persName ref="http://syriaca.org/person/2284">Justinian</persName>, <persName ref="http://syriaca.org/person/51">Severus</persName>
                      traveled to Constantinople where he taught and advocated for the non-Chalcedonian cause. After two years he decided it was futile are returned to 
@@ -454,7 +454,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-24</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/illness http://syriaca.org/keyword/travel">
+               <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/travel">
                   <desc>
                      <persName ref="http://syriaca.org/person/51">Severus</persName> fell ill and traveled to <placeName ref="http://syriaca.org/place/1467">Ksoi</placeName>
                      where he died.
@@ -496,7 +496,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-26</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/child-of-sibling-of" active="http://syriaca.org/person/3229" passive="http://syriaca.org/person/2268">
+               <relation type="person" ref="http://syriaca.org/taxonomy/child-of-sibling-of" active="http://syriaca.org/person/3229" passive="http://syriaca.org/person/2268">
                   <desc>
                      <persName ref="http://syriaca.org/person/3229">Justin</persName> 
                      was the child of the sister of
@@ -516,7 +516,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-27</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/51 http://syriaca.org/person/3770">
+               <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" mutual="http://syriaca.org/person/51 http://syriaca.org/person/3770">
                   <desc>
                      <persName ref="http://syriaca.org/person/51">Justinian</persName> and <persName ref="http://syriaca.org/person/3770">Vigilantia</persName> 
                      were siblings.
@@ -537,7 +537,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3770"/>
-                  <trait type="gender" ana="http://syriaca.org/keyword/female">
+                  <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3770">Vigilantia</persName> 
                         was female.
@@ -557,7 +557,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-29" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-29</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/child-of" active="http://syriaca.org/person/3229" passive="http://syriaca.org/person/3770">
+               <relation type="person" ref="http://syriaca.org/taxonomy/child-of" active="http://syriaca.org/person/3229" passive="http://syriaca.org/person/3770">
                   <desc>
                      <persName ref="http://syriaca.org/person/3229">Justin</persName> 
                      was the child of
@@ -577,7 +577,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-30" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-30</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/death http://syriaca.org/keyword/persecution" when="0566-08">
+               <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/persecution" when="0566-08">
                   <desc>
                      <persName ref="http://syriaca.org/person/784">Theodosius</persName> died in <placeName ref="http://syriaca.org/place/586">Constantinople</placeName> while still in exile,
                      <date when="0566-08">nine months after the death of <persName ref="http://syriaca.org/person/51">Justinian</persName></date>.
@@ -655,7 +655,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-33" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-33</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/asceticism">
+               <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/asceticism">
                   <desc>
                      Well known for his learning and holy way of life, <persName ref="http://syriaca.org/person/1463">Sergius</persName>
                      became bishop of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>. 
@@ -676,7 +676,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1463"/>
-                  <occupation ana="http://syriaca.org/keyword/bishops">
+                  <occupation ana="http://syriaca.org/taxonomy/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/1463">Sergius</persName> 
                         was bishop of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>
@@ -719,7 +719,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-36" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-36</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/exile">
+               <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/exile">
                   <desc>
                      <persName ref="http://syriaca.org/person/1463">Sergius</persName> was ordained in 
                      <placeName ref="http://syriaca.org/place/586">Constantinople</placeName> and passed the three years that he was patriarch 
@@ -765,7 +765,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1977"/>
-                  <occupation ana="http://syriaca.org/keyword/bishops">
+                  <occupation ana="http://syriaca.org/taxonomy/bishops">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/1977">Paul</persName> 
                         was patriarch of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>.
@@ -785,7 +785,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-39" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-39</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination http://syriaca.org/keyword/exile">
+               <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/exile">
                   <desc>
                      Paul succeeded <persName ref="http://syriaca.org/person/1463">Sergius</persName> as the 
                      non-Chalcedonian patriarch of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>
@@ -805,7 +805,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-40" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-40</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/784">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/784">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemorated
@@ -825,7 +825,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-41" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-41</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1592">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1592">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemorated
@@ -845,7 +845,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-42" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-42</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1463">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1463">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemorated
@@ -865,7 +865,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-43" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-43</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/51">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/51">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemorated
@@ -885,7 +885,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-44" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/839-44</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1977">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1977">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemorated
@@ -907,7 +907,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1463"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/1463">Sergius</persName>
                         was a saint.
                      </note>
@@ -928,7 +928,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/784"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/784">Theodosius</persName>
                         was a saint.
                      </note>
@@ -949,7 +949,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1592"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/1592">Anthimus</persName>
                         was a saint.
                      </note>
@@ -970,7 +970,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/51"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/51">Severus</persName>
                         was a saint.
                      </note>
@@ -991,7 +991,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/1977"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/1977">Paul</persName>
                         was a saint.
                      </note>

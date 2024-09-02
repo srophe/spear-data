@@ -114,7 +114,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/824-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3718">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3718">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -136,7 +136,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3718"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3718">Anonymous 3718</persName>
                                 was a saint.
                             </note>
@@ -157,7 +157,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3717"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3717"
                                     >Anonymous 3717</persName> was male. </note>
                         </trait>
@@ -177,7 +177,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3717"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites">
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/3717">
                                     Anonymous 3717 </persName> was a solitary. </note>
                         </occupation>
@@ -213,7 +213,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3716"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3716">Anonymi 3716</persName> were males. </note>
                         </trait>
                     </personGrp>
@@ -232,7 +232,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3716"/>
-                        <occupation ana="http://syriaca.org/keyword/students">
+                        <occupation ana="http://syriaca.org/taxonomy/students">
                             <note type="desc"><persName ref="http://syriaca.org/person/3716">the two
                                     monks </persName> were disciples. </note>
                         </occupation>
@@ -250,7 +250,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/3716"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/3716"
                         passive="http://syriaca.org/person/3717">
                         <desc><persName ref="http://syriaca.org/person/3716">Anonymi 3716</persName> were followers of
                                 <persName ref="http://syriaca.org/person/3717">Anonymous 3717</persName>.</desc>
@@ -311,7 +311,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3718"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3718"
                                     >Anonymous 3526</persName> was male. </note>
                         </trait>
@@ -331,7 +331,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3718"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/3718"
                                     >Anonymous 3526 </persName> was a monk. </note>
                         </occupation>
@@ -350,7 +350,7 @@
                 <idno type="URI">https://spear-prosop.org/824-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/discipleship">
+                        ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/discipleship">
                         <desc><persName ref="http://syriaca.org/person/3718">The monk who stole
                             </persName> visited <persName ref="http://syriaca.org/person/3717">the
                                 blessed man </persName> who was living with <persName
@@ -373,7 +373,7 @@
                 <idno type="URI">https://spear-prosop.org/824-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/books http://syriaca.org/keyword/travel">
+                        ana="http://syriaca.org/taxonomy/books http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/3718">The monk who stole
                             </persName> started living with <persName
                                 ref="http://syriaca.org/person/3717">the blessed man </persName>.
@@ -393,7 +393,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/3718">The monk who stole
                             </persName> took all of the possessions of <persName
                                 ref="http://syriaca.org/person/3717">the blessed man </persName> and
@@ -413,7 +413,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-15</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasticism">
+                    <event ana="http://syriaca.org/taxonomy/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3718">The monk who stole
                             </persName> found a cell for himself, and lived in it for a week.
                         </desc>
@@ -432,7 +432,7 @@
                 <idno type="URI">https://spear-prosop.org/824-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/tears">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/tears">
                         <desc><persName
                                 ref="http://syriaca.org/person/3718">the monk who stole </persName>
                             repented, and spent one week in penitence. Other monks in the community
@@ -451,7 +451,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc><persName
                                 ref="http://syriaca.org/person/3718">the monk who stole </persName>
                             was ashamed, and left everything he stole, and went to <placeName
@@ -489,7 +489,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#rdurmaz">
                 <idno type="URI">https://spear-prosop.org/824-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/acquaintance-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/acquaintance-of"
                         mutual="http://syriaca.org/person/74 http://syriaca.org/person/3718">
                         <desc><persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> and <persName
@@ -511,7 +511,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3718"/>
-                        <state type="mental" ana="http://syriaca.org/keyword/shame">
+                        <state type="mental" ana="http://syriaca.org/taxonomy/shame">
                             <note type="desc"><persName ref="http://syriaca.org/person/3718"> the
                                     monk who stole </persName> was in great sorrow and humility.
                             </note>
@@ -531,7 +531,7 @@
                 <idno type="URI">https://spear-prosop.org/824-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/repentance">
+                        ana="http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/repentance">
                         <desc><persName
                                 ref="http://syriaca.org/person/3718"> the monk who stole </persName>
                             narrated his story, in great sorrow and humility, to <persName
@@ -554,7 +554,7 @@
                 <idno type="URI">https://spear-prosop.org/824-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/redemption http://syriaca.org/keyword/repentance http://syriaca.org/keyword/tears">
+                        ana="http://syriaca.org/taxonomy/redemption http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/tears">
                         <desc><persName
                                 ref="http://syriaca.org/person/3718"> the monk who stole </persName>
                             went up to the <persName ref="http://syriaca.org/person/3717"> the

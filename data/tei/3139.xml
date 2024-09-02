@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3139-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/falsification" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/exegesis http://syriaca.org/taxonomy/falsification" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/57">Thomas of Germaniciea</persName>
@@ -105,7 +105,7 @@
                             <title ref="http://syriaca.org/work/9646">the Gospel of Matthew</title> indicating that the soldier
                             who pierced the side of Christ did so before Christ had died.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/57" notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/57" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -119,7 +119,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3139-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis http://syriaca.org/keyword/falsification" when="0511">
+                    <event ana="http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/exegesis http://syriaca.org/taxonomy/falsification" when="0511">
                         <desc>
                             During the investigation of 
                             <persName ref="http://syriaca.org/person/2696">Macedonius II</persName> that led to his exile, there was close examination of 
@@ -137,7 +137,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3139-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/480">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/480">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited positively

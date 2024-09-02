@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/821-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1862">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1862">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1862"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1862">Malkha</persName>
                                 was a saint.
                             </note>
@@ -168,7 +168,7 @@
                 <idno type="URI">https://spear-prosop.org/821-2</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/poverty http://syriaca.org/keyword/vespers http://syriaca.org/keyword/prayer" notBefore="0530" notAfter="0536">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/vespers http://syriaca.org/taxonomy/prayer" notBefore="0530" notAfter="0536">
                         <desc><date notBefore="0530" notAfter="0536" calendar="Gregorian">Sometime
                                 between 530 and 536, in the month of November</date>,<persName
                                 ref="http://syriaca.org/person/1862">a stranger</persName> came to
@@ -208,7 +208,7 @@
                 <idno type="URI">https://spear-prosop.org/821-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/humility http://syriaca.org/keyword/prayer http://syriaca.org/keyword/silence http://syriaca.org/keyword/sin http://syriaca.org/keyword/emotions">
+                        ana="http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/silence http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/emotions">
                         <desc> 
                             In <placeName ref="http://syriaca.org/place/399">the convent</placeName>,
                             <persName ref="http://syriaca.org/person/1862">the man</persName> refused to speak to the brothers, calling himself
@@ -228,7 +228,7 @@
                 <idno type="URI">https://spear-prosop.org/821-5</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/sleep http://syriaca.org/keyword/humility http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions">
+                        ana="http://syriaca.org/taxonomy/sleep http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/silence http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/emotions">
                         <desc> While in <placeName ref="http://syriaca.org/place/399">the
                                 convent</placeName><persName ref="http://syriaca.org/person/1862"
                                 >the man</persName> refused to sleep during the night while others
@@ -266,7 +266,7 @@
                 <idno type="URI">https://spear-prosop.org/821-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/vespers">
+                        ana="http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/vespers">
                         <desc><persName ref="http://syriaca.org/person/3183">The
                                 archimandrite</persName> approached <persName
                                 ref="http://syriaca.org/person/1862">the man</persName> about his
@@ -287,7 +287,7 @@
                 <idno type="URI">https://spear-prosop.org/821-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/emotions">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/silence http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/emotions">
                         <desc> Speaking with <persName ref="http://syriaca.org/person/3183">the
                                 archimandrite</persName>,<persName
                                 ref="http://syriaca.org/person/1862">the man</persName> decided to
@@ -310,7 +310,7 @@
                 <idno type="URI">https://spear-prosop.org/821-9</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/memory http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/humility http://syriaca.org/keyword/silence http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/prophecy">
+                        ana="http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/silence http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/prophecy">
                         <desc> In his tears and sighs,<persName ref="http://syriaca.org/person/1862"
                                 >the blessed man</persName> prophecied that he would die in three
                             days. While on his deathbed, he shared with the
@@ -331,7 +331,7 @@
                 <idno type="URI">https://spear-prosop.org/821-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/sleep">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/sleep">
                         <desc> Close to death,<persName ref="http://syriaca.org/person/1862">the
                                 blessed man</persName> went into the vestry to pray. After a
                                 while,<persName ref="http://syriaca.org/person/3183">the

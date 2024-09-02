@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/832-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2093">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2093">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -115,7 +115,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2093"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2093">Simeon</persName>
                                 was a saint.
                             </note>
@@ -128,7 +128,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/832-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1630">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1630">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -144,7 +144,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1630">Bassian</persName>
                                 was a saint.
                             </note>
@@ -157,7 +157,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/832-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2040">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2040">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -173,7 +173,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2040">Romanus</persName>
                                 was a saint.
                             </note>
@@ -210,7 +210,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/2040">Romanus</persName> was a presbyter and visitor of the great
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/2040">Romanus</persName> was a presbyter and visitor of the great
                                 convent of <placeName ref="http://syriaca.org/place/233">Thel
                                     'Adda</placeName>. </note></occupation>
                     </person>
@@ -234,7 +234,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2093"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/2093">Simeon</persName> was an archimandrite. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/2093">Simeon</persName> was an archimandrite. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/832"/><citedRange unit="p">450</citedRange></bibl>
@@ -245,7 +245,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/1630">Bassian</persName> was a presbyter. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/1630">Bassian</persName> was a presbyter. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/832"/><citedRange unit="p">450</citedRange></bibl>
@@ -256,7 +256,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1630"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites"><note type="desc"><persName ref="http://syriaca.org/person/1630">Bassian</persName> was a solitary. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites"><note type="desc"><persName ref="http://syriaca.org/person/1630">Bassian</persName> was a solitary. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/832"/><citedRange unit="p">450</citedRange></bibl>
@@ -265,7 +265,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jdaccache #syoung">
                 <idno type="URI">https://spear-prosop.org/832-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/speech-acts">
+                    <event ana="http://syriaca.org/taxonomy/speech-acts">
                         <desc><persName ref="http://syriaca.org/person/1630">Bassian</persName> was brought
                             out of the desert, mourning and weeping over the contentious conduct of
                             other solitaries. In his crying and sighing, he spoke about the
@@ -279,7 +279,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jdaccache #syoung">
                 <idno type="URI">https://spear-prosop.org/832-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/revelation">
+                    <event ana="http://syriaca.org/taxonomy/revelation">
                         <desc><persName ref="http://syriaca.org/person/1630">Bassian</persName> had a
                             revelation concerning his end and departure at the end of twenty days.
                         </desc>
@@ -293,7 +293,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2040"/>
-                        <occupation ana="http://syriaca.org/keyword/apocrisiarius"><note type="desc"><persName ref="http://syriaca.org/person/2040">Romanus</persName> was a apocrisiarius of the great convent
+                        <occupation ana="http://syriaca.org/taxonomy/apocrisarii"><note type="desc"><persName ref="http://syriaca.org/person/2040">Romanus</persName> was a apocrisiarius of the great convent
                                     <placeName ref="http://syriaca.org/place/233">Thel
                                     'Adda</placeName>. </note></occupation>
                     </person>
@@ -304,7 +304,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#jdaccache #syoung">
                 <idno type="URI">https://spear-prosop.org/832-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> reports that <persName ref="http://syriaca.org/person/1630">Bassian</persName> and
                                 <persName ref="http://syriaca.org/person/2040">Romanus</persName>

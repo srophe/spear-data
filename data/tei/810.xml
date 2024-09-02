@@ -143,7 +143,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/810-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1932">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1932">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -165,7 +165,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1932"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1932"> A monk who left the monastery </persName>
                                 was a saint.
                             </note>
@@ -202,7 +202,7 @@
                 <idno type="URI">https://spear-prosop.org/810-2</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/monasteries">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/monasteries">
                         <desc>
                             A group exiled of monks welcome everyone in the village of <placeName
                                 ref="http://syriaca.org/place/2796">Hzyn</placeName>. </desc>
@@ -222,7 +222,7 @@
                 <idno type="URI">https://spear-prosop.org/810-3</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/asceticism">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/asceticism">
                         <desc>
                             A <persName ref="http://syriaca.org/person/1932">blessed man</persName>
                             enters the monastery. </desc>
@@ -242,7 +242,7 @@
                 <idno type="URI">https://spear-prosop.org/810-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/plague http://syriaca.org/keyword/monks http://syriaca.org/keyword/death http://syriaca.org/keyword/burial">
+                        ana="http://syriaca.org/taxonomy/plague http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial">
                         <desc>
                             A plague breaks out and 84 monks die and were buried. </desc>
                     </event>
@@ -260,7 +260,7 @@
                 resp="#jnsaint-laurent #tbaillargeon #tmcneir #syoung #rtrupiano">
                 <idno type="URI">https://spear-prosop.org/810-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/suffering">
+                    <event ana="http://syriaca.org/taxonomy/suffering">
                         <desc>
                             The <persName ref="http://syriaca.org/person/1932">blessed
                                 man</persName> was suffering and in great pain from a curse. </desc>
@@ -280,7 +280,7 @@
                 <idno type="URI">https://spear-prosop.org/810-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/incense http://syriaca.org/keyword/relics http://syriaca.org/keyword/fasting">
+                        ana="http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/incense http://syriaca.org/taxonomy/relics http://syriaca.org/taxonomy/fasting">
                         <desc>
                             A group of monks prayed over the <persName
                                 ref="http://syriaca.org/person/1932">blessed man</persName> and held
@@ -300,7 +300,7 @@
                 resp="#jnsaint-laurent #tbaillargeon #tmcneir #syoung #rtrupiano">
                 <idno type="URI">https://spear-prosop.org/810-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc>
                                 The <persName ref="http://syriaca.org/person/1932">blessed
                                 man</persName> dies. </desc>

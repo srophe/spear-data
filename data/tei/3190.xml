@@ -97,13 +97,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/diptychs http://syriaca.org/keyword/names" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/diptychs http://syriaca.org/taxonomy/names" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2658">Hippocrates</persName> discussing
                             the need for moderation regarding the names listed in diptychs.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2658" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2658" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -119,7 +119,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2658"/>
-                        <occupation ana="http://syriaca.org/keyword/scholastics">
+                        <occupation ana="http://syriaca.org/taxonomy/scholastics">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2658">Hippocrates</persName> 
                                 was a scholastic.
@@ -136,7 +136,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/diptychs http://syriaca.org/keyword/names http://syriaca.org/keyword/heretics">
+                    <event ana="http://syriaca.org/taxonomy/diptychs http://syriaca.org/taxonomy/names http://syriaca.org/taxonomy/heterodoxy">
                         <desc>
                             Despite his opposition to the theology of
                             <persName ref="http://syriaca.org/person/780">Theodore of Mopsuestia</persName>,
@@ -155,7 +155,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/diptychs http://syriaca.org/keyword/names" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/diptychs http://syriaca.org/taxonomy/names" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/2658">Hippocrates</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/51">Severus</persName> discussing
@@ -164,7 +164,7 @@
                             <placeName ref="http://syriaca.org/place/2620">Alexandria</placeName>, and 
                             <placeName ref="http://syriaca.org/place/2637">Caesarea</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2658" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2658" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -178,7 +178,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/communion http://syriaca.org/keyword/anti-chaledonian">
+                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chaledonian">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sought the approval of 
                             <persName ref="http://syriaca.org/person/2430">Dioscorus</persName> in communing with 
@@ -187,9 +187,9 @@
                             <persName ref="http://syriaca.org/person/2551">Soteric</persName> or 
                             <persName ref="http://syriaca.org/person/2609">Asterius</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2430"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/commune-together" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2567"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/commune-together" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2569"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2430"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/commune-together" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2567"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/commune-together" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2569"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -205,7 +205,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2567"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2567">Eleusinius</persName> 
                                 was a bishop.
@@ -224,7 +224,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2569"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2569">Proclus</persName> 
                                 was a bishop.
@@ -241,7 +241,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/anti-chalcedonian http://syriaca.org/keyword/anathema http://syriaca.org/keyword/council-of-chalcedon-451" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> held a council in
                             <placeName ref="http://syriaca.org/place/10">Antioch</placeName> with bishops from 
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/anti-chalcedonian http://syriaca.org/keyword/anathema http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/2610">Asterius</persName> attempted to convince 
                             <persName ref="http://syriaca.org/person/51">Severus</persName> to recant 
@@ -270,7 +270,7 @@
                             <title>Tome</title>. He would not recant and declared his
                             intent to suffer exile rather than recant.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2610" when="0512"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2610" when="0512"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -286,7 +286,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2610"/>
-                        <occupation ana="http://syriaca.org/keyword/imperial-secretaries" when="0512">
+                        <occupation ana="http://syriaca.org/taxonomy/imperial-secretaries" when="0512">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2610">Asterius</persName> 
                                 was an imperial secretary.
@@ -305,7 +305,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2610"/>
-                        <occupation ana="http://syriaca.org/keyword/urban-prefects">
+                        <occupation ana="http://syriaca.org/taxonomy/urban-prefects">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2610">Asterius</persName> 
                                 was an imperial prefect.
@@ -322,7 +322,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/anti-chalcedonian http://syriaca.org/keyword/anathema http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/2265">Anastasius I</persName>
@@ -330,7 +330,7 @@
                             <persName ref="http://syriaca.org/person/2299">Leo</persName>'s 
                             <title>Tome</title>. He preferred exile to recanting.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2265" when="0512"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2265" when="0512"/>
                             </listRelation>
                         </desc>
                     </event>

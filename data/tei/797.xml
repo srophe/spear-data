@@ -89,7 +89,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/stylites" when="0483">
+                    <event ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/stylites" when="0483">
                         <desc><persName ref="http://syriaca.org/person/2095">Simeon</persName> was a
                             recluse who lived in a walled monastery. He spent much of his time
                             standing on a wall in order to fulfill two purposes: seclusion and the
@@ -102,7 +102,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/797-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2095">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2095">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -118,7 +118,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> was male.</note>
                         </trait>
                     </person>
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> was an archimandrite.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">84-85</citedRange></bibl>
@@ -142,7 +142,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> was a saint.</note>
                         </state>
                     </person>
@@ -155,7 +155,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/anchorites">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> was a recluse.</note>
                         </state>
                     </person>
@@ -166,7 +166,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/fasting http://syriaca.org/keyword/charity http://syriaca.org/keyword/prayer http://syriaca.org/keyword/hospitality">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/hospitality">
                         <desc> Whenever a stranger came to <persName ref="http://syriaca.org/person/2095">Simeon</persName>'s door, he
                             would demonstrate great hospitality and feast with his guest as if he
                             were Christ. However, when he was not in the presence of strangers
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc> After serving God for forty-seven years,<persName ref="http://syriaca.org/person/2095">Simeon</persName> died. </desc>
                     </event>
                 </listEvent>
@@ -191,7 +191,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/students http://syriaca.org/keyword/monks">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/students http://syriaca.org/taxonomy/monks">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName>, who
                             was the disciple of <persName ref="http://syriaca.org/person/2095">Simeon</persName> was also a monk and a recluse, who lived an
                             aescetic life in an enclosure. In order to avoid idleness, <persName ref="http://syriaca.org/person/2095">Simeon</persName> and <persName ref="http://syriaca.org/person/3154">Sergius</persName> taught young
@@ -204,7 +204,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/797-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3154">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3154">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -219,7 +219,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was male.</note>
                         </trait>
                     </person>
@@ -232,7 +232,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was a monk.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">89</citedRange></bibl>
@@ -243,7 +243,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was a saint.</note>
                         </state>
                     </person>
@@ -256,7 +256,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/anchorites">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was a recluse.</note>
                         </state>
                     </person>
@@ -267,7 +267,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/2095" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/2095">Simeon</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/2095" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/2095">Simeon</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">89</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">89</citedRange></bibl>
@@ -275,7 +275,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-16</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/students">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/students">
                         <desc> After twenty years, <persName ref="http://syriaca.org/person/3154">Sergius</persName> received permission from <persName ref="http://syriaca.org/person/2095">Simeon</persName> to leave the
                             monastery and shut himself up in a certain place close to the village.
                         </desc>
@@ -287,7 +287,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/arson">
+                    <event ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/anti-judaism http://syriaca.org/taxonomy/arson">
                         <desc>Before <persName ref="http://syriaca.org/person/3154">Sergius</persName> shut himself away, he contended with <persName ref="http://syriaca.org/person/3686">Jews</persName> in the village
                             by upbraiding them and burning down their synagogue with the help of
                                 <persName ref="http://syriaca.org/person/3698">twenty
@@ -311,7 +311,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/3154" passive="http://syriaca.org/person/3686"><desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> had enmity for <persName ref="http://syriaca.org/person/3686">Anonymi 3686</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/3154" passive="http://syriaca.org/person/3686"><desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> had enmity for <persName ref="http://syriaca.org/person/3686">Anonymi 3686</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">90-91</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">90-91</citedRange></bibl>
@@ -332,7 +332,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3698"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3698">
                                     Anonymi 3698 </persName> were male.</note>
                         </trait>
@@ -344,7 +344,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-22" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-22</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/student-of" active="http://syriaca.org/person/3698" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/3698">Anonymous 3698</persName> studied under <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/student-of" active="http://syriaca.org/person/3698" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/3698">Anonymous 3698</persName> studied under <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">90-91</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">90-91</citedRange></bibl>
@@ -352,7 +352,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/arson http://syriaca.org/keyword/persecution http://syriaca.org/keyword/anti-judaism">
+                    <event ana="http://syriaca.org/taxonomy/arson http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/anti-judaism">
                         <desc><persName ref="http://syriaca.org/person/3687">Members of the church
                                 of <placeName ref="http://syriaca.org/place/2737">Amida</placeName></persName> defended the <persName ref="http://syriaca.org/person/3686">Jews</persName> and prefered
                             accusation against <persName ref="http://syriaca.org/person/3154">Sergius</persName> and <persName ref="http://syriaca.org/person/3698">Anonymi 3698</persName>.
@@ -365,7 +365,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/alliance-with" mutual="http://syriaca.org/person/3686 http://syriaca.org/person/3687"><desc><persName ref="http://syriaca.org/person/3686">Anonymi 3686</persName> and <persName ref="http://syriaca.org/person/3687">Anonymi 3687</persName> formed an alliance.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/alliance-with" mutual="http://syriaca.org/person/3686 http://syriaca.org/person/3687"><desc><persName ref="http://syriaca.org/person/3686">Anonymi 3686</persName> and <persName ref="http://syriaca.org/person/3687">Anonymi 3687</persName> formed an alliance.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">91</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">91</citedRange></bibl>
@@ -373,7 +373,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-25" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-25</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/religious-conflict http://syriaca.org/keyword/arson http://syriaca.org/keyword/anti-judaism">
+                    <event ana="http://syriaca.org/taxonomy/religious-conflict http://syriaca.org/taxonomy/arson http://syriaca.org/taxonomy/anti-judaism">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> and
                                 <persName ref="http://syriaca.org/person/3698">Anonymi
                                 3698</persName> put out the fire and built a martyr's chapel on the
@@ -388,7 +388,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-26" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-26</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/religious-conflict http://syriaca.org/keyword/arson http://syriaca.org/keyword/anti-judaism">
+                    <event ana="http://syriaca.org/taxonomy/religious-conflict http://syriaca.org/taxonomy/arson http://syriaca.org/taxonomy/anti-judaism">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> and
                                 <persName ref="http://syriaca.org/person/3698">Anonymi
                                 3698</persName> tore down the synagogue that <persName ref="http://syriaca.org/person/3686">Anonymi 3686</persName> rebuilt
@@ -401,7 +401,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-27" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-27</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/illness http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/asceticism">
                         <desc>Over the next forty years <persName ref="http://syriaca.org/person/3154">Sergius</persName> grew ill and
                             frail in his enclosure.</desc>
                     </event>
@@ -412,7 +412,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-28" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-28</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/illness http://syriaca.org/keyword/affective-piety http://syriaca.org/keyword/blessing http://syriaca.org/keyword/prayer http://syriaca.org/keyword/tears">
+                    <event ana="http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/affective-piety http://syriaca.org/taxonomy/blessing http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/tears">
                         <desc><persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> visited <persName ref="http://syriaca.org/person/3154">Sergius</persName> in his later
                             years and received a blessing from him as he wept over what he stated
@@ -428,7 +428,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <state type="mental" ana="http://syriaca.org/keyword/affective-piety http://syriaca.org/keyword/tears">
+                        <state type="mental" ana="http://syriaca.org/taxonomy/affective-piety http://syriaca.org/taxonomy/tears">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> wept violently about what he said was his
                                 unworthiness to serve Christ </note>
                         </state>
@@ -442,7 +442,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/illness">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/illness">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was ill and frail towards the end of his
                                 life. </note>
                         </trait>
@@ -454,7 +454,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-31" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-31</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/anathema">
+                    <event ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/anathema">
                         <desc>The supporters of the synod of Chalcedon used troops to expell people
                             from their homes, and to arrest, imprison, plunder, torture, and kill
                             those who did not support the synod. The persecutors then turned their
@@ -470,7 +470,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-32" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-32</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> set
                             out to visit <persName ref="http://syriaca.org/person/1885">Maro the
                                 stylite</persName>, whom the synod supporters left alone until
@@ -498,7 +498,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3688"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3688">
                                     Anonymous 3688 </persName> was male.</note>
                         </trait>
@@ -512,7 +512,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3688"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3688">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3688">Anonymous
                                     3688</persName> was a bishop. </note></occupation>
                     </person>
                 </listPerson>
@@ -534,7 +534,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1885"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1885"> Maro
                                 </persName> was male.</note>
                         </trait>
@@ -548,7 +548,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1885"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was an archimandrite. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was an archimandrite. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">98-99</citedRange></bibl>
@@ -557,7 +557,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-39" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-39</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/tears">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/tears">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> was
                             greatly distressed by the treatment of believers by the persecutors and
                             wept unceasingly in the presence of <persName ref="http://syriaca.org/person/1885">Maro</persName>, who had given
@@ -572,7 +572,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <state type="mental" ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/exile">
+                        <state type="mental" ana="http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/exile">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was greatly distressed by the treatment of
                                 believers by the persecutors and wept unceasingly in the presence of
                                     <persName ref="http://syriaca.org/person/1885">Maro</persName>,
@@ -586,7 +586,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-41" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-41</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/anathema http://syriaca.org/keyword/polemics http://syriaca.org/keyword/violence http://syriaca.org/keyword/persecution">
+                    <event ana="http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/polemics http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/persecution">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName>
                             received a blessing from <persName ref="http://syriaca.org/person/1885">Maro</persName> and then set out to visit the churh in <placeName ref="http://syriaca.org/place/8">Amida</placeName>. <persName ref="http://syriaca.org/person/3154">Sergius</persName> walked into
                             the church in <placeName ref="http://syriaca.org/place/8">Amida</placeName>, carrying a cross, and planted his cross on the
@@ -618,7 +618,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3184"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3184">
                                     Abraham </persName> was male.</note>
                         </trait>
@@ -632,7 +632,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3184"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3184">Abraham</persName> was a bishop. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3184">Abraham</persName> was a bishop. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">101-103</citedRange></bibl>
@@ -641,7 +641,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-45" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-45</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/religous-conflict http://syriaca.org/keyword/imprisonment http://syriaca.org/keyword/violence http://syriaca.org/keyword/martyrdom http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/religous-conflict http://syriaca.org/taxonomy/imprisonment http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/martyrdom http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/3184">Abraham</persName>
                             calmed the angry mob and sent them away by telling them that he would
                             examine <persName ref="http://syriaca.org/person/3154">Sergius</persName> inside the church. Once inside, <persName ref="http://syriaca.org/person/3184">Abraham</persName> and
@@ -670,7 +670,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3689"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3689">
                                     Anonymi 3689 </persName> were male.</note>
                         </trait>
@@ -682,7 +682,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-48" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-48</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/alliance-with" mutual="http://syriaca.org/person/3184 http://syriaca.org/person/3689"><desc><persName ref="http://syriaca.org/person/3184">Abraham</persName> and <persName ref="http://syriaca.org/person/3689">Anonymous 3689</persName> formed an alliance.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/alliance-with" mutual="http://syriaca.org/person/3184 http://syriaca.org/person/3689"><desc><persName ref="http://syriaca.org/person/3184">Abraham</persName> and <persName ref="http://syriaca.org/person/3689">Anonymous 3689</persName> formed an alliance.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">103-104</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">103-104</citedRange></bibl>
@@ -690,7 +690,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-49" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-49</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/3184 http://syriaca.org/person/3689" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/3184">Abraham</persName> and <persName ref="http://syriaca.org/person/3689">Anonymous 3689</persName> had enmity for <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/3184 http://syriaca.org/person/3689" passive="http://syriaca.org/person/3154"><desc><persName ref="http://syriaca.org/person/3184">Abraham</persName> and <persName ref="http://syriaca.org/person/3689">Anonymous 3689</persName> had enmity for <persName ref="http://syriaca.org/person/3154">Sergius</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/797"/><citedRange unit="p">103-104</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">103-104</citedRange></bibl>
@@ -700,7 +700,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/dress">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/dress">
                             <note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> had long hair that marked his ascetic
                                 profession and wore a habit that marked him as an anchorite. </note>
                         </trait>
@@ -714,7 +714,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/hair">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/hair">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> had long hair that marked his ascetic
                                 profession and wore a habit that marked him as an anchorite. </note>
                         </trait>
@@ -726,7 +726,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-52" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-52</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/prison http://syriaca.org/keyword/violence">
+                    <event ana="http://syriaca.org/taxonomy/imprisonment http://syriaca.org/taxonomy/violence">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> was
                             confined on the third floor in the middle of the <placeName ref="http://syriaca.org/place/2867">monastery of 'Tryz</placeName>
                             and tortured. After some time, <persName ref="http://syriaca.org/person/3154">Sergius</persName> managed to
@@ -741,7 +741,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-53" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-53</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/religious-conflict http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/religious-conflict http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/death">
                         <desc>Shortly after <persName ref="http://syriaca.org/person/3154">Sergius</persName> established the <placeName ref="http://syriaca.org/place/2837">monastery of
                             Qlwfyte</placeName>, his adversaries came to pull it down. <persName ref="http://syriaca.org/person/3154">Sergius</persName> told his
                             enemies that he would rebuild it each time it was destroyed, so they

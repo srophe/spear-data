@@ -99,14 +99,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3064-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/monastic-heads" notBefore="0515" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/monastic-heads" notBefore="0515" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2520">Dionysius</persName> 
                             on the subject of the repentance of <persName ref="http://syriaca.org/person/2701">Mark</persName>
                             and whether he should become an archimandrite.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2701" notBefore="0515" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2701" notBefore="0515" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -118,7 +118,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/same-event" mutual="https://spear-prosop.org/3063-9 https://spear-prosop.org/3064-1">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/same-event" mutual="https://spear-prosop.org/3063-9 https://spear-prosop.org/3064-1">
                             <desc>
                                 The following factoids deal with the same event: <rs ref="https://spear-prosop.org/3063-9">3063-9</rs>, <rs ref="https://spear-prosop.org/3064-1">3064-1</rs>.
                             </desc>
@@ -129,13 +129,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3064-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/communion http://syriaca.org/keyword/heterodoxy">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/heterodoxy">
                         <desc>
                             <persName ref="http://syriaca.org/person/376">Basil</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2778">Urbicius</persName> 
                             on the subject of  refraining from communion with heretics.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/376" passive="http://syriaca.org/person/2778"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/376" passive="http://syriaca.org/person/2778"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -147,7 +147,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/same-event" mutual="https://spear-prosop.org/3018-6 https://spear-prosop.org/3064-2">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/same-event" mutual="https://spear-prosop.org/3018-6 https://spear-prosop.org/3064-2">
                             <desc>
                                 The following factoids deal with the same event: <rs ref="https://spear-prosop.org/3018-6">3018-6</rs>, <rs ref="https://spear-prosop.org/3064-2">3064-2</rs>.
                             </desc>
@@ -158,7 +158,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3064-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/priests http://syriaca.org/keyword/emperors" notBefore="0515" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/emperors" notBefore="0515" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> defended 
                             <persName ref="http://syriaca.org/person/2410">Julian</persName> against charges that he
@@ -173,7 +173,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/proximate-event" mutual="https://spear-prosop.org/3079-26 https://spear-prosop.org/3064-3">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/proximate-event" mutual="https://spear-prosop.org/3079-26 https://spear-prosop.org/3064-3">
                             <desc>
                                 The following factoids deal with related events: <rs ref="https://spear-prosop.org/3079-26">3079-26</rs>, <rs ref="https://spear-prosop.org/3064-3">3064-3</rs>.
                             </desc>

@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/816-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/50">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/50">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/50"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/50"
                                     >John</persName> was bishop of the city of <placeName
                                     ref="http://syriaca.org/place/200">Thella</placeName>. </note>
@@ -185,7 +185,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1983"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/1983"
                                     >Paul</persName> was a martyr.</note>
                         </state>
@@ -206,7 +206,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/544"/>
                         <state type="sanctity"
-                            ana="http://syriaca.org/keyword/saints http://syriaca.org/keyword/martyrs">
+                            ana="http://syriaca.org/taxonomy/saints http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/544"
                                     >Ignatius</persName> was a saint and martyr. </note>
                         </state>
@@ -225,7 +225,7 @@
                 <idno type="URI">https://spear-prosop.org/816-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/holiness http://syriaca.org/keyword/saints">
+                        ana="http://syriaca.org/taxonomy/holiness http://syriaca.org/taxonomy/saints">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName> reflected
                             the holiness of <persName ref="http://syriaca.org/person/1983"
                                 >Paul</persName> and <persName ref="http://syriaca.org/person/544"
@@ -246,7 +246,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/50"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites">
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/50"
                                     >John</persName> distinguished himself in the divine practice of
                                 the solitary life. </note>
@@ -266,7 +266,7 @@
                 <idno type="URI">https://spear-prosop.org/816-9</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/bishops http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile" notBefore="0451">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile" notBefore="0451">
                         <desc><date notBefore="0451" calendar="Gregorian">After the Council of
                                     <placeName ref="http://syriaca.org/place/622"
                                     >Chalcedon</placeName></date>, <persName
@@ -288,7 +288,7 @@
                 <idno type="URI">https://spear-prosop.org/816-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/bishops http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc> After leaving <placeName ref="http://syriaca.org/place/200"
                                 >Thella</placeName>, <persName ref="http://syriaca.org/person/50"
                                 >John</persName> returned to his <placeName
@@ -310,7 +310,7 @@
                 <idno type="URI">https://spear-prosop.org/816-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/monks http://syriaca.org/keyword/bishops http://syriaca.org/keyword/persecution">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/persecution">
                         <desc> After <persName ref="http://syriaca.org/person/50"
                             >John</persName> spent some time in the <placeName
                                 ref="http://syriaca.org/place/356">convent</placeName>, supporters
@@ -331,7 +331,7 @@
                 <idno type="URI">https://spear-prosop.org/816-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/monks http://syriaca.org/keyword/bishops http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution" notBefore="0462">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution" notBefore="0462">
                         <desc><date notBefore="0462" calendar="Gregorian">After 10 years</date> of
                             persecution because of the council of <placeName
                                 ref="http://syriaca.org/place/622">Chalcedon</placeName>, bishops
@@ -352,7 +352,7 @@
                 <idno type="URI">https://spear-prosop.org/816-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/monks http://syriaca.org/keyword/ordination http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName>, unafraid
                             of persecution, challenged the bishops and volunteered to perform
                             ordinations. </desc>
@@ -371,7 +371,7 @@
                 <idno type="URI">https://spear-prosop.org/816-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/teachers http://syriaca.org/keyword/discipleship http://syriaca.org/keyword/catechesis http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/teachers http://syriaca.org/taxonomy/discipleship http://syriaca.org/taxonomy/catechesis http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName> began
                             examaning candidates for ordination from all over the empire. Potental
                             priests came from <placeName ref="http://syriaca.org/place/576"
@@ -393,7 +393,7 @@
                 <idno type="URI">https://spear-prosop.org/816-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination">
                         <desc> Imperial supporters of the Council of <placeName
                                 ref="http://syriaca.org/place/622">Chalcedon</placeName> began to
                             threaten <persName ref="http://syriaca.org/person/50"
@@ -413,7 +413,7 @@
                 <idno type="URI">https://spear-prosop.org/816-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/deacons http://syriaca.org/keyword/ordination http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism" when="0529">
+                        ana="http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism" when="0529">
                         <desc> In <choice>
                                 <reg><date when="0529" calendar="Gregorian">529</date></reg>
                                 <orig><date when="0840" calendar="Seleucid">840</date></orig>
@@ -452,7 +452,7 @@
                 <idno type="URI">https://spear-prosop.org/816-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/ordination http://syriaca.org/keyword/persecution" notBefore="0529">
+                        ana="http://syriaca.org/taxonomy/prophecy http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/persecution" notBefore="0529">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName> prophesied
                             that Christians would not be able to find ordaining bishops throughout
                             the empire.<date notBefore="0529" calendar="Gregorian">After 529</date>,
@@ -493,7 +493,7 @@
                 <idno type="URI">https://spear-prosop.org/816-20</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/death http://syriaca.org/keyword/martyrdom http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/martyrdom http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/priests">
                         <desc><persName ref="http://syriaca.org/person/50">John</persName> was
                             captured and brought to <placeName ref="http://syriaca.org/place/10"
                                 >Antioch</placeName>, where he was tortured and killed by <persName
@@ -516,7 +516,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/50"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/50"
                                     > John </persName> was saint and a martyr.</note>
                         </state>

@@ -89,7 +89,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/826-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2098">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2098">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -117,7 +117,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2098">Simeon</persName> was male.</note>
                         </trait>
                     </person>
@@ -130,7 +130,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
-                        <occupation ana="http://syriaca.org/keyword/scribes"><note type="desc"><persName ref="http://syriaca.org/person/2098">Simeon</persName> was a scribe.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/scribes"><note type="desc"><persName ref="http://syriaca.org/person/2098">Simeon</persName> was a scribe.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">400</citedRange></bibl>
@@ -141,7 +141,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2098"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2098">Simeon</persName> was a saint.</note>
                         </state>
                     </person>
@@ -165,7 +165,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3683"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3683">Anonymous 3683</persName> was male.</note>
                         </trait>
                     </person>
@@ -176,7 +176,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/charity">
+                    <event ana="http://syriaca.org/taxonomy/charity">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> provided exceptional care for the poor. </desc>
                     </event>
                 </listEvent>
@@ -197,7 +197,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/charity">
+                    <event ana="http://syriaca.org/taxonomy/charity">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> spent
                             his days cooking and cleaning for the poor </desc>
                     </event>
@@ -208,7 +208,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/charity http://syriaca.org/keyword/blindness">
+                    <event ana="http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/blindness">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> brought <persName ref="http://syriaca.org/person/3685">four blind men</persName> into his cell and fed them. </desc>
                     </event>
                 </listEvent>
@@ -230,7 +230,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/charity">
+                    <event ana="http://syriaca.org/taxonomy/charity">
                         <desc> Just prior to his death, <persName ref="http://syriaca.org/person/2098">Simeon</persName> distributed
                             all of his meager possessions for the benefit of the poor. </desc>
                     </event>
@@ -241,7 +241,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/2098">Simeon</persName> Died
                         </desc>
                     </event>

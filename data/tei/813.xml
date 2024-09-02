@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/813-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2126">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2126">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2126"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2126">Thomas</persName>
                                 was a saint.
                             </note>
@@ -189,7 +189,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/813-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of" active="http://syriaca.org/person/2126"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of" active="http://syriaca.org/person/2126"
                         passive="http://syriaca.org/person/3260">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas the
                             Armenian</persName> was the child of <persName ref="http://syriaca.org/person/3260">Šnq</persName>.</desc>
@@ -209,7 +209,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3260"/>
-                        <occupation ana="http://syriaca.org/keyword/civil-servants">
+                        <occupation ana="http://syriaca.org/taxonomy/civil-servants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3260"
                                     >Šnq</persName> held the office of the satrapy in the districts
                                 of <placeName ref="http://syriaca.org/place/486">Syria</placeName>
@@ -231,7 +231,7 @@
                 <idno type="URI">https://spear-prosop.org/813-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/education http://syriaca.org/keyword/wealth http://syriaca.org/keyword/greek-philosophy http://syriaca.org/keyword/greek-culture http://syriaca.org/keyword/greek-literature">
+                        ana="http://syriaca.org/taxonomy/education http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/greek-philosophy http://syriaca.org/taxonomy/greek-culture http://syriaca.org/taxonomy/greek-literature">
                         <desc>
                             <persName ref="http://syriaca.org/person/3260">Šnq</persName> purchased expensive educations for 
                             <persName ref="http://syriaca.org/person/2126">Thomas</persName> at 
@@ -252,7 +252,7 @@
                 <idno type="URI">https://spear-prosop.org/813-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/wealth http://syriaca.org/keyword/inheritance">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/inheritance">
                         <desc><persName ref="http://syriaca.org/person/3260">Šnq</persName> died,
                             giving his position and wealth to his son, <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName>. </desc>
@@ -271,7 +271,7 @@
                 <idno type="URI">https://spear-prosop.org/813-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/judgment http://syriaca.org/keyword/death http://syriaca.org/keyword/wealth http://syriaca.org/keyword/worship http://syriaca.org/keyword/conversion http://syriaca.org/keyword/hell">
+                        ana="http://syriaca.org/taxonomy/civil-servants http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/worship http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/hell">
                         <desc><persName ref="http://syriaca.org/person/2126"
                             >Thomas</persName> decided to sell his possessions and forfeit his
                             position, giving his life to God and the poor. </desc>
@@ -306,7 +306,7 @@
                 <idno type="URI">https://spear-prosop.org/813-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wealth http://syriaca.org/keyword/property http://syriaca.org/keyword/inheritance http://syriaca.org/keyword/civil-servants">
+                        ana="http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/inheritance http://syriaca.org/taxonomy/civil-servants">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> went
                             before the king, and released all of his wealth and property. </desc>
                     </event>
@@ -323,7 +323,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/813-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of"
                         mutual="http://syriaca.org/person/2126 http://syriaca.org/person/3233">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas the
                                 Armenian</persName> and <persName
@@ -343,7 +343,7 @@
                 <idno type="URI">https://spear-prosop.org/813-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/poverty http://syriaca.org/keyword/justice http://syriaca.org/keyword/charity http://syriaca.org/keyword/illness http://syriaca.org/keyword/widows">
+                        ana="http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/widows">
                         <desc> Unlike <persName ref="http://syriaca.org/person/3260"
                             >Šnq</persName> who was cruel and rapacious, <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> devoted his
@@ -363,7 +363,7 @@
                 <idno type="URI">https://spear-prosop.org/813-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/buildings">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/buildings">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> and
                             his <persName ref="http://syriaca.org/person/3233">wife</persName> built
                             a monastery. </desc>
@@ -382,7 +382,7 @@
                 <idno type="URI">https://spear-prosop.org/813-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/illness http://syriaca.org/keyword/prayer http://syriaca.org/keyword/religion http://syriaca.org/keyword/education">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/education">
                         <desc> Brothers and sisters came from <placeName
                                 ref="http://syriaca.org/place/2763">Cappadocia</placeName> to educate
                                 <persName ref="http://syriaca.org/person/2126"
@@ -406,7 +406,7 @@
                 <idno type="URI">https://spear-prosop.org/813-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/fathers http://syriaca.org/keyword/books http://syriaca.org/keyword/bishops http://syriaca.org/keyword/education http://syriaca.org/keyword/spices">
+                        ana="http://syriaca.org/taxonomy/fathers http://syriaca.org/taxonomy/books http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/education http://syriaca.org/taxonomy/spices">
                         <desc><persName ref="http://syriaca.org/person/2126">Thomas</persName> bought
                             books from <placeName ref="http://syriaca.org/place/572"
                                 >Alexandria</placeName> and spices from <placeName
@@ -426,7 +426,7 @@
                 <idno type="URI">https://spear-prosop.org/813-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/persecution http://syriaca.org/keyword/council-of-chalcedon-451">
+                        ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/council-of-chalcedon-451">
                         <desc> After 12 years, persecution against <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> and the
                             brothers came from <placeName ref="http://syriaca.org/place/576"
@@ -464,7 +464,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2274"/>
-                        <occupation ana="http://syriaca.org/keyword/patriarchates">
+                        <occupation ana="http://syriaca.org/taxonomy/patriarchates">
                             <note type="desc"><persName ref="http://syriaca.org/person/2274"
                                     >Ephraim</persName> was patriarch of <placeName
                                     ref="http://syriaca.org/place/10">Antioch</placeName>. </note>
@@ -501,7 +501,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3226"/>
-                        <occupation ana="http://syriaca.org/keyword/civil-servants">
+                        <occupation ana="http://syriaca.org/taxonomy/civil-servants">
                             <note type="desc"><persName ref="http://syriaca.org/person/3226"
                                     >John</persName> was the satrap of <placeName
                                     ref="http://syriaca.org/place/486">Syria</placeName> and
@@ -522,7 +522,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/813-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of"
                         mutual="http://syriaca.org/person/3226 http://syriaca.org/person/2274">
                         <desc><persName ref="http://syriaca.org/person/3226">John</persName> and <persName
                                 ref="http://syriaca.org/person/2274">Ephrem of Amida</persName> were
@@ -542,7 +542,7 @@
                 <idno type="URI">https://spear-prosop.org/813-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/christianity http://syriaca.org/keyword/councils">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/christianity http://syriaca.org/taxonomy/councils">
                         <desc><persName ref="http://syriaca.org/person/3226">John</persName> stirred
                             up a cruel persecution against all the believers in <placeName
                                 ref="http://syriaca.org/place/576">Armenia</placeName>. </desc>
@@ -561,7 +561,7 @@
                 <idno type="URI">https://spear-prosop.org/813-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/councils http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/persecution">
+                        ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/persecution">
                         <desc> Many of the persecuted convent leaders and bishops flocked to
                                 <persName ref="http://syriaca.org/person/2126">Thomas</persName>,
                                 so <persName ref="http://syriaca.org/person/3226"
@@ -581,7 +581,7 @@
                 <idno type="URI">https://spear-prosop.org/813-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/theology">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/theology">
                         <desc> Those who had assembled to <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName>, over 800,
                             were brought before <persName ref="http://syriaca.org/person/3226">the
@@ -608,7 +608,7 @@
                 <idno type="URI">https://spear-prosop.org/813-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/buildings http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism">
+                        ana="http://syriaca.org/taxonomy/buildings http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism">
                         <desc> Because of the persecution of <persName
                                 ref="http://syriaca.org/person/3226">John</persName>, <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> and his
@@ -649,7 +649,7 @@
                 <idno type="URI">https://spear-prosop.org/813-27</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wine http://syriaca.org/keyword/bread http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families">
+                        ana="http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/bread http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/families">
                         <desc><persName ref="http://syriaca.org/person/2126"
                                 >Thomas</persName> and <persName ref="http://syriaca.org/person/3233"
                                 >Maria</persName> and their sons committed themselves to a diet of
@@ -670,7 +670,7 @@
                 <idno type="URI">https://spear-prosop.org/813-28</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks">
                         <desc>
                             <persName ref="http://syriaca.org/person/2126">Thomas</persName> died
                             in <placeName ref="http://syriaca.org/place/586">the royal city</placeName> and was buried in
@@ -691,7 +691,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-29" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/813-29</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/3226"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/3226"
                         passive="http://syriaca.org/person/2126">
                         <desc><persName ref="http://syriaca.org/person/3226">John</persName> had enmity for
                                 <persName ref="http://syriaca.org/person/2126">Thomas the

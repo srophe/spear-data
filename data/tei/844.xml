@@ -121,7 +121,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2024">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2024">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -143,7 +143,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2024"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2024"> Priscus </persName>
                                 was a saint.
                             </note>
@@ -178,7 +178,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/coins http://syriaca.org/keyword/charity http://syriaca.org/keyword/poverty http://syriaca.org/keyword/humility">
+                    <event ana="http://syriaca.org/taxonomy/coins http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/humility">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> attempted to 
                             provide financial assistance to the poor holy man <persName ref="http://syriaca.org/person/2024">Priscus</persName> 
@@ -199,7 +199,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/dress http://syriaca.org/keyword/charity http://syriaca.org/keyword/poverty http://syriaca.org/keyword/humility">
+                    <event ana="http://syriaca.org/taxonomy/dress http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/humility">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> attempted to 
                             provide assistance to the poor holy man <persName ref="http://syriaca.org/person/2024">Priscus</persName> 
@@ -220,7 +220,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over"
                         active="http://syriaca.org/person/74"
                         passive="http://syriaca.org/person/3720">
                         <desc>
@@ -240,7 +240,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/holiness">
+                    <event ana="http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/holiness">
                         <desc>
                             <persName ref="http://syriaca.org/person/3720">Anonymous 3720 </persName> began to observe the poor man 
                             <persName ref="http://syriaca.org/person/2024">Priscus</persName> because of his sanctity. He saw him engaged 
@@ -283,7 +283,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/844-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/holiness http://syriaca.org/keyword/poverty http://syriaca.org/keyword/madness">
+                    <event ana="http://syriaca.org/taxonomy/holiness http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/madness">
                         <desc>
                             <persName ref="http://syriaca.org/person/3720">Anonymous 3720 </persName> returned to  
                             <persName ref="http://syriaca.org/person/2024">Priscus</persName> and they discussed his mode of life:

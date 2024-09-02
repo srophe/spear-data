@@ -127,7 +127,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3060-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3084">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -159,7 +159,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2580"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2580"
                                     >Epiphanius</persName> was male.</note>
                         </trait>
@@ -176,7 +176,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2580"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2580"
                                     >Epiphanius</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2729"> Tyre </placeName></note>
@@ -192,7 +192,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3060-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2580">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -225,7 +225,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2586"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2586"
                                     >Thomas</persName> was male.</note>
                         </trait>
@@ -242,7 +242,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2586"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2586"
                                     >Thomas</persName> was a deacon of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName></note>
@@ -259,7 +259,7 @@
                 <idno type="URI">https://spear-prosop.org/3060-10</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-from"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-from"
                         active="http://syriaca.org/person/2586 http://syriaca.org/person/2579"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2586">Thomas</persName> and
@@ -279,7 +279,7 @@
                 <idno type="URI">https://spear-prosop.org/3060-14</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-to"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-to"
                         active="http://syriaca.org/person/2586 http://syriaca.org/person/2579"
                         passive="http://syriaca.org/person/3084">
                         <desc><persName ref="http://syriaca.org/person/2586">Thomas</persName> and
@@ -313,7 +313,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2579"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2579"
                                     >Basil</persName> was male.</note>
                         </trait>
@@ -330,7 +330,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2579"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2579"
                                     >Basil</persName> was a deacon of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName></note>

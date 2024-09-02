@@ -82,7 +82,7 @@
             <listPerson>
                <personGrp>
                   <persName ref="http://syriaca.org/person/3771"/>
-                  <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                  <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                      <note type="desc"><persName ref="http://syriaca.org/person/3771">Anonymi 3771</persName>
                         was a group of saints.
                      </note>
@@ -101,7 +101,7 @@
          <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-3</idno>
             <listRelation>
-               <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3771">
+               <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3771">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                      commemmorated
@@ -145,7 +145,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-5</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/patronage http://syriaca.org/keyword/buildings http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/prayer http://syriaca.org/keyword/saints">
+               <event ana="http://syriaca.org/taxonomy/patronage http://syriaca.org/taxonomy/buildings http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/saints">
                   <desc>
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> commissioned the refurbishing of 
                      <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName> so that
@@ -166,7 +166,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-6</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/ecumenism http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/christology http://syriaca.org/keyword/saints http://syriaca.org/keyword/conversion http://syriaca.org/keyword/council-of-chalcedon-451">
+               <event ana="http://syriaca.org/taxonomy/ecumenism http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/saints http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/council-of-chalcedon-451">
                   <desc>
                      Even those who disagreed with the Christology of <persName ref="http://syriaca.org/person/3771">Anonymi 3771</persName> 
                      marveled at their asceticism and came to <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName>
@@ -186,7 +186,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-7</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/christology http://syriaca.org/keyword/saints" when="0565">
+               <event ana="http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/saints" when="0565">
                   <desc>
                      <persName ref="http://syriaca.org/person/779">Theodora</persName> convinced <persName ref="http://syriaca.org/person/2284">Justinian</persName>
                      to preserve <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName> as a monastery for non-Chalcedonians and he continued to 
@@ -231,7 +231,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-9</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/conversion http://syriaca.org/keyword/christianization http://syriaca.org/keyword/traditional-religions http://syriaca.org/keyword/churches http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/synagogues">
+               <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/christianization http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/churches http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/synagogues">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> was involved in bringing about the conversion from paganism to Christianity
                      of eighty thousand people in the provinces of <placeName ref="http://syriaca.org/place/2746">Asia</placeName>, <placeName ref="http://syriaca.org/place/2764">Caria</placeName>,
@@ -252,7 +252,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-10</idno>
             <listEvent>
-               <event ana="http://syriaca.org/keyword/cult-of-saints http://syriaca.org/keyword/buildings http://syriaca.org/keyword/miracles">
+               <event ana="http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/buildings http://syriaca.org/taxonomy/miracles">
                   <desc>
                      The number of visitors to the holy men in <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName> resulted 
                      in the floor collapsing. Thanks to the prayers of <persName ref="http://syriaca.org/person/3771">the saints</persName> and the mercy 

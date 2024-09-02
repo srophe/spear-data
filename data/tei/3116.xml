@@ -123,7 +123,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2462"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2462">
                                     Didymus </persName> was male. </note>
                         </trait>
@@ -139,7 +139,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2462"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2462">
                                     Didymus </persName> was a bishop. </note>
                         </occupation>
@@ -153,7 +153,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3116-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2462">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
@@ -196,7 +196,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/544"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/544"
                                     >Ignatius</persName> was male. </note>
                         </trait>
@@ -212,7 +212,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/544"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/544">
                                     Ignatius </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName></note>
@@ -229,7 +229,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/544"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/544">
                                     Ignatius </persName> was a martyr. </note>
                         </state>
@@ -257,7 +257,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2463"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2463">
                                     Irenaeus </persName> was male. </note>
                         </trait>
@@ -273,7 +273,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2463"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2463">
                                     Irenaeus </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2680"> Lyons </placeName></note>
@@ -304,7 +304,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2020"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2020"
                                     >Polycarp</persName> was male. </note>
                         </trait>
@@ -320,7 +320,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2020"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2020">
                                     Polycarp </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2719"> Smyrna </placeName>.
@@ -338,7 +338,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2020"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/2020">
                                     Polycarp </persName> was a martyr. </note>
                         </state>
@@ -352,7 +352,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3116-27</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/student-of" active="http://syriaca.org/person/2020" passive="http://syriaca.org/person/1826">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/student-of" active="http://syriaca.org/person/2020" passive="http://syriaca.org/person/1826">
                         <desc>
                             <persName ref="http://syriaca.org/person/2020">Polycarp</persName> 
                             was a disciple of 
@@ -368,7 +368,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-26" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3116-26</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/violence http://syriaca.org/keyword/war http://syriaca.org/keyword/persecution" notBefore="0519" notAfter="0525">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/war http://syriaca.org/taxonomy/persecution" notBefore="0519" notAfter="0525">
                         <desc>
                             <date notBefore="0519" notAfter="0525">Sometime between 519 and 525</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
@@ -385,7 +385,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-28" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3116-28</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/violence http://syriaca.org/keyword/war" notBefore="0519" notAfter="0525">
+                    <event ana="http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/war" notBefore="0519" notAfter="0525">
                         <desc>
                             <date notBefore="0519" notAfter="0525">Sometime between 519 and 525</date>
                             there was a barbarian incursion into <placeName ref="http://syriaca.org/place/166">Roman territory</placeName>.

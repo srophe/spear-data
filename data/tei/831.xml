@@ -127,7 +127,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1554">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1554">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -149,7 +149,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1554"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1554"> Abraham </persName>
                                 was a saint.
                             </note>
@@ -205,7 +205,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1554"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/1554">Abraham</persName> was a presbyter. </note>
                         </occupation>
                     </person>
@@ -269,7 +269,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#sgross #egibes #ekeogh #dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of" passive="http://syriaca.org/person/1554"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of" passive="http://syriaca.org/person/1554"
                         active="http://syriaca.org/person/3270">
                         <desc> <persName ref="http://syriaca.org/person/3270">Zwtʾ</persName> was the child of  <persName ref="http://syriaca.org/person/1554">Abraham the
                                 Priest</persName>.</desc>
@@ -290,7 +290,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3270"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/3270">Zwtʾ</persName> was a presbyter. </note>
                         </occupation>
                     </person>
@@ -327,7 +327,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3204"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/3204"
                                     >Daniel</persName> was a deacon. </note>
                         </occupation>
@@ -346,7 +346,7 @@
                 resp="#sgross #egibes #ekeogh #dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of-sibling-of" passive="http://syriaca.org/person/1554"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of-sibling-of" passive="http://syriaca.org/person/1554"
                         active="http://syriaca.org/person/3204">
                         <desc><persName ref="http://syriaca.org/person/3204">Daniel</persName> was the child of the sibling of <persName ref="http://syriaca.org/person/1554">Abraham the
                                 Priest</persName>.</desc>
@@ -365,7 +365,7 @@
                 <idno type="URI">https://spear-prosop.org/831-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/probation">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/probation">
                         <desc><persName ref="http://syriaca.org/person/1554">Abraham</persName>
                             comes to <placeName ref="http://syriaca.org/place/586"
                                 >Constantinople</placeName> to petition <persName
@@ -387,7 +387,7 @@
                 <idno type="URI">https://spear-prosop.org/831-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/probation http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism">
+                        ana="http://syriaca.org/taxonomy/probation http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism">
                         <desc> After a period of some years, <persName
                             ref="http://syriaca.org/person/3270">Zwtʾ</persName> and
                                 <persName ref="http://syriaca.org/person/3204">Daniel</persName>
@@ -406,7 +406,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#sgross #ekeogh #dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/mission">
+                    <event ana="http://syriaca.org/taxonomy/mission">
                         <desc><persName ref="http://syriaca.org/person/1554">Abraham</persName>
                             and <persName ref="http://syriaca.org/person/3270">Zwtʾ</persName> and <persName ref="http://syriaca.org/person/3204"
                                 >Daniel</persName> and <persName
@@ -472,7 +472,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#sgross #ekeogh #dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/priests">
+                    <event ana="http://syriaca.org/taxonomy/priests">
                         <desc><persName ref="http://syriaca.org/person/3270">Zwtʾ</persName>
                             is promoted to Presbyter </desc>
                     </event>
@@ -489,7 +489,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#sgross #ekeogh #dschwartz">
                 <idno type="URI">https://spear-prosop.org/831-18</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/architecture">
+                    <event ana="http://syriaca.org/taxonomy/architecture">
                         <desc> <persName ref="http://syriaca.org/person/3270">Zwtʾ</persName> restores the martyr chapel </desc>
                     </event>
                 </listEvent>

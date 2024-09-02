@@ -97,13 +97,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3197-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/blood http://syriaca.org/keyword/purity http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/women" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/blood http://syriaca.org/taxonomy/purity http://syriaca.org/taxonomy/eucharist http://syriaca.org/taxonomy/women" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2620">Caesaria Hypatissa</persName> explaining
                             a woman should not take the eucharist following sex or during menstruation.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2620" notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2620" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -117,13 +117,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3197-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/sex http://syriaca.org/keyword/blood http://syriaca.org/keyword/purity http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/women" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/sex http://syriaca.org/taxonomy/blood http://syriaca.org/taxonomy/purity http://syriaca.org/taxonomy/eucharist http://syriaca.org/taxonomy/women" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/2620">Caesaria Hypatissa</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/51">Severus</persName> asking about
                             whether or not a woman should take the eucharist following sex or during menstruation.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2620" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2620" passive="http://syriaca.org/person/51" notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -137,7 +137,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3197-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited positively

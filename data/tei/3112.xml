@@ -116,7 +116,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2455"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2455">Theodore</persName> was male.</note>
                         </trait>
                     </person>
@@ -132,7 +132,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2455"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc"><persName ref="http://syriaca.org/person/2455">Theodore</persName> was an archimandrite of the monastery of
                                 Father Romanus among the saints.</note>
                         </occupation>
@@ -147,7 +147,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3112-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2455"><desc><persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to <persName ref="http://syriaca.org/person/2455">Theodore</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2455"><desc><persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to <persName ref="http://syriaca.org/person/2455">Theodore</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>
@@ -174,7 +174,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2515"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2515">Thomas</persName> was male.</note>
                         </trait>
                     </person>
@@ -190,7 +190,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2515"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2515">Thomas</persName> was a presbyter.</note>
                         </occupation>
                     </person>
@@ -204,7 +204,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3112-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2455" passive="http://syriaca.org/person/2515"><desc><persName ref="http://syriaca.org/person/2455">Theodore</persName> sent a letter to <persName ref="http://syriaca.org/person/2515">Thomas</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2455" passive="http://syriaca.org/person/2515"><desc><persName ref="http://syriaca.org/person/2455">Theodore</persName> sent a letter to <persName ref="http://syriaca.org/person/2515">Thomas</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3112-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/member-of-group" active="http://syriaca.org/person/2455" passive="http://syriaca.org/person/3112"><desc><persName ref="http://syriaca.org/person/2455">Theodore</persName> was part of <persName ref="http://syriaca.org/person/3112">Anonymi 3112</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/member-of-group" active="http://syriaca.org/person/2455" passive="http://syriaca.org/person/3112"><desc><persName ref="http://syriaca.org/person/2455">Theodore</persName> was part of <persName ref="http://syriaca.org/person/3112">Anonymi 3112</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary">
                     <ptr target="http://syriaca.org/bibl/668"/>
@@ -304,7 +304,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2440"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2440">Timothy</persName> was male.</note>
                         </trait>
                     </person>
@@ -320,7 +320,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2440"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2440">Timothy</persName> was Bishop of <placeName ref="http://syriaca.org/place/2620"> Alexandria
                                 </placeName></note>
                         </occupation>

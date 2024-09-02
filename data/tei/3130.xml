@@ -134,7 +134,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2465"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2465"
                                     >Julian</persName> was male.</note>
                         </trait>
@@ -151,7 +151,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2465"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc"><persName ref="http://syriaca.org/person/2465"
                                     >Julian</persName> was an archimandrite of the monastery of the
                                 blessed Basus.</note>
@@ -169,7 +169,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2465"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2465"
                                     >Julian</persName> was a presbyter</note>
                         </occupation>
@@ -184,7 +184,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3130-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2465">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -201,7 +201,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3130-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2465"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2465">Julian</persName> sent
@@ -235,7 +235,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2408"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2408"
                                     >Sergius</persName> was male.</note>
                         </trait>
@@ -252,7 +252,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2408"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2408"
                                     >Sergius</persName> was Bishop of Cyrrhus.</note>
                         </occupation>
@@ -267,7 +267,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3130-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2408">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -300,7 +300,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2407"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2407"
                                     >Marion</persName> was male.</note>
                         </trait>
@@ -317,7 +317,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2407"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2407"
                                     >Marion</persName> was Bishop of Sura.</note>
                         </occupation>
@@ -332,7 +332,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3130-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2407">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of

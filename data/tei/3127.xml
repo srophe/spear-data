@@ -132,7 +132,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2656"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/2656"
                                     >Georgia</persName> was female.</note>
                         </trait>
@@ -147,7 +147,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3127-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2656">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -180,7 +180,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2596"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/2596"
                                     >Anastasia</persName> was female.</note>
                         </trait>
@@ -192,15 +192,15 @@
                     <citedRange unit="p">455</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
+            <ab type="factoid" subtype="socecStatus" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3127-6</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2596"/>
-                        <occupation ana="http://syriaca.org/keyword/hypatissa">
+                        <socecStatus ana="http://syriaca.org/taxonomy/hypatissae">
                             <note type="desc"><persName ref="http://syriaca.org/person/2596"
                                     >Anastasia</persName> was a hypatissa.</note>
-                        </occupation>
+                        </socecStatus>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -212,7 +212,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3127-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of"
                         active="http://syriaca.org/person/2656"
                         passive="http://syriaca.org/person/2596">
                         <desc><persName ref="http://syriaca.org/person/2656">Georgia</persName> was
@@ -247,7 +247,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3119"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3119"
                                     >Anonymous 3119</persName> was male.</note>
                         </trait>
@@ -264,7 +264,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3119"/>
-                        <socecStatus ana="http://syriaca.org/keyword/consuls">
+                        <socecStatus ana="http://syriaca.org/taxonomy/consuls">
                             <note type="desc"><persName ref="http://syriaca.org/person/3119"
                                     >Anonymous 3119</persName> was of consular rank</note>
                         </socecStatus>
@@ -279,7 +279,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3127-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/parent-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/parent-of"
                         active="http://syriaca.org/person/3119"
                         passive="http://syriaca.org/person/2656">
                         <desc><persName ref="http://syriaca.org/person/3119">Anonymous
@@ -296,7 +296,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3127-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of"
                         mutual="http://syriaca.org/person/3119 http://syriaca.org/person/2596">
                         <desc><persName ref="http://syriaca.org/person/3119">Anonymous
                                 3119</persName> and <persName ref="http://syriaca.org/person/2596"
@@ -313,7 +313,7 @@
                 <idno type="URI">https://spear-prosop.org/3127-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/marriage http://syriaca.org/keyword/chastity http://syriaca.org/keyword/virginity http://syriaca.org/keyword/families" notBefore="0519" notAfter="0538">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/chastity http://syriaca.org/taxonomy/virginity http://syriaca.org/taxonomy/families" notBefore="0519" notAfter="0538">
                         <desc><date notBefore="0519" notAfter="0538" calendar="Gregorian">Between
                                 519 and 538</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> sent a letter to <persName
@@ -333,7 +333,7 @@
                 <idno type="URI">https://spear-prosop.org/3127-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/families http://syriaca.org/keyword/shame">
+                        ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/families http://syriaca.org/taxonomy/shame">
                         <desc><persName ref="http://syriaca.org/person/2596">Anastasia</persName>
                             and <persName ref="http://syriaca.org/person/3119">her
                                 husband</persName> were ashamed that <persName
@@ -351,7 +351,7 @@
                 <idno type="URI">https://spear-prosop.org/3127-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/time http://syriaca.org/keyword/bible http://syriaca.org/keyword/blessing http://syriaca.org/keyword/virginity">
+                        ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/time http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/blessing http://syriaca.org/taxonomy/virginity">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             encourages <persName ref="http://syriaca.org/person/2656"
                                 >Georgia</persName> to glory in her unmarried state, because time

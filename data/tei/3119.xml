@@ -126,7 +126,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2462"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2462"
                                     >Didymus</persName> was male.</note>
                         </trait>
@@ -143,7 +143,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2462"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2462"
                                     >Didymus</persName> was a bishop.</note>
                         </occupation>
@@ -158,7 +158,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3119-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2462">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -191,7 +191,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3118"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3118"
                                     >Sannus</persName> was male.</note>
                         </trait>
@@ -208,7 +208,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3118"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/3118"
                                     >Sannus</persName> was a deacon.</note>
                         </occupation>
@@ -223,7 +223,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3119-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2462"
                         passive="http://syriaca.org/person/3118">
                         <desc><persName ref="http://syriaca.org/person/2462">Didymus</persName> had
@@ -240,7 +240,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3119-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/judge-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/judge-of"
                         active="http://syriaca.org/person/2462"
                         passive="http://syriaca.org/person/3118">
                         <desc><persName ref="http://syriaca.org/person/2462">Didymus</persName>

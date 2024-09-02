@@ -137,7 +137,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2417"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2417"
                                     >Solon</persName> was male.</note>
                         </trait>
@@ -154,7 +154,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2417"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2417"
                                     >Solon</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2714">Seleucia in <placeName
@@ -172,7 +172,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2417">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -205,7 +205,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2468"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2468"
                                     >Paul</persName> was male.</note>
                         </trait>
@@ -222,7 +222,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2468"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2468"
                                     >Paul</persName> was the Bishop of <placeName
                                     ref="http://syriaca.org/place/2698">Olba</placeName>.</note>
@@ -238,7 +238,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-8</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2468">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -272,7 +272,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2458"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2458"
                                     >Hilarian</persName> was male.</note>
                         </trait>
@@ -289,7 +289,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2458"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2458"
                                     >Hilarian</persName> was a bishop.</note>
                         </occupation>
@@ -305,7 +305,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-13</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2468 http://syriaca.org/person/2417">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> and
                                 <persName ref="http://syriaca.org/person/2417">Solon</persName> had
@@ -336,7 +336,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2459"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2459"
                                     >Callistus</persName> was male.</note>
                         </trait>
@@ -351,7 +351,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2468"
                         passive="http://syriaca.org/person/2459">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> brought
@@ -368,7 +368,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-17" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-17</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/2468"
                         passive="http://syriaca.org/person/2417">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> had
@@ -400,7 +400,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2560"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2560">
                                     Epiphanius </persName> was male.</note>
                         </trait>
@@ -417,7 +417,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2560"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2560">
                                     Epiphanius </persName> was a bishop.</note>
                         </occupation>
@@ -447,7 +447,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2561"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2561"
                                     >Symbatius</persName> was male.</note>
                         </trait>
@@ -463,7 +463,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-23</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2417 http://syriaca.org/person/2468">
                         <desc><persName ref="http://syriaca.org/person/2417">Solon</persName> and
                                 <persName ref="http://syriaca.org/person/2468">Paul</persName> had a
@@ -479,7 +479,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/2458"
                         passive="http://syriaca.org/person/2468">
                         <desc><persName ref="http://syriaca.org/person/2458">Hilarian</persName> had
@@ -512,7 +512,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-26</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2468"
                         passive="http://syriaca.org/person/3065">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> had
@@ -529,7 +529,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3046-27</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commune-together"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commune-together"
                         mutual="http://syriaca.org/person/2458 http://syriaca.org/person/3065">
                         <desc><persName ref="http://syriaca.org/person/2458">Hilarian</persName> and
                                 <persName ref="http://syriaca.org/person/3065">Anonymi
@@ -546,7 +546,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-28</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy" notBefore="0514" notAfter="0517">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy" notBefore="0514" notAfter="0517">
                         <desc><date notBefore="0514" notAfter="0517" calendar="Gregorian">Between
                                 514 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -567,7 +567,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-29</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/evil http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishop-over http://syriaca.org/keyword/dioceses">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/evil http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over http://syriaca.org/taxonomy/dioceses">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> was
                             compelled to write because of the constant evil things being done in
                                 <placeName ref="http://syriaca.org/place/99">Isauria</placeName>.
@@ -584,7 +584,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-30</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/priests http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishop-over" notBefore="0513" notAfter="0516">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over" notBefore="0513" notAfter="0516">
                         <desc><date notBefore="0513" notAfter="0516">Last year</date>, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> compelled
                                 <persName ref="http://syriaca.org/person/2468">bishop Paul of
@@ -602,7 +602,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-31</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/bishops http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishop-over">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> refused
                             to carry out the counsel of <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> to remove the names of those who affirmed the
@@ -620,7 +620,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-32</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/bishop-over http://syriaca.org/keyword/authority http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/bishop-over http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/clergy">
                         <desc> Because <persName ref="http://syriaca.org/person/2468"
                                 >Paul</persName> has an ordinarily simple disposition, <persName
                                 ref="http://syriaca.org/person/2417">Solon</persName> should not
@@ -637,7 +637,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-33</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/bishops http://syriaca.org/keyword/evil http://syriaca.org/keyword/sin http://syriaca.org/keyword/travel">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/evil http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/travel">
                         <desc> After a dispute with <persName ref="http://syriaca.org/person/2458"
                                 >Hilarian</persName> about a monastery and a presumptuous and
                             illeagl forging of signatures by <persName
@@ -657,7 +657,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-34</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/justice http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/priests">
+                        ana="http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/priests">
                         <desc> Until an investigation can be undertaken, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> believed that
                                 <persName ref="http://syriaca.org/person/2459">Callistus</persName>

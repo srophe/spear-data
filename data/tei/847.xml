@@ -105,7 +105,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/847-25</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2011">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2011">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -121,7 +121,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
                                 was a saint.
                             </note>
@@ -134,7 +134,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/847-27</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3014">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3014">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -150,7 +150,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName>
                                 was a saint.
                             </note>
@@ -175,7 +175,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
-                        <occupation ana="http://syriaca.org/keyword/chancellors"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/doorkeepers"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
                                 was a chancellor. </note></occupation>
                     </person>
                 </listPerson>
@@ -187,7 +187,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
                                 was a monk. </note></occupation>
                     </person>
                 </listPerson>
@@ -210,7 +210,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
-                        <occupation ana="http://syriaca.org/keyword/chartularies"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a chartulary. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/archivists"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a chartulary. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/847"/><citedRange unit="p">543</citedRange></bibl>
@@ -221,7 +221,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
-                        <socecStatus ana="http://syriaca.org/keyword/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a patrician. </note></socecStatus>
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a patrician. </note></socecStatus>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/847"/><citedRange unit="p">543-545</citedRange></bibl>
@@ -230,7 +230,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
+                    <event ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks">
                         <desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, later
                             bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>, and <persName ref="http://syriaca.org/person/3014">Photius</persName> entered the
                             <placeName ref="http://syriaca.org/place/2777">Monastery of the Fathers</placeName> in the <placeName ref="http://syriaca.org/place/473">Enaton</placeName> of <placeName ref="http://syriaca.org/place/572">Alexandria</placeName>. </desc>
@@ -242,7 +242,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks">
+                    <event ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks">
                         <desc><persName ref="http://syriaca.org/person/3693">Anonymi 3693</persName>
                             were the inhabitants of the Monastery of the Fathers in the <placeName ref="http://syriaca.org/place/473">Enaton</placeName> who admired
                             the asceticism of <persName ref="http://syriaca.org/person/2011">Peter</persName> and <persName ref="http://syriaca.org/person/3014">Photius</persName>. </desc>
@@ -254,7 +254,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3014 http://syriaca.org/person/3693"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3014">Photius</persName> and <persName ref="http://syriaca.org/person/3693">Anonymi 3693</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3014 http://syriaca.org/person/3693"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3014">Photius</persName> and <persName ref="http://syriaca.org/person/3693">Anonymi 3693</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/847"/><citedRange unit="p">543</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">197</citedRange></bibl>
@@ -262,7 +262,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> visited <persName ref="http://syriaca.org/person/2011">Peter</persName> and <persName ref="http://syriaca.org/person/3014">Photius</persName> at
                                 <placeName ref="http://syriaca.org/place/2777">the Monastery of the
@@ -305,7 +305,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3654 http://syriaca.org/person/3655"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3654">Anonymous 3654</persName> and <persName ref="http://syriaca.org/person/3655">Anonymous 3655</persName> were siblings.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" mutual="http://syriaca.org/person/2011 http://syriaca.org/person/3654 http://syriaca.org/person/3655"><desc><persName ref="http://syriaca.org/person/2011">Peter</persName>, <persName ref="http://syriaca.org/person/3654">Anonymous 3654</persName> and <persName ref="http://syriaca.org/person/3655">Anonymous 3655</persName> were siblings.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/847"/><citedRange unit="p">544</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">198</citedRange></bibl>
@@ -328,7 +328,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3656"/>
-                        <socecStatus ana="http://syriaca.org/keyword/slaves"><note type="desc"> 
+                        <socecStatus ana="http://syriaca.org/taxonomy/slaves"><note type="desc"> 
                                     <persName ref="http://syriaca.org/person/3656">Those enslaved</persName>
                                 the <persName ref="http://syriaca.org/person/3654">Brother</persName> and <persName ref="http://syriaca.org/person/3655">Sister</persName> of
                                     <persName ref="http://syriaca.org/person/2011">Peter</persName>
@@ -341,7 +341,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/liturgy http://syriaca.org/keyword/hours http://syriaca.org/keyword/education">
+                    <event ana="http://syriaca.org/taxonomy/liturgy http://syriaca.org/taxonomy/hours http://syriaca.org/taxonomy/education">
                         <desc> The <persName ref="http://syriaca.org/person/3654">Brother</persName>
                             and <persName ref="http://syriaca.org/person/3655">Sister</persName> of
                                 <persName ref="http://syriaca.org/person/2011">Peter</persName>
@@ -355,7 +355,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-18</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc> The <persName ref="http://syriaca.org/person/3654">Brother</persName>
                             and <persName ref="http://syriaca.org/person/3655">Sister</persName> of
                                 <persName ref="http://syriaca.org/person/2011">Peter</persName>
@@ -368,7 +368,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-19" resp="#upossekel #mdebie #egarret #dschwartz">
                 <idno type="URI">https://spear-prosop.org/847-19</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters">
+                    <event ana="http://syriaca.org/taxonomy/letters">
                         <desc> The <persName ref="http://syriaca.org/person/3654">brother</persName>
                             and <persName ref="http://syriaca.org/person/3655">sister</persName> of
                                 <persName ref="http://syriaca.org/person/2011">Peter</persName>
@@ -382,7 +382,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-20" resp="#upossekel #mdebie #egarret #dschwartz">
                 <idno type="URI">https://spear-prosop.org/847-20</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc> 18 years after entering <placeName ref="http://syriaca.org/place/2777">the Monastery of the
                                 Fathers</placeName>, <persName ref="http://syriaca.org/person/2011">Peter</persName> visited his <persName ref="http://syriaca.org/person/3654">brother</persName> and
                                 <persName ref="http://syriaca.org/person/3655">sister</persName> in
@@ -398,7 +398,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3014"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a monk. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3014">Photius</persName> was a monk. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/847"/><citedRange unit="p">543</citedRange></bibl>
@@ -409,7 +409,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
                                 was bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>. </note></occupation>
                     </person>
                 </listPerson>
@@ -419,7 +419,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination">
+                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination">
                         <desc> 5 years after arriving in <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>, <persName ref="http://syriaca.org/person/2011">Peter</persName> was elevated
                             as bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>. </desc>
                     </event>
@@ -430,7 +430,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-24" resp="#upossekel #mdebie #egarret">
                 <idno type="URI">https://spear-prosop.org/847-24</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc> 4 years after being elevated as bishop of <placeName ref="http://syriaca.org/place/2718">Smyrna</placeName>, <persName ref="http://syriaca.org/person/2011">Peter</persName> died. </desc>
                     </event>
                 </listEvent>

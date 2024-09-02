@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/793-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3763">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3763">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3763"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3763">Habib</persName>
                                 was a saint.
                             </note>
@@ -173,7 +173,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/793-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/3763"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/3763"
                         passive="http://syriaca.org/person/3710">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> was a
                             follower of <persName ref="http://syriaca.org/person/3710"> Bar Nbyl </persName>.</desc>
@@ -193,7 +193,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3763"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/3763">Habib</persName>
                                 was archimandrite at <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                     ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>. </note>
@@ -214,7 +214,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3203"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/3203">Mara
                                 Dada</persName> was archimandrite at <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                     ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>. </note>
@@ -278,7 +278,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3710"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/3710">Bar Nbyl</persName>
                                 was archimandrite at <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                     ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>. </note>
@@ -297,7 +297,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/793-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/3710"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/3710"
                         passive="http://syriaca.org/person/3203">
                         <desc><persName ref="http://syriaca.org/person/3710"> Bar Nbyl </persName> was a follower of
                                 <persName ref="http://syriaca.org/person/3203"> Mara Dada </persName>.</desc>
@@ -348,7 +348,7 @@
                 <idno type="URI">https://spear-prosop.org/793-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monks">
                         <desc><persName ref="http://syriaca.org/person/3710">Bar Nbyl</persName>
                             planted <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                 ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>. </desc>
@@ -367,7 +367,7 @@
                 <idno type="URI">https://spear-prosop.org/793-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monks">
                         <desc> When <persName ref="http://syriaca.org/person/3763"
                             >Habib</persName> was 10 years old, he entered <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                 ref="http://syriaca.org/place/2779">Fytr</placeName></placeName>,
@@ -388,7 +388,7 @@
                 <idno type="URI">https://spear-prosop.org/793-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/monks http://syriaca.org/keyword/death http://syriaca.org/keyword/succession">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/succession">
                         <desc> After <persName ref="http://syriaca.org/person/3710">Bar
                             Nbyl</persName> lived 90 years, he died, leaving <placeName ref="http://syriaca.org/place/2778">the monastery in <placeName
                                 ref="http://syriaca.org/place/2779">Fytr</placeName></placeName> to
@@ -409,7 +409,7 @@
                 <idno type="URI">https://spear-prosop.org/793-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/miracles http://syriaca.org/keyword/healing http://syriaca.org/keyword/repentance http://syriaca.org/keyword/confession">
+                        ana="http://syriaca.org/taxonomy/miracles http://syriaca.org/taxonomy/healing http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/confession">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> was so
                             holy, that many would confess their sins to him without any prompting on
                             his part. <persName ref="http://syriaca.org/person/3763"
@@ -430,7 +430,7 @@
                 <idno type="URI">https://spear-prosop.org/793-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/poverty http://syriaca.org/keyword/justice">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/justice">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> brought
                             justice to those being exploited by the rich. </desc>
                     </event>
@@ -464,7 +464,7 @@
                 <idno type="URI">https://spear-prosop.org/793-19</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/demonology http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/prayer http://syriaca.org/keyword/illness http://syriaca.org/keyword/justice">
+                        ana="http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/justice">
                         <desc> Confronting a man possessed by Satan,<persName
                                 ref="http://syriaca.org/person/3763">Habib</persName> returned to
                                 <placeName ref="http://syriaca.org/place/2778">the
@@ -501,7 +501,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/793-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/1524"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/1524"
                         passive="http://syriaca.org/person/3763">
                         <desc><persName ref="http://syriaca.org/person/1524">Zeʿora</persName> was a
                             follower of <persName ref="http://syriaca.org/person/3763"
@@ -521,7 +521,7 @@
                 <idno type="URI">https://spear-prosop.org/793-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/prayer http://syriaca.org/keyword/death http://syriaca.org/keyword/demonology http://syriaca.org/keyword/illness">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> sent
                             his disciple <persName ref="http://syriaca.org/person/1524"
                                 >Z'ura</persName> to pray over the demon-possessed man, who then
@@ -541,7 +541,7 @@
                 <idno type="URI">https://spear-prosop.org/793-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3763"
                             >Habib</persName> travelled as far as <placeName
                                 ref="http://syriaca.org/place/486">Syria</placeName>. </desc>
@@ -561,7 +561,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3196"/>
-                        <occupation ana="http://syriaca.org/keyword/bankers">
+                        <occupation ana="http://syriaca.org/taxonomy/bankers">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3196">Anonymous 3196</persName> 
                                 was a banker.
@@ -583,7 +583,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3196"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3196">Anonymous 3196</persName> 
                                 was male.
@@ -605,7 +605,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3196"/>
-                        <socecStatus ana="http://syriaca.org/keyword/wealth">
+                        <socecStatus ana="http://syriaca.org/taxonomy/wealth">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3196">Anonymous 3196</persName> 
                                 was wealthy.
@@ -650,7 +650,7 @@
                 <idno type="URI">https://spear-prosop.org/793-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/bankers http://syriaca.org/keyword/property http://syriaca.org/keyword/wealth http://syriaca.org/keyword/justice">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/bankers http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/justice">
                         <desc> <persName ref="http://syriaca.org/person/3196">A rich banker</persName> from <placeName ref="http://syriaca.org/place/134"
                                 >Maiferkat</placeName> was exacting high rates from his debtors.
                                 <persName ref="http://syriaca.org/person/3763">Habib</persName> came
@@ -670,7 +670,7 @@
                 <idno type="URI">https://spear-prosop.org/793-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/demonology http://syriaca.org/keyword/baptism http://syriaca.org/keyword/healing http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/prayer">
+                        ana="http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/healing http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/prayer">
                         <desc> A group of people from <placeName ref="http://syriaca.org/place/526"
                                 >Persia</placeName> approached <persName
                                 ref="http://syriaca.org/person/3763">Habib</persName> with two sick
@@ -694,7 +694,7 @@
                 <idno type="URI">https://spear-prosop.org/793-26</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/prayer http://syriaca.org/keyword/gardeners">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/gardeners">
                         <desc> A man who owned a vineyard approached <persName
                                 ref="http://syriaca.org/person/3763">Habib</persName>, emploring him
                             to pray that hail would not destroy his crops. <persName
@@ -716,7 +716,7 @@
                 <idno type="URI">https://spear-prosop.org/793-27</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/demonology http://syriaca.org/keyword/healing http://syriaca.org/keyword/illness">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/healing http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName>
                             encountered a demon possessed woman, and he healed her. Over time
                                 <persName ref="http://syriaca.org/person/3763">Habib</persName> fell
@@ -737,7 +737,7 @@
                 <idno type="URI">https://spear-prosop.org/793-28</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/demonology http://syriaca.org/keyword/healing">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/healing">
                         <desc> Another woman came to <persName ref="http://syriaca.org/person/3763"
                                 >Habib</persName> who was demon possessed. He prayed over her and
                             the demon departed. </desc>
@@ -756,7 +756,7 @@
                 <idno type="URI">https://spear-prosop.org/793-29</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/artisans http://syriaca.org/keyword/monks http://syriaca.org/keyword/justice">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/artisans http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/justice">
                         <desc> A widowed artist came to <persName
                                 ref="http://syriaca.org/person/3763">Habib</persName> because two of
                             her students had defrauded her. He wrote a letter to
@@ -793,7 +793,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-31" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/793-31</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of" active="http://syriaca.org/person/3212"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of" active="http://syriaca.org/person/3212"
                         passive="http://syriaca.org/person/3763">
                         <desc><persName ref="http://syriaca.org/person/3212">Hananyaʾ</persName> was a follower of
                                 <persName ref="http://syriaca.org/person/3763"
@@ -813,7 +813,7 @@
                 <idno type="URI">https://spear-prosop.org/793-32</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3763">Habib</persName> died,
                             leaving the <placeName ref="http://syriaca.org/place/2778"
                                 >monastery</placeName> to <persName

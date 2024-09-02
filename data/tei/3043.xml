@@ -135,7 +135,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2525"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2525"
                                     >John</persName> was male.</note>
                         </trait>
@@ -152,7 +152,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2525"/>
-                        <occupation ana="http://syriaca.org/keyword/scholastics">
+                        <occupation ana="http://syriaca.org/taxonomy/scholastics">
                             <note type="desc"><persName ref="http://syriaca.org/person/2525"
                                     >John</persName> was a scholastic.</note>
                         </occupation>
@@ -182,7 +182,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2557"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2557"
                                     >Mark</persName> was male.</note>
                         </trait>
@@ -199,7 +199,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2557"/>
-                        <occupation ana="http://syriaca.org/keyword/clergy">
+                        <occupation ana="http://syriaca.org/taxonomy/clergy">
                             <note type="desc"><persName ref="http://syriaca.org/person/2557"
                                     >Mark</persName> was a cleric in <placeName
                                     ref="http://syriaca.org/place/3055"> Berrhoea
@@ -216,7 +216,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3043-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2553"
                         passive="http://syriaca.org/person/2557">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName>
@@ -233,7 +233,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3043-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2553"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName>
@@ -267,7 +267,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3043-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/2553"
                         passive="http://syriaca.org/person/3059">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName>
@@ -285,7 +285,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/economics http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/liturgy" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/eucharist http://syriaca.org/taxonomy/anti-judaism http://syriaca.org/taxonomy/economics http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/liturgy" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -305,7 +305,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/polemics http://syriaca.org/keyword/eucharist http://syriaca.org/keyword/liturgy">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/eucharist http://syriaca.org/taxonomy/liturgy">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName> had
                                 accused <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> of staying silent after administering the
@@ -322,15 +322,15 @@
                 <idno type="URI">https://spear-prosop.org/3043-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/scholastics">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/scholastics">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2553">Antoninus</persName> carried by
                             <persName ref="http://syriaca.org/person/2525">John the scholastic</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2553"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/carrier-of-letter-from" active="http://syriaca.org/person/2525" passive="http://syriaca.org/person/51"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/carrier-of-letter-to" active="http://syriaca.org/person/2525" passive="http://syriaca.org/person/2553"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2553"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/carrier-of-letter-from" active="http://syriaca.org/person/2525" passive="http://syriaca.org/person/51"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/carrier-of-letter-to" active="http://syriaca.org/person/2525" passive="http://syriaca.org/person/2553"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -345,7 +345,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wealth http://syriaca.org/keyword/socioeconomic-status http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/socioeconomic-status http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName> had
                                 sent <persName ref="http://syriaca.org/person/2557"
                                 >Mark</persName> to <placeName ref="http://syriaca.org/place/10"
@@ -363,7 +363,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/economics">
+                        ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/economics">
                         <desc><persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> assured <persName
                                 ref="http://syriaca.org/person/2553">Antoninus</persName> that he
@@ -382,7 +382,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/anti-judaism http://syriaca.org/keyword/bishops http://syriaca.org/keyword/wisdom">
+                        ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/anti-judaism http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/wisdom">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> again
                                 counselled <persName ref="http://syriaca.org/person/2553"
                                 >Antoninus</persName> to show restraint with the Jews. </desc>

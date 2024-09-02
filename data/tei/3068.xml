@@ -131,7 +131,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3066"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3066">Anonymi
                                     3066</persName> were male.</note>
                         </trait>
@@ -148,7 +148,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3066"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/3066">Anonymi
                                     3066</persName> were bishops in the province of <placeName
                                     ref="http://syriaca.org/place/176"> Syria Secunda
@@ -165,7 +165,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3068-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -182,7 +182,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3068-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-bishop"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-bishop"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -221,7 +221,7 @@
                 <idno type="URI">https://spear-prosop.org/3068-7</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-from"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-from"
                         active="http://syriaca.org/person/3090"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/3090">Anonymous
@@ -241,7 +241,7 @@
                 <idno type="URI">https://spear-prosop.org/3068-11</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-to"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-to"
                         active="http://syriaca.org/person/3090"
                         passive="http://syriaca.org/person/3066">
                         <desc><persName ref="http://syriaca.org/person/3090">Anonymous
@@ -262,7 +262,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3090"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3090"
                                     >Anonymous 3090</persName> was male.</note>
                         </trait>
@@ -279,7 +279,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3090"/>
-                        <occupation ana="http://syriaca.org/keyword/readers">
+                        <occupation ana="http://syriaca.org/taxonomy/readers">
                             <note type="desc"><persName ref="http://syriaca.org/person/3090"
                                     >Anonymous 3090</persName> was a reader of Antioch.</note>
                         </occupation>
@@ -294,7 +294,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3068-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3090">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of

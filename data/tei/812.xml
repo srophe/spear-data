@@ -136,7 +136,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/812-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3762">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3762">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -156,7 +156,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/812-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3762">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3762">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> and <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName> 
                             had a friendship.
@@ -177,7 +177,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3762"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName>
                                 was a saint.
@@ -199,7 +199,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3762"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName>
                                 was a monk.
@@ -221,7 +221,7 @@
                 <idno type="URI">https://spear-prosop.org/812-1</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/spiritual-or-ascetic-disciplines">
+                        ana="http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/spiritual-or-ascetic-disciplines">
                         <desc>
                             <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName> engaged in earnest prayer and 
                             physically strenuous acts of asceticism.
@@ -242,7 +242,7 @@
                 <idno type="URI">https://spear-prosop.org/812-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/laughter http://syriaca.org/keyword/liturgics http://syriaca.org/keyword/demonology http://syriaca.org/keyword/confession">
+                        ana="http://syriaca.org/taxonomy/laughter http://syriaca.org/taxonomy/liturgics http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/confession">
                         <desc>
                             <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName> 
                             confesses that while he was celebrating the liturgy, he laughed at another monk whom
@@ -263,7 +263,7 @@
                 resp="#jnsaint-laurent #tbaillargeon #tmcneir #syoung #rtrupiano">
                 <idno type="URI">https://spear-prosop.org/812-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/penitence">
+                    <event ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence">
                         <desc>
                             <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName> repented and did penance.
                         </desc>
@@ -283,7 +283,7 @@
                 <idno type="URI">https://spear-prosop.org/812-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/repentance http://syriaca.org/keyword/penitence http://syriaca.org/keyword/dress">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence http://syriaca.org/taxonomy/dress">
                         <desc><persName ref="http://syriaca.org/person/74">John</persName> 
                             describes the lengthy process by which men enter the monastery of 
                             <persName ref="http://syriaca.org/person/3762">Anonymous 3762</persName>. After one month of testing 

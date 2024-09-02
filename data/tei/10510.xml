@@ -113,7 +113,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3218">John</persName> was male.</note>
                         </trait>
                     </person>
@@ -126,7 +126,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3218">John</persName> was an archimandrite.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3218">John</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">552</citedRange></bibl>
@@ -137,7 +137,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3218">John</persName> was a saint.</note>
                         </state>
                     </person>
@@ -161,7 +161,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries" notBefore="0388-10" notAfter="0389-09">
+                    <event ana="http://syriaca.org/taxonomy/monasteries" notBefore="0388-10" notAfter="0389-09">
                         <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> was founded in <choice>
                                 <reg><date notBefore="0388-10" notAfter="0389-09" calendar="Gregorian">388/9</date></reg>
@@ -176,7 +176,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries" notBefore="0566-10" notAfter="0567-09">
+                    <event ana="http://syriaca.org/taxonomy/monasteries" notBefore="0566-10" notAfter="0567-09">
                         <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> closed in <choice>
                                 <reg><date notBefore="0566-10" notAfter="0567-09" calendar="Gregorian">566/7</date></reg>
@@ -191,7 +191,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries" notBefore="0538-10" notAfter="0539-09">
+                    <event ana="http://syriaca.org/taxonomy/monasteries" notBefore="0538-10" notAfter="0539-09">
                         <desc> The <persName ref="http://syriaca.org/person/3251">great senior Mar
                                 Samuel Archpresbyter</persName> dwelled in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> during the time of its prosperity until the year <choice>
@@ -221,7 +221,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3251"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3251">Mar
                                     Samuel</persName> was male.</note>
                         </trait>
@@ -235,7 +235,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3251"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/3251">Mar
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/3251">Mar
                                     Samuel</persName> was an archpresbyter.</note></occupation>
                     </person>
                 </listPerson>
@@ -258,7 +258,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution" notBefore="0536-10" notAfter="0537-09">
+                    <event ana="http://syriaca.org/taxonomy/persecution" notBefore="0536-10" notAfter="0537-09">
                         <desc><persName ref="http://syriaca.org/person/3251">Mar
                             Samuel</persName> gained distinction in the conflict of persecution.
                                 <persName ref="http://syriaca.org/person/3251">Mar
@@ -292,7 +292,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-15</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death" when="0539">
+                    <event ana="http://syriaca.org/taxonomy/death" when="0539">
                         <desc><persName ref="http://syriaca.org/person/3251">Mar
                             Samuel</persName> died in <date when="0539" calendar="Gregorian"> 539
                             </date></desc>
@@ -304,7 +304,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-16" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-16</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc> Before the <placeName ref="http://syriaca.org/place/399">Convent of
                                 John Urtaya</placeName> was established there were a collection of
                             huts on the site, named after <persName ref="http://syriaca.org/person/3192">Mar Afwrsm</persName>. </desc>
@@ -328,7 +328,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3192"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3192">Mar
                                     Afwrsm</persName> was male.</note>
                         </trait>
@@ -342,7 +342,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3192"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3192">Mar
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3192">Mar
                                     Afwrsm</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
@@ -352,7 +352,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-20" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-20</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries" when="0700">
+                    <event ana="http://syriaca.org/taxonomy/monasteries" when="0700">
                         <desc><persName ref="http://syriaca.org/person/3218">Mar
                             John</persName> built a hut near the huts of <persName ref="http://syriaca.org/person/3192">Mar Afwrsm</persName> in the
                             year <date when="0700" calendar="Gregorian"> 700 </date></desc>
@@ -364,7 +364,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-21" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-21</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/mission">
+                    <event ana="http://syriaca.org/taxonomy/mission">
                         <desc><persName ref="http://syriaca.org/person/3218">John</persName> went
                             about preaching and teaching the Christian faith in <placeName ref="http://syriaca.org/place/2758">Urtaya</placeName> Urtaye and
                             spoke the language of Urtaye. As such, many believed that <persName ref="http://syriaca.org/person/3218">John</persName> was Urtaya and
@@ -380,7 +380,7 @@
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
                         <langKnowledge>
-                            <langKnown ana="http://syriaca.org/keyword/urtaye"/>
+                            <langKnown ana="http://syriaca.org/taxonomy/urtaye"/>
                             <note type="desc"><persName ref="http://syriaca.org/person/3218">John</persName> spoke Urtaye.</note>
                         </langKnowledge>
                     </person>
@@ -393,7 +393,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3218"/>
-                        <trait type="ethnicLabel" ana="http://syriaca.org/keyword/syrian">
+                        <trait type="ethnicLabel" ana="http://syriaca.org/taxonomy/syriacs">
                             <note type="desc"><persName ref="http://syriaca.org/person/3218">John
                                     Urtaya</persName> was Syrian.</note>
                         </trait>
@@ -422,7 +422,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-25" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-25</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/scribes">
+                    <event ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/scribes">
                         <desc><persName ref="http://syriaca.org/person/3218">John
                             Urtaya</persName>'s fame spread far and wide, attracting many followers
                             including two excellent scribes from the <placeName ref="http://syriaca.org/place/1528">Convent of Edessa</placeName> at
@@ -450,7 +450,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was male.</note>
                         </trait>
                     </person>
@@ -463,7 +463,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a monk in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a monk in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
                                     Edessenes</placeName>.</note></occupation>
                     </person>
                 </listPerson>
@@ -475,7 +475,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <occupation ana="http://syriaca.org/keyword/scribes"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a scribe in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
+                        <occupation ana="http://syriaca.org/taxonomy/scribes"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a scribe in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
                                     Edessenes</placeName>.</note></occupation>
                     </person>
                 </listPerson>
@@ -509,7 +509,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was male.</note>
                         </trait>
                     </person>
@@ -522,7 +522,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a monk in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a monk in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
                                     Edessenes </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -534,7 +534,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <occupation ana="http://syriaca.org/keyword/scribes"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a scribe in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
+                        <occupation ana="http://syriaca.org/taxonomy/scribes"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a scribe in <placeName ref="http://syriaca.org/place/1528"> the Convent of the
                                     Edessenes </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -556,7 +556,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-36" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-36</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/3227 http://syriaca.org/person/3249"><desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3249">Samuel</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/3227 http://syriaca.org/person/3249"><desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3249">Samuel</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">209</citedRange></bibl>
@@ -564,7 +564,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-37" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-37</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc> During the time that <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3249">Samuel</persName> lived with
                                 <persName ref="http://syriaca.org/person/3218">Mar John
                                 Urtaya</persName>, they learned a great deal about asceticism and
@@ -616,7 +616,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3669"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3669">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3669">Anonymi
                                     3669</persName> were monks in <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </personGrp>
@@ -640,7 +640,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-43" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-43</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/3249 http://syriaca.org/person/3227 http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3249">Samuel</persName>, <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/3249 http://syriaca.org/person/3227 http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3249">Samuel</persName>, <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">209</citedRange></bibl>
@@ -648,7 +648,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-44" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-44</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3218">John
                             Urtaya</persName> died. </desc>
                     </event>
@@ -659,7 +659,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-45" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-45</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3249">Samuel</persName> succeeded <persName ref="http://syriaca.org/person/3218">John Urtaya</persName> as the
                             head of the convent. </desc>
                     </event>
@@ -672,7 +672,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3249"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3249">Samuel</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -682,7 +682,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-47" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-47</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3249" passive="http://syriaca.org/person/3227 http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3249" passive="http://syriaca.org/person/3227 http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3249">Samuel</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">209</citedRange></bibl>
@@ -690,7 +690,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-48" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-48</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName>,
                             who had left the monastery while <persName ref="http://syriaca.org/person/3218">John Urtaya</persName> was still
                             alive, returned after his death and lived in a brotherly fashion with
@@ -704,7 +704,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-49" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-49</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3249">Samuel</persName> died.
                         </desc>
                     </event>
@@ -715,7 +715,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-50" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-50</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> succeeded <persName ref="http://syriaca.org/person/3249">Samuel</persName> as head of the
                             convent. </desc>
                     </event>
@@ -728,7 +728,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3227"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                                 </placeName></note></occupation>
                     </person>
@@ -739,7 +739,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-52" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-52</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3227" passive="http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3227" passive="http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">210</citedRange></bibl>
@@ -747,7 +747,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-53" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-53</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3227">Jonathan</persName> governed the convent well before he died. </desc>
                     </event>
                 </listEvent>
@@ -757,7 +757,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-54" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-54</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/succession http://syriaca.org/keyword/monastic-heads">
+                    <event ana="http://syriaca.org/taxonomy/succession http://syriaca.org/taxonomy/monastic-heads">
                         <desc><persName ref="http://syriaca.org/person/3217">Job</persName>
                             succeeded <persName ref="http://syriaca.org/person/3227">Jonathan</persName> as head of the convent. </desc>
                     </event>
@@ -782,7 +782,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3217"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3217">Job</persName> was male.</note>
                         </trait>
                     </person>
@@ -795,7 +795,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3217"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3217">Job</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3217">Job</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName>.
                                 </placeName></note></occupation>
                     </person>
@@ -806,7 +806,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-58" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-58</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3217">Job</persName> governed
                             the monastery well before he died. </desc>
                     </event>
@@ -817,7 +817,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-59" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-59</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3217" passive="http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3217">Job</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3217" passive="http://syriaca.org/person/3669"><desc><persName ref="http://syriaca.org/person/3217">Job</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3669">Anonymous 3669</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">210</citedRange></bibl>
@@ -825,7 +825,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-60" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-60</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3185">Abraham</persName>
                             succeeded <persName ref="http://syriaca.org/person/3217">Job</persName>
                             as head of the convent. </desc>
@@ -851,7 +851,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was male.</note>
                         </trait>
                     </person>
@@ -864,7 +864,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3185"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3185">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -874,7 +874,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-64" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-64</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/families http://syriaca.org/keyword/ethnicity">
+                    <event ana="http://syriaca.org/taxonomy/families http://syriaca.org/taxonomy/ethnicity">
                         <desc><persName ref="http://syriaca.org/person/3185">Abraham</persName> was
                             from <placeName ref="http://syriaca.org/place/8">Amida</placeName> and
                             had a residence there. His <persName ref="http://syriaca.org/person/3670">mother</persName>, <persName ref="http://syriaca.org/person/3671">brothers</persName>, and
@@ -917,7 +917,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3670"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3670">Anonymous 3670</persName> was female.</note>
                         </trait>
                     </person>
@@ -965,7 +965,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-71" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-71</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/parent-of" active="http://syriaca.org/person/3670" passive="http://syriaca.org/person/3185 http://syriaca.org/person/3671"><desc><persName ref="http://syriaca.org/person/3670">Anonymous 3670</persName> was the parent of <persName ref="http://syriaca.org/person/3185">Abraham</persName> and <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/parent-of" active="http://syriaca.org/person/3670" passive="http://syriaca.org/person/3185 http://syriaca.org/person/3671"><desc><persName ref="http://syriaca.org/person/3670">Anonymous 3670</persName> was the parent of <persName ref="http://syriaca.org/person/3185">Abraham</persName> and <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">210</citedRange></bibl>
@@ -973,7 +973,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-72" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-72</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/3185 http://syriaca.org/person/3671"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName> and <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName> were siblings.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" mutual="http://syriaca.org/person/3185 http://syriaca.org/person/3671"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName> and <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName> were siblings.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">210</citedRange></bibl>
@@ -1005,7 +1005,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-75" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-75</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/household-of" mutual="http://syriaca.org/person/3185 http://syriaca.org/person/3670 http://syriaca.org/person/3671 http://syriaca.org/person/3672"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName>, <persName ref="http://syriaca.org/person/3670">Anonymous 3670</persName>, <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName> and <persName ref="http://syriaca.org/person/3672">Anonymous 3672</persName> were part of the same household.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/household-of" mutual="http://syriaca.org/person/3185 http://syriaca.org/person/3670 http://syriaca.org/person/3671 http://syriaca.org/person/3672"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName>, <persName ref="http://syriaca.org/person/3670">Anonymous 3670</persName>, <persName ref="http://syriaca.org/person/3671">Anonymous 3671</persName> and <persName ref="http://syriaca.org/person/3672">Anonymous 3672</persName> were part of the same household.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">556</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">210</citedRange></bibl>
@@ -1013,7 +1013,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-76" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-76</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/embezzlement http://syriaca.org/keyword/shame">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/embezzlement http://syriaca.org/taxonomy/shame">
                         <desc><persName ref="http://syriaca.org/person/3673">The monks</persName>
                             serving under <persName ref="http://syriaca.org/person/3185">Abraham</persName> accused him of embezzling monastery funds in
                             order to support his family. <persName ref="http://syriaca.org/person/3185">Abraham</persName> was
@@ -1041,7 +1041,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3673"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3673">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3673">Anonymi
                                     3673</persName> were monks.</note></occupation>
                     </personGrp>
                 </listPerson>
@@ -1051,7 +1051,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-79" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-79</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3185" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3185" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3185">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">557</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">211</citedRange></bibl>
@@ -1071,7 +1071,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-81" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-81</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3186">Abraham II</persName>
                             succeeded <persName ref="http://syriaca.org/person/3185">Abraham
                                 I</persName> as the head of the convent. </desc>
@@ -1097,7 +1097,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3186"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
                                     II</persName> was male.</note>
                         </trait>
@@ -1111,7 +1111,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3186"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
                                     II</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the <placeName ref="http://syriaca.org/place/399">Convent of John
                                         Urtaya</placeName> in <placeName ref="http://syriaca.org/place/8">Amida</placeName></placeName></note></occupation>
                     </person>
@@ -1122,7 +1122,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-85" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-85</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3186" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3186">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3186" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3186">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">557</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">211</citedRange></bibl>
@@ -1130,7 +1130,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-86" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-86</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads">
                         <desc> As <persName ref="http://syriaca.org/person/3186">Abraham
                                 II</persName>'s reputation as an excellent leader grew, <persName ref="http://syriaca.org/person/2273">King Zeno</persName> gifted him
                             with a village in <placeName ref="http://syriaca.org/place/2824"> Narda
@@ -1156,7 +1156,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2273"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2273">King
                                     Zeno</persName> was male.</note>
                         </trait>
@@ -1170,7 +1170,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2273"/>
-                        <occupation ana="http://syriaca.org/keyword/kings"><note type="desc"><persName ref="http://syriaca.org/person/2273">Zeno</persName> was a king.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/kings"><note type="desc"><persName ref="http://syriaca.org/person/2273">Zeno</persName> was a king.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">558</citedRange></bibl>
@@ -1179,7 +1179,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-90" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-90</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/charity">
+                    <event ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/charity">
                         <desc><persName ref="http://syriaca.org/person/3186">Abraham II</persName>
                             gave half of the land that he received from <persName ref="http://syriaca.org/person/2273">King Zeno</persName> to
                                 <persName ref="http://syriaca.org/person/3674">the
@@ -1206,7 +1206,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3674"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3674">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3674">Anonymi
                                     3674</persName> were monks.</note></occupation>
                     </personGrp>
                 </listPerson>
@@ -1229,7 +1229,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-94" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-94</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> grew to include 400 brothers. </desc>
                     </event>
@@ -1240,7 +1240,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-95" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-95</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3186">Abraham II</persName>
                             was promoted to the bishopric in <placeName ref="http://syriaca.org/place/2758">Urtaye in the district of
                                 Anzetene</placeName>. </desc>
@@ -1254,7 +1254,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3186"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/3186">Abraham
                                     II</persName> was Bishop of <placeName ref="http://syriaca.org/place/2758"> Urtaye in the district of
                                     Anzetene</placeName>.</note></occupation>
                     </person>
@@ -1265,7 +1265,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-97" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-97</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-monk" active="http://syriaca.org/person/3186" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3186">Abraham</persName> had ecclesiastical authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-monk" active="http://syriaca.org/person/3186" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3186">Abraham</persName> had ecclesiastical authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">558</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">212</citedRange></bibl>
@@ -1273,7 +1273,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-98" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-98</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3673">Anonymi 3673</persName>
                             of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> urged <persName ref="http://syriaca.org/person/3186">Bishop Abraham</persName> to
@@ -1288,7 +1288,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-99" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-99</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3187">Abraham the
                                 Shepherd</persName> succeeded <persName ref="http://syriaca.org/person/3186">Abraham II</persName> as head of
                                 the <placeName ref="http://syriaca.org/place/399">Convent of John
@@ -1314,7 +1314,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3187"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
                                     III</persName> was male.</note>
                         </trait>
@@ -1345,7 +1345,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3187"/>
-                        <occupation ana="http://syriaca.org/keyword/shepherds"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/shepherds"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
                                     III</persName> was a shepherd.</note></occupation>
                     </person>
                 </listPerson>
@@ -1357,7 +1357,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3187"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
                                     III</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
@@ -1369,7 +1369,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3187"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3187">Abraham
                                     III</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
@@ -1379,7 +1379,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-106" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-106</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3187" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3187">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3187" passive="http://syriaca.org/person/3673"><desc><persName ref="http://syriaca.org/person/3187">Abraham</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3673">Anonymous 3673</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">559-563</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">213-217</citedRange></bibl>
@@ -1387,7 +1387,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-107" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-107</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3673">Anonymi
                             3673</persName> of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> disliked <persName ref="http://syriaca.org/person/3186">Abraham II</persName>'s
                             appointment of <persName ref="http://syriaca.org/person/3187">Abraham
@@ -1414,7 +1414,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-109" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-109</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/3675" passive="http://syriaca.org/person/3186"><desc><persName ref="http://syriaca.org/person/3675">Anonymi 3675</persName> had enmity for <persName ref="http://syriaca.org/person/3186">Abraham</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/3675" passive="http://syriaca.org/person/3186"><desc><persName ref="http://syriaca.org/person/3675">Anonymi 3675</persName> had enmity for <persName ref="http://syriaca.org/person/3186">Abraham</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">561-562</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">215-216</citedRange></bibl>
@@ -1422,7 +1422,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-110" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-110</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/3675" passive="http://syriaca.org/person/3187"><desc><persName ref="http://syriaca.org/person/3675">Anonymi 3675</persName> had enmity for <persName ref="http://syriaca.org/person/3187">Abraham</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/3675" passive="http://syriaca.org/person/3187"><desc><persName ref="http://syriaca.org/person/3675">Anonymi 3675</persName> had enmity for <persName ref="http://syriaca.org/person/3187">Abraham</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">561-562</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">215-216</citedRange></bibl>
@@ -1430,7 +1430,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-111" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-111</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3675">Anonymi
                             3675</persName> established a <placeName ref="http://syriaca.org/place/2751"> monastery in Beth Bar 'rubtha</placeName>.</desc>
                     </event>
@@ -1441,7 +1441,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-112" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-112</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/3250">Mar Samuel</persName>,
                             prior to founding <placeName ref="http://syriaca.org/place/2840">Mar
                                 Samuel Convent</placeName>, visited the <placeName ref="http://syriaca.org/place/399">Convent of John
@@ -1454,7 +1454,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-113" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-113</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/stylites http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/monasticism">
+                    <event ana="http://syriaca.org/taxonomy/stylites http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/monasticism">
                         <desc><persName ref="http://syriaca.org/person/3250">Mar
                             Samuel</persName> stood on a column for a time before he began to build
                             his convent. <persName ref="http://syriaca.org/person/3187">Abraham
@@ -1480,7 +1480,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3250"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3250">Mar
                                     Samuel</persName> was male.</note>
                         </trait>
@@ -1494,7 +1494,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3250"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3250">Mar
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3250">Mar
                                     Samuel</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
@@ -1504,7 +1504,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-117" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-117</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war http://syriaca.org/keyword/death http://syriaca.org/keyword/monasteries" notBefore="0502-10" notAfter="0503-09">
+                    <event ana="http://syriaca.org/taxonomy/war http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monasteries" notBefore="0502-10" notAfter="0503-09">
                         <desc><persName ref="http://syriaca.org/person/2286">Kawad, King of
                                     <placeName ref="http://syriaca.org/place/150">Persia</placeName></persName> attacked the City of <placeName ref="http://syriaca.org/place/8">Amida</placeName>, slaughtered many
                             people, took captives, and razed the <placeName ref="http://syriaca.org/place/399">Convent of John
@@ -1533,7 +1533,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2286"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2286">Kawad</persName> was male.</note>
                         </trait>
                     </person>
@@ -1546,7 +1546,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2286"/>
-                        <occupation ana="http://syriaca.org/keyword/kings"><note type="desc"><persName ref="http://syriaca.org/person/2286">Kawad</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/kings"><note type="desc"><persName ref="http://syriaca.org/person/2286">Kawad</persName>
                                 was a king.</note></occupation>
                     </person>
                 </listPerson>
@@ -1556,7 +1556,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-121" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-121</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war">
+                    <event ana="http://syriaca.org/taxonomy/war">
                         <desc> The story of <persName ref="http://syriaca.org/person/2286">Kawad</persName>'s invasion was related to <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> years
                             later when he was a white haired man, living in the monastery at
                                 <placeName ref="http://syriaca.org/place/1508">Beth
@@ -1583,7 +1583,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3676"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3676">Anonymous 3676</persName> was male.</note>
                         </trait>
                     </person>
@@ -1596,7 +1596,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3676"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3676">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3676">Anonymous
                                     3676</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
@@ -1619,7 +1619,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-126" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-126</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/war http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/2286">King Kawad</persName>'s
                             invasion was devastating and drove many away from the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. <persName ref="http://syriaca.org/person/3676">The white-haired man</persName> fled from <placeName ref="http://syriaca.org/place/8">Amida</placeName>. </desc>
@@ -1631,7 +1631,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-127" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-127</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc> Another old man, named <persName ref="http://syriaca.org/person/3239">Paul of Arzen</persName>, related the history of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> to <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>. </desc>
                     </event>
@@ -1642,7 +1642,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-128" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-128</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war">
+                    <event ana="http://syriaca.org/taxonomy/war">
                         <desc><persName ref="http://syriaca.org/person/3239">Paul</persName> was a
                             monk in the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> when there were 400 monks residing within its
@@ -1655,7 +1655,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-129" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-129</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war">
+                    <event ana="http://syriaca.org/taxonomy/war">
                         <desc> Because <persName ref="http://syriaca.org/person/2286">King
                                 Kawad</persName>'s invasion destroyed the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>, <persName ref="http://syriaca.org/person/3239">Paul</persName> took up residence in <placeName ref="http://syriaca.org/place/390">Monastery in Orientals in
@@ -1680,7 +1680,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3239"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3239">Paul</persName> was male.</note>
                         </trait>
                     </person>
@@ -1693,7 +1693,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3239"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3239">Paul</persName> was a monk.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3239">Paul</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">565-566</citedRange></bibl>
@@ -1714,7 +1714,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-134" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-134</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/persecution" notBefore="0536">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/persecution" notBefore="0536">
                         <desc><persName ref="http://syriaca.org/person/3239">Paul</persName> died
                             during the second persecution <date notBefore="0536" calendar="Gregorian"> sometime after 536. </date></desc>
                     </event>
@@ -1725,7 +1725,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-135" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-135</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc> The <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName> was rebuilt after <persName ref="http://syriaca.org/person/2286">King Kawad</persName>'s
                             invasion, but on a smaller scale--both in the number of buildings
@@ -1738,7 +1738,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-136" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-136</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3187">Abraham III
                                 died</persName></desc>
                     </event>
@@ -1749,7 +1749,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-137" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-137</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3200">Cosmas</persName>
                             succeeded <persName ref="http://syriaca.org/person/3187">Abraham
                                 III</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
@@ -1775,7 +1775,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3200"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3200">Cosmas</persName> was male.</note>
                         </trait>
                     </person>
@@ -1788,7 +1788,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3200"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3200">Cosmas</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> Convent of John Urtaya
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3200">Cosmas</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/399"> Convent of John Urtaya
                                 </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -1798,7 +1798,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-141" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-141</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3200">Cosmas</persName> died
                         </desc>
                     </event>
@@ -1821,7 +1821,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2265"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2265">Anastasius</persName> was male.</note>
                         </trait>
                     </person>
@@ -1834,7 +1834,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2265"/>
-                        <occupation ana="http://syriaca.org/keyword/emperors"><note type="desc"><persName ref="http://syriaca.org/person/2265">Anastasius</persName> was an empereror.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/emperors"><note type="desc"><persName ref="http://syriaca.org/person/2265">Anastasius</persName> was an empereror.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">567</citedRange></bibl>
@@ -1843,7 +1843,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-145" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-145</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3255">Sergius</persName> succeeded <persName ref="http://syriaca.org/person/3200">Cosmas</persName> as head of
                                 the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
@@ -1867,7 +1867,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3255"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3255">Sergius</persName> was male.</note>
                         </trait>
                     </person>
@@ -1880,7 +1880,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3255"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3255">Sergius</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the Convent of John Urtaya
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3255">Sergius</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the Convent of John Urtaya
                                 </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -1905,7 +1905,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-150" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-150</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3255">Sergius</persName> died
                             in the first persecution in the monastery of <placeName ref="http://syriaca.org/place/2813"> Mar Mama </placeName></desc>
                     </event>
@@ -1916,7 +1916,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-151" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-151</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession" when="0522">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession" when="0522">
                         <desc><persName ref="http://syriaca.org/person/3263">Symy</persName>
                             succeeded <persName ref="http://syriaca.org/person/3255">Sergius
                                 I</persName> as the head of the <placeName ref="http://syriaca.org/place/399">Convent of John
@@ -1942,7 +1942,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3263"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3263">Symy</persName> was male.</note>
                         </trait>
                     </person>
@@ -1955,7 +1955,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3263"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3263">Symy</persName> was an archimandrite.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3263">Symy</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">568-570</citedRange></bibl>
@@ -1978,7 +1978,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-156" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-156</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monastic-heads">
+                    <event ana="http://syriaca.org/taxonomy/prophecy http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monastic-heads">
                         <desc><persName ref="http://syriaca.org/person/3263">Symy</persName> prophesied many things that came to pass, including his
                             own death three and a half years after assuming the office of
                             archimandrite. </desc>
@@ -1990,7 +1990,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-157" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-157</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession" when="0526">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession" when="0526">
                         <desc><persName ref="http://syriaca.org/person/3263">Symy</persName> died
                             three and a half years after assuming office in <placeName ref="http://syriaca.org/place/2834"> the Convent of the Poplars in
                                     <date when="0526" calendar="Gregorian"> 526
@@ -2003,7 +2003,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-158" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-158</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/internment http://syriaca.org/keyword/exile" when="0530">
+                    <event ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/burial http://syriaca.org/taxonomy/exile" when="0530">
                         <desc> The monks of the <placeName ref="http://syriaca.org/place/399">Convent
                                 of John Urtaya</placeName> who were in exile during the first
                             persecution were allowed to return to their convent and inter <persName ref="http://syriaca.org/person/3263">Symy</persName>'s bones there
@@ -2016,7 +2016,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-159" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-159</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> succeeded <persName ref="http://syriaca.org/person/3263">Symy</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
                     </event>
@@ -2039,7 +2039,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3183"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3183">Abba</persName> was male.</note>
                         </trait>
                     </person>
@@ -2052,7 +2052,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3183"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3183">Abba</persName> was an archimandrite.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3183">Abba</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">570</citedRange></bibl>
@@ -2076,7 +2076,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-164" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-164</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/emperors http://syriaca.org/keyword/succession" when="0527-08-01">
+                    <event ana="http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/succession" when="0527-08-01">
                         <desc><persName ref="http://syriaca.org/person/2284">The Emperor
                                 Justinian</persName> began his reign in <date when="0527-08-01" calendar="Gregorian"> August 1, 527 </date></desc>
                     </event>
@@ -2100,7 +2100,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2284"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2284">The
                                     Emperor Justinian</persName> was male.</note>
                         </trait>
@@ -2114,7 +2114,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2284"/>
-                        <occupation ana="http://syriaca.org/keyword/emperors"><note type="desc"><persName ref="http://syriaca.org/person/2284">The Emperor
+                        <occupation ana="http://syriaca.org/taxonomy/emperors"><note type="desc"><persName ref="http://syriaca.org/person/2284">The Emperor
                                     Justinian</persName> was an emperor.</note></occupation>
                     </person>
                 </listPerson>
@@ -2124,7 +2124,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-168" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-168</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/exile" when="0536">
+                    <event ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/exile" when="0536">
                         <desc> The persecution was renewed through the descent of <persName ref="http://syriaca.org/person/2274">Ephraim</persName> and all of
                             the convents were expelled in <date when="0536" calendar="Gregorian">536</date>. </desc>
                     </event>
@@ -2148,7 +2148,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2274"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2274">Ephraim</persName> was male.</note>
                         </trait>
                     </person>
@@ -2161,7 +2161,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2274"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2274">Ephraim</persName> was the patriarch of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2274">Ephraim</persName> was the patriarch of <placeName ref="http://syriaca.org/place/2610">Antioch</placeName>.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">570</citedRange></bibl>
@@ -2170,7 +2170,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-172" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-172</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> and
                                 <persName ref="http://syriaca.org/person/3677">Anonymi
                                 3677</persName> went into exile and took up residence in the
@@ -2198,7 +2198,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3677"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3677">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3677">Anonymi
                                     3677</persName> were monks.</note></occupation>
                     </personGrp>
                 </listPerson>
@@ -2233,7 +2233,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-177" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-177</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3183" passive="http://syriaca.org/person/3677"><desc><persName ref="http://syriaca.org/person/3183">Abba</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3183" passive="http://syriaca.org/person/3677"><desc><persName ref="http://syriaca.org/person/3183">Abba</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">570</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">224</citedRange></bibl>
@@ -2241,7 +2241,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-178" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-178</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> and
                                 <persName ref="http://syriaca.org/person/3677">Anonymi
                                 3677</persName> were expelled from the <placeName ref="http://syriaca.org/place/2834">Convent of the
@@ -2281,7 +2281,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-181" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-181</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/exile">
                         <desc> After three years of residing in the <placeName ref="http://syriaca.org/place/2826">Convent of Nut</placeName>, Abba
                             and his monks went to live in the <placeName ref="http://syriaca.org/place/2795">Monastery of the
                                 Huts</placeName>. </desc>
@@ -2318,7 +2318,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-184" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-184</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution">
                         <desc><persName ref="http://syriaca.org/person/3183">Abba</persName> continued to be persecuted and fled to the court of
                                 <persName ref="http://syriaca.org/person/779">Empress
                                 Theodora</persName>. </desc>
@@ -2342,7 +2342,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/779"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/779">Empress
                                     Theodora</persName> was female.</note>
                         </trait>
@@ -2356,7 +2356,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/779"/>
-                        <occupation ana="http://syriaca.org/keyword/empresses"><note type="desc"><persName ref="http://syriaca.org/person/779">Theodora</persName> was an empress.</note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/empresses"><note type="desc"><persName ref="http://syriaca.org/person/779">Theodora</persName> was an empress.</note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">571</citedRange></bibl>
@@ -2365,7 +2365,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-188" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-188</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3183">Abba</persName>
                             returned to the <placeName ref="http://syriaca.org/place/2795">Convent
                                 of the Huts</placeName> and died. </desc>
@@ -2377,7 +2377,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-189" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-189</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3188">Abraham
                             IV</persName> succeeded <persName ref="http://syriaca.org/person/3183">Abba</persName> as head of the <placeName ref="http://syriaca.org/place/399">Convent of John
                                 Urtaya</placeName>. </desc>
@@ -2401,7 +2401,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3188"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3188">Abraham
                                     IV</persName> was male.</note>
                         </trait>
@@ -2415,7 +2415,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3188"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3188">Abraham
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3188">Abraham
                                     IV</persName> was an archimandrite.</note></occupation>
                     </person>
                 </listPerson>
@@ -2437,7 +2437,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-194" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-194</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/internment">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial">
                         <desc><persName ref="http://syriaca.org/person/3188">Abraham
                             IV</persName> died and was buried in the monastery. </desc>
                     </event>
@@ -2448,7 +2448,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-195" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-195</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monastic-heads http://syriaca.org/keyword/succession">
+                    <event ana="http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/succession">
                         <desc><persName ref="http://syriaca.org/person/3256">Sergius</persName> of
                                 <placeName ref="http://syriaca.org/place/8">Amida</placeName>
                             succeeded <persName ref="http://syriaca.org/person/3188">Abraham
@@ -2462,7 +2462,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-196" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-196</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/abstinence http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution">
+                    <event ana="http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/chastity http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution">
                         <desc><persName ref="http://syriaca.org/person/3256">Sergius</persName> gained distinction in exile during the persecutions
                             and embraced asceticism and abstinence. </desc>
                     </event>
@@ -2486,7 +2486,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3256"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3256">Sergius</persName> was male.</note>
                         </trait>
                     </person>
@@ -2499,7 +2499,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3256"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3256">Sergius</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the Convent of John Urtaya
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/3256">Sergius</persName> was the archimandrite of <placeName ref="http://syriaca.org/place/399"> the Convent of John Urtaya
                                 </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -2526,7 +2526,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3256"/>
-                        <socecStatus ana="http://syriaca.org/keyword/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3256">Sergius</persName> belonged to a distinguished family called the
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3256">Sergius</persName> belonged to a distinguished family called the
                                 house of Bar Deba.</note></socecStatus>
                     </person>
                 </listPerson>
@@ -2536,7 +2536,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-202" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-202</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death" notBefore="0565-10" notAfter="0566-09">
+                    <event ana="http://syriaca.org/taxonomy/death" notBefore="0565-10" notAfter="0566-09">
                         <desc><persName ref="http://syriaca.org/person/2284">Emperor
                                 Justinian</persName> died in the year <choice>
                                 <reg><date notBefore="0565-10" notAfter="0566-09" calendar="Gregorian">565/6</date></reg>
@@ -2551,7 +2551,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-203" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-203</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/persecution" notBefore="0520-10" notAfter="0568-09">
+                    <event ana="http://syriaca.org/taxonomy/persecution" notBefore="0520-10" notAfter="0568-09">
                         <desc> The brothers of the <placeName ref="http://syriaca.org/place/399">Convent of John Urtaya</placeName> and the other religious believers
                             persevered during the persecutions, which began in <choice>
                                 <reg><date notBefore="0520-10" notAfter="0521-09" calendar="Gregorian">520/1</date></reg>
@@ -2570,7 +2570,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-204" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/10510-204</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over" active="http://syriaca.org/person/3218" passive="http://syriaca.org/person/3249 http://syriaca.org/person/3227 http://syriaca.org/person/3677"><desc><persName ref="http://syriaca.org/person/3218">John</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3249">Samuel</persName>, <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over" active="http://syriaca.org/person/3218" passive="http://syriaca.org/person/3249 http://syriaca.org/person/3227 http://syriaca.org/person/3677"><desc><persName ref="http://syriaca.org/person/3218">John</persName> was a monastic authority over <persName ref="http://syriaca.org/person/3249">Samuel</persName>, <persName ref="http://syriaca.org/person/3227">Jonathan</persName> and <persName ref="http://syriaca.org/person/3677">Anonymi 3677</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/10510"/><citedRange unit="p">555</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2033"/><citedRange unit="p">209</citedRange></bibl>
@@ -2580,7 +2580,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3192"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3192">Mar
                                     Afwrsm</persName> was a saint. </note>
                         </state>
@@ -2594,7 +2594,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3251"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3251">Mar
                                     Samuel</persName> was a saint. </note>
                         </state>
@@ -2608,7 +2608,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3250"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3250">Mar
                                     Samuel</persName> was a saint. </note>
                         </state>
@@ -2636,7 +2636,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3669"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3669">
                                     Anonymi 3669 </persName> were male.</note>
                         </trait>
@@ -2650,7 +2650,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3671"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3671">
                                     Anonymi 3671 </persName> was male.</note>
                         </trait>
@@ -2664,7 +2664,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3673"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3673">
                                     Anonymi 3673 </persName> were male.</note>
                         </trait>
@@ -2678,7 +2678,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3674"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3674">
                                     Anonymi 3674 </persName> was male.</note>
                         </trait>
@@ -2692,7 +2692,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3675"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3675">
                                     Anonymi 3675 </persName> were male.</note>
                         </trait>
@@ -2706,7 +2706,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3675"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3675">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3675">Anonymi
                                     3675</persName> were monks. </note></occupation>
                     </personGrp>
                 </listPerson>
@@ -2732,7 +2732,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3677"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3677">
                                     Anonymi 3677 </persName> were male.</note>
                         </trait>

@@ -123,7 +123,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1672">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1672">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -139,7 +139,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1672">Daniel</persName>
                                 was a saint.
                             </note>
@@ -152,7 +152,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2070">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2070">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -168,7 +168,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2070">Sergius</persName>
                                 was a saint.
                             </note>
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-24</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1876">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1876">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -247,7 +247,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/student-of" active="http://syriaca.org/person/1876" passive="http://syriaca.org/person/1866"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> studied under <persName ref="http://syriaca.org/person/1866">Mara of Beth Urtaye</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/student-of" active="http://syriaca.org/person/1876" passive="http://syriaca.org/person/1866"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> studied under <persName ref="http://syriaca.org/person/1866">Mara of Beth Urtaye</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
@@ -257,7 +257,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName> was a Nazirite. </note>
                         </state>
                     </person>
@@ -270,7 +270,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
-                        <occupation ana="http://syriaca.org/keyword/teachers"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/teachers"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
                                 was a doctor (malphono).</note></occupation>
                     </person>
                 </listPerson>
@@ -282,7 +282,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1866"/>
-                        <occupation ana="http://syriaca.org/keyword/clergy"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/clergy"><note type="desc"><persName ref="http://syriaca.org/person/1866">Mari</persName>
                                 was a clergyman. </note></occupation>
                     </person>
                 </listPerson>
@@ -314,7 +314,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/1876 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1876 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">454</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
@@ -340,7 +340,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2070"/>
-                        <occupation ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/2070">Sergius</persName> was an archimandrite of the convent called
+                        <occupation ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/2070">Sergius</persName> was an archimandrite of the convent called
                                 that of the house of <placeName ref="http://syriaca.org/place/2784">Mar Gyln</placeName>, in the territory of the city of
                                     <placeName ref="http://syriaca.org/place/2737">Amida</placeName>. </note></occupation>
                     </person>
@@ -353,7 +353,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1672"/>
-                        <occupation ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1672">Daniel</persName> was an archimandrite of the monastery called
+                        <occupation ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1672">Daniel</persName> was an archimandrite of the monastery called
                                 that of the <placeName ref="http://syriaca.org/place/2822">Mšyk’</placeName> in the district of <placeName ref="http://syriaca.org/place/493">Sophanene</placeName>.
                             </note></occupation>
                     </person>
@@ -364,7 +364,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2070 http://syriaca.org/person/1672"><desc><persName ref="http://syriaca.org/person/2070">Sergius</persName> and <persName ref="http://syriaca.org/person/1672">Daniel</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2070 http://syriaca.org/person/1672"><desc><persName ref="http://syriaca.org/person/2070">Sergius</persName> and <persName ref="http://syriaca.org/person/1672">Daniel</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>

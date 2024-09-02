@@ -134,7 +134,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/807-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1933">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1933">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -156,7 +156,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1933"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1933"> James </persName>
                                 was a saint.
                             </note>
@@ -175,7 +175,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-23" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/807-23</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3760">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3760">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -197,7 +197,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3760"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3760">Anonymous 3760</persName>
                                 was a saint.
                             </note>
@@ -244,7 +244,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1933"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1933"
                                     >James</persName> was male.</note>
                         </trait>
@@ -265,7 +265,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1933"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1933"
                                     >James</persName> was a saint. </note>
                         </state>
@@ -286,7 +286,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1933"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/1933"
                                     >James</persName> practiced asceticism. </note>
                         </occupation>
@@ -332,7 +332,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3760"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3760">Anonymous 3760</persName> was male.</note>
                         </trait>
                     </person>
@@ -352,7 +352,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3760"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/3760">Anonymous 3760</persName> practiced asceticism. </note>
                         </occupation>
                     </person>
@@ -369,7 +369,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/807-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3760">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/74 http://syriaca.org/person/3760">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> and 
                             <persName ref="http://syriaca.org/person/3760">Anonymous 3760</persName> 
@@ -389,7 +389,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/807-25</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/1933 http://syriaca.org/person/3760">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" mutual="http://syriaca.org/person/1933 http://syriaca.org/person/3760">
                         <desc>
                             <persName ref="http://syriaca.org/person/1933">James</persName> and <persName ref="http://syriaca.org/person/3760">Anonymous 3760</persName> were siblings. 
                             
@@ -409,7 +409,7 @@
                 resp="#tmcneir #jnsaint-laurent #syoung #tbaillargeon #rtrupiano">
                 <idno type="URI">https://spear-prosop.org/807-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exorcism">
+                    <event ana="http://syriaca.org/taxonomy/exorcism">
                         <desc><persName ref="http://syriaca.org/person/1933">James</persName> 
                             exorcized demons. </desc>
                     </event>
@@ -428,7 +428,7 @@
                 resp="#tmcneir #jnsaint-laurent #syoung #tbaillargeon #rtrupiano">
                 <idno type="URI">https://spear-prosop.org/807-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/monasticism">
+                    <event ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/monasticism">
                         <desc>
                             <persName ref="http://syriaca.org/person/1933">James</persName> withdrew from 
                             <placeName ref="http://syriaca.org/place/1528">Convent of the Eddessens</placeName> and received the 
@@ -473,7 +473,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3761"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3761">Anonymous 3761</persName> 
                                 was female.
@@ -496,7 +496,7 @@
                 <idno type="URI">https://spear-prosop.org/807-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/demonology http://syriaca.org/keyword/women">
+                        ana="http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/women">
                         <desc>
                             <persName ref="http://syriaca.org/person/3761">Anonymous 3761</persName> 
                             was possessed by demons in order to tempt 
@@ -518,7 +518,7 @@
                 <idno type="URI">https://spear-prosop.org/807-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/demonology http://syriaca.org/keyword/angels http://syriaca.org/keyword/women http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination http://syriaca.org/keyword/priests">
+                        ana="http://syriaca.org/taxonomy/demonology http://syriaca.org/taxonomy/angels http://syriaca.org/taxonomy/women http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/priests">
                         <desc> 
                             Demons caused <persName ref="http://syriaca.org/person/3761">Anonymous 3761</persName> 
                             to appear as an angel of light and placed her on the bishop's throne and identified her as
@@ -558,7 +558,7 @@
                 <idno type="URI">https://spear-prosop.org/807-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/laughter http://syriaca.org/keyword/monks http://syriaca.org/keyword/demonology">
+                        ana="http://syriaca.org/taxonomy/laughter http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/demonology">
                         <desc>
                             The demons reveal their deception and mock the monks.
                         </desc>
@@ -578,7 +578,7 @@
                 <idno type="URI">https://spear-prosop.org/807-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/travel http://syriaca.org/keyword/repentance http://syriaca.org/keyword/penitence">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence">
                         <desc> 
                             <persName ref="http://syriaca.org/person/1933">James</persName> and his fellow monks travel to 
                             <placeName ref="http://syriaca.org/place/762">Marde</placeName> to receive forgiveness from 

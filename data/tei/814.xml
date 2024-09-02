@@ -98,7 +98,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/814-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1548">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1548">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -114,7 +114,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1548"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1548">Abraham</persName>
                                 was a saint.
                             </note>
@@ -127,7 +127,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/814-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1117">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1117">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -143,7 +143,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1117"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1117">Addai</persName>
                                 was a saint.
                             </note>
@@ -156,7 +156,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of" ana="http://syriaca.org/keyword/maternal-family-relationship http://syriaca.org/keyword/half-family-relationship" mutual="http://syriaca.org/person/1117 http://syriaca.org/person/1548">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" ana="http://syriaca.org/taxonomy/maternal-family-relationship http://syriaca.org/taxonomy/half-family-relationship" mutual="http://syriaca.org/person/1117 http://syriaca.org/person/1548">
                         <desc>
                             <persName ref="http://syriaca.org/person/1117">Addai</persName> and <persName ref="http://syriaca.org/person/1548">Abraham</persName> were siblings.
                         </desc>
@@ -168,7 +168,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
                             founded twelve monasteries over the course of twenty-five years.
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/martyrs http://syriaca.org/keyword/dedication-of-church">
+                    <event ana="http://syriaca.org/taxonomy/martyrs http://syriaca.org/taxonomy/dedication-of-church">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
                             built a martyr's chapel. </desc>
@@ -193,7 +193,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrimage">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
                             went on pilgrimage for several years.</desc>
@@ -207,7 +207,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1117"> Addai </persName>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1117">Addai</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1117">Addai</persName>
                                 was a monk. </note></occupation>
                     </person>
                 </listPerson>
@@ -219,7 +219,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1548"> Abraham </persName>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1548">Abraham</persName> was a monk. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1548">Abraham</persName> was a monk. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
@@ -228,7 +228,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/singing http://syriaca.org/keyword/education">
+                    <event ana="http://syriaca.org/taxonomy/singing http://syriaca.org/taxonomy/education">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
                             taught psalms to the monks in their monasteries. </desc>
@@ -256,7 +256,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/monastic-heads">
+                    <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/monastic-heads">
                         <desc><persName ref="http://syriaca.org/person/1117">Addai</persName> and
                                 <persName ref="http://syriaca.org/person/1548">Abraham</persName>
                             ordained archimandrites for each of their monasteries. </desc>

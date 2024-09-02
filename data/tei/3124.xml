@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing http://syriaca.org/keyword/repentance http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion http://syriaca.org/keyword/ordination" notBefore="0522" notAfter="0527">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/anointing http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/ordination" notBefore="0522" notAfter="0527">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2751">Sergius</persName> and
@@ -107,7 +107,7 @@
                             on the subject of converts form Chalcedonianism doing penance but not being 
                             re-baptized or re-anointed and the subject of needing more ordained clergy.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -121,14 +121,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/baptism http://syriaca.org/keyword/anointing http://syriaca.org/keyword/repentance http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/conversion" notBefore="0522" notAfter="0527">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/anointing http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/conversion" notBefore="0522" notAfter="0527">
                         <desc>
                             <persName ref="http://syriaca.org/person/2751">Sergius</persName> and
                             <persName ref="http://syriaca.org/person/2407">Marion</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/51">Severus</persName>
                             on the subject of what rites to perform when receiving converts form Chalcedonianism.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2751 http://syriaca.org/person/2407" passive="http://syriaca.org/person/51" notBefore="0522" notAfter="0527"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2751 http://syriaca.org/person/2407" passive="http://syriaca.org/person/51" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -142,7 +142,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2630">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2630">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             had enmity for
@@ -159,7 +159,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2530">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2530">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             had enmity for
@@ -176,7 +176,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2744">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2744">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             had enmity for
@@ -193,7 +193,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/579">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/579">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             had enmity for
@@ -210,14 +210,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/deacons http://syriaca.org/keyword/priests http://syriaca.org/keyword/ordination">
+                    <event ana="http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/ordination">
                         <desc>
                             <persName ref="http://syriaca.org/person/2465">Julian</persName>, 
                             lacking needed clergy, sought the ordination of priests and deacons by
                             <persName ref="http://syriaca.org/person/2751">Sergius</persName> and
                             <persName ref="http://syriaca.org/person/2407">Marion</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/professional-relationship" mutual="http://syriaca.org/person/2465 http://syriaca.org/person/2751 http://syriaca.org/person/2407"></relation>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship" mutual="http://syriaca.org/person/2465 http://syriaca.org/person/2751 http://syriaca.org/person/2407"></relation>
                             </listRelation>
                         </desc>
                     </event>
@@ -231,7 +231,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3124-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters" notBefore="0522" notAfter="0527">
+                    <event ana="http://syriaca.org/taxonomy/letters" notBefore="0522" notAfter="0527">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2751">Sergius</persName> and
@@ -239,8 +239,8 @@
                             in which he warmly greeted
                             <persName ref="http://syriaca.org/person/2522">Maximin</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
-                                <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2522" notBefore="0522" notAfter="0527"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2751 http://syriaca.org/person/2407" notBefore="0522" notAfter="0527"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2522" notBefore="0522" notAfter="0527"/>
                             </listRelation>
                         </desc>
                     </event>

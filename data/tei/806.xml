@@ -93,7 +93,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/806-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1536">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1536">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -109,7 +109,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1536"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1536">Abbi</persName>
                                 was a saint.
                             </note>
@@ -146,7 +146,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/persecution http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc>
                             After the Council of <placeName ref="http://syriaca.org/place/622">Chalcedon</placeName> persecution forced the conversion of
                             monastics as <persName ref="http://syriaca.org/person/1536">Abbi's</persName> monastery and drove him out of the monastery.
@@ -159,7 +159,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/1536 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1536">Abi</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1536 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1536">Abi</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">219</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">219</citedRange></bibl>
@@ -167,7 +167,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exile">
+                    <event ana="http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/1536">Abbi</persName> became a monk
                             in a community in the village of <placeName ref="http://syriaca.org/place/2796">Ḥzyn</placeName>. </desc>
                     </event>
@@ -178,7 +178,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/bible http://syriaca.org/keyword/tears">
+                    <event ana="http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/tears">
                         <desc><persName ref="http://syriaca.org/person/1536">Abbi</persName> wept
                             while reading Bible with covered head and limited light. </desc>
                     </event>
@@ -189,7 +189,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasticism">
+                    <event ana="http://syriaca.org/taxonomy/monasticism">
                         <desc><persName ref="http://syriaca.org/person/1536">Abbi</persName> lived
                             nine years in the monastic community at the village of <placeName ref="http://syriaca.org/place/2796">Ḥzyn</placeName>. </desc>
                     </event>
@@ -200,7 +200,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/purity">
+                    <event ana="http://syriaca.org/taxonomy/purity">
                         <desc><persName ref="http://syriaca.org/person/1536">Abbi</persName> warns
                                 <persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> about purity and chastity. </desc>
@@ -212,7 +212,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/silence">
+                    <event ana="http://syriaca.org/taxonomy/silence">
                         <desc><persName ref="http://syriaca.org/person/1536">Abbi</persName> kept
                             silent all day. </desc>
                     </event>

@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/809-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1988">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1988">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated the
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1988"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc">The <persName ref="http://syriaca.org/person/1988">poor man</persName>
                                 was a saint.
                             </note>
@@ -175,7 +175,7 @@
                 <idno type="URI">https://spear-prosop.org/809-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/poverty http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/food http://syriaca.org/keyword/dress">
+                        ana="http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/dress">
                         <desc> The <placeName ref="http://syriaca.org/place/2736"
                                 >Convent</placeName> treated all men kindly, zealously feeding,
                             washing, and providing for the poor. </desc>
@@ -195,7 +195,7 @@
                 <idno type="URI">https://spear-prosop.org/809-5</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/prayer http://syriaca.org/keyword/humility http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/blessing">
                         <desc> When the <persName ref="http://syriaca.org/person/1988">old
                                 man</persName> came to <placeName ref="http://syriaca.org/place/2736"
                                 >the convent</placeName>, the leaders wanted to give him a place of
@@ -216,7 +216,7 @@
                 <idno type="URI">https://spear-prosop.org/809-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/wine http://syriaca.org/keyword/water http://syriaca.org/keyword/humility http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/water http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/blessing">
                         <desc> Before taking small bites of food or small sips of drink, the <persName
                                 ref="http://syriaca.org/person/1988">poor man</persName> would
                             recite silent prayers. </desc>
@@ -235,7 +235,7 @@
                 <idno type="URI">https://spear-prosop.org/809-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/sleep http://syriaca.org/keyword/prayer http://syriaca.org/keyword/repentance http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/liturgy">
+                        ana="http://syriaca.org/taxonomy/sleep http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/liturgy">
                         <desc> After dinner, <persName ref="http://syriaca.org/person/1988">the
                                 man</persName> began to weep. During evening worship, he appeared to
                             sleep on his rug, crying throughout the night. </desc>
@@ -255,7 +255,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1988"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/1988">The old
                                     man</persName> was a monk for thirty years. </note>
                         </occupation>
@@ -274,7 +274,7 @@
                 <idno type="URI">https://spear-prosop.org/809-9</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/sin http://syriaca.org/keyword/prayer http://syriaca.org/keyword/monks http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/sleep http://syriaca.org/keyword/food http://syriaca.org/keyword/wine">
+                        ana="http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/sleep http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/wine">
                         <desc><persName ref="http://syriaca.org/person/1988">The old
                             man</persName> continuously asked the archimandrite of <placeName
                                 ref="http://syriaca.org/place/2736">the Amida convent</placeName> for
@@ -298,7 +298,7 @@
                 <idno type="URI">https://spear-prosop.org/809-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/wine http://syriaca.org/keyword/food http://syriaca.org/keyword/sin http://syriaca.org/keyword/shame http://syriaca.org/keyword/emotions">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/emotions">
                         <desc> After hearing about <persName ref="http://syriaca.org/person/1988">the
                                 old man's</persName> practices, <persName
                                 ref="http://syriaca.org/person/74">John</persName> repented of his
@@ -317,7 +317,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/809-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/discipleship">
+                    <event ana="http://syriaca.org/taxonomy/discipleship">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John</persName>
                             continued to ask <persName ref="http://syriaca.org/person/1988">the old man</persName>
@@ -340,7 +340,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1988"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites">
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/1988">the old
                                     man</persName> was a solitary. </note>
                         </occupation>

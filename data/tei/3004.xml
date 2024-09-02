@@ -135,7 +135,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2513"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2513"
                                     >Constantine</persName> was male.</note>
                         </trait>
@@ -152,7 +152,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2513"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2513"
                                     >Constantine</persName> was a bishop.</note>
                         </occupation>
@@ -167,7 +167,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2513"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2513">Constantine</persName>
@@ -184,7 +184,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2513">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -217,7 +217,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2528"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2528"
                                     >Asterius</persName> was male.</note>
                         </trait>
@@ -234,7 +234,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2528"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2528"
                                     >Asterius</persName> was a bishop. </note>
                         </occupation>
@@ -266,7 +266,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-10</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2528 http://syriaca.org/person/3129">
                         <desc><persName ref="http://syriaca.org/person/2528">Asterius</persName> and
                                 <persName ref="http://syriaca.org/person/3129">Anonymi
@@ -299,7 +299,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530"
                                     >Flavian</persName> was male.</note>
                         </trait>
@@ -316,7 +316,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530"
                                     >Flavian</persName> was a prelate of <placeName
                                     ref="http://syriaca.org/place/10">Antioch</placeName>.</note>
@@ -346,7 +346,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-15</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2265 http://syriaca.org/person/2530">
                         <desc><persName ref="http://syriaca.org/person/2265">Anastasios I</persName>
                             and <persName ref="http://syriaca.org/person/2530">Flavian II of
@@ -379,7 +379,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2529"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2529"
                                     >John</persName> was male.</note>
                         </trait>
@@ -396,7 +396,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2529"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2529"
                                     >John</persName> was a bishop. </note>
                         </occupation>
@@ -412,7 +412,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-19</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2529 http://syriaca.org/person/2281 http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2529">John of
                                 Claudiupolis</persName>, <persName
@@ -446,7 +446,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2281"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2281"
                                     >Patrick</persName> was male.</note>
                         </trait>
@@ -463,7 +463,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2281"/>
-                        <occupation ana="http://syriaca.org/keyword/magister-militum">
+                        <occupation ana="http://syriaca.org/taxonomy/magister-militum">
                             <note type="desc"><persName ref="http://syriaca.org/person/2281"
                                     >Patrick</persName> was Master of the Soldiers.</note>
                         </occupation>
@@ -493,7 +493,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/655"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/655"
                                     >Nestorius</persName> was male.</note>
                         </trait>
@@ -508,7 +508,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-25</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/655">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -540,7 +540,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/482"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/482"
                                     >Eutyches</persName> was male.</note>
                         </trait>
@@ -555,7 +555,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-28" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-28</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/482">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -587,7 +587,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2299"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2299"
                                     >Leo</persName> was male.</note>
                         </trait>
@@ -602,7 +602,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-31" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-31</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2299">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -634,7 +634,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-33" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-33</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3130">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -666,7 +666,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2555"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2555"
                                     >Sabellius</persName> was male.</note>
                         </trait>
@@ -699,7 +699,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2562"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2562"
                                     >Epiphanius</persName> was male.</note>
                         </trait>
@@ -716,7 +716,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2562"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2562"
                                     >Epiphanius</persName> was bishop of <placeName
                                     ref="http://syriaca.org/place/2681"> Magydum in <placeName
@@ -755,7 +755,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2562"/>
-                        <socecStatus ana="http://syriaca.org/keyword/patricians">
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians">
                             <note type="desc"><persName ref="http://syriaca.org/person/2562"
                                     >Epiphanius</persName> was a noble by birth.</note>
                         </socecStatus>
@@ -770,7 +770,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-41" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-41</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                         active="http://syriaca.org/person/2562"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2562">Epiphanius</persName>
@@ -804,7 +804,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/792"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/792"
                                     >Timothy</persName> was male.</note>
                         </trait>
@@ -821,7 +821,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/792"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/792"
                                     >Timothy</persName> was Patriarch of <placeName
                                     ref="http://syriaca.org/place/572"> Alexandria </placeName>.
@@ -839,7 +839,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-45</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2562 http://syriaca.org/person/792">
                         <desc><persName ref="http://syriaca.org/person/2562">Epiphanius</persName>
                             and <persName ref="http://syriaca.org/person/792">Timothy II of
@@ -884,7 +884,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/680"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/680"
                                     >Peter</persName> was male.</note>
                         </trait>
@@ -901,7 +901,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/680"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/680">Peter of
                                     Iberia</persName> was Bishop of one of the cities in <placeName
                                     ref="http://syriaca.org/place/149">Palestine</placeName>.</note>
@@ -938,7 +938,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-51</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2562 http://syriaca.org/person/680 http://syriaca.org/person/3131">
                         <desc><persName ref="http://syriaca.org/person/2562">Epiphanius</persName>,
                                 <persName ref="http://syriaca.org/person/680">Peter the
@@ -973,7 +973,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/958"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/958"
                                     >Eusebius</persName> was male.</note>
                         </trait>
@@ -990,7 +990,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/958"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/958"
                                     >Eusebius</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2607">Samosata</placeName>.</note>
@@ -1008,7 +1008,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/958"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/958"
                                     >Eusebius</persName> was a martyr.</note>
                         </state>
@@ -1040,7 +1040,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-57" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-57</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                         active="http://syriaca.org/person/958"
                         passive="http://syriaca.org/person/3132">
                         <desc><persName ref="http://syriaca.org/person/958">Eusebius of
@@ -1074,7 +1074,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/781"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/781"
                                     >Theodoret</persName> was male.</note>
                         </trait>
@@ -1091,7 +1091,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/781"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/781"
                                     >Theodoret</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2660"> Cyrrhus </placeName>.
@@ -1140,7 +1140,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/376"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/376"
                                     >Basil</persName> was male.</note>
                         </trait>
@@ -1157,7 +1157,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/376"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/376"
                                     >Basil</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2637"> Caesarea in <placeName
@@ -1175,7 +1175,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-65" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-65</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/376">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -1209,7 +1209,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-67" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-67</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                         active="http://syriaca.org/person/3133"
                         passive="http://syriaca.org/person/376">
                         <desc><persName ref="http://syriaca.org/person/3133">Anonymi 3133</persName>
@@ -1242,7 +1242,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/511"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/511"
                                     >Gregory</persName> was male.</note>
                         </trait>
@@ -1257,7 +1257,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-70" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-70</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/follower-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/follower-of"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/511">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -1291,7 +1291,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2409"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2409"
                                     >Peter</persName> was male.</note>
                         </trait>
@@ -1308,7 +1308,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2409"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2409"
                                     >Peter</persName> was a presbyter.</note>
                         </occupation>
@@ -1323,7 +1323,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-74" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-74</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2409"
                         passive="http://syriaca.org/person/2513">
                         <desc><persName ref="http://syriaca.org/person/2409">Peter</persName> sent a
@@ -1341,7 +1341,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-75</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/heterodoxy" notBefore="0508" notAfter="0511">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/heterodoxy" notBefore="0508" notAfter="0511">
                         <desc><date notBefore="0508" notAfter="0511" calendar="Gregorian">Between
                                 508 and 511</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -1361,7 +1361,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-76</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/travel">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/2528">Asterius the
                                 Bishop</persName> and <persName ref="http://syriaca.org/person/3129"
                                 >those with him</persName> came to <persName
@@ -1379,7 +1379,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-77</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/theology http://syriaca.org/keyword/kings http://syriaca.org/keyword/emperors http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/2265">Emperor
                                 Anastasius</persName> sent his formula of satisfaction to <persName
                                 ref="http://syriaca.org/person/2530">Flavian</persName>, prelate of
@@ -1397,7 +1397,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-78</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/theology http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/anti-nestorian http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/clergy http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/2529">John of <placeName
                                     ref="http://syriaca.org/place/64"
                                 >Claudiopolis</placeName></persName>, when he received <persName
@@ -1421,7 +1421,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-79</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anti-nestorian http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/anathema http://syriaca.org/keyword/theology http://syriaca.org/keyword/bishops http://syriaca.org/keyword/anti-chalcedonian http://syriaca.org/keyword/arianism http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/arianism http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             responded to <persName ref="http://syriaca.org/person/2529"
                                 >John</persName> by refusing to accept the synod of <placeName
@@ -1451,7 +1451,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-80</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/2529">John</persName> asked
                                 <persName ref="http://syriaca.org/person/51">Severus</persName> if
                                 <persName ref="http://syriaca.org/person/2562">Epiphanius</persName>
@@ -1468,7 +1468,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-81</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/education http://syriaca.org/keyword/virginity http://syriaca.org/keyword/memory">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/education http://syriaca.org/taxonomy/virginity http://syriaca.org/taxonomy/memory">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             recalled that <persName ref="http://syriaca.org/person/2562"
                                 >Epiphanius</persName> had been brought up in the monasteries of
@@ -1486,7 +1486,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-82</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/exile http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/communion http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy http://syriaca.org/keyword/travel http://syriaca.org/keyword/persecution">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/persecution">
                         <desc> When <persName ref="http://syriaca.org/person/792">Timothy</persName>
                             had endured his exile from <placeName ref="http://syriaca.org/place/572"
                                 >Alexandria</placeName>, <persName
@@ -1508,7 +1508,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-83</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/travel http://syriaca.org/keyword/persecution http://syriaca.org/keyword/priests http://syriaca.org/keyword/clergy">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy">
                         <desc> After <persName ref="http://syriaca.org/person/792"
                                 >Timothy</persName> had died and the orthodox began enduring
                             persecution again, <persName ref="http://syriaca.org/person/2562"
@@ -1530,7 +1530,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-84</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/greek-fathers http://syriaca.org/keyword/arianism http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/greek-fathers http://syriaca.org/taxonomy/arianism http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> argued
                             that by ordaining priests in a diocese that was not his own, <persName
                                 ref="http://syriaca.org/person/2562">Epiphanius</persName> was not
@@ -1556,7 +1556,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-85</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/bishops http://syriaca.org/keyword/clergy http://syriaca.org/keyword/theology">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/theology">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             believed that he had convinced <persName
                                 ref="http://syriaca.org/person/2529">John</persName> to not affirm
@@ -1574,7 +1574,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-86</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/clergy http://syriaca.org/keyword/bishops http://syriaca.org/keyword/theology">
+                        ana="http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/theology">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             encouraged <persName ref="http://syriaca.org/person/2513"
                                 >Constantine</persName> to follow his teaching and the advice of
@@ -1593,12 +1593,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-88" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3004-88</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters">
+                    <event ana="http://syriaca.org/taxonomy/letters">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote letters on similar themes to 
                             <persName ref="http://syriaca.org/person/56">Oecumenius</persName>.
                             <listRelation>
-                                <relation type="personal" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/56"/>
+                                <relation type="personal" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/56"/>
                             </listRelation>
                         </desc>
                     </event>

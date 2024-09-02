@@ -110,7 +110,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/828-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1875">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1875">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -132,7 +132,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1875"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1875">Mare</persName>
                                 was a saint.
                             </note>
@@ -215,7 +215,7 @@
                 <idno type="URI">https://spear-prosop.org/828-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/prayer http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/families http://syriaca.org/keyword/ordination">
+                        ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/families http://syriaca.org/taxonomy/ordination">
                         <desc> When <persName ref="http://syriaca.org/person/1875">Mare</persName> was
                             thirty, he went against his family's wish for him to marry by committing
                             himself to the Lord. </desc>
@@ -235,7 +235,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1875"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites">
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/1875"
                                     >Mare</persName> was a solitary. </note>
                         </occupation>
@@ -271,7 +271,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1980"/>
-                        <occupation ana="http://syriaca.org/keyword/anchorites">
+                        <occupation ana="http://syriaca.org/taxonomy/anchorites">
                             <note type="desc"><persName ref="http://syriaca.org/person/1980"
                                     >Paul</persName> was an anchorite. </note>
                         </occupation>
@@ -289,7 +289,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/828-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/student-of" active="http://syriaca.org/person/1875"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/student-of" active="http://syriaca.org/person/1875"
                         passive="http://syriaca.org/person/1980">
                         <desc><persName ref="http://syriaca.org/person/1875">Mara the
                                 Solitary</persName> studied under <persName
@@ -310,7 +310,7 @@
                 <idno type="URI">https://spear-prosop.org/828-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/students http://syriaca.org/keyword/prayer">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/students http://syriaca.org/taxonomy/prayer">
                         <desc> After much prayer,<persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was led by God to <persName
                                 ref="http://syriaca.org/person/1980">Paul the
@@ -330,7 +330,7 @@
                 <idno type="URI">https://spear-prosop.org/828-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/monks http://syriaca.org/keyword/tears http://syriaca.org/keyword/humility http://syriaca.org/keyword/fasting http://syriaca.org/keyword/prayer http://syriaca.org/keyword/labor http://syriaca.org/keyword/religion http://syriaca.org/keyword/asceticism">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/humility http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/labor http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/asceticism">
                         <desc> After spending five years with <persName
                                 ref="http://syriaca.org/person/1980">Paul</persName>,<persName
                                 ref="http://syriaca.org/person/1875">Mare</persName> exceeded his
@@ -352,7 +352,7 @@
                 <idno type="URI">https://spear-prosop.org/828-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/families http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/travel http://syriaca.org/keyword/prayer http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/taxonomy/families http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monks">
                         <desc> While staying with <persName ref="http://syriaca.org/person/1980"
                                 >Paul</persName>,<persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was tired of being pestered by his family, so he
@@ -377,7 +377,7 @@
                 <idno type="URI">https://spear-prosop.org/828-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/exile http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/emperors http://syriaca.org/keyword/kings http://syriaca.org/keyword/monks">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/monks">
                         <desc> Followers of the Council of <placeName
                                 ref="http://syriaca.org/place/622">Chalcedon</placeName> expelled
                             Christians from <placeName ref="http://syriaca.org/place/572"
@@ -436,7 +436,7 @@
                 <idno type="URI">https://spear-prosop.org/828-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/persecution http://syriaca.org/keyword/justice http://syriaca.org/keyword/emperors http://syriaca.org/keyword/kings http://syriaca.org/keyword/wealth http://syriaca.org/keyword/dress http://syriaca.org/keyword/poverty http://syriaca.org/keyword/polemics http://syriaca.org/keyword/blame">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/dress http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/polemics http://syriaca.org/taxonomy/blame">
                         <desc><persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> confronted <persName
                                 ref="http://syriaca.org/person/2284"
@@ -481,7 +481,7 @@
                 <idno type="URI">https://spear-prosop.org/828-19</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/shame http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/civil-servants">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/civil-servants">
                         <desc> Feeling guilty about the hundredweight gold,<persName
                                 ref="http://syriaca.org/person/779">the queen</persName> sent her
                             chamberlains several times to <persName
@@ -502,7 +502,7 @@
                 <idno type="URI">https://spear-prosop.org/828-20</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/monks http://syriaca.org/keyword/food http://syriaca.org/keyword/fasting http://syriaca.org/keyword/bread http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/dress">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/bread http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/blessing http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/dress">
                         <desc> Many began to flock to <persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> for a blessing, and they were amazed at his prayer
                             and dress. <persName ref="http://syriaca.org/person/1875"
@@ -523,7 +523,7 @@
                 <idno type="URI">https://spear-prosop.org/828-21</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/violence http://syriaca.org/keyword/wealth http://syriaca.org/keyword/justice http://syriaca.org/keyword/demonology">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/demonology">
                         <desc> Observing the holiness of <persName
                                 ref="http://syriaca.org/person/1875">Mare</persName>, Satan
                             encouraged robbers to abuse him, under the impression that <persName
@@ -546,7 +546,7 @@
                 <idno type="URI">https://spear-prosop.org/828-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/wealth http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/monks http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/poor">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/civil-servants http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/poor">
                         <desc> After many years, <persName ref="http://syriaca.org/person/1875"
                                 >Mare</persName> was fatigued due to his strenuous way of life.
                                 He sought out one of <persName ref="http://syriaca.org/person/779">Theodora</persName>'s chamberlains, who secured the goal necessary to
@@ -566,7 +566,7 @@
                 <idno type="URI">https://spear-prosop.org/828-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/suffering http://syriaca.org/keyword/emotions http://syriaca.org/keyword/tears http://syriaca.org/keyword/prayer http://syriaca.org/keyword/plague http://syriaca.org/keyword/illness" when="0542">
+                        ana="http://syriaca.org/taxonomy/suffering http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/plague http://syriaca.org/taxonomy/illness" when="0542">
                         <desc>
                             <date when="0542" calendar="Gregorian">In 542</date>
                             a great plague his the empire and everyone was in perturbation and doubt and confusion.
@@ -587,7 +587,7 @@
                 <idno type="URI">https://spear-prosop.org/828-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/architecture http://syriaca.org/keyword/churches">
+                        ana="http://syriaca.org/taxonomy/architecture http://syriaca.org/taxonomy/churches">
                         <desc>
                             <persName ref="http://syriaca.org/person/1875">Mare</persName> petitioned 
                             <persName ref="http://syriaca.org/person/2284">Justinian</persName> and 
@@ -610,7 +610,7 @@
                 <idno type="URI">https://spear-prosop.org/828-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/blessing http://syriaca.org/keyword/emperors http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/clergy http://syriaca.org/keyword/priests http://syriaca.org/keyword/bishops">
+                        ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/blessing http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/civil-servants http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/bishops">
                         <desc> When <persName ref="http://syriaca.org/person/1875">Mare</persName >finished constructing
                             <placeName ref="http://syriaca.org/place/2816">the martyr's
                             chapel</placeName> and he knew his death was close, he knelt in his

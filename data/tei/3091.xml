@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3091-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/orthodoxy http://syriaca.org/keyword/heterodoxy http://syriaca.org/keyword/communion" notBefore="0515" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/orthodoxy http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/communion" notBefore="0515" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2520">Dionysius</persName> disagreeing with his decision to commune with
@@ -107,7 +107,7 @@
                             <persName ref="http://syriaca.org/person/2520">Dionysius</persName> to bring 
                             <persName ref="http://syriaca.org/person/2660">Indacus</persName> to repentance.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520" notBefore="0515" notAfter="0518"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2520" notBefore="0515" notAfter="0518"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -123,7 +123,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2520"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2520">Dionysius</persName> 
                                 was bishop of <placeName ref="http://syriaca.org/place/2722">Tarsus</placeName>.
@@ -142,7 +142,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2660"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2660">Indacus</persName> 
                                 was bishop of <placeName ref="http://syriaca.org/place/2658">Corycus</placeName>.
@@ -159,7 +159,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3091-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commune-together" mutual="http://syriaca.org/person/2520 http://syriaca.org/person/2660">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commune-together" mutual="http://syriaca.org/person/2520 http://syriaca.org/person/2660">
                         <desc>
                             <persName ref="http://syriaca.org/person/2520">Dionysius</persName> and <persName ref="http://syriaca.org/person/2660">Indacus</persName> 
                             communed together.

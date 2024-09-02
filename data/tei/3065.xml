@@ -127,7 +127,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2520"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2520"
                                     >Dionysius</persName> was male.</note>
                         </trait>
@@ -144,7 +144,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2520"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2520"
                                     >Dionysius</persName> was the Bishop of <placeName
                                     ref="http://syriaca.org/place/2722">Tarsus</placeName>.</note>
@@ -160,7 +160,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3065-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2520">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -194,7 +194,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2617"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2617"
                                     >Basil</persName> was male.</note>
                         </trait>
@@ -211,7 +211,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2617"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2617"
                                     >Basil</persName> was the Bishop of <placeName
                                     ref="http://syriaca.org/place/2706"> Pompeiupolis
@@ -268,7 +268,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3065-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3086">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -285,7 +285,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3065-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                         active="http://syriaca.org/person/2617"
                         passive="http://syriaca.org/person/3087">
                         <desc><persName ref="http://syriaca.org/person/2617">Basil</persName>

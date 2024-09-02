@@ -134,7 +134,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2558"
                                     >Misael</persName> was male.</note>
                         </trait>
@@ -151,7 +151,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
-                        <occupation ana="http://syriaca.org/keyword/chamberlains">
+                        <occupation ana="http://syriaca.org/taxonomy/chamberlains">
                             <note type="desc"><persName ref="http://syriaca.org/person/2558"
                                     >Misael</persName> was a chamberlain.</note>
                         </occupation>
@@ -166,7 +166,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3044-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2558">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -201,7 +201,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3060"/>
-                        <occupation ana="http://syriaca.org/keyword/stewards">
+                        <occupation ana="http://syriaca.org/taxonomy/stewards">
                             <note type="desc"><persName ref="http://syriaca.org/person/3060">Anonymi
                                     3060</persName> were the stewards of the church of <placeName
                                     ref="http://syriaca.org/place/10">Antioch</placeName> under
@@ -220,7 +220,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-7</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/3060">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
@@ -253,7 +253,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2559"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2559"
                                     >Eleutherius</persName> was male.</note>
                         </trait>
@@ -270,7 +270,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2559"/>
-                        <occupation ana="http://syriaca.org/keyword/sacellarius">
+                        <occupation ana="http://syriaca.org/taxonomy/sacellarius">
                             <note type="desc"><persName ref="http://syriaca.org/person/2559"
                                     >Eleutherius</persName> was a sacellarius.</note>
                         </occupation>
@@ -286,7 +286,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-11</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/2559">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
@@ -303,7 +303,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3044-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2559"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2559">Eleutherius</persName>
@@ -337,7 +337,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3061"/>
-                        <occupation ana="http://syriaca.org/keyword/ecclesiastical-administrators">
+                        <occupation ana="http://syriaca.org/taxonomy/ecclesiastical-administrators">
                             <note type="desc"><persName ref="http://syriaca.org/person/3061">Anonymi
                                     3061</persName> were the ecclesiastical administrators of the
                                 church of <placeName ref="http://syriaca.org/place/10"> Antioch
@@ -354,7 +354,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3044-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2559"
                         passive="http://syriaca.org/person/3061">
                         <desc><persName ref="http://syriaca.org/person/2559">Eleutherius</persName>
@@ -372,7 +372,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-16</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/professional-relationship"
+                        ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/3061">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName
@@ -390,7 +390,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-17</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination http://syriaca.org/keyword/polemics" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/polemics" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -408,7 +408,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination http://syriaca.org/keyword/poverty http://syriaca.org/keyword/canon-law">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/canon-law">
                         <desc> Though <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> had initiallly held to a strict interpretation
                             of the Church's ordination practices, the poverty and necessity of the
@@ -425,7 +425,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-19</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/polemics http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/bishops http://syriaca.org/keyword/ordination">
+                        ana="http://syriaca.org/taxonomy/polemics http://syriaca.org/taxonomy/civil-servants http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/ordination">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             complained to <persName ref="http://syriaca.org/person/2558"
                                 >Misael</persName> about officials like <persName
@@ -443,7 +443,7 @@
                 <idno type="URI">https://spear-prosop.org/3044-20</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/polemics http://syriaca.org/keyword/ordination http://syriaca.org/keyword/authority http://syriaca.org/keyword/bishops http://syriaca.org/keyword/civil-servants">
+                        ana="http://syriaca.org/taxonomy/polemics http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/civil-servants">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> asked
                                 <persName ref="http://syriaca.org/person/2558">Misael</persName> to
                             defend him and his practices before those like <persName

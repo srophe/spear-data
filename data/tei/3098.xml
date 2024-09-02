@@ -128,7 +128,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2427"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2427"
                                     >John</persName> was male.</note>
                         </trait>
@@ -145,7 +145,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2427"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2427"
                                     >John</persName> was a presbyter.</note>
                         </occupation>
@@ -162,7 +162,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2427"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc"><persName ref="http://syriaca.org/person/2427"
                                     >John</persName> was an archimandrite.</note>
                         </occupation>
@@ -193,7 +193,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2428"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2428"
                                     >John</persName> was male.</note>
                         </trait>
@@ -210,7 +210,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2428"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2428"
                                     >John</persName> was a presbyter.</note>
                         </occupation>
@@ -227,7 +227,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2428"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc"><persName ref="http://syriaca.org/person/2428"
                                     >John</persName> was an archimandrite.</note>
                         </occupation>
@@ -242,7 +242,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -276,7 +276,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2431"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2431"
                                     >Epimachus</persName> was male.</note>
                         </trait>
@@ -293,7 +293,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2431"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/2431"
                                     >Epimachus</persName> was a monk.</note>
                         </occupation>
@@ -310,7 +310,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2431"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2431"
                                     >Epimachus</persName> was a presbyter.</note>
                         </occupation>
@@ -325,7 +325,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/monastic-head-over"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/monastic-head-over"
                         active="http://syriaca.org/person/2427 http://syriaca.org/person/2428"
                         passive="http://syriaca.org/person/2431">
                         <desc><persName ref="http://syriaca.org/person/2427">John</persName> and
@@ -343,7 +343,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2427 http://syriaca.org/person/2428"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2427">John</persName> and
@@ -377,7 +377,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2434"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2434"
                                     >Alypius</persName> was male.</note>
                         </trait>
@@ -392,7 +392,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of"
                         active="http://syriaca.org/person/2434"
                         passive="http://syriaca.org/person/2436">
                         <desc><persName ref="http://syriaca.org/person/2434">Alypius</persName> was
@@ -409,7 +409,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/grandparent-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/grandparent-of"
                         active="http://syriaca.org/person/3102"
                         passive="http://syriaca.org/person/2434">
                         <desc><persName ref="http://syriaca.org/person/3102">Anonymous
@@ -441,7 +441,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2436"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2436"
                                     >Mitra</persName> was male.</note>
                         </trait>
@@ -456,7 +456,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-22" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-22</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of"
                         active="http://syriaca.org/person/2436"
                         passive="http://syriaca.org/person/3102">
                         <desc><persName ref="http://syriaca.org/person/2436">Mitras</persName> was
@@ -491,7 +491,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3102"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3102"
                                     >Anonymous 3102</persName> was male.</note>
                         </trait>
@@ -506,7 +506,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3098-25</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3102">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -539,7 +539,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2435"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2435"
                                     >Anastasius</persName> was male.</note>
                         </trait>

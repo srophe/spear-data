@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3170-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/christology http://syriaca.org/keyword/trinity" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/trinity" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/2689">Jonathan</persName>,
@@ -107,7 +107,7 @@
                             <placeName ref="http://syriaca.org/place/211">Anbar</placeName> and
                             <placeName ref="http://syriaca.org/place/219">Hirtha dNumʿn</placeName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2689 http://syriaca.org/person/2709 http://syriaca.org/person/2670"  notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2689 http://syriaca.org/person/2709 http://syriaca.org/person/2670"  notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -123,7 +123,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2689"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2689">Jonathan</persName> 
                                 was a presbyter.
@@ -142,7 +142,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2709"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2709">Samuel</persName> 
                                 was a presbyter.
@@ -161,7 +161,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2670"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2670">John</persName> 
                                 was a presbyter.
@@ -180,7 +180,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2689"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2689">Jonathan</persName> 
                                 was an archimandrite.
@@ -199,7 +199,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2709"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2709">Samuel</persName> 
                                 was an archimandrite.
@@ -218,7 +218,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2670"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads">
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2670">John</persName> 
                                 was an archimandrite.
@@ -237,7 +237,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2689"/>
-                        <occupation ana="http://syriaca.org/keyword/stylites">
+                        <occupation ana="http://syriaca.org/taxonomy/stylites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2689">Jonathan</persName> 
                                 was a stylite.
@@ -257,7 +257,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2709"/>
-                        <occupation ana="http://syriaca.org/keyword/stylites">
+                        <occupation ana="http://syriaca.org/taxonomy/stylites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2709">Samuel</persName> 
                                 was a stylite.
@@ -276,7 +276,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2670"/>
-                        <occupation ana="http://syriaca.org/keyword/stylites">
+                        <occupation ana="http://syriaca.org/taxonomy/stylites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2670">John</persName> 
                                 was a stylite.

@@ -109,12 +109,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3002-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
+                    <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/divorce http://syriaca.org/taxonomy/letters" notBefore="0489" notAfter="0508">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/3721">Anonymous 3721</persName> on the subject of marriage and divorce.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3721" notBefore="0489" notAfter="0508"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/3721" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -130,7 +130,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3721"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3721">Anonymous 3721</persName>
                                 was female. </note>
                         </trait>
@@ -144,12 +144,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3002-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
+                    <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/divorce http://syriaca.org/taxonomy/letters" notBefore="0489" notAfter="0508">
                         <desc>
                             <persName ref="http://syriaca.org/person/3721">Anonymous 3721</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> on the subject of marriage and divorce.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/3721" passive="http://syriaca.org/person/51" notBefore="0489" notAfter="0508"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/3721" passive="http://syriaca.org/person/51" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -177,7 +177,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2582"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2582"
                                     >Abba</persName> was male. </note>
                         </trait>
@@ -191,12 +191,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3002-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
+                    <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/divorce http://syriaca.org/taxonomy/letters" notBefore="0489" notAfter="0508">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2582">Abba</persName> on the subject of marriage and divorce.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2582" notBefore="0489" notAfter="0508"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2582" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -209,12 +209,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3002-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/divorce http://syriaca.org/keyword/letters" notBefore="0489" notAfter="0508">
+                    <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/divorce http://syriaca.org/taxonomy/letters" notBefore="0489" notAfter="0508">
                         <desc><persName ref="http://syriaca.org/person/2582">Abba</persName> sent a
                             letter to <persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> on the subject of marriage and divorce.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2582" passive="http://syriaca.org/person/51" notBefore="0489" notAfter="0508"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2582" passive="http://syriaca.org/person/51" notBefore="0489" notAfter="0508"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -242,7 +242,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2722"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2722">
                                     Maximus </persName> was male. </note>
                         </trait>
@@ -256,7 +256,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3002-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/professional-relationship"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2582 http://syriaca.org/person/51 http://syriaca.org/person/2722">
                         <desc><persName ref="http://syriaca.org/person/2582">Abba</persName>,
                                 <persName ref="http://syriaca.org/person/51">Severus of

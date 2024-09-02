@@ -114,7 +114,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-27" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-27</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2032">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2032">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -136,7 +136,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2032">Kashish</persName>
                                 was a saint.
                             </note>
@@ -173,7 +173,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2032">Kashish</persName> was male.</note>
                         </trait>
                     </person>
@@ -215,7 +215,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2032"
                                     >Kashish</persName> was bishop of Chios. </note>
                         </occupation>
@@ -235,7 +235,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
-                        <education ana="http://syriaca.org/keyword/bible http://syriaca.org/keyword/exegesis">
+                        <education ana="http://syriaca.org/taxonomy/bible http://syriaca.org/taxonomy/exegesis">
                             <note type="desc"><persName ref="http://syriaca.org/person/2032"
                                     >Kashish</persName> studied the reading of the Holy Scriptures
                                 at the <placeName ref="http://syriaca.org/place/399"> Monastery of
@@ -278,7 +278,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-7</idno>
                 <listRelation>
-                    <relation type="personal" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2032 http://syriaca.org/person/74">
+                    <relation type="personal" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2032 http://syriaca.org/person/74">
                         <desc>
                             <persName ref="http://syriaca.org/person/2032">Kashish</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>
                             were fellow monastics.
@@ -298,7 +298,7 @@
                 <idno type="URI">https://spear-prosop.org/842-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/asceticism">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/2032">Kashish</persName>
                             entered the <placeName ref="http://syriaca.org/place/399"> Monastery of
                                 John Urtaya </placeName> in <placeName
@@ -317,7 +317,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jwickes">
                 <idno type="URI">https://spear-prosop.org/842-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/2032"> Kashish </persName>
                             left the <placeName ref="http://syriaca.org/place/399"> Monastery of
                                 John Urtaya </placeName> and travelled to <placeName
@@ -340,7 +340,7 @@
                 <idno type="URI">https://spear-prosop.org/842-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/wandering http://syriaca.org/keyword/poverty http://syriaca.org/keyword/charity http://syriaca.org/keyword/dress http://syriaca.org/keyword/food">
+                        ana="http://syriaca.org/taxonomy/wandering http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/charity http://syriaca.org/taxonomy/dress http://syriaca.org/taxonomy/food">
                         <desc> While wandering, <persName ref="http://syriaca.org/person/2032">
                                 Kashish </persName> changed the monastic habit for lay attire. He
                             made baskets, fans, and hats. From his labor, he earned just enough
@@ -360,14 +360,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#jwickes #dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/wandering">
                         <desc> After thirteen years of wandering, <persName
                                 ref="http://syriaca.org/person/2032"> Kashish </persName> came to
                                 <placeName ref="http://syriaca.org/place/1529"> Chios</placeName>.
                             There he visited the shrine of the martyr <persName
                                 ref="http://syriaca.org/person/3216"> Isidore </persName> and venerated his grave. 
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2032"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2032"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -384,7 +384,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/hospices">
+                    <event ana="http://syriaca.org/taxonomy/hospices">
                         <desc>
                             <persName ref="http://syriaca.org/person/779">Theodora</persName> built a hospital on <placeName ref="http://syriaca.org/place/1529">Chios</placeName>.
                         </desc>
@@ -403,13 +403,13 @@
                 <idno type="URI">https://spear-prosop.org/842-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/traditional-religions">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/traditional-religions">
                         <desc> 
                             After five years on <placeName ref="http://syriaca.org/place/1529">Chios</placeName>, <persName ref="http://syriaca.org/person/2032">Kashish </persName> 
                             was ordainedas bishop of <placeName ref="http://syriaca.org/place/2767">Chios</placeName> by <persName ref="http://syriaca.org/person/69">Jacob Bardaeus</persName> 
                             and two other bishops (<persName ref="http://syriaca.org/person/1336">Conon</persName> and <persName ref="http://syriaca.org/person/3208">Eugene</persName>). 
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/ordained"
+                                <relation type="person" ref="http://syriaca.org/taxonomy/ordained"
                                     active="http://syriaca.org/person/69 http://syriaca.org/person/3208 http://syriaca.org/person/1336"
                                     passive="http://syriaca.org/person/2032"/> 
                             </listRelation>
@@ -428,7 +428,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-29" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-29</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/conversion http://syriaca.org/keyword/traditional-religions http://syriaca.org/keyword/christianity">
+                    <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/christianity">
                         <desc>
                             After his ordination <persName ref="http://syriaca.org/person/2032"> Kashish </persName>
                             traveled around <placeName ref="http://syriaca.org/place/1529">Chios</placeName> with 
@@ -448,7 +448,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#jwickes">
                 <idno type="URI">https://spear-prosop.org/842-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/2032"> Kashish </persName>
                             travelled to <placeName ref="http://syriaca.org/place/586">
                                 Constantinople </placeName> with <persName
@@ -471,7 +471,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#jwickes">
                 <idno type="URI">https://spear-prosop.org/842-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy"
                         mutual="http://syriaca.org/person/2032 http://syriaca.org/person/74">
                         <desc><persName ref="http://syriaca.org/person/2032">Qashish</persName> and
                                 <persName ref="http://syriaca.org/person/74">John of
@@ -508,7 +508,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/69">Jacob
                                     Baradaeus</persName> was male.</note>
                         </trait>
@@ -528,7 +528,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/69"
                                     >Jacob</persName> was a bishop. </note>
                         </occupation>
@@ -566,7 +566,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3705"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/3705">Anonymi
                                     3705 </persName> were bishops. </note>
                         </occupation>
@@ -586,7 +586,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3705"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3705">Anonymi
                                     3705 </persName> were males. </note>
                         </trait>
@@ -623,7 +623,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3216"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3216">
                                     Isidore </persName> was male.</note>
                         </trait>
@@ -643,7 +643,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3216"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3216"
                                     >Isidore</persName> was a saint. </note>
                         </state>

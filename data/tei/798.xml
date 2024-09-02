@@ -103,7 +103,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/798-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1980">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1980">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -125,7 +125,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1980"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1980">Paul</persName>
                                 was a saint.
                             </note>
@@ -165,7 +165,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#jwalters">
                 <idno type="URI">https://spear-prosop.org/798-4</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/buildings http://syriaca.org/keyword/architecture">
+                    <event ana="http://syriaca.org/taxonomy/buildings http://syriaca.org/taxonomy/architecture">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> went to
                             a certain large cave in the side of a certain high rock on the banks of
                             the <placeName ref="http://syriaca.org/place/202">Tigris</placeName> at
@@ -185,7 +185,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#jwalters">
                 <idno type="URI">https://spear-prosop.org/798-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/holy-places http://syriaca.org/keyword/relics">
+                    <event ana="http://syriaca.org/taxonomy/holy-places http://syriaca.org/taxonomy/relics">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> entered
                             a cave filled with malignent fiends and planted a cross and hung up
                             relics of saints. </desc>
@@ -221,7 +221,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jwalters">
                 <idno type="URI">https://spear-prosop.org/798-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/holy-places http://syriaca.org/keyword/altars">
+                    <event ana="http://syriaca.org/taxonomy/holy-places http://syriaca.org/taxonomy/altars">
                         <desc><persName ref="http://syriaca.org/person/1980">Paul</persName> made an
                             altar and a chapel in his cave. </desc>
                     </event>
@@ -238,7 +238,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jwalters">
                 <idno type="URI">https://spear-prosop.org/798-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/monasteries">
                         <desc> A monastery was built at the site of <persName ref="http://syriaca.org/person/1980">Paul's</persName> cave. </desc>
                     </event>
                 </listEvent>
@@ -254,7 +254,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jwalters">
                 <idno type="URI">https://spear-prosop.org/798-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/relics http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/relics http://syriaca.org/taxonomy/miracles">
                         <desc>
                             After <persName ref="http://syriaca.org/person/1980">Paul's</persName>
                             death miracles were everywhere wrought through his holy bones, men

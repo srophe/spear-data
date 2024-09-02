@@ -123,7 +123,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/815-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates"
                         active="http://syriaca.org/person/74"
                         passive="http://syriaca.org/person/2099">
                         <desc>
@@ -146,7 +146,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2099"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2099"
                                     >Simeon</persName> was a saint. </note>
                         </state>
@@ -253,7 +253,7 @@
                 <idno type="URI">https://spear-prosop.org/815-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/cooks http://syriaca.org/keyword/food http://syriaca.org/keyword/wine http://syriaca.org/keyword/bread http://syriaca.org/keyword/inscriptions">
+                        ana="http://syriaca.org/taxonomy/cooks http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/bread http://syriaca.org/taxonomy/inscriptions">
                         <desc><persName ref="http://syriaca.org/person/2099">Simeon </persName>
                             cooks and lays out food, wine, an inscribed tablet in his <placeName
                                 ref="http://syriaca.org/place/2618"> cell </placeName> to welcome
@@ -297,7 +297,7 @@
                 <idno type="URI">https://spear-prosop.org/815-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/architecture">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/architecture">
                         <desc><persName ref="http://syriaca.org/person/2099">Simeon</persName>
                             planned and built his <placeName ref="http://syriaca.org/place/2618">
                                 cell </placeName> two miles from <placeName
@@ -317,7 +317,7 @@
                 <idno type="URI">https://spear-prosop.org/815-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/anchorites http://syriaca.org/keyword/asceticism">
+                        ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/2099">Simeon</persName>
                             becomes a solitary after twenty years of spiritual labors </desc>
                     </event>
@@ -335,7 +335,7 @@
                 <idno type="URI">https://spear-prosop.org/815-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/prayer http://syriaca.org/keyword/miracles">
+                        ana="http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/miracles">
                         <desc>Two young men enter the <placeName ref="http://syriaca.org/place/2618"
                                 > cell </placeName> of <persName
                                 ref="http://syriaca.org/person/2099">Simeon</persName> and are
@@ -357,7 +357,7 @@
                 <idno type="URI">https://spear-prosop.org/815-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/persecution http://syriaca.org/keyword/monasteries">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasteries">
                         <desc> Convents are overcome, defeated, and driven out of <placeName
                                 ref="http://syriaca.org/place/8"> Amida </placeName></desc>
                     </event>
@@ -375,7 +375,7 @@
                 <idno type="URI">https://spear-prosop.org/815-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/food http://syriaca.org/keyword/persecution http://syriaca.org/keyword/baptism http://syriaca.org/keyword/confession http://syriaca.org/keyword/fasting">
+                        ana="http://syriaca.org/taxonomy/food http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/baptism http://syriaca.org/taxonomy/confession http://syriaca.org/taxonomy/fasting">
                         <desc><persName ref="http://syriaca.org/person/2099">Simeon</persName>
                             enters <placeName ref="http://syriaca.org/place/8"> city </placeName>
                             and stands firm during persecution, giving absolution and baptizing day

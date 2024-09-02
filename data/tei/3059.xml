@@ -135,7 +135,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/3080">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -152,7 +152,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/3080"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/3080">Anonymi 3080</persName>
@@ -185,7 +185,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3082"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3082"
                                     >Anonymous 3082</persName> was male.</note>
                         </trait>
@@ -201,7 +201,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3082"/>
-                        <occupation ana="http://syriaca.org/keyword/rhetors">
+                        <occupation ana="http://syriaca.org/taxonomy/rhetors">
                             <note type="desc"><persName ref="http://syriaca.org/person/3082"
                                     >Anonymous 3082</persName> was a rhetor.</note>
                         </occupation>
@@ -216,7 +216,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-7" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-7</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/3080"
                         passive="http://syriaca.org/person/3082">
                         <desc><persName ref="http://syriaca.org/person/3080">Anonymi 3080</persName>
@@ -249,7 +249,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2578"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2578"
                                     >Isaac</persName> was male.</note>
                         </trait>
@@ -266,7 +266,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2578"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2578"
                                     >Isaac</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2630"> Apamea </placeName></note>
@@ -282,7 +282,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2578"
                         passive="http://syriaca.org/person/3080">
                         <desc><persName ref="http://syriaca.org/person/2578">Isaac</persName> had
@@ -326,7 +326,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3083"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3083"
                                     >Anonymous 3083</persName> was male.</note>
                         </trait>
@@ -343,7 +343,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3083"/>
-                        <occupation ana="http://syriaca.org/keyword/stewards">
+                        <occupation ana="http://syriaca.org/taxonomy/stewards">
                             <note type="desc"><persName ref="http://syriaca.org/person/3083"
                                     >Anonymous 3083</persName> was a steward of church property in
                                 Apamea.</note>
@@ -359,7 +359,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2578"
                         passive="http://syriaca.org/person/3083">
                         <desc><persName ref="http://syriaca.org/person/2578">Isaac</persName> had
@@ -401,7 +401,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3081"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3081"
                                     >Anonymous 3081</persName> were male.</note>
                         </trait>
@@ -416,7 +416,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3059-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2578"
                         passive="http://syriaca.org/person/3081">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus

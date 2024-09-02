@@ -98,7 +98,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/829-14</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1533">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1533">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -114,7 +114,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a saint.
                             </note>
@@ -139,7 +139,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a Presbyter. </note></occupation>
                     </person>
                 </listPerson>
@@ -203,7 +203,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ayousif #ekowalik">
                 <idno type="URI">https://spear-prosop.org/829-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/burial" when="0560-10-22">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial" when="0560-10-22">
                         <desc>
                             <persName ref="http://syriaca.org/person/1533">Aaron</persName> died from old age on
                             <choice>
@@ -223,7 +223,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ayousif #ekowalik">
                 <idno type="URI">https://spear-prosop.org/829-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/monks">
+                    <event ana="http://syriaca.org/taxonomy/monks">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> passed the
                             days of his life in a monastic convent in retreat and religion, from the
                             early age of his youth. </desc>
@@ -235,7 +235,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ayousif #ekowalik">
                 <idno type="URI">https://spear-prosop.org/829-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/clergy">
+                    <event ana="http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> so, when he
                             had attained to the order of the priesthood. </desc>
                     </event>
@@ -248,7 +248,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a monk. </note></occupation>
                     </person>
                 </listPerson>
@@ -260,7 +260,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <occupation ana="http://syriaca.org/keyword/clergy"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/clergy"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a priest. </note></occupation>
                     </person>
                 </listPerson>
@@ -272,7 +272,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/illness">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/illness">
                             <note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName> had sore diseases and lost his loin to
                                 gangrene. </note>
                         </trait>
@@ -284,7 +284,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ayousif #ekowalik">
                 <idno type="URI">https://spear-prosop.org/829-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/illness">
+                    <event ana="http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/1533">Aaron</persName> had a surgery,
                             placing a tube of lead to allow him to urinate and treated with
                             medication. Then he was healed. Allowing him to live for another 18

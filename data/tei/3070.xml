@@ -129,7 +129,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2404"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2404"
                                     >Eusebius</persName> was male.</note>
                         </trait>
@@ -146,7 +146,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2404"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2404"
                                     >Eusebius</persName> was a deacon in Apamea.</note>
                         </occupation>
@@ -161,7 +161,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3070-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2404">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
@@ -198,7 +198,7 @@
                 <idno type="URI">https://spear-prosop.org/3070-6</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-from"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-from"
                         active="http://syriaca.org/person/3091"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/3091">Anonymi 3091</persName>
@@ -217,7 +217,7 @@
                 <idno type="URI">https://spear-prosop.org/3070-12</idno>
                 <listRelation>
                     <relation type="person"
-                        ref="http://syriaca.org/keyword/carrier-of-letter-to"
+                        ref="http://syriaca.org/taxonomy/carrier-of-letter-to"
                         active="http://syriaca.org/person/3091"
                         passive="http://syriaca.org/person/2404">
                         <desc><persName ref="http://syriaca.org/person/3091">Anonymi 3091</persName>
@@ -251,7 +251,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2405"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2405"
                                     >Libanius</persName> was male.</note>
                         </trait>
@@ -268,7 +268,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2405"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2405"
                                     >Libanius</persName> was a presbyter of <placeName
                                     ref="http://syriaca.org/place/2630"> Apamea </placeName></note>
@@ -284,7 +284,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3070-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/3091"
                         passive="http://syriaca.org/person/2405">
                         <desc><persName ref="http://syriaca.org/person/3091">Anonymi 3091</persName>
@@ -301,7 +301,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3070-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy"
                         mutual="http://syriaca.org/person/2405 http://syriaca.org/person/2404">
                         <desc><persName ref="http://syriaca.org/person/2405">Libanius</persName> and
                                 <persName ref="http://syriaca.org/person/2404">Eusebius</persName>

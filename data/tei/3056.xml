@@ -129,7 +129,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2574"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2574"
                                     >Philoxenus</persName> was male.</note>
                         </trait>
@@ -146,7 +146,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2574"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2574"
                                     >Philoxenus</persName> was Bishop of <placeName
                                     ref="http://syriaca.org/place/2661">Doliche</placeName>.</note>
@@ -180,7 +180,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3056-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy"
                         active="http://syriaca.org/person/2574"
                         passive="http://syriaca.org/person/2575">
                         <desc><persName ref="http://syriaca.org/person/2574">Philoxenus</persName>
@@ -197,7 +197,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3056-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2575">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had ecclesiastical authority over <persName
@@ -214,7 +214,7 @@
                 <idno type="URI">https://spear-prosop.org/3056-7</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prayer http://syriaca.org/keyword/canon-law" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/canon-law" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian"> Sometime
                                 between 513 and 518 </date>, <persName
                                 ref="http://syriaca.org/person/3075"> prominent men in <placeName
@@ -239,7 +239,7 @@
                 <idno type="URI">https://spear-prosop.org/3056-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/prayer http://syriaca.org/keyword/canon-law" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/canon-law" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian"> Sometime
                                 between 513 and 518 </date>, Severus sent a letter to <persName
                                 ref="http://syriaca.org/person/2574"> Philoxenus </persName>, bishop
@@ -275,7 +275,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/44"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/44"
                                     >Philoxenus</persName> was male.</note>
                         </trait>
@@ -292,7 +292,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/44"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/44"
                                     >Philoxenus</persName> was a metropolitan bishop.</note>
                         </occupation>
@@ -307,7 +307,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3056-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/professional-relationship"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/51 http://syriaca.org/person/44">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> and <persName ref="http://syriaca.org/person/44"
@@ -324,7 +324,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3056-13</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/51 http://syriaca.org/person/2574"
                         passive="http://syriaca.org/person/44">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -345,7 +345,7 @@
                 <idno type="URI">https://spear-prosop.org/3056-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/prayer http://syriaca.org/keyword/canon-law" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/canon-law" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian"> Sometime
                                 between 513 and 518 </date>, Severus sent a letter to <persName
                                 ref="http://syriaca.org/person/44"> Philoxenus of <placeName

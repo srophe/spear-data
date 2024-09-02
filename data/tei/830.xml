@@ -93,7 +93,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1853">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1853">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -109,7 +109,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was male. </note>
                         </trait>
                     </person>
@@ -122,7 +122,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a qašišā. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a qašišā. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
@@ -133,7 +133,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a monk. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a monk. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
@@ -144,7 +144,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a saint. </note>
                         </state>
                     </person>
@@ -155,7 +155,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/villages http://syriaca.org/keyword/cities">
+                    <event ana="http://syriaca.org/taxonomy/villages http://syriaca.org/taxonomy/cities">
                         <desc><persName ref="http://syriaca.org/person/1853">The blessed Leontius
                                 the presbyter</persName> was born in <placeName ref="http://syriaca.org/place/2798">Ingila</placeName> in a village
                             called <placeName ref="http://syriaca.org/place/2866">ʿbwbnt</placeName>. </desc>
@@ -167,7 +167,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> left his
                             monastery in the same manner as his fellow monastic <persName ref="http://syriaca.org/person/2032">Qashish</persName> to travel
                             alone to the eastern, southern, and western regions in the capacity of a
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
                         <desc> After many years of wandering, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and
                                 <persName ref="http://syriaca.org/person/2032">Qashish</persName>
                             joined the company of <persName ref="http://syriaca.org/person/74">John
@@ -196,7 +196,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> was
                             buried alongside of <persName ref="http://syriaca.org/person/1533">the
                                 Blessed Aaron</persName> at <placeName ref="http://syriaca.org/place/399">the Monastery of Yoḥannan
@@ -221,7 +221,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName> was male. </note>
                         </trait>
                     </person>
@@ -234,7 +234,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a qašišā. </note></occupation>
                     </person>
                 </listPerson>
@@ -246,7 +246,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1533"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1533">Aaron</persName>
                                 was a monk. </note></occupation>
                     </person>
                 </listPerson>
@@ -258,7 +258,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a monk. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a monk. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
@@ -267,7 +267,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533 http://syriaca.org/person/2032"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>, <persName ref="http://syriaca.org/person/1533">Aaron</persName> and <persName ref="http://syriaca.org/person/2032">Qashish</persName> were monks at the same monastery.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533 http://syriaca.org/person/2032"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>, <persName ref="http://syriaca.org/person/1533">Aaron</persName> and <persName ref="http://syriaca.org/person/2032">Qashish</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
@@ -286,7 +286,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pilgrimage http://syriaca.org/keyword/body http://syriaca.org/keyword/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>
                             grew up with <persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> from childhood. </desc>
@@ -298,7 +298,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/acquaintance-of" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> were acquainted.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/acquaintance-of" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> were acquainted.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443-444</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-646</citedRange></bibl>
@@ -308,7 +308,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1853"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a bishop. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/1853">Leontius</persName> was a bishop. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
@@ -319,7 +319,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2032"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2032">Qashish</persName> was a bishop. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/bishops"><note type="desc"><persName ref="http://syriaca.org/person/2032">Qashish</persName> was a bishop. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
@@ -328,7 +328,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had a friendship.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had a friendship.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>

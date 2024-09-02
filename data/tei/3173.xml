@@ -97,14 +97,14 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3173-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/trinity" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/trinity" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/2427">John</persName>, 
                             <persName ref="http://syriaca.org/person/2428">John</persName>, and
                             <persName ref="http://syriaca.org/person/2764">Theodore</persName> discussing the Trinity.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428 http://syriaca.org/person/2764"  notBefore="0519" notAfter="0538"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428 http://syriaca.org/person/2764"  notBefore="0519" notAfter="0538"/>
                             </listRelation>
                         </desc>
                     </event>

@@ -108,7 +108,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/communion http://syriaca.org/keyword/canon-law http://syriaca.org/keyword/ordination http://syriaca.org/keyword/marriage http://syriaca.org/keyword/clergy http://syriaca.org/keyword/deacons http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/women" notBefore="0519" notAfter="0520">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/deacons http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/women" notBefore="0519" notAfter="0520">
                         <desc>
                             <date notBefore="0519" notAfter="0520">Sometime between 519-520</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
@@ -128,7 +128,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2427 http://syriaca.org/person/2428">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> sent a letter to 
@@ -158,7 +158,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2429"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2429">
                                     Hippocrates </persName> was male. </note>
                         </trait>
@@ -186,7 +186,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2430"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2430">
                                     Dioscorus </persName> was male. </note>
                         </trait>
@@ -200,7 +200,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2430">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName
@@ -229,7 +229,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2540"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2540">
                                     Theodore </persName> was male. </note>
                         </trait>
@@ -245,7 +245,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2540"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2540">
                                     Theodore </persName> was a presbyter. </note>
                         </occupation>
@@ -273,7 +273,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2431"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2431">
                                     Epimachus </persName> was male. </note>
                         </trait>
@@ -289,7 +289,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2431"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2431">
                                     Epimachus </persName> was a presbyter. </note>
                         </occupation>
@@ -303,7 +303,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-5</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2431">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/51 http://syriaca.org/person/2431">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> and <persName ref="http://syriaca.org/person/2431">Epimachus</persName> 
                             had a friendship.
@@ -333,7 +333,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2409"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2409"> Peter
                                 </persName> was male. </note>
                         </trait>
@@ -349,7 +349,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2409"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2409"> Peter
                                 </persName> was a presbyter of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName>.
@@ -365,7 +365,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-22" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-22</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of"
                         mutual="http://syriaca.org/person/2409 http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2409">Peter</persName> and
                                 <persName ref="http://syriaca.org/person/51">Severus of
@@ -394,7 +394,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2432"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2432">
                                     Dioscorus </persName> was male. </note>
                         </trait>
@@ -410,7 +410,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2432"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2432">
                                     Dioscorus </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2620"> Alexandria </placeName>.
@@ -428,7 +428,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2432"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/martyrs">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/martyrs">
                             <note type="desc"><persName ref="http://syriaca.org/person/2432">
                                     Dioscorus </persName> was a martyr. </note>
                         </state>
@@ -457,7 +457,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/847"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/847">
                                     Irenaeus </persName> was male. </note>
                         </trait>
@@ -483,7 +483,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-33" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-33</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2432">
                         <desc>
@@ -502,7 +502,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-34" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-34</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/2432"
                         passive="http://syriaca.org/person/1529 http://syriaca.org/person/847">
                         <desc>A letter by <persName ref="http://syriaca.org/person/2432">Dioscorus I</persName> referenced 
@@ -532,7 +532,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/680"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/680"> Peter
                                 </persName> was male. </note>
                         </trait>
@@ -560,7 +560,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/792"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/792"> Timothy
                                 </persName> was male. </note>
                         </trait>
@@ -589,7 +589,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2545"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2545">Isidore</persName> was male. </note>
                         </trait>
                     </person>
@@ -602,7 +602,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-44" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-44</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for"
                         mutual="http://syriaca.org/person/2545 http://syriaca.org/person/51">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> and 
@@ -618,7 +618,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/canon-law" notAfter="0520">
+                    <event ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/canon-law" notAfter="0520">
                         <desc>
                             <date notAfter="0520">Sometime before 520</date>
                             <persName ref="http://syriaca.org/person/2545">Isidore</persName> re-ordained deacons whom
@@ -636,7 +636,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-45" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-45</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/professional-relationship"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/professional-relationship"
                         mutual="http://syriaca.org/person/2545 http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2545">Isidore</persName> and
                                 <persName ref="http://syriaca.org/person/51">Severus of
@@ -665,7 +665,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2433"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2433"> Victor
                                 </persName> was male. </note>
                         </trait>
@@ -681,7 +681,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2433"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2433"> Victor
                                 </persName> was a presbyter. </note>
                         </occupation>
@@ -695,7 +695,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-49" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3099-49</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2433">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> had ecclesiastical authority over <persName
                                 ref="http://syriaca.org/person/2433">Victor</persName>.</desc>

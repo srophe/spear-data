@@ -108,13 +108,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/bishops http://syriaca.org/keyword/canon-law" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/canon-law" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2417">Solon</persName> 
                             disucssing episcopal authority  and canon law.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2417" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2417" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -127,7 +127,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2460">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had enmity for <persName
@@ -156,7 +156,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2510"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2510">
                                     Hesychius </persName> was male. </note>
                         </trait>
@@ -172,7 +172,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2510"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2510">
                                     Hesychius </persName> was presbyter of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName>.
@@ -188,7 +188,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2510">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had ecclesiastical authority over <persName
@@ -217,7 +217,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2511"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2511">
                                     Longinus </persName> was male. </note>
                         </trait>
@@ -233,7 +233,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2511"/>
-                        <occupation ana="http://syriaca.org/keyword/priests">
+                        <occupation ana="http://syriaca.org/taxonomy/priests">
                             <note type="desc"><persName ref="http://syriaca.org/person/2511">
                                     Longinus </persName> was a presbyter of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName>.
@@ -249,7 +249,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-10" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-10</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bishop-over-clergy" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2511">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had ecclesiastical authority over <persName
@@ -264,13 +264,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/wealth http://syriaca.org/keyword/property">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/property">
                         <desc>
                             <persName ref="http://syriaca.org/person/2460">Musonius</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2511">Longinus</persName>
                             seeking illicity gain.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2460" passive="http://syriaca.org/person/2511"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2460" passive="http://syriaca.org/person/2511"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -281,7 +281,7 @@
                 </bibl>
                 <note type="relatedEvent">
                     <listRelation>
-                        <relation type="event" ref="http://syriaca.org/keyword/same-event" mutual="https://spear-prosop.org/3026-11 https://spear-prosop.org/3050-11">
+                        <relation type="event" ref="http://syriaca.org/taxonomy/same-event" mutual="https://spear-prosop.org/3026-11 https://spear-prosop.org/3050-11">
                             <desc>
                                 The following factoids deal with the same event: <rs ref="https://spear-prosop.org/3026-11">3026-11</rs>, <rs ref="https://spear-prosop.org/3050-11">3050-11</rs>.
                             </desc>
@@ -294,7 +294,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530">
                                     Flavian </persName> was male. </note>
                         </trait>
@@ -310,7 +310,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2530"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2530">
                                     Flavian </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2610"> Antioch </placeName>.
@@ -341,7 +341,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2512"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2512"> Bisula
                                 </persName> was male. </note>
                         </trait>
@@ -357,7 +357,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2512"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/2512"> Bisula
                                 </persName> was the bishop of <placeName
                                     ref="http://syriaca.org/place/2671"> Germanicupolis
@@ -373,7 +373,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-18</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2512">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had enmity for <persName
@@ -388,7 +388,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2468">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> had enmity for <persName
@@ -403,7 +403,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/cited"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited"
                         active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2458">
                         <desc>A letter between <persName ref="http://syriaca.org/person/51">Severus
@@ -420,7 +420,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-21</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/enmity-for" active="http://syriaca.org/person/2460"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/2460"
                         passive="http://syriaca.org/person/2468">
                         <desc><persName ref="http://syriaca.org/person/2460">Musonius</persName> had
                             enmity for <persName ref="http://syriaca.org/person/2468"
@@ -435,7 +435,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-23" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3026-23</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/bringer-of-legal-charges-against"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/bringer-of-legal-charges-against"
                         active="http://syriaca.org/person/2460"
                         passive="http://syriaca.org/person/2459">
                         <desc><persName ref="http://syriaca.org/person/2460">Musonius</persName>

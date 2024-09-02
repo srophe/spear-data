@@ -121,7 +121,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/840-15</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/69">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/69">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -143,7 +143,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/69">James</persName>
                                 was a saint.
                             </note>
@@ -202,7 +202,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/69"
                                     >James</persName> was male.</note>
                         </trait>
@@ -222,7 +222,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/69"
                                     >James</persName> was a bishop. </note>
                         </occupation>
@@ -242,7 +242,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <education ana="http://syriaca.org/keyword/asceticism">
+                        <education ana="http://syriaca.org/taxonomy/asceticism">
                             <note type="desc"><persName ref="http://syriaca.org/person/69"
                                     >James</persName> studied at <placeName
                                     ref="http://syriaca.org/place/373">Fsiltha</placeName>. </note>
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#ekowalik #tbaillargeon">
                 <idno type="URI">https://spear-prosop.org/840-6</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy"
                         mutual="http://syriaca.org/person/3258 http://syriaca.org/person/69">
                         <desc><persName ref="http://syriaca.org/person/3258">Sergius</persName> and <persName
                                 ref="http://syriaca.org/person/69">Jacob Baradaeus</persName> were
@@ -280,7 +280,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ekowalik #tbaillargeon">
                 <idno type="URI">https://spear-prosop.org/840-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/69">James</persName> and
                                 <persName ref="http://syriaca.org/person/3258">Sergius</persName>
                             traveled to the <placeName ref="http://syriaca.org/place/586">royal
@@ -299,7 +299,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#ekowalik #tbaillargeon">
                 <idno type="URI">https://spear-prosop.org/840-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/patronage">
+                    <event ana="http://syriaca.org/taxonomy/patronage">
                         <desc><persName ref="http://syriaca.org/person/69">James</persName> and
                                 <persName ref="http://syriaca.org/person/3258">Sergius</persName>
                             were guests of the <persName ref="http://syriaca.org/person/779"
@@ -320,7 +320,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/69"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/69"
                                     >James</persName> was an ascetic for fifteen years. </note>
                         </occupation>
@@ -340,7 +340,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3258"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/3258">Sergius
                                 </persName> was a bishop. </note>
                         </occupation>
@@ -360,7 +360,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3266"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/3266"
                                     >Theodore</persName> was a bishop in <placeName
                                     ref="http://syriaca.org/place/716">Arabia</placeName>.</note>
@@ -379,7 +379,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ekowalik #tbaillargeon">
                 <idno type="URI">https://spear-prosop.org/840-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-clergy"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy"
                         mutual="http://syriaca.org/person/69 http://syriaca.org/person/3266">
                         <desc><persName ref="http://syriaca.org/person/69">Jacob
                                 Baradaeus</persName> and <persName
@@ -421,7 +421,7 @@
                 <idno type="URI">https://spear-prosop.org/840-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/ordination http://syriaca.org/keyword/travel">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/travel">
                         <desc> James travels to the frontier of <placeName
                                 ref="http://syriaca.org/place/526">Persia</placeName>, <placeName
                                 ref="http://syriaca.org/place/586">Constantinople</placeName> and

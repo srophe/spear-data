@@ -93,7 +93,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-36" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/834-36</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1547">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1547">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -107,7 +107,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-37" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/834-37</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1664">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1664">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -121,7 +121,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-38" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/834-38</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2069">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2069">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -135,7 +135,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-39" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/834-39</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1625">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1625">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -151,7 +151,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2069"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2069">Sergius</persName>
                                 was a saint.
                             </note>
@@ -166,7 +166,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1664"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1664">Cyriacus</persName>
                                 was a saint.
                             </note>
@@ -181,7 +181,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1547"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName>
                                 was a saint.
                             </note>
@@ -196,7 +196,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1625"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName>
                                 was a saint.
                             </note>
@@ -232,7 +232,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1547"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1547">
                                     Abraham </persName> was male.</note>
                         </trait>
@@ -246,7 +246,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1547"> Abraham</persName>
-                        <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName> was a deacon. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName> was a deacon. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">456</citedRange></bibl>
@@ -257,7 +257,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1547"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1547">Abraham</persName> was a saint. </note>
                         </state>
                     </person>
@@ -295,7 +295,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1664"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1664"> Cyriac
                                 </persName> was male.</note>
                         </trait>
@@ -309,7 +309,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1664"> Cyriac</persName>
-                        <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1664">Cyriac</persName> was a deacon. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1664">Cyriac</persName> was a deacon. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">456</citedRange></bibl>
@@ -320,7 +320,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1664"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1664">Cyriac</persName> was a saint. </note>
                         </state>
                     </person>
@@ -360,7 +360,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1625"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1625">
                                     Barhadbshabba </persName> was male.</note>
                         </trait>
@@ -374,7 +374,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1625"> Barhadbshabba</persName>
-                        <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName> was a deacon. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/deacons"><note type="desc"><persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName> was a deacon. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">456</citedRange></bibl>
@@ -385,7 +385,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1625"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName> was a saint. </note>
                         </state>
                     </person>
@@ -426,7 +426,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2069"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2069">
                                     Sergius </persName> was male.</note>
                         </trait>
@@ -440,7 +440,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2069"> Sergius</persName>
-                        <occupation ana="http://syriaca.org/keyword/deacons"><note type="desc"><persName ref="http://syriaca.org/person/2069">Sergius</persName> was a deacon. </note></occupation>
+                        <occupation ana="http://syriaca.org/taxonomy/deacons"><note type="desc"><persName ref="http://syriaca.org/person/2069">Sergius</persName> was a deacon. </note></occupation>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/834"/><citedRange unit="p">456</citedRange></bibl>
@@ -451,7 +451,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2069"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2069">Sergius</persName> was a saint. </note>
                         </state>
                     </person>
@@ -478,7 +478,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-22" resp="#nelder">
                 <idno type="URI">https://spear-prosop.org/834-22</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/altars http://syriaca.org/keyword/idolatry http://syriaca.org/keyword/traditional-religions http://syriaca.org/keyword/sacred-site http://syriaca.org/keyword/temples">
+                    <event ana="http://syriaca.org/taxonomy/altars http://syriaca.org/taxonomy/idolatry http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/sacred-site http://syriaca.org/taxonomy/temples">
                         <desc><persName ref="http://syriaca.org/person/1547">Abraham</persName>, <persName ref="http://syriaca.org/person/1664">Cyriac</persName>, <persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName>, and
                                 <persName ref="http://syriaca.org/person/2069">Sergius</persName>
                             abolished paganism, overthrew idolatry, uprooted altars, destroyed
@@ -492,7 +492,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#nelder">
                 <idno type="URI">https://spear-prosop.org/834-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/churches http://syriaca.org/keyword/monasteries">
+                    <event ana="http://syriaca.org/taxonomy/churches http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/1547">Abraham</persName>, <persName ref="http://syriaca.org/person/1664">Cyriac</persName>, <persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName>, and
                                 <persName ref="http://syriaca.org/person/2069">Sergius</persName>
                             helped <persName ref="http://syriaca.org/person/74">John of
@@ -554,7 +554,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-29" resp="#nelder">
                 <idno type="URI">https://spear-prosop.org/834-29</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/burial">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial">
                         <desc><persName ref="http://syriaca.org/person/1547">Abraham</persName>, <persName ref="http://syriaca.org/person/1664">Cyriac</persName>, <persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName>, and
                                 <persName ref="http://syriaca.org/person/2069">Sergius</persName>
                             were all buried together in the <placeName ref="http://syriaca.org/place/2816">the sepulchre</placeName>.

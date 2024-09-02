@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3074-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/marriage http://syriaca.org/keyword/families http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/canon-law" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/families http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/canon-law" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> wrote a letter to 
                             <placeName ref="http://syriaca.org/place/2690">the monastery of Mar Bassus</placeName> urging them
@@ -118,7 +118,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3773"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3773">Anonymous 3773</persName> 
                                 was a monk at <placeName ref="http://syriaca.org/place/2690">the monastery of Mar Bassus</placeName>.
@@ -136,7 +136,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3773"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3773">Anonymous 3773</persName> 
                                 was male.

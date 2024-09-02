@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/843-26</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3021">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/3021">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3021"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/3021">Mary</persName>
                                 was a saint.
                             </note>
@@ -150,7 +150,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-28" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/843-28</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2121">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/2121">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -172,7 +172,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2121"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/2121">Theophilos</persName>
                                 was a saint.
                             </note>
@@ -270,7 +270,7 @@
                 <idno type="URI">https://spear-prosop.org/843-5</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/monasticism http://syriaca.org/keyword/memory">
+                        ana="http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/memory">
                         <desc><persName ref="http://syriaca.org/person/3225">John</persName> moved
                                 to <placeName ref="http://syriaca.org/place/586"
                                 >Constantinople</placeName> because of a spiritual loss that
@@ -323,7 +323,7 @@
                 <idno type="URI">https://spear-prosop.org/843-8</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/actors http://syriaca.org/keyword/clergy http://syriaca.org/keyword/liturgy">
+                        ana="http://syriaca.org/taxonomy/actors http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/liturgy">
                         <desc> Nine years previously, when <persName
                                 ref="http://syriaca.org/person/3225">John</persName> was ministering
                             in <placeName ref="http://syriaca.org/place/8">Amida</placeName>, a
@@ -345,7 +345,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-9" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/843-9</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of"
                         mutual="http://syriaca.org/person/2121 http://syriaca.org/person/3021">
                         <desc><persName ref="http://syriaca.org/person/2121">Theophilos</persName>
                             and <persName ref="http://syriaca.org/person/3021">Mary</persName> were
@@ -365,7 +365,7 @@
                 <idno type="URI">https://spear-prosop.org/843-10</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/passions http://syriaca.org/keyword/sex http://syriaca.org/keyword/sin http://syriaca.org/keyword/marriage http://syriaca.org/keyword/shame http://syriaca.org/keyword/misogyny">
+                        ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/passions http://syriaca.org/taxonomy/sex http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/misogyny">
                         <desc> Because <persName ref="http://syriaca.org/person/3021">the
                                 woman</persName> was very beautiful, many of the men of <placeName
                                 ref="http://syriaca.org/place/8">Amida</placeName> sought to sleep
@@ -406,7 +406,7 @@
                 <idno type="URI">https://spear-prosop.org/843-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/repentance http://syriaca.org/keyword/civil-servants http://syriaca.org/keyword/pearls http://syriaca.org/keyword/sexuality http://syriaca.org/keyword/sin http://syriaca.org/keyword/prayer http://syriaca.org/keyword/tears">
+                        ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/civil-servants http://syriaca.org/taxonomy/pearls http://syriaca.org/taxonomy/sexuality http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/tears">
                         <desc><persName ref="http://syriaca.org/person/3202">Cosmo</persName>,seeing
                             that <persName ref="http://syriaca.org/person/3021">the
                             woman</persName> was beautiful like a pearl, took her away from the
@@ -427,7 +427,7 @@
                 <idno type="URI">https://spear-prosop.org/843-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/repentance http://syriaca.org/keyword/virginity http://syriaca.org/keyword/marriage http://syriaca.org/keyword/sin http://syriaca.org/keyword/oaths http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions">
+                        ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/virginity http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/oaths http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/emotions">
                         <desc><persName ref="http://syriaca.org/person/3225"
                                 >John</persName> followed <persName
                                 ref="http://syriaca.org/person/2121">the man</persName> and <persName
@@ -530,7 +530,7 @@
                 <idno type="URI">https://spear-prosop.org/843-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/light http://syriaca.org/keyword/visions http://syriaca.org/keyword/oaths http://syriaca.org/keyword/slaves http://syriaca.org/keyword/horses">
+                        ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/light http://syriaca.org/taxonomy/visions http://syriaca.org/taxonomy/oaths http://syriaca.org/taxonomy/slaves http://syriaca.org/taxonomy/horses">
                         <desc> When <persName ref="http://syriaca.org/person/2121"
                                 >Theophilus</persName> was 15 and tending horses, he saw an
                             incredible light coming out of the stable. Inside, he saw <persName
@@ -593,7 +593,7 @@
                 <idno type="URI">https://spear-prosop.org/843-21</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/prophecy http://syriaca.org/keyword/oracles http://syriaca.org/keyword/oaths http://syriaca.org/keyword/marriage http://syriaca.org/keyword/chastity http://syriaca.org/keyword/virginity http://syriaca.org/keyword/religion http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/prophecy http://syriaca.org/taxonomy/oracles http://syriaca.org/taxonomy/oaths http://syriaca.org/taxonomy/marriage http://syriaca.org/taxonomy/chastity http://syriaca.org/taxonomy/virginity http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/blessing">
                         <desc><persName ref="http://syriaca.org/person/3247"
                             >Procopius</persName> prophesied the death of <persName
                                 ref="http://syriaca.org/person/2121"
@@ -616,7 +616,7 @@
                 <idno type="URI">https://spear-prosop.org/843-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/oaths http://syriaca.org/keyword/shame http://syriaca.org/keyword/tears http://syriaca.org/keyword/emotions http://syriaca.org/keyword/blame">
+                        ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/oaths http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/blame">
                         <desc><persName ref="http://syriaca.org/person/2121"
                                 >Theophilus</persName> and <persName
                                 ref="http://syriaca.org/person/3021">Maria</persName> made <persName
@@ -637,7 +637,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#syoung">
                 <idno type="URI">https://spear-prosop.org/843-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/memory http://syriaca.org/keyword/travel">
+                    <event ana="http://syriaca.org/taxonomy/memory http://syriaca.org/taxonomy/travel">
                         <desc> After one year,<persName ref="http://syriaca.org/person/2121"
                                 >Theophilus</persName> and <persName
                                 ref="http://syriaca.org/person/3021">Maria</persName> left <placeName
@@ -674,7 +674,7 @@
                 <idno type="URI">https://spear-prosop.org/843-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/travel http://syriaca.org/keyword/blessing http://syriaca.org/keyword/love">
+                        ana="http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/blessing http://syriaca.org/taxonomy/love">
                         <desc><persName ref="http://syriaca.org/person/74"
                                 >John</persName> visited <persName
                                 ref="http://syriaca.org/person/2121"

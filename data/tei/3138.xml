@@ -107,7 +107,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters http://syriaca.org/keyword/asceticism http://syriaca.org/keyword/death http://syriaca.org/keyword/resurrection http://syriaca.org/keyword/burial" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/resurrection http://syriaca.org/taxonomy/burial" notBefore="0519" notAfter="0538">
                         <desc>
                             <date notBefore="0519" notAfter="0538">Sometime after his episcopacy</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> wrote a letter to
@@ -140,7 +140,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2664"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/2664"
                                     >Isidora</persName> was female.</note>
                         </trait>
@@ -154,7 +154,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2664">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName
@@ -169,7 +169,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2664"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2664">Isidora</persName> sent
@@ -187,7 +187,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3759"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3759">Anonymous 3759</persName> was female.</note>
                         </trait>
                     </person>
@@ -215,7 +215,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2739"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2739"
                                     >Poemen</persName> was male.</note>
                         </trait>
@@ -231,7 +231,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2739"/>
-                        <occupation ana="http://syriaca.org/keyword/monks">
+                        <occupation ana="http://syriaca.org/taxonomy/monks">
                             <note type="desc"><persName ref="http://syriaca.org/person/2739"> Father
                                     Poemen </persName> was a monk. </note>
                         </occupation>
@@ -247,7 +247,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3758"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3758">Anonymous 3758</persName>
                                 was female. </note>
                         </trait>
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-16</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/parent-of" active="http://syriaca.org/person/3758"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/parent-of" active="http://syriaca.org/person/3758"
                         passive="http://syriaca.org/person/2739">
                         <desc>
                             <persName ref="http://syriaca.org/person/3758">Anonymous 3758</persName> 
@@ -296,7 +296,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-19" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-19</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/fellow-monastics" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
                         <desc>
                             <persName ref="http://syriaca.org/person/2664">Isadora</persName> and <persName ref="http://syriaca.org/person/3759">Anonymous 3759</persName> 
                             were fellow monastics.
@@ -311,7 +311,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3138-20</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/friendship-for" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/2664 http://syriaca.org/person/3759">
                         <desc>
                             <persName ref="http://syriaca.org/person/2664">Isadora</persName> and <persName ref="http://syriaca.org/person/3759">Anonymous 3759</persName> 
                             had a friendship.

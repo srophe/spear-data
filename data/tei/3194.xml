@@ -97,13 +97,13 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3194-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2432">Dioscorus I</persName> 
                             refusing to assent to a proposal of the latter.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2432" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2432" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>
@@ -117,12 +117,12 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3194-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/letters" notBefore="0516" notAfter="0517">
+                    <event ana="http://syriaca.org/taxonomy/letters" notBefore="0516" notAfter="0517">
                         <desc>
                             <persName ref="http://syriaca.org/person/2432">Dioscorus I</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/51">Severus</persName>.
                             <listRelation>
-                                <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/2432" passive="http://syriaca.org/person/51" notBefore="0516" notAfter="0517"/>
+                                <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/2432" passive="http://syriaca.org/person/51" notBefore="0516" notAfter="0517"/>
                             </listRelation>
                         </desc>
                     </event>

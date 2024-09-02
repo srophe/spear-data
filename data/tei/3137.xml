@@ -123,7 +123,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2620"/>
-                        <socecStatus ana="http://syriaca.org/keyword/nobles">
+                        <socecStatus ana="http://syriaca.org/taxonomy/nobles">
                             <note type="desc"><persName ref="http://syriaca.org/person/2620">
                                     Caesaria </persName> was a hypatissa. </note>
                         </socecStatus>
@@ -137,7 +137,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3137-4</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2620">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName
@@ -167,7 +167,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2558"
                                     >Misael</persName> was male. </note>
                         </trait>
@@ -183,7 +183,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2558"/>
-                        <occupation ana="http://syriaca.org/keyword/deacons">
+                        <occupation ana="http://syriaca.org/taxonomy/deacons">
                             <note type="desc"><persName ref="http://syriaca.org/person/2558"> Misael
                                 </persName> was a deacon. </note>
                         </occupation>
@@ -211,7 +211,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2593"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2593"
                                     >Ammian</persName> was male. </note>
                         </trait>
@@ -239,7 +239,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2642"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/2642"
                                     >Epagathus</persName> was male. </note>
                         </trait>
@@ -253,7 +253,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3137-12</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to"
                         active="http://syriaca.org/person/2558 http://syriaca.org/person/2593 http://syriaca.org/person/2642"
                         passive="http://syriaca.org/person/51">
                         <desc><persName ref="http://syriaca.org/person/2558">Misael</persName>,
@@ -275,7 +275,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-13" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3137-13</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sender-of-letter-to" active="http://syriaca.org/person/51"
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/51"
                         passive="http://syriaca.org/person/2558 http://syriaca.org/person/2593 http://syriaca.org/person/2642">
                         <desc><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName> sent a letter to <persName

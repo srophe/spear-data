@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/800-1</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1116">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1116">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -131,7 +131,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1116"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1116">Addai</persName>
                                 was a saint.
                             </note>
@@ -152,7 +152,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1116"/>
-                        <occupation ana="http://syriaca.org/keyword/bishops">
+                        <occupation ana="http://syriaca.org/taxonomy/bishops">
                             <note type="desc"><persName ref="http://syriaca.org/person/1116">Addai</persName> was
                                 chorepisocpus in a monastery in a village called <placeName ref="http://syriaca.org/place/2776">Fardaisa</placeName>, at the
                                 approach to the Armenian frontier in <placeName
@@ -174,7 +174,7 @@
                 <idno type="URI">https://spear-prosop.org/800-3</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/repentance http://syriaca.org/keyword/bishops http://syriaca.org/keyword/holiness http://syriaca.org/keyword/laity">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/holiness http://syriaca.org/taxonomy/laity">
                         <desc><persName ref="http://syriaca.org/person/1116"
                             >Addai</persName> exercised his pastoral office by exhorting all to love
                             the poor and repent from sin. </desc>
@@ -193,7 +193,7 @@
                 <idno type="URI">https://spear-prosop.org/800-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/exile http://syriaca.org/keyword/council-of-chalcedon-451 http://syriaca.org/keyword/apostasy http://syriaca.org/keyword/bishops" notBefore="0451">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/apostasy http://syriaca.org/taxonomy/bishops" notBefore="0451">
                         <desc><date notBefore="0451" calendar="Gregorian">Sometime after
                                 451</date><persName ref="http://syriaca.org/person/1116"
                                 >Addai</persName> was deposed by those attempting to enforce the
@@ -217,7 +217,7 @@
                 <idno type="URI">https://spear-prosop.org/800-5</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monasteries http://syriaca.org/keyword/monks http://syriaca.org/keyword/poverty http://syriaca.org/keyword/wine http://syriaca.org/keyword/economics" notBefore="0456">
+                        ana="http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/economics" notBefore="0456">
                         <desc><date notBefore="0456" calendar="Gregorian">Five years after the Council of Chalcedon</date>,
                             when the monastery at <placeName ref="http://syriaca.org/place/2776"
                                 >Fardaisa</placeName> was brought to indigence, the brothers
@@ -244,7 +244,7 @@
                 <idno type="URI">https://spear-prosop.org/800-6</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/keyword/monks http://syriaca.org/keyword/wine http://syriaca.org/keyword/prayer http://syriaca.org/keyword/blessing">
+                        ana="http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/wine http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/blessing">
                         <desc> Though <persName ref="http://syriaca.org/person/1116"
                             >Addai</persName> remained reclusive, <persName
                                 ref="http://syriaca.org/person/74">John</persName> and one of the
@@ -292,7 +292,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/800-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/asceticism">
                         <desc>
                             <persName ref="http://syriaca.org/person/1116"
                                 >Addai</persName> lived as a recluse in the mountains for

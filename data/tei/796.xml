@@ -89,7 +89,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-75" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-75</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1546">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1546">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -103,7 +103,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-76" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-76</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1885">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/commemorates" active="http://syriaca.org/person/74" passive="http://syriaca.org/person/1885">
                         <desc>
                             <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> 
                             commemorated
@@ -146,7 +146,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1546"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1546">Abraham</persName> was male.</note>
                         </trait>
                     </person>
@@ -159,7 +159,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1546"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1546">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/1524"> Arʿa Rabtha
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1546">Abraham</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/1524"> Arʿa Rabtha
                                 </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -171,7 +171,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1546"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1546">Abraham</persName> was a saint.</note>
                         </state>
                     </person>
@@ -208,7 +208,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1885"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was male.</note>
                         </trait>
                     </person>
@@ -221,7 +221,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1885"/>
-                        <occupation ana="http://syriaca.org/keyword/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/1524"> Arʿa Rabtha
+                        <occupation ana="http://syriaca.org/taxonomy/monastic-heads"><note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was an archimandrite of <placeName ref="http://syriaca.org/place/1524"> Arʿa Rabtha
                                 </placeName></note></occupation>
                     </person>
                 </listPerson>
@@ -233,7 +233,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/1885"/>
-                        <state type="sanctity" ana="http://syriaca.org/keyword/saints">
+                        <state type="sanctity" ana="http://syriaca.org/taxonomy/saints">
                             <note type="desc"><persName ref="http://syriaca.org/person/1885">Maro</persName> was a saint.</note>
                         </state>
                     </person>
@@ -244,7 +244,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-11" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-11</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/sibling-of" mutual="http://syriaca.org/person/1546 http://syriaca.org/person/1885"><desc><persName ref="http://syriaca.org/person/1546">Abraham</persName> and <persName ref="http://syriaca.org/person/1885">Maron</persName> were siblings.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/sibling-of" mutual="http://syriaca.org/person/1546 http://syriaca.org/person/1885"><desc><persName ref="http://syriaca.org/person/1546">Abraham</persName> and <persName ref="http://syriaca.org/person/1885">Maron</persName> were siblings.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">56</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">56</citedRange></bibl>
@@ -252,7 +252,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/stylites">
+                    <event ana="http://syriaca.org/taxonomy/stylites">
                         <desc> After laboring for ten years in the monastery, <persName ref="http://syriaca.org/person/1546">Abraham</persName> stood on a
                             column to pray and fast. </desc>
                     </event>
@@ -263,7 +263,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc> After mighty labors of abstinence, <persName ref="http://syriaca.org/person/1546">Abraham</persName> received
                             gifts of the Spirit that enabled him to cure the sick and to drive out
                             demons. </desc>
@@ -275,7 +275,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-14</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName>
                             received gifts of the Spirit, but refused to perform exorcisms, instead
                             he decided to enclose himself in a tree in the monastery and live as a
@@ -288,7 +288,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-15" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-15</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/asceticism">
                         <desc> Because <persName ref="http://syriaca.org/person/1885">Maro</persName>'s ascetic practices were so extreme and sometimes
                             dangerous, <persName ref="http://syriaca.org/person/1546">Abraham</persName> convinced him to return to the shelter of the
                             monastery. </desc>
@@ -300,7 +300,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/fame">
+                    <event ana="http://syriaca.org/taxonomy/fame">
                         <desc><persName ref="http://syriaca.org/person/1546">Abraham</persName> and
                                 <persName ref="http://syriaca.org/person/1885">Maro</persName>
                             gained a great deal of fame. </desc>
@@ -312,7 +312,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-18" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-18</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/1546">Abraham </persName>
                             died after thirty-eight years standing on the column. </desc>
                     </event>
@@ -323,7 +323,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-19" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-19</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/stylites">
+                    <event ana="http://syriaca.org/taxonomy/stylites">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> took
                                 <persName ref="http://syriaca.org/person/1546">Abraham</persName>'s
                             place on the column so that his brother's place would not be empty.
@@ -336,7 +336,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-20" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-20</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/prayer">
+                    <event ana="http://syriaca.org/taxonomy/prayer">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> prayed
                             that his time on the column would not be a torment, but a conductor to
                             life. </desc>
@@ -348,7 +348,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-21" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-21</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc><persName ref="http://syriaca.org/person/74">John</persName>'s
                                 <persName ref="http://syriaca.org/person/3624">mother</persName> and
                                 <persName ref="http://syriaca.org/person/3625">father</persName>
@@ -362,7 +362,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-25" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-25</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/parent-of" active="http://syriaca.org/person/3624" passive="http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/3624">Anonymous 3624</persName> was the parent of <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/parent-of" active="http://syriaca.org/person/3624" passive="http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/3624">Anonymous 3624</persName> was the parent of <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">61</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">61</citedRange></bibl>
@@ -370,7 +370,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-26" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-26</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/parent-of" active="http://syriaca.org/person/3625" passive="http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/3625">Anonymous 3625</persName> was the parent of <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/parent-of" active="http://syriaca.org/person/3625" passive="http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/3625">Anonymous 3625</persName> was the parent of <persName ref="http://syriaca.org/person/74">John of Ephesus</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">61</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">61</citedRange></bibl>
@@ -378,7 +378,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-27" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-27</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> bid
                                 <persName ref="http://syriaca.org/person/3626">a certain
                                 brother</persName> to fetch lentils for the baby <persName ref="http://syriaca.org/person/74">John</persName> to eat.</desc>
@@ -403,7 +403,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3626"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3626">Anonymous 3626</persName> was male.</note>
                         </trait>
                     </person>
@@ -416,7 +416,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3626"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3626">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3626">Anonymous
                                     3626</persName> was a monk.</note></occupation>
                     </person>
                 </listPerson>
@@ -426,7 +426,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-31" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-31</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc><persName ref="http://syriaca.org/person/74">John</persName>, who
                             appeared dead, was revived by eating the lentils provided by <persName ref="http://syriaca.org/person/1885">Maro</persName>. </desc>
                     </event>
@@ -437,7 +437,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-32" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-32</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/child-dedication">
+                    <event ana="http://syriaca.org/taxonomy/child-dedication">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> made
                                 <persName ref="http://syriaca.org/person/74">John</persName>'s
                                 <persName ref="http://syriaca.org/person/3624">mother</persName> and
@@ -452,7 +452,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-33" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-33</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/child-dedication">
+                    <event ana="http://syriaca.org/taxonomy/child-dedication">
                         <desc> After two years, <persName ref="http://syriaca.org/person/74">John</persName>'s <persName ref="http://syriaca.org/person/3624">mother</persName> and <persName ref="http://syriaca.org/person/3625">father</persName> brought him
                             to <persName ref="http://syriaca.org/person/1885">Maro</persName> to be
                             raised in the monastery. </desc>
@@ -464,7 +464,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-34" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-34</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName>'s fame
                             grew as he became known for performing blessings and miracles through
                             prayer. </desc>
@@ -476,7 +476,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-35" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-35</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/exorcism http://syriaca.org/keyword/pride">
+                    <event ana="http://syriaca.org/taxonomy/exorcism http://syriaca.org/taxonomy/pride">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName>
                             explained to the people that he would not perform exorcisms because they
                             are a means by which deceitful fiends possess the innocent in order to
@@ -491,7 +491,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-36" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-36</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/miracles">
                         <desc><persName ref="http://syriaca.org/person/3627">A certain
                                 layman</persName> whose <persName ref="http://syriaca.org/person/3628">wife</persName> was barren came
                             to <persName ref="http://syriaca.org/person/1885">Maro</persName> for
@@ -519,7 +519,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3627"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> was male.</note>
                         </trait>
                     </person>
@@ -542,7 +542,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3628"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName> was female.</note>
                         </trait>
                     </person>
@@ -555,7 +555,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3628"/>
-                        <trait type="physical" ana="http://syriaca.org/keyword/barren">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/barren">
                             <note type="desc"><persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName> was barren. </note>
                         </trait>
                     </person>
@@ -566,7 +566,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-41" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-41</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of" mutual="http://syriaca.org/person/3627 http://syriaca.org/person/3628"><desc><persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> and <persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName> were spouses.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of" mutual="http://syriaca.org/person/3627 http://syriaca.org/person/3628"><desc><persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> and <persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName> were spouses.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">69</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">69</citedRange></bibl>
@@ -586,7 +586,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3235"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3235">Maro</persName> was male.</note>
                         </trait>
                     </person>
@@ -597,7 +597,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-44" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-44</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/child-of" active="http://syriaca.org/person/3235" passive="http://syriaca.org/person/3627 http://syriaca.org/person/3628"><desc><persName ref="http://syriaca.org/person/3235">Maro</persName> was the child of <persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> and <persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/child-of" active="http://syriaca.org/person/3235" passive="http://syriaca.org/person/3627 http://syriaca.org/person/3628"><desc><persName ref="http://syriaca.org/person/3235">Maro</persName> was the child of <persName ref="http://syriaca.org/person/3627">Anonymous 3627</persName> and <persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">70</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">70</citedRange></bibl>
@@ -605,7 +605,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-45" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-45</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/authority http://syriaca.org/keyword/poverty http://syriaca.org/keyword/widows http://syriaca.org/keyword/orphans">
+                    <event ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/poverty http://syriaca.org/taxonomy/widows http://syriaca.org/taxonomy/orphans">
                         <desc> A certain magistrate from the same village as <persName ref="http://syriaca.org/person/3235">Maro</persName> was an evil man
                             who oppressed widows, orphans, and other unfortunate people. </desc>
                     </event>
@@ -629,7 +629,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3629"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> was male.</note>
                         </trait>
                     </person>
@@ -642,7 +642,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3629"/>
-                        <occupation ana="http://syriaca.org/keyword/magistrates"><note type="desc"><persName ref="http://syriaca.org/person/3629">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/magistrates"><note type="desc"><persName ref="http://syriaca.org/person/3629">Anonymous
                                     3629</persName> was a magistrate.</note></occupation>
                     </person>
                 </listPerson>
@@ -652,7 +652,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-49" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-49</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/authority">
+                    <event ana="http://syriaca.org/taxonomy/authority">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> warned
                             the <persName ref="http://syriaca.org/person/3629">magistrate</persName>
                             against abusing his authority and the magistrate ignored him. </desc>
@@ -664,7 +664,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-50" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-50</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/divine-punishment">
+                    <event ana="http://syriaca.org/taxonomy/divine-judgment">
                         <desc> Fire came down from heaven and burned the <persName ref="http://syriaca.org/person/3629">magistrate</persName>'s house
                             down. </desc>
                     </event>
@@ -675,7 +675,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-51" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-51</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/divine-punishment">
+                    <event ana="http://syriaca.org/taxonomy/divine-judgment">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> sent a
                                 <persName ref="http://syriaca.org/person/3630">presbyter</persName>
                             to check on the <persName ref="http://syriaca.org/person/3629">magistrate</persName> and discovered that he, <persName ref="http://syriaca.org/person/3633">the people he enslaved</persName>, and his
@@ -702,7 +702,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3632"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/female">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/women">
                             <note type="desc"><persName ref="http://syriaca.org/person/3632">Anonymous 3632</persName> was female.</note>
                         </trait>
                     </person>
@@ -713,7 +713,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-54" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-54</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/spouse-of" mutual="http://syriaca.org/person/3629 http://syriaca.org/person/3632"><desc><persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> and <persName ref="http://syriaca.org/person/3632">Anonymous 3632</persName> were spouses.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of" mutual="http://syriaca.org/person/3629 http://syriaca.org/person/3632"><desc><persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> and <persName ref="http://syriaca.org/person/3632">Anonymous 3632</persName> were spouses.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">75</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">75</citedRange></bibl>
@@ -735,7 +735,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3630"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3630">Anonymous 3630</persName> was male.</note>
                         </trait>
                     </person>
@@ -748,7 +748,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3630"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/3630">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/3630">Anonymous
                                     3630</persName> was a presbyter.</note></occupation>
                     </person>
                 </listPerson>
@@ -772,7 +772,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3631"/>
-                        <occupation ana="http://syriaca.org/keyword/monks"><note type="desc"><persName ref="http://syriaca.org/person/3631">Anonymi
+                        <occupation ana="http://syriaca.org/taxonomy/monks"><note type="desc"><persName ref="http://syriaca.org/person/3631">Anonymi
                                     3631</persName> were monks.</note></occupation>
                     </personGrp>
                 </listPerson>
@@ -793,7 +793,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-78" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-78</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/keyword/house-slave-of" active="http://syriaca.org/person/3633" passive="http://syriaca.org/person/3629"><desc><persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> held <persName ref="http://syriaca.org/person/3633">Anonymi 3633</persName> as a house slave.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/house-slave-of" active="http://syriaca.org/person/3633" passive="http://syriaca.org/person/3629"><desc><persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> held <persName ref="http://syriaca.org/person/3633">Anonymi 3633</persName> as a house slave.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/796"/><citedRange unit="p">75</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">75</citedRange></bibl>
@@ -801,7 +801,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-61" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-61</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death http://syriaca.org/keyword/illness">
+                    <event ana="http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/illness">
                         <desc><persName ref="http://syriaca.org/person/3629">Anonymous
                                 3629</persName> fell ill and died after his confrontation with
                                 <persName ref="http://syriaca.org/person/1885">Maro</persName>.</desc>
@@ -813,7 +813,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-62" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-62</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/blindness">
+                    <event ana="http://syriaca.org/taxonomy/blindness">
                         <desc><persName ref="http://syriaca.org/person/3632">Anonymous
                                 3632</persName> went blind after <persName ref="http://syriaca.org/person/3629">her husband</persName>'s
                             confrontation with <persName ref="http://syriaca.org/person/1885">Maro</persName>.</desc>
@@ -825,7 +825,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-63" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-63</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3632">Anonymous
                                 3632</persName> died after <persName ref="http://syriaca.org/person/3629">her husband</persName>'s
                             confrontation with <persName ref="http://syriaca.org/person/1885">Maro</persName>. </desc>
@@ -837,7 +837,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-64" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-64</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc><persName ref="http://syriaca.org/person/3633">Anonymi 3633</persName>
                             died after <persName ref="http://syriaca.org/person/3629">their
                                 master</persName>'s confrontation with <persName ref="http://syriaca.org/person/1885">Maro</persName>. </desc>
@@ -849,7 +849,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-65" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/796-65</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/pride">
+                    <event ana="http://syriaca.org/taxonomy/pride">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName> used
                             the story of the fall of <persName ref="http://syriaca.org/person/3629">Anonymous 3629</persName> and
                             his household as a warning against pride. </desc>
@@ -861,7 +861,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-66" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-66</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war http://syriaca.org/keyword/visions http://syriaca.org/keyword/huns">
+                    <event ana="http://syriaca.org/taxonomy/war http://syriaca.org/taxonomy/visions http://syriaca.org/taxonomy/huns">
                         <desc> After twenty years, <persName ref="http://syriaca.org/person/1885">Maro</persName> received a vision of the invasion of the Huns.
                         </desc>
                     </event>
@@ -872,7 +872,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-68" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-68</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/huns">
+                    <event ana="http://syriaca.org/taxonomy/huns">
                         <desc><persName ref="http://syriaca.org/person/1885">Maro</persName>'s
                             companions refused to abandon him. </desc>
                     </event>
@@ -883,7 +883,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-70" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-70</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/war http://syriaca.org/keyword/prayer http://syriaca.org/keyword/miracles">
+                    <event ana="http://syriaca.org/taxonomy/war http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/miracles">
                         <desc> The Huns invaded but the monastery was protected and left unharmed
                             because of <persName ref="http://syriaca.org/person/1885">Maro</persName>'s prayers. </desc>
                     </event>
@@ -894,7 +894,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-71" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/796-71</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/keyword/death">
+                    <event ana="http://syriaca.org/taxonomy/death">
                         <desc> After forty years of labor, <persName ref="http://syriaca.org/person/1885">Maro</persName> died. </desc>
                     </event>
                 </listEvent>
@@ -918,7 +918,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3647"/>
-                        <trait type="gender" ana="http://syriaca.org/keyword/male">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/men">
                             <note type="desc"><persName ref="http://syriaca.org/person/3647">Anonymous 3647</persName> was male.</note>
                         </trait>
                     </person>
@@ -931,7 +931,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3647"/>
-                        <occupation ana="http://syriaca.org/keyword/priests"><note type="desc"><persName ref="http://syriaca.org/person/3647">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/priests"><note type="desc"><persName ref="http://syriaca.org/person/3647">Anonymous
                                     3647</persName> was a presbyter.</note></occupation>
                     </person>
                 </listPerson>
