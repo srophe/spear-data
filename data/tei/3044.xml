@@ -270,7 +270,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2559"/>
-                        <occupation ana="http://syriaca.org/taxonomy/sacellarius">
+                        <occupation ana="http://syriaca.org/taxonomy/sacellarii">
                             <note type="desc"><persName ref="http://syriaca.org/person/2559"
                                     >Eleutherius</persName> was a sacellarius.</note>
                         </occupation>

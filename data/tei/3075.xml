@@ -406,7 +406,7 @@
                 <idno type="URI">https://spear-prosop.org/3075-18</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/purity http://syriaca.org/taxonomy/canon-law">
+                        ana="http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/purity http://syriaca.org/taxonomy/canon-law">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a
                             letter to <persName ref="http://syriaca.org/person/2425"

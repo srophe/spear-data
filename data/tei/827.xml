@@ -169,7 +169,7 @@
                 <idno type="URI">https://spear-prosop.org/827-2</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile" notBefore="0521" notAfter="0526">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/exile" notBefore="0521" notAfter="0526">
                         <desc>
                             <date notBefore="0521" notAfter="0526" calendar="Gregorian">Between A.D. 521 and 526</date>
                             <persName ref="http://syriaca.org/person/1934">the community</persName> was
@@ -326,7 +326,7 @@
                 <idno type="URI">https://spear-prosop.org/827-9</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc> At beginning of the reign of <persName
                                 ref="http://syriaca.org/person/2284">Justinian</persName>,<persName
                                 ref="http://syriaca.org/person/1934">the community</persName> was

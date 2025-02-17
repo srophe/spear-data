@@ -140,7 +140,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2556"/>
-                        <occupation ana="http://syriaca.org/taxonomy/magister-militum">
+                        <occupation ana="http://syriaca.org/taxonomy/generals-roman">
                             <note type="desc"><persName ref="http://syriaca.org/person/2556">
                                     Hypatius </persName> was Master of the Soldiers. </note>
                         </occupation>
@@ -394,7 +394,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-23" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3079-23</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/civil-law http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/churches" notBefore="0515" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/law http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/churches" notBefore="0515" notAfter="0518">
                         <desc>
                             <date notBefore="0515" notAfter="0518">Sometime between 515-18</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> wrote a letter to the magister militum
@@ -429,7 +429,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-26" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3079-26</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/civil-law http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/churches" notBefore="0515" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/law http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/property http://syriaca.org/taxonomy/churches" notBefore="0515" notAfter="0518">
                         <desc>
                             <date notBefore="0515" notAfter="0518">Sometime between 515-18</date>
                             <persName ref="http://syriaca.org/person/51">Severus of Antioch</persName> and a group of <persName ref="http://syriaca.org/person/3735">clergy</persName>

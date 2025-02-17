@@ -332,7 +332,7 @@
                 <idno type="URI">https://spear-prosop.org/3076-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/mercy http://syriaca.org/taxonomy/body" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/sin http://syriaca.org/taxonomy/mercy http://syriaca.org/taxonomy/bodies" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -351,7 +351,7 @@
                 <idno type="URI">https://spear-prosop.org/3076-15</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/suffering">
+                        ana="http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/shame http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/suffering">
                         <desc> With regard to the mutilation of <persName
                                 ref="http://syriaca.org/person/2772">Thomas</persName>, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> advises
@@ -372,7 +372,7 @@
                 <idno type="URI">https://spear-prosop.org/3076-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/body">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/illness http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/bodies">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> also
                             wrote to <persName ref="http://syriaca.org/person/2425"
                                 >Cassian</persName>, advocating the view that <persName

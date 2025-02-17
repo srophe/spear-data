@@ -167,7 +167,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> left his
                             monastery in the same manner as his fellow monastic <persName ref="http://syriaca.org/person/2032">Qashish</persName> to travel
                             alone to the eastern, southern, and western regions in the capacity of a
@@ -181,7 +181,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/wandering">
                         <desc> After many years of wandering, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and
                                 <persName ref="http://syriaca.org/person/2032">Qashish</persName>
                             joined the company of <persName ref="http://syriaca.org/person/74">John
@@ -196,7 +196,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> was
                             buried alongside of <persName ref="http://syriaca.org/person/1533">the
                                 Blessed Aaron</persName> at <placeName ref="http://syriaca.org/place/399">the Monastery of Yoḥannan
@@ -286,7 +286,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-17</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/wandering">
+                    <event ana="http://syriaca.org/taxonomy/pilgrimage http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/wandering">
                         <desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>
                             grew up with <persName ref="http://syriaca.org/person/74">John of
                                 Ephesus</persName> from childhood. </desc>

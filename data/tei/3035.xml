@@ -597,7 +597,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-30" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/3035-30</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/monastic-heads" notBefore="0514" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/monastic-heads" notBefore="0514" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/3042">archimandrite of 
@@ -690,7 +690,7 @@
                 <idno type="URI">https://spear-prosop.org/3035-35</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/clergy">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/justice http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/3043">The God-loving bishops
                                 meeting in <placeName ref="http://syriaca.org/place/10"
                                     >Antioch</placeName></persName> urged <persName

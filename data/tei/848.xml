@@ -176,7 +176,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2108"/>
-                        <occupation ana="http://syriaca.org/taxonomy/castrensis">
+                        <occupation ana="http://syriaca.org/taxonomy/castrenses">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2108">Theodore</persName> was a castrensis. 
                             </note>
@@ -379,7 +379,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/848-13</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2558">Mishael</persName> had
                             chosen many years of self-imposed exile rather than commune with the synod of Chalcedon

@@ -538,7 +538,7 @@
                 <idno type="URI">https://spear-prosop.org/3053-27</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/heterodoxy" notBefore="0514" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/physicians http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/heterodoxy" notBefore="0514" notAfter="0518">
                         <desc><date notBefore="0514" notAfter="0518" calendar="Gregorian">Between
                                 514 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote to <persName
@@ -559,7 +559,7 @@
                 <idno type="URI">https://spear-prosop.org/3053-28</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/travel">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/travel">
                         <desc> Most of the bishops assembled at <placeName
                                 ref="http://syriaca.org/place/586">Constantinople</placeName>,
                             except the Romans, were found to be orthodox, but the pious bishops
@@ -579,7 +579,7 @@
                 <idno type="URI">https://spear-prosop.org/3053-29</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/bishops">
+                        ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/bishops">
                         <desc> The synod in <placeName ref="http://syriaca.org/place/586"
                                 >Constantinople</placeName> intended to affirm the council of
                                 <placeName ref="http://syriaca.org/place/622">Chalcedon</placeName>

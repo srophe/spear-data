@@ -765,7 +765,7 @@
                 <idno type="URI">https://spear-prosop.org/3038-39</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/bishops">
+                        ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/priests http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/2547">Procopius</persName>
                             had attempted to profit off his ordinations, and had ordained <persName
                                 ref="http://syriaca.org/person/2550">Lampetius</persName>, a known

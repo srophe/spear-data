@@ -160,7 +160,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2766"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2766">Theodore</persName> 
                                 was a tribune.
@@ -179,7 +179,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3776"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3776">Anonymous 3776</persName> 
                                 was the spouse of a tribune.

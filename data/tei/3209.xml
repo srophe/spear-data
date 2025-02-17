@@ -139,7 +139,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2647"/>
-                        <trait type="gender" ana="http://syriaca.org/taxonomy/eunuch">
+                        <trait type="gender" ana="http://syriaca.org/taxonomy/eunuchs">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2647">Eupraxius</persName> 
                                 was a eunuch.

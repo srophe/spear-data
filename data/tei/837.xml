@@ -488,7 +488,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3653"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc"><persName ref="http://syriaca.org/person/3653">Anonymi
                                     3653</persName> was elite. </note>
                         </socecStatus>

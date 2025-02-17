@@ -188,7 +188,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/808-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/ritual">
+                    <event ana="http://syriaca.org/taxonomy/religious-practices">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
                             questioned <persName ref="http://syriaca.org/person/3699">the
                                 shepherds</persName> about their faith and Christian practices, only
@@ -201,7 +201,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/808-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/ritual">
+                    <event ana="http://syriaca.org/taxonomy/religious-practices">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>
                             resolved to stay with <persName ref="http://syriaca.org/person/3699">the
                                 shepherds</persName> and teach them how to worship God as Christians
@@ -214,7 +214,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/808-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/ritual">
+                    <event ana="http://syriaca.org/taxonomy/religious-practices">
                         <desc><persName ref="http://syriaca.org/person/2097">Simeon</persName>, in
                             his wanderings, came upon a village in <placeName ref="http://syriaca.org/place/2823"> Mʿrbnʾ</placeName> and found
                             their church abandoned and their faith neglected. </desc>
@@ -364,7 +364,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-29" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/808-29</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/ritual">
+                    <event ana="http://syriaca.org/taxonomy/religious-practices">
                         <desc><persName ref="http://syriaca.org/person/2097"> Simeon </persName>
                             received no further opposition, so that he continued to select and
                             tonsure children, and within four or five years his church flourished.
@@ -377,7 +377,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-30" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/808-30</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/ritual">
+                    <event ana="http://syriaca.org/taxonomy/religious-practices">
                         <desc> For twenty-six years <persName ref="http://syriaca.org/person/2097">
                                 Simeon </persName> preached, gave blessings, and established himself
                             as a spiritual teacher as the church he established flourished. </desc>

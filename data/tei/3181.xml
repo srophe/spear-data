@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3181-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/council-of-chalcedon-451" notBefore="0509" notAfter="0511">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/council-of-chalcedon" notBefore="0509" notAfter="0511">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/2663">Isaac the Scholastic</persName>

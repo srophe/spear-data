@@ -197,7 +197,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-6</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451" when="0511">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon" when="0511">
                         <desc>
                             <choice>
                                 <reg>
@@ -228,7 +228,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-7</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2572">John</persName> responded to the synodical letter of
                             <persName ref="http://syriaca.org/person/2773">Timothy</persName> and urged him to anathematize the Council of Chalcedon.
@@ -247,7 +247,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2265">Anastasios</persName> wrote a letter to  
                             <persName ref="http://syriaca.org/person/2572">John</persName> complaining about his refusal simply
@@ -275,7 +275,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2736">Peter Mongus</persName> wrote a letter indicating he accepted the <title>Henotikon</title> without 
                             specifically anathematizing the Council of Chalcedon or <title>Leo's Tome</title>.
@@ -291,7 +291,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-10</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2612">Athanasius</persName> wrote a letter indicating he accepted the <title>Henotikon</title> without 
                             specifically anathematizing the Council of Chalcedon or <title>Leo's Tome</title>.
@@ -307,7 +307,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-11</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2687">John</persName> wrote a letter indicating he accepted the <title>Henotikon</title> without 
                             specifically anathematizing the Council of Chalcedon or <title>Leo's Tome</title>.
@@ -323,7 +323,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2572">John</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2636">Dioscorus</persName> and 

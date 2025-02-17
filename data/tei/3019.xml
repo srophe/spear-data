@@ -214,7 +214,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2686"/>
-                        <occupation ana="http://syriaca.org/taxonomy/syncelli" notAfter="0518">
+                        <occupation ana="http://syriaca.org/taxonomy/synkelloi" notAfter="0518">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2686">John of Cappadocia</persName> 
                                 was the syncellus under 

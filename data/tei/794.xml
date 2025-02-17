@@ -276,7 +276,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3638"/>
-                        <occupation ana="http://syriaca.org/taxonomy/judge"><note type="desc"><persName ref="http://syriaca.org/person/3638">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/judges"><note type="desc"><persName ref="http://syriaca.org/person/3638">Anonymous
                                     3638</persName> was a judge.</note></occupation>
                     </person>
                 </listPerson>
@@ -477,7 +477,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-37" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/794-37</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc><persName ref="http://syriaca.org/person/1524">Zeʿora</persName>
                             anathematized the Council of Chalcedon and inflicted the emperor with
                             swelling and a compromised mental state. </desc>

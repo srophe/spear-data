@@ -119,7 +119,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3093-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/civil-law http://syriaca.org/taxonomy/exile">
+                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/law http://syriaca.org/taxonomy/exile">
                         <desc>
                             <persName ref="http://syriaca.org/person/2731">Pelagius</persName> was summoned to be judged by
                             <persName ref="http://syriaca.org/person/51">Severus</persName> and 

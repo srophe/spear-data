@@ -411,11 +411,11 @@
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
-            <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#syoung">
+            <ab type="factoid" subtype="event" xml:id="factoid-14" resp="#syoung #dschwartz">
                 <idno type="URI">https://spear-prosop.org/823-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/laborers-unskilled http://syriaca.org/taxonomy/widows-of-the-church http://syriaca.org/taxonomy/prayer">
+                        ana="http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/asceticism http://syriaca.org/taxonomy/fasting http://syriaca.org/taxonomy/widows-of-the-church http://syriaca.org/taxonomy/prayer">
                         <desc><persName ref="http://syriaca.org/person/1705"
                                 >Elijah</persName>,<persName ref="http://syriaca.org/person/3140"
                                 >Theodore</persName>, and <persName

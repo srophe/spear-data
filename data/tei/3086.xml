@@ -513,7 +513,7 @@
                 <idno type="URI">https://spear-prosop.org/3086-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/cross http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/civil-servants">
+                        ana="http://syriaca.org/taxonomy/crosses http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/civil-servants">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             suggested that <persName ref="http://syriaca.org/person/2532"
                                 >Stephen</persName> ensure that a cross remain erected in front of

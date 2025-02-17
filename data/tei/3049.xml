@@ -594,7 +594,7 @@
                 <idno type="URI">https://spear-prosop.org/3049-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/monasteries">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/monasteries">
                         <desc><persName ref="http://syriaca.org/person/3072">The God-loving bishops
                                 of <placeName ref="http://syriaca.org/place/10"
                                 >Antioch</placeName></persName> thought it necessary to warn

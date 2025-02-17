@@ -470,7 +470,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-32" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-32</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc><persName ref="http://syriaca.org/person/3154">Sergius</persName> set
                             out to visit <persName ref="http://syriaca.org/person/1885">Maro the
                                 stylite</persName>, whom the synod supporters left alone until
@@ -641,7 +641,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-45" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/797-45</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/religous-conflict http://syriaca.org/taxonomy/imprisonment http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/martyrdom http://syriaca.org/taxonomy/asceticism">
+                    <event ana="http://syriaca.org/taxonomy/religious-conflict http://syriaca.org/taxonomy/imprisonment http://syriaca.org/taxonomy/violence http://syriaca.org/taxonomy/martyrdom http://syriaca.org/taxonomy/asceticism">
                         <desc><persName ref="http://syriaca.org/person/3184">Abraham</persName>
                             calmed the angry mob and sent them away by telling them that he would
                             examine <persName ref="http://syriaca.org/person/3154">Sergius</persName> inside the church. Once inside, <persName ref="http://syriaca.org/person/3184">Abraham</persName> and

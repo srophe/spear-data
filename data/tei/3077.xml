@@ -164,7 +164,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2750"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2750">Sergius</persName> was governor of  
                                 <placeName ref="http://syriaca.org/place/176">Syria Secunda</placeName>.

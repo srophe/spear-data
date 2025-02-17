@@ -602,7 +602,7 @@
                 <idno type="URI">https://spear-prosop.org/3046-31</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/authority http://syriaca.org/taxonomy/bishop-over">
                         <desc><persName ref="http://syriaca.org/person/2468">Paul</persName> refused
                             to carry out the counsel of <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> to remove the names of those who affirmed the

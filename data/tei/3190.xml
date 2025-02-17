@@ -241,7 +241,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-8</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> held a council in
                             <placeName ref="http://syriaca.org/place/10">Antioch</placeName> with bishops from 
@@ -261,7 +261,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-9</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/exile" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/2610">Asterius</persName> attempted to convince 
                             <persName ref="http://syriaca.org/person/51">Severus</persName> to recant 
@@ -322,7 +322,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-12</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile" when="0512">
+                    <event ana="http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/exile" when="0512">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/2265">Anastasius I</persName>

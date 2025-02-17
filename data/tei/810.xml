@@ -242,7 +242,7 @@
                 <idno type="URI">https://spear-prosop.org/810-4</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/plague http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial">
+                        ana="http://syriaca.org/taxonomy/plagues http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/death http://syriaca.org/taxonomy/burial">
                         <desc>
                             A plague breaks out and 84 monks die and were buried. </desc>
                     </event>

@@ -377,7 +377,7 @@
                 <idno type="URI">https://spear-prosop.org/828-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/monks">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monasticism http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/monks">
                         <desc> Followers of the Council of <placeName
                                 ref="http://syriaca.org/place/622">Chalcedon</placeName> expelled
                             Christians from <placeName ref="http://syriaca.org/place/572"
@@ -566,7 +566,7 @@
                 <idno type="URI">https://spear-prosop.org/828-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/suffering http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/plague http://syriaca.org/taxonomy/illness" when="0542">
+                        ana="http://syriaca.org/taxonomy/suffering http://syriaca.org/taxonomy/emotions http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/prayer http://syriaca.org/taxonomy/plagues http://syriaca.org/taxonomy/illness" when="0542">
                         <desc>
                             <date when="0542" calendar="Gregorian">In 542</date>
                             a great plague his the empire and everyone was in perturbation and doubt and confusion.

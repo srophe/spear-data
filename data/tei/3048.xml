@@ -285,7 +285,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-11</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/heterodoxy" when="0515">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/heterodoxy" when="0515">
                         <desc><date when="0515" calendar="Gregorian">In 515</date>, <persName
                                 ref="http://syriaca.org/person/51">Severus</persName> and <persName
                                 ref="http://syriaca.org/person/3072">the bishops gathered in
@@ -307,7 +307,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/travel">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/travel">
                         <desc><persName ref="http://syriaca.org/person/3072">The bishops of
                                     <placeName ref="http://syriaca.org/place/10"
                                 >Antioch</placeName></persName> asked <persName
@@ -327,7 +327,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution">
                         <desc><persName ref="http://syriaca.org/person/2514">Peter</persName> told
                                 <persName ref="http://syriaca.org/person/3072">the
                                 bishops</persName> how <persName
@@ -348,7 +348,7 @@
                 <idno type="URI">https://spear-prosop.org/3048-14</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/sin">
+                        ana="http://syriaca.org/taxonomy/repentance http://syriaca.org/taxonomy/penitence http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/sin">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> and
                                 <persName ref="http://syriaca.org/person/3072">the bishops of
                                     <placeName ref="http://syriaca.org/place/10"

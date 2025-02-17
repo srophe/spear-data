@@ -331,7 +331,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-19" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3108-19</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/deposition-of-clergy">
+                    <event ana="http://syriaca.org/taxonomy/canon-law http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/deposition-of-clergy">
                         <desc>
                             <persName ref="http://syriaca.org/person/3733">Anonymi 3733</persName> deposed 
                             <persName ref="http://syriaca.org/person/2468">Paul</persName>

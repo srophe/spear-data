@@ -109,7 +109,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3174-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/hell http://syriaca.org/taxonomy/body http://syriaca.org/taxonomy/resurrection" notBefore="0519" notAfter="0538">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/hell http://syriaca.org/taxonomy/bodies http://syriaca.org/taxonomy/resurrection" notBefore="0519" notAfter="0538">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sent a letter to
                             <persName ref="http://syriaca.org/person/2427">John</persName>,

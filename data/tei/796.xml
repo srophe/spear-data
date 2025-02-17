@@ -555,7 +555,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3628"/>
-                        <trait type="physical" ana="http://syriaca.org/taxonomy/barren">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/barrenness">
                             <note type="desc"><persName ref="http://syriaca.org/person/3628">Anonymous 3628</persName> was barren. </note>
                         </trait>
                     </person>

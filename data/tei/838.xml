@@ -166,7 +166,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-6</idno>
             <listEvent>
-               <event ana="http://syriaca.org/taxonomy/ecumenism http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/saints http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/council-of-chalcedon-451">
+               <event ana="http://syriaca.org/taxonomy/ecumenism http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/christology http://syriaca.org/taxonomy/saints http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/council-of-chalcedon">
                   <desc>
                      Even those who disagreed with the Christology of <persName ref="http://syriaca.org/person/3771">Anonymi 3771</persName> 
                      marveled at their asceticism and came to <placeName ref="http://syriaca.org/place/2793">the palace of Hormisdas</placeName>
@@ -231,7 +231,7 @@
          <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/838-9</idno>
             <listEvent>
-               <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/christianization http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/churches http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/synagogues">
+               <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/christianization http://syriaca.org/taxonomy/paganism http://syriaca.org/taxonomy/churches http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/synagogues">
                   <desc>
                      <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> was involved in bringing about the conversion from paganism to Christianity
                      of eighty thousand people in the provinces of <placeName ref="http://syriaca.org/place/2746">Asia</placeName>, <placeName ref="http://syriaca.org/place/2764">Caria</placeName>,

@@ -345,7 +345,7 @@
                 <idno type="URI">https://spear-prosop.org/3043-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/socioeconomic-status http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
+                        ana="http://syriaca.org/taxonomy/wealth http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/2553">Antoninus</persName> had
                                 sent <persName ref="http://syriaca.org/person/2557"
                                 >Mark</persName> to <placeName ref="http://syriaca.org/place/10"

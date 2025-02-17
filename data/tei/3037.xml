@@ -196,7 +196,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3777"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3777">Anonymous 3777</persName> 
                                 was married to a comes.

@@ -403,7 +403,7 @@
                 <idno type="URI">https://spear-prosop.org/842-12</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/traditional-religions">
+                        ana="http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/paganism">
                         <desc> 
                             After five years on <placeName ref="http://syriaca.org/place/1529">Chios</placeName>, <persName ref="http://syriaca.org/person/2032">Kashish </persName> 
                             was ordainedas bishop of <placeName ref="http://syriaca.org/place/2767">Chios</placeName> by <persName ref="http://syriaca.org/person/69">Jacob Bardaeus</persName> 
@@ -428,7 +428,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-29" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/842-29</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/christianity">
+                    <event ana="http://syriaca.org/taxonomy/conversion http://syriaca.org/taxonomy/paganism http://syriaca.org/taxonomy/christianity">
                         <desc>
                             After his ordination <persName ref="http://syriaca.org/person/2032"> Kashish </persName>
                             traveled around <placeName ref="http://syriaca.org/place/1529">Chios</placeName> with 

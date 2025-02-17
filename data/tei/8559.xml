@@ -1690,7 +1690,7 @@
                                 <orig><date datingMethod="regnalYear">the fifth year of Lucius's
                                         reign</date></orig>
                             </choice></persName>
-                        <ptr target="http://syriaca.org/taxonomy/Parthians"/>
+                        <ptr target="http://syriaca.org/taxonomy/parthians"/>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -2248,7 +2248,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-98" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-98</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/councils" when="0325">
+                    <event ana="http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/church-councils" when="0325">
                         <desc> In <choice>
                                 <reg><date when="0325" calendar="Gregorian">325</date></reg>
                                 <orig><date when-custom="0636" datingMethod="Seleucid">A. Gr.
@@ -4204,7 +4204,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-184" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-184</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils" when="0381">
+                    <event ana="http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils" when="0381">
                         <desc> In <choice>
                                 <corr><date when="0381" calendar="Gregorian">381</date></corr>
                                 <sic><date notBefore="0381-10" notAfter="0382-09" calendar="Gregorian">381/2</date></sic>
@@ -5121,7 +5121,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-226</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/16"> ʿAbsmayyā the <ref target="http://syriaca.org/taxonomy/priest"> priest </ref></persName>
+                        <persName ref="http://syriaca.org/person/16"> ʿAbsmayyā the <ref target="http://syriaca.org/taxonomy/priests"> priest </ref></persName>
                     </person>
                 </listPerson>
                 <bibl type="primary">
@@ -5136,7 +5136,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-227</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/16"> ʿAbsamia <ref target="http://syriaca.org/taxonomy/priest"> Kashisha
+                        <persName ref="http://syriaca.org/person/16"> ʿAbsamia <ref target="http://syriaca.org/taxonomy/priests"> Kashisha
                             </ref></persName>
                     </person>
                 </listPerson>
@@ -5289,7 +5289,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-235" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-235</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/madrasha http://syriaca.org/taxonomy/armies" notBefore="0403-10" notAfter="0404-09">
+                    <event ana="http://syriaca.org/taxonomy/madrashe http://syriaca.org/taxonomy/armies" notBefore="0403-10" notAfter="0404-09">
                         <desc> In <choice>
                                 <reg><date notBefore="0403-10" notAfter="0404-09" calendar="Gregorian">403/4</date></reg>
                                 <orig><date when-custom="0715" datingMethod="Seleucid">A. Gr.
@@ -6190,7 +6190,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-279" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-279</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-ephesus-i-431 http://syriaca.org/taxonomy/councils" when="0431">
+                    <event ana="http://syriaca.org/taxonomy/council-of-ephesus-i-431 http://syriaca.org/taxonomy/church-councils" when="0431">
                         <desc> In 
                             <choice>
                                 <reg><date when="0431" calendar="Gregorian">431</date></reg>
@@ -6998,7 +6998,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-315" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-315</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/council-of-ephesus-ii-449">
+                    <event ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/council-of-ephesus-ii-449">
                         <desc>
                             <persName ref="http://syriaca.org/person/2314"> The bishops assembled at the
                                 Second Council of <placeName ref="http://syriaca.org/place/623">
@@ -7282,7 +7282,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-327" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-327</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/councils" when="0451-10">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/church-councils" when="0451-10">
                         <desc> In <choice>
                                 <corr><date when="0451-10" calendar="Gregorian">October
                                     451</date></corr>
@@ -8312,14 +8312,12 @@
                 <idno type="URI">https://spear-prosop.org/8559-373</idno>
                 <listPerson>
                     <personGrp>
-                        <persName ref="http://syriaca.org/person/2225"> The participants in the <ref target="http://syriaca.org/taxonomy/SchoolPersians"><ref target="http://syriaca.org/taxonomy/school"> School </ref> of the
-                                    <ref target="http://syriaca.org/taxonomy/Persian"> Persians
-                                </ref></ref> who were removed from <placeName ref="http://syriaca.org/place/78"> Edessa </placeName> in <choice>
+                        <persName ref="http://syriaca.org/person/2225"> The participants in the School of the Persians who were removed from <placeName ref="http://syriaca.org/place/78"> Edessa </placeName> in <choice>
                                 <reg><date notBefore="0488-10" notAfter="0489-09" calendar="Gregorian">488/9</date></reg>
                                 <orig><date when-custom="0800" datingMethod="Seleucid">A. Gr.
                                         800</date></orig>
                             </choice></persName>
-                        <ptr target="http://syriaca.org/taxonomy/SchoolPersians http://syriaca.org/taxonomy/school http://syriaca.org/taxonomy/Persian"/>
+                        <ptr target="http://syriaca.org/taxonomy/school-of-the-persians http://syriaca.org/taxonomy/persians"/>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -9282,7 +9280,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-412</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2286"> Kavad <ref target="http://syriaca.org/taxonomy/shah">, King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
+                        <persName ref="http://syriaca.org/person/2286"> Kavad <ref target="http://syriaca.org/taxonomy/shahs">, King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
                             </ref></persName>
                     </person>
                 </listPerson>
@@ -9298,7 +9296,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-413</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2286"> Cavades, <ref target="http://syriaca.org/taxonomy/shah"> King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
+                        <persName ref="http://syriaca.org/person/2286"> Cavades, <ref target="http://syriaca.org/taxonomy/shahs"> King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
                             </ref></persName>
                     </person>
                 </listPerson>
@@ -9731,7 +9729,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-433" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-433</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/councils" notBefore="0511-04-11" notAfter="0512-04-10">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/church-councils" notBefore="0511-04-11" notAfter="0512-04-10">
                         <desc> In <choice>
                                 <reg><date notBefore="0511-04-11" notAfter="0512-04-10" calendar="Gregorian">511/2</date><note ana="#calculated">This regularized date was calculated by the
                                         SPEAR editor from a non-calendrical dating system such as
@@ -9770,10 +9768,10 @@
                                         Anastasios</date></orig>
                             </choice> because they wanted to remove the book placed in the coffin of
                                 <persName ref="http://syriaca.org/person/479"> Euphemia the martyr
-                            </persName> by the <ref target="http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                            </persName> by the <ref target="http://syriaca.org/taxonomy/council-of-chalcedon">
                                 Council of <placeName ref="http://syriaca.org/place/622"> Chalcedon
                                 </placeName></ref>. </persName>
-                        <ptr target="http://syriaca.org/taxonomy/council-of-chalcedon-451"/>
+                        <ptr target="http://syriaca.org/taxonomy/council-of-chalcedon"/>
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
@@ -9873,7 +9871,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-439" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-439</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/deposition-of-clergy" notBefore="0511-04-11" notAfter="0512-04-10">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/deposition-of-clergy" notBefore="0511-04-11" notAfter="0512-04-10">
                         <desc> In <choice>
                                 <reg><date notBefore="0511-04-11" notAfter="0512-04-10" calendar="Gregorian">511/2</date><note ana="#calculated">This regularized date was calculated by the
                                         SPEAR editor from a non-calendrical dating system such as
@@ -10318,7 +10316,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-460" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-460</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/deposition-of-clergy" notBefore="0518-10" notAfter="0519-09">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/deposition-of-clergy" notBefore="0518-10" notAfter="0519-09">
                         <desc> In <choice>
                                 <reg><date notBefore="0518-10" notAfter="0519-09" calendar="Gregorian">518/19</date></reg>
                                 <orig><date when-custom="0830" datingMethod="Seleucid">A. Gr.
@@ -10404,7 +10402,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-464" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-464</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/councils" when="0519-11-04">
+                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/church-councils" when="0519-11-04">
                         <desc> On <choice>
                                 <reg><date when="0519-11-04" calendar="Gregorian">4 November A. D.
                                         519</date></reg>
@@ -10433,7 +10431,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-465" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-465</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/exile" notBefore="0519-11-05">
+                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/exile" notBefore="0519-11-05">
                         <desc> After <choice>
                                 <reg><date notBefore="0519-11-05" calendar="Gregorian">4 November A. D.
                                         519</date></reg>
@@ -10465,7 +10463,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-466" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-466</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/exile" notBefore="0520-10" notAfter="0521-09">
+                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/exile" notBefore="0520-10" notAfter="0521-09">
                         <desc> In <choice>
                                 <reg><date notBefore="0520-10" notAfter="0521-09" calendar="Gregorian">520/1</date></reg>
                                 <orig><date when-custom="0832" datingMethod="Seleucid">A. Gr.
@@ -10493,7 +10491,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-467" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-467</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/exile" when="0522-07-27">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/decrees http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/exile" when="0522-07-27">
                         <desc><persName ref="http://syriaca.org/person/2296"> Pawlā </persName>
                             refused to accept the Council of <placeName ref="http://syriaca.org/place/622"> Chalcedon </placeName> and on <choice>
                                 <reg><date when="0522-07-27" calendar="Gregorian">27 July 27 A. D.
@@ -10672,7 +10670,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-475" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-475</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/exile" when="0522-12-24">
+                    <event ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/exile" when="0522-12-24">
                         <desc> In <choice>
                                 <reg><date when="0522-12-24" calendar="Gregorian">24 December A. D.
                                         522</date></reg>
@@ -10758,7 +10756,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-478</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2278"> Euphrasius the <ref target="http://syriaca.org/taxonomy/patriarch"> Patriarch
+                        <persName ref="http://syriaca.org/person/2278"> Euphrasius the <ref target="http://syriaca.org/taxonomy/patriarchs"> Patriarch
                             </ref></persName>
                     </person>
                 </listPerson>
@@ -11022,7 +11020,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-490" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-490</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/patriarchs" notBefore="0525-06-27">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/patriarchs" notBefore="0525-06-27">
                         <desc> After <choice>
                                 <reg><date notBefore="0525-06-27" calendar="Gregorian">27 June 525</date></reg>
                                 <orig><date notBefore-custom="0836-09-27" datingMethod="Seleucid-SyriacMonths">27 Ḥazirān A. Gr.
@@ -11050,7 +11048,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-491" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-491</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/accession" when="0526-03-08">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/accession" when="0526-03-08">
                         <desc> Following <persName ref="http://syriaca.org/person/2296"> Pawlā's
                             </persName> acceptance of the Council of <placeName ref="http://syriaca.org/place/622"> Chalcedon </placeName> and a
                             letter of support from <persName ref="http://syriaca.org/person/2284">
@@ -11242,7 +11240,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-499" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-499</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/council-of-ephesus-i-431 http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/councils">
+                    <event ana="http://syriaca.org/taxonomy/council-of-nicaea-325 http://syriaca.org/taxonomy/council-of-constantinople-i-381 http://syriaca.org/taxonomy/council-of-ephesus-i-431 http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/church-councils">
                         <desc><persName ref="http://syriaca.org/person/2284"> Justinian </persName>
                             put into the diptychs of the church the four holy synods: the Council of
                                 <placeName ref="http://syriaca.org/place/621"> Nicaea </placeName> ,
@@ -12204,7 +12202,7 @@
                 <idno type="URI">https://spear-prosop.org/8559-539</idno>
                 <listPerson>
                     <person>
-                        <persName ref="http://syriaca.org/person/2244"> Chosroes the <ref target="http://syriaca.org/taxonomy/shah"> King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
+                        <persName ref="http://syriaca.org/person/2244"> Chosroes the <ref target="http://syriaca.org/taxonomy/shahs"> King </ref> of <ref target="http://syriaca.org/taxonomy/persians"> the Persians
                             </ref></persName>
                     </person>
                 </listPerson>

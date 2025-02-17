@@ -633,7 +633,7 @@
                 <idno type="URI">https://spear-prosop.org/3012-33</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                        ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc> Following the example of <persName
                                 ref="http://syriaca.org/person/2513">Constantine</persName>,
                                 <persName ref="http://syriaca.org/person/51">Severus</persName>

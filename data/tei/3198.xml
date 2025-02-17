@@ -138,7 +138,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2620"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/2620">Caesaria Hypatissa</persName> 
                                 was a hypatissa.

@@ -426,7 +426,7 @@
                 <idno type="URI">https://spear-prosop.org/813-16</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                        ana="http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc> After 12 years, persecution against <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName> and the
                             brothers came from <placeName ref="http://syriaca.org/place/576"
@@ -542,7 +542,7 @@
                 <idno type="URI">https://spear-prosop.org/813-22</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/christianity http://syriaca.org/taxonomy/councils">
+                        ana="http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/christianity http://syriaca.org/taxonomy/church-councils">
                         <desc><persName ref="http://syriaca.org/person/3226">John</persName> stirred
                             up a cruel persecution against all the believers in <placeName
                                 ref="http://syriaca.org/place/576">Armenia</placeName>. </desc>
@@ -561,7 +561,7 @@
                 <idno type="URI">https://spear-prosop.org/813-23</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/persecution">
+                        ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/monasteries http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/persecution">
                         <desc> Many of the persecuted convent leaders and bishops flocked to
                                 <persName ref="http://syriaca.org/person/2126">Thomas</persName>,
                                 so <persName ref="http://syriaca.org/person/3226"
@@ -581,7 +581,7 @@
                 <idno type="URI">https://spear-prosop.org/813-24</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/theology">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/monks http://syriaca.org/taxonomy/monastic-heads http://syriaca.org/taxonomy/theology">
                         <desc> Those who had assembled to <persName
                                 ref="http://syriaca.org/person/2126">Thomas</persName>, over 800,
                             were brought before <persName ref="http://syriaca.org/person/3226">the

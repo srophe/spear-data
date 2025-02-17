@@ -463,7 +463,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2281"/>
-                        <occupation ana="http://syriaca.org/taxonomy/magister-militum">
+                        <occupation ana="http://syriaca.org/taxonomy/generals-roman">
                             <note type="desc"><persName ref="http://syriaca.org/person/2281"
                                     >Patrick</persName> was Master of the Soldiers.</note>
                         </occupation>
@@ -1341,7 +1341,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-75</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/heterodoxy" notBefore="0508" notAfter="0511">
+                        ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/heterodoxy" notBefore="0508" notAfter="0511">
                         <desc><date notBefore="0508" notAfter="0511" calendar="Gregorian">Between
                                 508 and 511</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -1379,7 +1379,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-77</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops">
+                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/kings http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/2265">Emperor
                                 Anastasius</persName> sent his formula of satisfaction to <persName
                                 ref="http://syriaca.org/person/2530">Flavian</persName>, prelate of
@@ -1397,7 +1397,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-78</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/bishops">
+                        ana="http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/bishops">
                         <desc><persName ref="http://syriaca.org/person/2529">John of <placeName
                                     ref="http://syriaca.org/place/64"
                                 >Claudiopolis</placeName></persName>, when he received <persName
@@ -1421,7 +1421,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-79</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/arianism http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/clergy">
+                        ana="http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/anathema http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/arianism http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/clergy">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             responded to <persName ref="http://syriaca.org/person/2529"
                                 >John</persName> by refusing to accept the synod of <placeName
@@ -1486,7 +1486,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-82</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/persecution">
+                        ana="http://syriaca.org/taxonomy/exile http://syriaca.org/taxonomy/heterodoxy http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/persecution">
                         <desc> When <persName ref="http://syriaca.org/person/792">Timothy</persName>
                             had endured his exile from <placeName ref="http://syriaca.org/place/572"
                                 >Alexandria</placeName>, <persName
@@ -1556,7 +1556,7 @@
                 <idno type="URI">https://spear-prosop.org/3004-85</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/theology">
+                        ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/clergy http://syriaca.org/taxonomy/theology">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName>
                             believed that he had convinced <persName
                                 ref="http://syriaca.org/person/2529">John</persName> to not affirm

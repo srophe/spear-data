@@ -118,7 +118,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3242-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/council-of-chalcedon-451">
+                    <event ana="http://syriaca.org/taxonomy/deposition-of-clergy http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/council-of-chalcedon">
                         <desc>
                             <persName ref="http://syriaca.org/person/2281">Patricius</persName>,
                             <persName ref="http://syriaca.org/person/51">Severus</persName>,

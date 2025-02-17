@@ -531,7 +531,7 @@
                 <idno type="URI">https://spear-prosop.org/3057-25</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/poetry http://syriaca.org/taxonomy/poetics" notBefore="0513" notAfter="0518">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/poetry http://syriaca.org/taxonomy/poetics" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
                                 513 and 516</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote a letter to <persName
@@ -551,7 +551,7 @@
                 <idno type="URI">https://spear-prosop.org/3057-26</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/theology">
+                        ana="http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/anti-nestorian http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/theology">
                         <desc><persName ref="http://syriaca.org/person/51">Severus</persName> and
                             the bishops of the East had drawn up a synodal letter to <persName
                                 ref="http://syriaca.org/person/2572">John the archbishop of

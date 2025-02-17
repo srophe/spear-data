@@ -366,7 +366,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3127"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/freed-person">
+                        <socecStatus ana="http://syriaca.org/taxonomy/freed-persons">
                             <note type="desc"><persName ref="http://syriaca.org/person/3127">Anonymi
                                     3127</persName> were freewomen</note>
                         </socecStatus>

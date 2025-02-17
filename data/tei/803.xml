@@ -186,7 +186,7 @@
                     <person>
                         
                         <persName ref="http://syriaca.org/person/1771"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/upper-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/elites">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/1771">Harfat</persName> 
                                 was from a distinguished and wealthy family.
@@ -272,7 +272,7 @@
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3766"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/lower-social-group">
+                        <socecStatus ana="http://syriaca.org/taxonomy/poor">
                             <note type="desc">
                                 <persName ref="http://syriaca.org/person/3766">Anonymi 3766</persName> 
                                 were hired servants.

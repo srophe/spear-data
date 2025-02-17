@@ -146,7 +146,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon-451 http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
+                    <event ana="http://syriaca.org/taxonomy/council-of-chalcedon http://syriaca.org/taxonomy/persecution http://syriaca.org/taxonomy/exile">
                         <desc>
                             After the Council of <placeName ref="http://syriaca.org/place/622">Chalcedon</placeName> persecution forced the conversion of
                             monastics as <persName ref="http://syriaca.org/person/1536">Abbi's</persName> monastery and drove him out of the monastery.

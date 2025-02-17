@@ -478,7 +478,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-22" resp="#nelder">
                 <idno type="URI">https://spear-prosop.org/834-22</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/altars http://syriaca.org/taxonomy/idolatry http://syriaca.org/taxonomy/traditional-religions http://syriaca.org/taxonomy/sacred-site http://syriaca.org/taxonomy/temples">
+                    <event ana="http://syriaca.org/taxonomy/altars http://syriaca.org/taxonomy/idolatry http://syriaca.org/taxonomy/paganism http://syriaca.org/taxonomy/holy-places http://syriaca.org/taxonomy/temples">
                         <desc><persName ref="http://syriaca.org/person/1547">Abraham</persName>, <persName ref="http://syriaca.org/person/1664">Cyriac</persName>, <persName ref="http://syriaca.org/person/1625">Barhadbshabba</persName>, and
                                 <persName ref="http://syriaca.org/person/2069">Sergius</persName>
                             abolished paganism, overthrew idolatry, uprooted altars, destroyed

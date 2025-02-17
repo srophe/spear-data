@@ -599,7 +599,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3236"/>
-                        <occupation ana="http://syriaca.org/taxonomy/marzban"><note type="desc"><persName ref="http://syriaca.org/person/3236">Anonymous
+                        <occupation ana="http://syriaca.org/taxonomy/marzbans"><note type="desc"><persName ref="http://syriaca.org/person/3236">Anonymous
                                     3236</persName> was an official in the Persian
                                 government.</note></occupation>
                     </person>

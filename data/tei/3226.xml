@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3226-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/angels http://syriaca.org/taxonomy/body" notBefore="0508" notAfter="0511">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/theology http://syriaca.org/taxonomy/angels http://syriaca.org/taxonomy/bodies" notBefore="0508" notAfter="0511">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2665">Isidore</persName> 

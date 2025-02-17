@@ -329,7 +329,7 @@
                 <idno type="URI">https://spear-prosop.org/3052-13</idno>
                 <listEvent>
                     <event
-                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/councils http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/authority">
+                        ana="http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/travel http://syriaca.org/taxonomy/church-councils http://syriaca.org/taxonomy/emperors http://syriaca.org/taxonomy/ordination http://syriaca.org/taxonomy/authority">
                         <desc> Because <persName ref="http://syriaca.org/person/2460"
                                 >Musonius</persName> had fled from <placeName
                                 ref="http://syriaca.org/place/2686">Meloe</placeName>, and <persName
