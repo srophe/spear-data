@@ -93,7 +93,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints II</title><title>Thomas
                             of Damascus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                     <bibl type="primary"><title>Thomas of Damascus</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/818"/></bibl>
                 </listBibl>
@@ -133,7 +133,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">338</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
                 <idno type="URI">https://spear-prosop.org/818-2</idno>
@@ -143,7 +143,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">338</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
                 <idno type="URI">https://spear-prosop.org/818-3</idno>
@@ -151,7 +151,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-clergy" mutual="http://syriaca.org/person/50 http://syriaca.org/person/1813 http://syriaca.org/person/2125"><desc><persName ref="http://syriaca.org/person/50">John of Tella</persName>, <persName ref="http://syriaca.org/person/1813">John of Hephaestopolis</persName> and <persName ref="http://syriaca.org/person/2125">Thomas of Damascus</persName> were fellow clergy.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">339</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">541</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">541</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#dmichelson #ekeogh #egarret #egibes #mdebie #sgross #upossekel">
                 <idno type="URI">https://spear-prosop.org/818-4</idno>
@@ -164,7 +164,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">338</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/818-6</idno>
@@ -178,7 +178,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">338-39</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540-41</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">540-41</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-7" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/818-7</idno>
@@ -193,7 +193,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/818"/><citedRange unit="p">338</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">540</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">540</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -201,7 +201,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl818-1"><title>Lives of the Eastern Saints
                         II</title><title>Thomas of Damascus</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                 <bibl type="primary" xml:id="bibl818-2"><title>Thomas of
                             Damascus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/818"/></bibl>
             </listBibl>

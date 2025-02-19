@@ -95,7 +95,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/1409"/>
+                        <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     </bibl>
                     <bibl type="primary">
                         <title>A Monk who Left the Monastery</title>
@@ -156,7 +156,7 @@
                     <citedRange unit="p">260-65</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">260-65</citedRange>
                 </bibl>
             </ab>
@@ -177,7 +177,7 @@
                     <citedRange unit="p">260</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">260</citedRange>
                 </bibl>
             </ab>
@@ -193,7 +193,7 @@
                     <citedRange unit="p">260</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">260</citedRange>
                 </bibl>
             </ab>
@@ -213,7 +213,7 @@
                     <citedRange unit="p">260</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">260</citedRange>
                 </bibl>
             </ab>
@@ -233,7 +233,7 @@
                     <citedRange unit="p">261</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">261</citedRange>
                 </bibl>
             </ab>
@@ -252,7 +252,7 @@
                     <citedRange unit="p">261</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">261</citedRange>
                 </bibl>
             </ab>
@@ -271,7 +271,7 @@
                     <citedRange unit="p">262</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">262</citedRange>
                 </bibl>
             </ab>
@@ -292,7 +292,7 @@
                     <citedRange unit="p">262</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">262</citedRange>
                 </bibl>
             </ab>
@@ -311,7 +311,7 @@
                     <citedRange unit="p">265</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">265</citedRange>
                 </bibl>
             </ab>
@@ -326,7 +326,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl810-2">
                     <title>A Monk who Left the Monastery</title>

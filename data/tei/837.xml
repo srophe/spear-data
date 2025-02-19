@@ -65,7 +65,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/2032"/>
+                        <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     </bibl>
                     <bibl type="primary">
                         <title>Two Antiochenes</title>
@@ -126,7 +126,7 @@
                     <citedRange unit="p">469-74</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">671-76</citedRange>
                 </bibl>
             </ab>
@@ -147,7 +147,7 @@
                     <citedRange unit="p">469</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">671</citedRange>
                 </bibl>
             </ab>
@@ -165,7 +165,7 @@
                     <citedRange unit="p">469</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">671</citedRange>
                 </bibl>
             </ab>
@@ -187,7 +187,7 @@
                     <citedRange unit="p">470</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">672</citedRange>
                 </bibl>
             </ab>
@@ -208,7 +208,7 @@
                     <citedRange unit="p">470</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">672</citedRange>
                 </bibl>
             </ab>
@@ -226,7 +226,7 @@
                     <citedRange unit="p">470</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">672</citedRange>
                 </bibl>
             </ab>
@@ -248,7 +248,7 @@
                     <citedRange unit="p">470</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">672</citedRange>
                 </bibl>
             </ab>
@@ -270,7 +270,7 @@
                     <citedRange unit="p">470-471</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">672-673</citedRange>
                 </bibl>
             </ab>
@@ -291,7 +291,7 @@
                     <citedRange unit="p">471</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">673</citedRange>
                 </bibl>
             </ab>
@@ -314,7 +314,7 @@
                     <citedRange unit="p">471-472</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">673-674</citedRange>
                 </bibl>
             </ab>
@@ -334,7 +334,7 @@
                     <citedRange unit="p">472</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">674</citedRange>
                 </bibl>
             </ab>
@@ -354,7 +354,7 @@
                     <citedRange unit="p">472</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">674</citedRange>
                 </bibl>
             </ab>
@@ -381,7 +381,7 @@
                     <citedRange unit="p">473</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
@@ -400,7 +400,7 @@
                     <citedRange unit="p">473</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
@@ -419,7 +419,7 @@
                     <citedRange unit="p">473</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
@@ -439,7 +439,7 @@
                     <citedRange unit="p">473</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">675</citedRange>
                 </bibl>
             </ab>
@@ -459,7 +459,7 @@
                     <citedRange unit="p">474</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">676</citedRange>
                 </bibl>
             </ab>
@@ -479,7 +479,7 @@
                     <citedRange unit="p">474</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">676</citedRange>
                 </bibl>
             </ab>
@@ -499,7 +499,7 @@
                     <citedRange unit="p">471</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">673</citedRange>
                 </bibl>
             </ab>
@@ -514,7 +514,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl837-2">
                     <title>Two Antiochenes</title>

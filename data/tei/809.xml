@@ -65,7 +65,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/1409"/>
+                        <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     </bibl>
                     <bibl type="primary">
                         <title>A Stranger who Would not Give his Name</title>
@@ -122,7 +122,7 @@
                     <citedRange unit="p">248-59</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">248-59</citedRange>
                 </bibl>
             </ab>
@@ -143,7 +143,7 @@
                     <citedRange unit="p">248</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">248</citedRange>
                 </bibl>
             </ab>
@@ -167,7 +167,7 @@
                     <citedRange unit="p">250</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">250</citedRange>
                 </bibl>
             </ab>
@@ -186,7 +186,7 @@
                     <citedRange unit="p">250</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">250</citedRange>
                 </bibl>
             </ab>
@@ -208,7 +208,7 @@
                     <citedRange unit="p">251</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">251</citedRange>
                 </bibl>
             </ab>
@@ -227,7 +227,7 @@
                     <citedRange unit="p">252</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">252</citedRange>
                 </bibl>
             </ab>
@@ -246,7 +246,7 @@
                     <citedRange unit="p">254</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">254</citedRange>
                 </bibl>
             </ab>
@@ -266,7 +266,7 @@
                     <citedRange unit="p">255</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
             </ab>
@@ -290,7 +290,7 @@
                     <citedRange unit="p">256</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">256</citedRange>
                 </bibl>
             </ab>
@@ -310,7 +310,7 @@
                     <citedRange unit="p">257</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">257</citedRange>
                 </bibl>
             </ab>
@@ -331,7 +331,7 @@
                     <citedRange unit="p">259</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">259</citedRange>
                 </bibl>
             </ab>
@@ -351,7 +351,7 @@
                     <citedRange unit="p">257</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">257</citedRange>
                 </bibl>
             </ab>
@@ -366,7 +366,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl809-2">
                     <title>A Stranger who Would not Give his Name</title>

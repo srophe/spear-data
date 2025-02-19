@@ -61,7 +61,7 @@
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                             Brooks</persName></editor>
                         <biblScope unit="tomus">12</biblScope>
-                        <ptr target="http://syriaca.org/bibl/670"/>
+                        <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                         <citedRange unit="p">295-305</citedRange>
                         <citedRange unit="part">39</citedRange>
                     </bibl>
@@ -111,7 +111,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">295-305</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -132,7 +132,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">295</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -150,7 +150,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">296-97</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -167,7 +167,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">299-301</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -184,7 +184,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">301-02</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -202,7 +202,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">303-04</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -219,7 +219,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">304</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -241,7 +241,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">304</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>
@@ -263,7 +263,7 @@
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
                     <biblScope unit="tomus">12</biblScope>
-                    <ptr target="http://syriaca.org/bibl/670"/>
+                    <ptr target="http://syriaca.org/cbss/X6ZICMNL"/>
                     <citedRange unit="p">295-305</citedRange>
                     <citedRange unit="part">39</citedRange>
                 </bibl>

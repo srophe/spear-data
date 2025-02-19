@@ -61,7 +61,7 @@
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                             Brooks</persName></editor>
                         <biblScope unit="tomus">14</biblScope>
-                        <ptr target="http://syriaca.org/bibl/671"/>
+                        <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                         <citedRange unit="p">75-103</citedRange>
                         <citedRange unit="part">69</citedRange>
                     </bibl>
@@ -109,7 +109,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75-103</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -128,7 +128,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -147,7 +147,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -167,7 +167,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75-103</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -184,7 +184,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">82</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -201,7 +201,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">97-98</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -218,7 +218,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">99-100</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -234,7 +234,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">101</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -253,7 +253,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -269,7 +269,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">103</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -292,7 +292,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">102</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -311,7 +311,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">101</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>
@@ -328,7 +328,7 @@
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
                     <biblScope unit="tomus">14</biblScope>
-                    <ptr target="http://syriaca.org/bibl/671"/>
+                    <ptr target="http://syriaca.org/cbss/4DVWZDNU"/>
                     <citedRange unit="p">75-103</citedRange>
                     <citedRange unit="part">69</citedRange>
                 </bibl>

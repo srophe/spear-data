@@ -63,7 +63,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints I</title><title>Addai
                             and Abraham</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                     <bibl type="primary"><title>Addai and Abraham</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/814"/></bibl>
                 </listBibl>
@@ -107,7 +107,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299-300</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299-300</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299-300</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/814-2</idno>
@@ -122,7 +122,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/814-12</idno>
@@ -136,7 +136,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299-300</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299-300</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299-300</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-13" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/814-13</idno>
@@ -151,7 +151,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-3</idno>
@@ -163,7 +163,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-4" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-4</idno>
@@ -176,7 +176,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">300</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">300</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">300</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-5</idno>
@@ -188,7 +188,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-6</idno>
@@ -200,7 +200,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-7" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-7</idno>
@@ -212,7 +212,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-8" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-8</idno>
@@ -223,7 +223,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-9</idno>
@@ -235,7 +235,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-10" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-10</idno>
@@ -251,7 +251,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">300</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">300</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">300</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-11" resp="#mdoerfler #jnsaint-laurent">
                 <idno type="URI">https://spear-prosop.org/814-11</idno>
@@ -263,7 +263,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/814"/><citedRange unit="p">299</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">299</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">299</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -271,7 +271,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl814-1"><title>Lives of the Eastern Saints
                         I</title><title>Addai and Abraham</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                 <bibl type="primary" xml:id="bibl814-2"><title>Addai and
                             Abraham</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/814"/></bibl>

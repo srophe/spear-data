@@ -49,7 +49,7 @@
                <head>Sources for the Data in this Born Digital Prosopography</head>
                <bibl type="primary"><title>Lives of the Eastern Saints
                      II</title><title>Tribunus</title><author><persName ref="http://syriaca.org/person/74">John of
-                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                <bibl type="primary"><title>Tribunus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/835"/></bibl>
             </listBibl>
             <listRelation>
@@ -85,7 +85,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661</citedRange>
             </bibl>
             <bibl type="primary">
@@ -106,7 +106,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661</citedRange>
             </bibl>
             <bibl type="primary">
@@ -128,7 +128,7 @@
              </person>
           </listPerson>
           <bibl type="primary">
-             <ptr target="http://syriaca.org/bibl/2032"/>
+             <ptr target="http://syriaca.org/cbss/U78B4C66"/>
              <citedRange unit="p">661</citedRange>
           </bibl>
           <bibl type="primary">
@@ -152,7 +152,7 @@
              </person>
           </listPerson>
           <bibl type="primary">
-             <ptr target="http://syriaca.org/bibl/2032"/>
+             <ptr target="http://syriaca.org/cbss/U78B4C66"/>
              <citedRange unit="p">661</citedRange>
           </bibl>
           <bibl type="primary">
@@ -174,7 +174,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661</citedRange>
             </bibl>
             <bibl type="primary">
@@ -197,7 +197,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661</citedRange>
             </bibl>
             <bibl type="primary">
@@ -220,7 +220,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661</citedRange>
             </bibl>
             <bibl type="primary">
@@ -243,7 +243,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">661 n. 2</citedRange>
             </bibl>
             <bibl type="primary">
@@ -262,7 +262,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">662</citedRange>
             </bibl>
             <bibl type="primary">
@@ -286,7 +286,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">662</citedRange>
             </bibl>
             <bibl type="primary">
@@ -310,7 +310,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">662</citedRange>
             </bibl>
             <bibl type="primary">
@@ -323,7 +323,7 @@
          <listBibl>
             <head>Works Cited</head>
             <bibl type="primary" xml:id="bibl835-1"><title>Lives of the Eastern Saints
-                  II</title><title>Tribunus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                  II</title><title>Tribunus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
             <bibl type="primary" xml:id="bibl835-2"><title>Tribunus</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/835"/></bibl>
          </listBibl>
       </back>

@@ -64,7 +64,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints I</title><title>Abraham
                             the Recluse</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                     <bibl type="primary"><title>Abraham the Recluse</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/799"/></bibl>
                 </listBibl>
@@ -108,7 +108,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">118-24</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118-24</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">118-24</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-9" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/799-9</idno>
@@ -123,7 +123,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">118</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">118</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-1</idno>
@@ -134,7 +134,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">118</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">118</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">118</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-2</idno>
@@ -147,7 +147,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">119</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">119</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">119</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="mentalState" xml:id="factoid-3" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-3</idno>
@@ -160,7 +160,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">119</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">119</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">119</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-4" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-4</idno>
@@ -171,7 +171,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">121</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-5" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-5</idno>
@@ -179,7 +179,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/3648 http://syriaca.org/person/1555"><desc><persName ref="http://syriaca.org/person/3648">Anonymi 3648</persName> and <persName ref="http://syriaca.org/person/1555">Abraham the Recluse</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">121</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-6" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-6</idno>
@@ -190,7 +190,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">121</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">121</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">121</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#tbaillargeon #tmcneir">
                 <idno type="URI">https://spear-prosop.org/799-7</idno>
@@ -202,7 +202,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/799"/><citedRange unit="p">123</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">123</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">123</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -210,7 +210,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl799-1"><title>Lives of the Eastern Saints
                         I</title><title>Abraham the Recluse</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                 <bibl type="primary" xml:id="bibl799-2"><title>Abraham the
                             Recluse</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/799"/></bibl>

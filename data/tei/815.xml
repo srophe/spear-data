@@ -77,7 +77,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/1409"/>
+                        <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     </bibl>
                     <bibl type="primary">
                         <title>Simeon the Solitary</title>
@@ -137,7 +137,7 @@
                     <citedRange unit="p">300-04</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">300-04</citedRange>
                 </bibl>
             </ab>
@@ -157,7 +157,7 @@
                     <citedRange unit="p">300</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">300</citedRange>
                 </bibl>
             </ab>
@@ -173,7 +173,7 @@
                     <citedRange unit="p">303</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">303</citedRange>
                 </bibl>
             </ab>
@@ -189,7 +189,7 @@
                     <citedRange unit="p">302</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">302</citedRange>
                 </bibl>
             </ab>
@@ -212,7 +212,7 @@
                     <citedRange unit="p">300</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">300</citedRange>
                 </bibl>
             </ab>
@@ -228,7 +228,7 @@
                     <citedRange unit="p">303</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">303</citedRange>
                 </bibl>
             </ab>
@@ -245,7 +245,7 @@
                     <citedRange unit="p">303</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">303</citedRange>
                 </bibl>
             </ab>
@@ -265,7 +265,7 @@
                     <citedRange unit="p">302</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">302</citedRange>
                 </bibl>
             </ab>
@@ -289,7 +289,7 @@
                     <citedRange unit="p">301</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">301</citedRange>
                 </bibl>
             </ab>
@@ -309,7 +309,7 @@
                     <citedRange unit="p">301</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">301</citedRange>
                 </bibl>
             </ab>
@@ -327,7 +327,7 @@
                     <citedRange unit="p">301</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">301</citedRange>
                 </bibl>
             </ab>
@@ -349,7 +349,7 @@
                     <citedRange unit="p">303</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">303</citedRange>
                 </bibl>
             </ab>
@@ -367,7 +367,7 @@
                     <citedRange unit="p">304</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">304</citedRange>
                 </bibl>
             </ab>
@@ -387,7 +387,7 @@
                     <citedRange unit="p">304</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">304</citedRange>
                 </bibl>
             </ab>
@@ -402,7 +402,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl815-2">
                     <title>Simeon the Solitary</title>

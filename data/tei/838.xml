@@ -49,7 +49,7 @@
                <head>Sources for the Data in this Born Digital Prosopography</head>
                <bibl type="primary"><title>Lives of the Eastern Saints
                      II</title><title>Refugees in Constantinople</title><author><persName ref="http://syriaca.org/person/74">John of
-                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                <bibl type="primary"><title>Refugees in Constantinople</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/838"/></bibl>
             </listBibl>
             <listRelation>
@@ -90,7 +90,7 @@
                </personGrp>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">676</citedRange>
             </bibl>
             <bibl type="primary">
@@ -110,7 +110,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">676</citedRange>
             </bibl>
             <bibl type="primary">
@@ -134,7 +134,7 @@
                </personGrp>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">677</citedRange>
             </bibl>
             <bibl type="primary">
@@ -155,7 +155,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">678</citedRange>
             </bibl>
             <bibl type="primary">
@@ -175,7 +175,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">679</citedRange>
             </bibl>
             <bibl type="primary">
@@ -196,7 +196,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">680</citedRange>
             </bibl>
             <bibl type="primary">
@@ -220,7 +220,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">680-1</citedRange>
             </bibl>
             <bibl type="primary">
@@ -241,7 +241,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">681</citedRange>
             </bibl>
             <bibl type="primary">
@@ -261,7 +261,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">682</citedRange>
             </bibl>
             <bibl type="primary">
@@ -275,7 +275,7 @@
          <listBibl>
             <head>Works Cited</head>
             <bibl type="primary" xml:id="bibl838-1"><title>Lives of the Eastern Saints
-                  II</title><title>Refugees in Constantinople</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                  II</title><title>Refugees in Constantinople</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
             <bibl type="primary" xml:id="bibl838-2"><title>Refugees in Constantinople</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/838"/></bibl>
          </listBibl>
       </back>

@@ -66,7 +66,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/2032"/>
+                        <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     </bibl>
                     <bibl type="primary">
                         <title>Hala</title>
@@ -123,7 +123,7 @@
                     <citedRange unit="p">374-84</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576-86</citedRange>
                 </bibl>
             </ab>
@@ -144,7 +144,7 @@
                     <citedRange unit="p">374</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576</citedRange>
                 </bibl>
             </ab>
@@ -164,7 +164,7 @@
                     <citedRange unit="p">374-84</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576-86</citedRange>
                 </bibl>
             </ab>
@@ -185,7 +185,7 @@
                     <citedRange unit="p">374</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576</citedRange>
                 </bibl>
             </ab>
@@ -206,7 +206,7 @@
                     <citedRange unit="p">374</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576</citedRange>
                 </bibl>
             </ab>
@@ -227,7 +227,7 @@
                     <citedRange unit="p">374</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576</citedRange>
                 </bibl>
             </ab>
@@ -248,7 +248,7 @@
                     <citedRange unit="p">375</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">577</citedRange>
                 </bibl>
             </ab>
@@ -269,7 +269,7 @@
                     <citedRange unit="p">376</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">578</citedRange>
                 </bibl>
             </ab>
@@ -289,7 +289,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -305,7 +305,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -325,7 +325,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -344,7 +344,7 @@
                     <citedRange unit="p">374</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">576</citedRange>
                 </bibl>
             </ab>
@@ -363,7 +363,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -382,7 +382,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -407,7 +407,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -429,7 +429,7 @@
                     <citedRange unit="p">377</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">579</citedRange>
                 </bibl>
             </ab>
@@ -448,7 +448,7 @@
                     <citedRange unit="p">380</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">582</citedRange>
                 </bibl>
             </ab>
@@ -472,7 +472,7 @@
                     <citedRange unit="p">383</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">585</citedRange>
                 </bibl>
             </ab>
@@ -498,7 +498,7 @@
                     <citedRange unit="p">383</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">585</citedRange>
                 </bibl>
             </ab>
@@ -513,7 +513,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl823-2">
                     <title>Hala</title>

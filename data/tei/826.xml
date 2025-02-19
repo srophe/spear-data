@@ -57,7 +57,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints II</title><title>Simeon
                             the Scribe</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                     <bibl type="primary"><title>Simeon the Scribe</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/826"/></bibl>
                 </listBibl>
@@ -98,7 +98,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">399-404</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602-06</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">602-06</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-1</idno>
@@ -110,7 +110,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">400</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-2</idno>
@@ -123,7 +123,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">400</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-3</idno>
@@ -134,7 +134,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">400</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-4</idno>
@@ -147,7 +147,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">400</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">602</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">602</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-5</idno>
@@ -158,7 +158,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">401</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-6" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-6</idno>
@@ -171,7 +171,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">401</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-7</idno>
@@ -181,7 +181,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">401</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">603</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-8" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-8</idno>
@@ -192,7 +192,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">401-402</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">603-604</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">603-604</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-9</idno>
@@ -203,7 +203,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">402</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">604</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-10</idno>
@@ -213,7 +213,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">402-403</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604-605</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">604-605</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-11</idno>
@@ -225,7 +225,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">402-403</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">604-605</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">604-605</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-12</idno>
@@ -236,7 +236,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">404</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">606</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">606</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/826-13</idno>
@@ -247,7 +247,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/826"/><citedRange unit="p">404</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">606</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">606</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -255,7 +255,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl826-1"><title>Lives of the Eastern Saints
                         II</title><title>Simeon the Scribe</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                 <bibl type="primary" xml:id="bibl826-2"><title>Simeon the
                             Scribe</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/826"/></bibl>

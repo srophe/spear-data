@@ -63,7 +63,7 @@
                <head>Sources for the Data in this Born Digital Prosopography</head>
                <bibl type="primary"><title>Lives of the Eastern Saints
                      II</title><title>Isaac</title><author><persName ref="http://syriaca.org/person/74">John of
-                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                <bibl type="primary"><title>Isaac</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/836"/></bibl>
             </listBibl>
             <listRelation>
@@ -106,7 +106,7 @@
                </relation>
             </listRelation>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">466-69</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">668-71</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">668-71</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="sanctity" xml:id="factoid-14" resp="#dschwartz">
             <idno type="URI">https://spear-prosop.org/836-14</idno>
@@ -121,7 +121,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">466</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">668</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">668</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-1</idno>
@@ -131,7 +131,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">466</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">668</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">668</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="birth" xml:id="factoid-2" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-2</idno>
@@ -147,7 +147,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-3</idno>
@@ -155,7 +155,7 @@
                <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of" mutual="http://syriaca.org/person/1788 http://syriaca.org/person/3690"><desc><persName ref="http://syriaca.org/person/1788">Isaac</persName> and <persName ref="http://syriaca.org/person/3690">Anonymous 3690</persName> were spouses.</desc></relation>
             </listRelation>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-4</idno>
@@ -163,7 +163,7 @@
                <relation type="person" ref="http://syriaca.org/taxonomy/child-of" active="http://syriaca.org/person/3692" passive="http://syriaca.org/person/1788 http://syriaca.org/person/3690"><desc><persName ref="http://syriaca.org/person/3692">Anonymi 3692</persName> was the child of <persName ref="http://syriaca.org/person/1788">Isaac</persName> and <persName ref="http://syriaca.org/person/3690">Anonymous 3690</persName>.</desc></relation>
             </listRelation>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="socecStatus" xml:id="factoid-5" resp="#rbarczok #kgibson #dschwartz">
             <idno type="URI">https://spear-prosop.org/836-5</idno>
@@ -175,7 +175,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="residence" xml:id="factoid-6" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-6</idno>
@@ -188,7 +188,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-7</idno>
@@ -203,7 +203,7 @@
                </event>
             </listEvent>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="occupation" xml:id="factoid-8" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-8</idno>
@@ -215,7 +215,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-9</idno>
@@ -226,7 +226,7 @@
                </event>
             </listEvent>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">467</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">669</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">669</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-10" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-10</idno>
@@ -237,7 +237,7 @@
                </event>
             </listEvent>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">468</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">670</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">670</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="death" xml:id="factoid-11" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-11</idno>
@@ -253,7 +253,7 @@
                </person>
             </listPerson>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">469</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">671</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">671</citedRange></bibl>
          </ab>
          <ab type="factoid" subtype="event" xml:id="factoid-12" resp="#rbarczok #kgibson">
             <idno type="URI">https://spear-prosop.org/836-12</idno>
@@ -265,14 +265,14 @@
                </event>
             </listEvent>
             <bibl type="primary"><ptr target="http://syriaca.org/work/836"/><citedRange unit="p">469</citedRange></bibl>
-            <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">671</citedRange></bibl>
+            <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">671</citedRange></bibl>
          </ab>
       </body>
       <back>
          <listBibl>
             <head>Works Cited</head>
             <bibl type="primary" xml:id="bibl836-1"><title>Lives of the Eastern Saints
-                  II</title><title>Isaac</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                  II</title><title>Isaac</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
             <bibl type="primary" xml:id="bibl836-2"><title>Isaac</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/836"/></bibl>
          </listBibl>
       </back>

@@ -88,7 +88,7 @@
                     <bibl type="primary"><title>Lives of the Eastern Saints II</title><title>Mari,
                             Sergius, and Daniel</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                     <bibl type="primary"><title>Mari, Sergius, and Daniel</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/833"/></bibl>
                 </listBibl>
@@ -132,7 +132,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453-56</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-20" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-20</idno>
@@ -147,7 +147,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-21</idno>
@@ -161,7 +161,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453-56</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-22" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-22</idno>
@@ -176,7 +176,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-24" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/833-24</idno>
@@ -190,7 +190,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453-56</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655-58</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-1</idno>
@@ -200,7 +200,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-2</idno>
@@ -210,7 +210,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-3" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-3</idno>
@@ -220,7 +220,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-4" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-4</idno>
@@ -232,7 +232,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-5" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-5</idno>
@@ -242,7 +242,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-6" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-6</idno>
@@ -250,7 +250,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/student-of" active="http://syriaca.org/person/1876" passive="http://syriaca.org/person/1866"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> studied under <persName ref="http://syriaca.org/person/1866">Mara of Beth Urtaye</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-7" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-7</idno>
@@ -263,7 +263,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-8" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-8</idno>
@@ -275,7 +275,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-9" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-9</idno>
@@ -287,7 +287,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">453</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">655</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">655</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-10" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-10</idno>
@@ -299,7 +299,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">454</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-11" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-11</idno>
@@ -309,7 +309,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">454</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-12" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-12</idno>
@@ -317,7 +317,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1876 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1876">Mari</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">454</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">656</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">656</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-13" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-13</idno>
@@ -333,7 +333,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-14" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-14</idno>
@@ -346,7 +346,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-15" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-15</idno>
@@ -359,7 +359,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-16" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-16</idno>
@@ -367,7 +367,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/2070 http://syriaca.org/person/1672"><desc><persName ref="http://syriaca.org/person/2070">Sergius</persName> and <persName ref="http://syriaca.org/person/1672">Daniel</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-17" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-17</idno>
@@ -383,7 +383,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-18" resp="#jwalters #syoung #tmcneir #tbaillargeon #jdaccache">
                 <idno type="URI">https://spear-prosop.org/833-18</idno>
@@ -397,7 +397,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/833"/><citedRange unit="p">455</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">657</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">657</citedRange></bibl>
                 <note type="desc"></note>
             </ab>
         </body>
@@ -406,7 +406,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl833-1"><title>Lives of the Eastern Saints
                         II</title><title>Mari, Sergius, and Daniel</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                 <bibl type="primary" xml:id="bibl833-2"><title>Mari, Sergius, and
                             Daniel</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/833"/></bibl>

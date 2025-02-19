@@ -65,7 +65,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/1409"/>
+                        <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     </bibl>
                     <bibl type="primary">
                         <title>Thomas the Armenian</title>
@@ -122,7 +122,7 @@
                     <citedRange unit="p">283-99</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">283-99</citedRange>
                 </bibl>
             </ab>
@@ -143,7 +143,7 @@
                     <citedRange unit="p">283</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">283</citedRange>
                 </bibl>
             </ab>
@@ -166,7 +166,7 @@
                     <citedRange unit="p">283</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">283</citedRange>
                 </bibl>
             </ab>
@@ -182,7 +182,7 @@
                     <citedRange unit="p">284</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">284</citedRange>
                 </bibl>
             </ab>
@@ -200,7 +200,7 @@
                     <citedRange unit="p">284</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">284</citedRange>
                 </bibl>
             </ab>
@@ -223,7 +223,7 @@
                     <citedRange unit="p">284</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">284</citedRange>
                 </bibl>
             </ab>
@@ -244,7 +244,7 @@
                     <citedRange unit="p">285</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">285</citedRange>
                 </bibl>
             </ab>
@@ -263,7 +263,7 @@
                     <citedRange unit="p">285</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">285</citedRange>
                 </bibl>
             </ab>
@@ -282,7 +282,7 @@
                     <citedRange unit="p">286</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">286</citedRange>
                 </bibl>
             </ab>
@@ -298,7 +298,7 @@
                     <citedRange unit="p">286</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">286</citedRange>
                 </bibl>
             </ab>
@@ -316,7 +316,7 @@
                     <citedRange unit="p">287</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">287</citedRange>
                 </bibl>
             </ab>
@@ -335,7 +335,7 @@
                     <citedRange unit="p">286</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">286</citedRange>
                 </bibl>
             </ab>
@@ -355,7 +355,7 @@
                     <citedRange unit="p">288</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">288</citedRange>
                 </bibl>
             </ab>
@@ -374,7 +374,7 @@
                     <citedRange unit="p">290</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">290</citedRange>
                 </bibl>
             </ab>
@@ -398,7 +398,7 @@
                     <citedRange unit="p">292</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">292</citedRange>
                 </bibl>
             </ab>
@@ -418,7 +418,7 @@
                     <citedRange unit="p">293</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">293</citedRange>
                 </bibl>
             </ab>
@@ -439,7 +439,7 @@
                     <citedRange unit="p">293</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">293</citedRange>
                 </bibl>
             </ab>
@@ -455,7 +455,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -476,7 +476,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -492,7 +492,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -515,7 +515,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -534,7 +534,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -553,7 +553,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -573,7 +573,7 @@
                     <citedRange unit="p">294</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">294</citedRange>
                 </bibl>
             </ab>
@@ -600,7 +600,7 @@
                     <citedRange unit="p">295</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">295</citedRange>
                 </bibl>
             </ab>
@@ -625,7 +625,7 @@
                     <citedRange unit="p">296</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">296</citedRange>
                 </bibl>
             </ab>
@@ -641,7 +641,7 @@
                     <citedRange unit="p">297</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">297</citedRange>
                 </bibl>
             </ab>
@@ -662,7 +662,7 @@
                     <citedRange unit="p">297</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">297</citedRange>
                 </bibl>
             </ab>
@@ -684,7 +684,7 @@
                     <citedRange unit="p">298</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">298</citedRange>
                 </bibl>
             </ab>
@@ -703,7 +703,7 @@
                     <citedRange unit="p">295</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                     <citedRange unit="p">295</citedRange>
                 </bibl>
             </ab>
@@ -718,7 +718,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/1409"/>
+                    <ptr target="http://syriaca.org/cbss/2IBLUVC7"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl813-2">
                     <title>Thomas the Armenian</title>

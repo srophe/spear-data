@@ -57,7 +57,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints I</title><title>Simeon
                             the bishop</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                     <bibl type="primary"><title>Simeon the bishop</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/802"/></bibl>
                 </listBibl>
@@ -98,7 +98,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137-58</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137-58</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137-58</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-2" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-2</idno>
@@ -109,7 +109,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-3" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-3</idno>
@@ -122,7 +122,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-4" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-4</idno>
@@ -135,7 +135,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-5" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-5</idno>
@@ -147,7 +147,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="birth" xml:id="factoid-6" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-6</idno>
@@ -159,7 +159,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-7</idno>
@@ -176,7 +176,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">137-139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">137-139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">137-139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-38" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-38</idno>
@@ -188,7 +188,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-39" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-39</idno>
@@ -198,7 +198,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-40" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-40</idno>
@@ -211,7 +211,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-41" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-41</idno>
@@ -223,7 +223,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-42" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-42</idno>
@@ -231,7 +231,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/enmity-for" active="http://syriaca.org/person/53" passive="http://syriaca.org/person/534"><desc><persName ref="http://syriaca.org/person/53">Simeon of Beth Arsham</persName> had enmity for <persName ref="http://syriaca.org/person/534">Hiba of Edessa</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-43" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-43</idno>
@@ -243,7 +243,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-44" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-44</idno>
@@ -253,7 +253,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-45" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-45</idno>
@@ -266,7 +266,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-46" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-46</idno>
@@ -278,7 +278,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-47" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-47</idno>
@@ -290,7 +290,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">139-140</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">139-140</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">139-140</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-48" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-48</idno>
@@ -303,7 +303,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">140</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">140</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">140</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-50" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-50</idno>
@@ -316,7 +316,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">140</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">140</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">140</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-51" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-51</idno>
@@ -328,7 +328,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-52" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-52</idno>
@@ -339,7 +339,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-53" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-53</idno>
@@ -352,7 +352,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-57" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-57</idno>
@@ -364,7 +364,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-58" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-58</idno>
@@ -378,7 +378,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-59" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-59</idno>
@@ -390,7 +390,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">141-142</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">141-142</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">141-142</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-60" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-60</idno>
@@ -403,7 +403,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">142</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">142</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">142</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-63" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-63</idno>
@@ -415,7 +415,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">142</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">142</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">142</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-64" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-64</idno>
@@ -429,7 +429,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">142-143</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">142-143</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">142-143</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-66" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-66</idno>
@@ -442,7 +442,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">142-143</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">142-143</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">142-143</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-67" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-67</idno>
@@ -454,7 +454,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">142-143</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">142-143</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">142-143</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-68" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-68</idno>
@@ -467,7 +467,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">144-145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">144-145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">144-145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-69" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-69</idno>
@@ -478,7 +478,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">144-145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">144-145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">144-145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-70" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/802-70</idno>
@@ -491,7 +491,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">144-145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">144-145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">144-145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-71" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-71</idno>
@@ -502,7 +502,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-72" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-72</idno>
@@ -513,7 +513,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-73" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-73</idno>
@@ -526,7 +526,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">145</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-74" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-74</idno>
@@ -541,7 +541,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">146</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">146</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">146</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-75" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-75</idno>
@@ -553,7 +553,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">147-151</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">147-151</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">147-151</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-76" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-76</idno>
@@ -566,7 +566,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">146</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">146</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">146</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-77" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-77</idno>
@@ -579,7 +579,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">146</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">146</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">146</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-79" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-79</idno>
@@ -592,7 +592,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">147-151</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">147-151</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">147-151</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-80" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-80</idno>
@@ -605,7 +605,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">147-151</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">147-151</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">147-151</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-81" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-81</idno>
@@ -617,7 +617,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">147-151</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">147-151</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">147-151</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-82" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-82</idno>
@@ -629,7 +629,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">152</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">152</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">152</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-83" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-83</idno>
@@ -642,7 +642,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">152</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">152</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">152</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-84" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-84</idno>
@@ -654,7 +654,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">152-153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">152-153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">152-153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-85" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-85</idno>
@@ -667,7 +667,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-87" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-87</idno>
@@ -681,7 +681,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-88" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-88</idno>
@@ -693,7 +693,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-89" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-89</idno>
@@ -704,7 +704,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-90" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-90</idno>
@@ -715,7 +715,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">153</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">153</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">153</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-91" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-91</idno>
@@ -726,7 +726,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">154-156</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">154-156</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">154-156</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-92" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-92</idno>
@@ -737,7 +737,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">156</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">156</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">156</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-96" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-96</idno>
@@ -747,7 +747,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">156-157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">156-157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">156-157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-97" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-97</idno>
@@ -762,7 +762,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-103" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-103</idno>
@@ -775,7 +775,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-104" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-104</idno>
@@ -787,7 +787,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-105" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-105</idno>
@@ -795,7 +795,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/spouse-of" mutual="http://syriaca.org/person/3242 http://syriaca.org/person/2244"><desc><persName ref="http://syriaca.org/person/3242">Anonymous 3242</persName> and <persName ref="http://syriaca.org/person/2244">Khusrau I Anushirwan</persName> were spouses.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-106" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-106</idno>
@@ -803,7 +803,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/sender-of-letter-to" active="http://syriaca.org/person/779" passive="http://syriaca.org/person/3242"><desc><persName ref="http://syriaca.org/person/779">Theodora, Roman empress</persName> sent a letter to <persName ref="http://syriaca.org/person/3242">Anonymous 3242</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-107" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-107</idno>
@@ -814,7 +814,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-108" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-108</idno>
@@ -829,7 +829,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157-158</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157-158</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157-158</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-110" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-110</idno>
@@ -842,7 +842,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-111" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-111</idno>
@@ -854,7 +854,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-112" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-112</idno>
@@ -862,7 +862,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/bishop-over-clergy" active="http://syriaca.org/person/53" passive="http://syriaca.org/person/3623"><desc><persName ref="http://syriaca.org/person/53">Simeon of Beth Arsham</persName> had ecclesiastical authority over <persName ref="http://syriaca.org/person/3623">Anonymous 3623</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-113" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-113</idno>
@@ -872,7 +872,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-114" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-114</idno>
@@ -885,7 +885,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="socecStatus" xml:id="factoid-115" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/802-115</idno>
@@ -896,7 +896,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">157</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">157</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">157</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-116" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/802-116</idno>
@@ -904,7 +904,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/member-of-group" active="http://syriaca.org/person/3617" passive="http://syriaca.org/person/3620"><desc><persName ref="http://syriaca.org/person/3617">Anonymous 3617</persName> was part of <persName ref="http://syriaca.org/person/3620">Anonymi 3620</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/802"/><citedRange unit="p">145</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">145</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">145</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -912,7 +912,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl802-1"><title>Lives of the Eastern Saints
                         I</title><title>Simeon the bishop</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                 <bibl type="primary" xml:id="bibl802-2"><title>Simeon the
                             bishop</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/802"/></bibl>

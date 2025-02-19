@@ -404,7 +404,7 @@
                     </bibl>
                     and
                     <bibl type="secondary">
-                        <ptr target="http://syriaca.org/bibl/1986"/>
+                        <ptr target="http://syriaca.org/cbss/TNJBDKXF"/>
                         <citedRange unit="part">VIII.5</citedRange>
                         <citedRange unit="p">206-07</citedRange>
                     </bibl>

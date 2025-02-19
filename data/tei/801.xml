@@ -62,7 +62,7 @@
                     <head>Sources for the Data in this Born Digital Prosopography</head>
                     <bibl type="primary"><title>Lives of the Eastern Saints I</title><title>Mare of
                             Beth Urtaye</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                     <bibl type="primary"><title>Mare of Beth Urtaye</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/801"/></bibl>
                 </listBibl>
@@ -106,7 +106,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135-37</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135-37</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135-37</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-14" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/801-14</idno>
@@ -121,7 +121,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-2" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-2</idno>
@@ -133,7 +133,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-3" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-3</idno>
@@ -146,7 +146,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-4" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-4</idno>
@@ -158,7 +158,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-5" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-5</idno>
@@ -171,7 +171,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-6</idno>
@@ -183,7 +183,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-7</idno>
@@ -194,7 +194,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">136</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">136</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">136</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-8</idno>
@@ -206,7 +206,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">136</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">136</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">136</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-9</idno>
@@ -217,7 +217,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">136</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">136</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">136</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-10" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-10</idno>
@@ -229,7 +229,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">136</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">136</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">136</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="mentalState" xml:id="factoid-11" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-11</idno>
@@ -243,7 +243,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="mentalState" xml:id="factoid-12" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-12</idno>
@@ -257,7 +257,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-13" resp="#jmcmanaway #avawter">
                 <idno type="URI">https://spear-prosop.org/801-13</idno>
@@ -271,7 +271,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/801"/><citedRange unit="p">135</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">135</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">135</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -279,7 +279,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl801-1"><title>Lives of the Eastern Saints
                         I</title><title>Mare of Beth Urtaye</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                 <bibl type="primary" xml:id="bibl801-2"><title>Mare of Beth
                             Urtaye</title><author><persName ref="http://syriaca.org/person/74">John
                             of Ephesus</persName></author><ptr target="http://syriaca.org/work/801"/></bibl>

@@ -65,7 +65,7 @@
                                 Ephesus</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/2032"/>
+                        <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     </bibl>
                     <bibl type="primary">
                         <title>Mare the Solitary</title>
@@ -122,7 +122,7 @@
                     <citedRange unit="p">405-22</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">608-24</citedRange>
                 </bibl>
             </ab>
@@ -143,7 +143,7 @@
                     <citedRange unit="p">406</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">608</citedRange>
                 </bibl>
             </ab>
@@ -161,7 +161,7 @@
                     <citedRange unit="p">405</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">607</citedRange>
                 </bibl>
             </ab>
@@ -187,7 +187,7 @@
                     <citedRange unit="p">406</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">608</citedRange>
                 </bibl>
             </ab>
@@ -212,7 +212,7 @@
                     <citedRange unit="p">412</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">614</citedRange>
                 </bibl>
             </ab>
@@ -233,7 +233,7 @@
                     <citedRange unit="p">416</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">618</citedRange>
                 </bibl>
             </ab>
@@ -261,7 +261,7 @@
                     <citedRange unit="p">417</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">619</citedRange>
                 </bibl>
             </ab>
@@ -282,7 +282,7 @@
                     <citedRange unit="p">417</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">619</citedRange>
                 </bibl>
             </ab>
@@ -298,7 +298,7 @@
                     <citedRange unit="p">417</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">619</citedRange>
                 </bibl>
             </ab>
@@ -318,7 +318,7 @@
                     <citedRange unit="p">417</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">619</citedRange>
                 </bibl>
             </ab>
@@ -341,7 +341,7 @@
                     <citedRange unit="p">418</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">620</citedRange>
                 </bibl>
             </ab>
@@ -361,7 +361,7 @@
                     <citedRange unit="p">418</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">620</citedRange>
                 </bibl>
             </ab>
@@ -381,7 +381,7 @@
                     <citedRange unit="p">418</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">620</citedRange>
                 </bibl>
             </ab>
@@ -398,7 +398,7 @@
                     <citedRange unit="p">419</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">621</citedRange>
                 </bibl>
             </ab>
@@ -419,7 +419,7 @@
                     <citedRange unit="p">419</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">621</citedRange>
                 </bibl>
             </ab>
@@ -444,7 +444,7 @@
                     <citedRange unit="p">419</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">621</citedRange>
                 </bibl>
             </ab>
@@ -464,7 +464,7 @@
                     <citedRange unit="p">420</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">622</citedRange>
                 </bibl>
             </ab>
@@ -486,7 +486,7 @@
                     <citedRange unit="p">421</citedRange>
                 </bibl>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                     <citedRange unit="p">623</citedRange>
                 </bibl>
             </ab>
@@ -501,7 +501,7 @@
                         Ephesus</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/2032"/>
+                    <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                 </bibl>
                 <bibl type="primary" xml:id="bibl827-2">
                     <title>Mare the Solitary</title>

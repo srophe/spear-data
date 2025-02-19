@@ -124,7 +124,7 @@
                 <note type="desc">
                     This date comes from Alpi.
                     <bibl type="secondary">
-                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <ptr target="http://syriaca.org/cbss/LPA8G3DL"/>
                         <citedRange unit="p">68</citedRange>
                     </bibl>
                 </note>
@@ -163,7 +163,7 @@
                 <note type="desc">
                     This date comes from Alpi.
                     <bibl type="secondary">
-                        <ptr target="http://syriaca.org/bibl/1658"/>
+                        <ptr target="http://syriaca.org/cbss/LPA8G3DL"/>
                         <citedRange unit="p">68</citedRange>
                     </bibl>
                 </note>

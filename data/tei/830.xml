@@ -58,7 +58,7 @@
                     <bibl type="primary"><title>Lives of the Eastern Saints
                             II</title><title>Leontius</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                     <bibl type="primary"><title>Leontius</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/830"/></bibl>
                 </listBibl>
@@ -102,7 +102,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443-45</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-47</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645-47</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-2" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-2</idno>
@@ -115,7 +115,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-3" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-3</idno>
@@ -126,7 +126,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-4" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-4</idno>
@@ -137,7 +137,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-5" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-5</idno>
@@ -150,7 +150,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-6</idno>
@@ -162,7 +162,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-7</idno>
@@ -176,7 +176,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-8</idno>
@@ -191,7 +191,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#jfalconer #dschwartz">
                 <idno type="URI">https://spear-prosop.org/830-9</idno>
@@ -204,7 +204,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-10" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-10</idno>
@@ -214,7 +214,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="gender" xml:id="factoid-11" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-11</idno>
@@ -227,7 +227,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-12" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-12</idno>
@@ -239,7 +239,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-13" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-13</idno>
@@ -251,7 +251,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-14" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-14</idno>
@@ -262,7 +262,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-15" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-15</idno>
@@ -270,7 +270,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533 http://syriaca.org/person/2032"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName>, <persName ref="http://syriaca.org/person/1533">Aaron</persName> and <persName ref="http://syriaca.org/person/2032">Qashish</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-16" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-16</idno>
@@ -281,7 +281,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-17" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-17</idno>
@@ -293,7 +293,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-18" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-18</idno>
@@ -301,7 +301,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/acquaintance-of" mutual="http://syriaca.org/person/74 http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/74">John of Ephesus</persName>, <persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> were acquainted.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443-444</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645-646</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645-646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-19" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-19</idno>
@@ -312,7 +312,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="occupation" xml:id="factoid-20" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-20</idno>
@@ -323,7 +323,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">444</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">646</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">646</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-21" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-21</idno>
@@ -331,7 +331,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/friendship-for" mutual="http://syriaca.org/person/1853 http://syriaca.org/person/1533"><desc><persName ref="http://syriaca.org/person/1853">Leontius</persName> and <persName ref="http://syriaca.org/person/1533">Aaron</persName> had a friendship.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">443</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">645</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">645</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="death" xml:id="factoid-22" resp="#jfalconer">
                 <idno type="URI">https://spear-prosop.org/830-22</idno>
@@ -347,7 +347,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/830"/><citedRange unit="p">445</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/2032"/><citedRange unit="p">647</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">647</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -355,7 +355,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl830-1"><title>Lives of the Eastern Saints
                         II</title><title>Leontius</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                 <bibl type="primary" xml:id="bibl830-2"><title>Leontius</title><author><persName ref="http://syriaca.org/person/74">John of
                         Ephesus</persName></author><ptr target="http://syriaca.org/work/830"/></bibl>
             </listBibl>

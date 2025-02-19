@@ -61,7 +61,7 @@
                     <bibl type="primary"><title>Lives of the Eastern Saints
                             I</title><title>Abbi</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W.
-                            Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                     <bibl type="primary"><title>Abbi</title><author><persName ref="http://syriaca.org/person/74">John of
                             Ephesus</persName></author><ptr target="http://syriaca.org/work/806"/></bibl>
                 </listBibl>
@@ -102,7 +102,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">213-20</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">213-20</citedRange></bibl> 
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">213-20</citedRange></bibl> 
             </ab>
             <ab type="factoid" subtype="sanctity" xml:id="factoid-11" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/806-11</idno>
@@ -117,7 +117,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">213</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">213</citedRange></bibl> 
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">213</citedRange></bibl> 
             </ab>
             <ab type="factoid" subtype="nameVariant" xml:id="factoid-1" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-1</idno>
@@ -128,7 +128,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">213</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">213</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">213</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="residence" xml:id="factoid-2" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-2</idno>
@@ -141,7 +141,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">214</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">214</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">214</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-3</idno>
@@ -154,7 +154,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">214</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">214</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">214</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-4" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-4</idno>
@@ -162,7 +162,7 @@
                     <relation type="person" ref="http://syriaca.org/taxonomy/fellow-monastics" mutual="http://syriaca.org/person/1536 http://syriaca.org/person/74"><desc><persName ref="http://syriaca.org/person/1536">Abi</persName> and <persName ref="http://syriaca.org/person/74">John of Ephesus</persName> were monks at the same monastery.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">219</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">219</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">219</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-5</idno>
@@ -173,7 +173,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">214</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">214</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">214</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-6" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-6</idno>
@@ -184,7 +184,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">215</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">215</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">215</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-7" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-7</idno>
@@ -195,7 +195,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">219</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">219</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">219</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-8" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-8</idno>
@@ -207,7 +207,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">217</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">217</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">217</citedRange></bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-9" resp="#cjohnson #dkiger">
                 <idno type="URI">https://spear-prosop.org/806-9</idno>
@@ -218,7 +218,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/806"/><citedRange unit="p">216</citedRange></bibl>
-                <bibl type="primary"><ptr target="http://syriaca.org/bibl/1409"/><citedRange unit="p">216</citedRange></bibl>
+                <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">216</citedRange></bibl>
             </ab>
         </body>
         <back>
@@ -226,7 +226,7 @@
                 <head>Works Cited</head>
                 <bibl type="primary" xml:id="bibl806-1"><title>Lives of the Eastern Saints
                         I</title><title>Abbi</title><author><persName ref="http://syriaca.org/person/74">John of
-                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/1409"/></bibl>
+                            Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/2IBLUVC7"/></bibl>
                 <bibl type="primary" xml:id="bibl806-2"><title>Abbi</title><author><persName ref="http://syriaca.org/person/74">John of
                         Ephesus</persName></author><ptr target="http://syriaca.org/work/806"/></bibl>
             </listBibl>

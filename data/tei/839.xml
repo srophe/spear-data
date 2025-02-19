@@ -49,7 +49,7 @@
                <head>Sources for the Data in this Born Digital Prosopography</head>
                <bibl type="primary"><title>Lives of the Eastern Saints
                      II</title><title>Five Patriarchs</title><author><persName ref="http://syriaca.org/person/74">John of
-                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                        Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
                <bibl type="primary"><title>Five Patriarchs</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/839"/></bibl>
             </listBibl>
             <listRelation>
@@ -89,7 +89,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -111,7 +111,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -131,7 +131,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -153,7 +153,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -175,7 +175,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -197,7 +197,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">685</citedRange>
             </bibl>
             <bibl type="primary">
@@ -223,7 +223,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -248,7 +248,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686-87</citedRange>
             </bibl>
             <bibl type="primary">
@@ -259,7 +259,7 @@
                The length of time between Anthimus' deposition and Theodora's death was 12 years and John's <title>Ecclesiastical History</title>
                says that Anthimus was in hiding for only seven years. 
                <bibl type="secondary">
-                  <ptr target="http://syriaca.org/bibl/2032"/>
+                  <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                   <citedRange unit="p">686 n. 1</citedRange>
                </bibl>
             </note>
@@ -278,7 +278,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -300,7 +300,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -319,7 +319,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -341,7 +341,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -363,7 +363,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -382,7 +382,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -401,7 +401,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -423,7 +423,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">686</citedRange>
             </bibl>
             <bibl type="primary">
@@ -443,7 +443,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">687</citedRange>
             </bibl>
             <bibl type="primary">
@@ -462,7 +462,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -485,7 +485,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -505,7 +505,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -524,7 +524,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -546,7 +546,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -566,7 +566,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -585,7 +585,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -595,7 +595,7 @@
             <note type="certainty" subtype="incerta">
                Sources give different dates for Theodosius' death.
                <bibl type="secondary">
-                  <ptr target="http://syriaca.org/bibl/2032"/>
+                  <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                   <citedRange unit="p">688 n. 6</citedRange>
                </bibl>
             </note>
@@ -614,7 +614,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -624,7 +624,7 @@
             <note type="certainty" subtype="incerta">
                Sources give different dates for Theodosius' death.
                <bibl type="secondary">
-                  <ptr target="http://syriaca.org/bibl/2032"/>
+                  <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                   <citedRange unit="p">688 n. 6</citedRange>
                </bibl>
             </note>
@@ -644,7 +644,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">688</citedRange>
             </bibl>
             <bibl type="primary">
@@ -663,7 +663,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -685,7 +685,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -708,7 +708,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -729,7 +729,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -752,7 +752,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -774,7 +774,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -794,7 +794,7 @@
                </event>
             </listEvent>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">689</citedRange>
             </bibl>
             <bibl type="primary">
@@ -814,7 +814,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684-90</citedRange>
             </bibl>
             <bibl type="primary">
@@ -834,7 +834,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684-90</citedRange>
             </bibl>
             <bibl type="primary">
@@ -854,7 +854,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684-90</citedRange>
             </bibl>
             <bibl type="primary">
@@ -874,7 +874,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684-90</citedRange>
             </bibl>
             <bibl type="primary">
@@ -894,7 +894,7 @@
                </relation>
             </listRelation>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684-90</citedRange>
             </bibl>
             <bibl type="primary">
@@ -915,7 +915,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684</citedRange>
             </bibl>
             <bibl type="primary">
@@ -936,7 +936,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684</citedRange>
             </bibl>
             <bibl type="primary">
@@ -957,7 +957,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684</citedRange>
             </bibl>
             <bibl type="primary">
@@ -978,7 +978,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684</citedRange>
             </bibl>
             <bibl type="primary">
@@ -999,7 +999,7 @@
                </person>
             </listPerson>
             <bibl type="primary">
-               <ptr target="http://syriaca.org/bibl/2032"/>
+               <ptr target="http://syriaca.org/cbss/U78B4C66"/>
                <citedRange unit="p">684</citedRange>
             </bibl>
             <bibl type="primary">
@@ -1012,7 +1012,7 @@
          <listBibl>
             <head>Works Cited</head>
             <bibl type="primary" xml:id="bibl839-1"><title>Lives of the Eastern Saints
-                  II</title><title>Five Patriarchs</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/bibl/2032"/></bibl>
+                  II</title><title>Five Patriarchs</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><editor><persName ref="http://syriaca.org/person/403">E. W. Brooks</persName></editor><ptr target="http://syriaca.org/cbss/U78B4C66"/></bibl>
             <bibl type="primary" xml:id="bibl839-2"><title>Five Patriarchs</title><author><persName ref="http://syriaca.org/person/74">John of Ephesus</persName></author><ptr target="http://syriaca.org/work/839"/></bibl>
          </listBibl>
       </back>
