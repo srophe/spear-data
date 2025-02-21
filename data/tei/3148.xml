@@ -68,7 +68,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/668"/>
+                        <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                         <citedRange unit="p">162-63</citedRange>
                         <citedRange unit="part">I.54</citedRange>
                     </bibl>
@@ -121,7 +121,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162-63</citedRange>
                 </bibl>
             </ab>
@@ -136,7 +136,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -149,7 +149,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -165,7 +165,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -181,7 +181,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -197,7 +197,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -215,7 +215,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -231,7 +231,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162</citedRange>
                 </bibl>
             </ab>
@@ -247,7 +247,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -265,7 +265,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -283,7 +283,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -300,7 +300,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -312,7 +312,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -328,7 +328,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -344,7 +344,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">163</citedRange>
                 </bibl>
             </ab>
@@ -361,7 +361,7 @@
                             Antioch</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">162-63</citedRange>
                     <citedRange unit="part">I.54</citedRange>
                 </bibl>

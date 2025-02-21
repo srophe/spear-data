@@ -178,7 +178,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3190-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chaledonian">
+                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> sought the approval of 
                             <persName ref="http://syriaca.org/person/2430">Dioscorus</persName> in communing with 

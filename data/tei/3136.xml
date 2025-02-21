@@ -76,7 +76,7 @@
                         <title type="sub">Translation, III.1 - XI.1</title>
                         <author><persName ref="http://syriaca.org/person/51">Severus of
                                 Antioch</persName></author>
-                        <ptr target="http://syriaca.org/bibl/669"/>
+                        <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                         <citedRange unit="p">244-49</citedRange>
                         <citedRange unit="part">III.4</citedRange>
                     </bibl>
@@ -123,7 +123,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -140,7 +140,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -157,7 +157,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -174,7 +174,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -191,7 +191,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -208,7 +208,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236</citedRange>
                 </bibl>
@@ -226,7 +226,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">239</citedRange>
                 </bibl>
@@ -245,7 +245,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">236-244</citedRange>
                 </bibl>
@@ -265,7 +265,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">239</citedRange>
                 </bibl>
@@ -286,7 +286,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">3.03</citedRange>
                     <citedRange unit="p">239-241</citedRange>
                 </bibl>
@@ -299,7 +299,7 @@
                     <title xml:lang="en">The Sixth Book of the Select Letters of Severus, Patriarch
                         of Antioch in the Syriac Version of Athanasius of Nisibis</title>
                     <title type="sub">Translation, III.1 - XI.1</title>
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">244-49</citedRange>
                     <citedRange unit="part">III.4</citedRange>
                 </bibl>

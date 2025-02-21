@@ -80,7 +80,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/668"/>
+                        <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                         <citedRange unit="p">46-47</citedRange>
                         <citedRange unit="part">I.10</citedRange>
                     </bibl>
@@ -125,7 +125,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -142,7 +142,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -161,7 +161,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -178,7 +178,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -196,7 +196,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -209,7 +209,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -226,7 +226,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -245,7 +245,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -261,7 +261,7 @@
                     </personGrp>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46-47</citedRange>
                 </bibl>
@@ -278,7 +278,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46</citedRange>
                 </bibl>
@@ -297,7 +297,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">46-47</citedRange>
                 </bibl>
@@ -318,7 +318,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="part">1.10</citedRange>
                     <citedRange unit="p">47</citedRange>
                 </bibl>
@@ -331,7 +331,7 @@
                     <title xml:lang="en">The Sixth Book of the Select Letters of Severus, Patriarch
                         of Antioch in the Syriac Version of Athanasius of Nisibis</title>
                     <title type="sub">Translation, I.1 - II.3</title>
-                    <ptr target="http://syriaca.org/bibl/668"/>
+                    <ptr target="http://syriaca.org/cbss/8GRCM47V"/>
                     <citedRange unit="p">46-47</citedRange>
                     <citedRange unit="part">I.10</citedRange>
                 </bibl>

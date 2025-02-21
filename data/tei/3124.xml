@@ -62,7 +62,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/669"/>
+                        <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                         <citedRange unit="p">350-59</citedRange>
                         <citedRange unit="part">V.15</citedRange>
                     </bibl>
@@ -113,7 +113,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">350-59</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -134,7 +134,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">350-51</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -151,7 +151,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">351</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -168,7 +168,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">353</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -185,7 +185,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">356</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -202,7 +202,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">356</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -223,7 +223,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">357</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -246,7 +246,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">350-59</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>
@@ -264,7 +264,7 @@
                             Antioch</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">350-59</citedRange>
                     <citedRange unit="part">V.15</citedRange>
                 </bibl>

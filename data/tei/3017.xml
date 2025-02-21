@@ -62,7 +62,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/669"/>
+                        <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                         <citedRange unit="p">253-57</citedRange>
                         <citedRange unit="part">IV.2</citedRange>
                     </bibl>
@@ -111,7 +111,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">253-57</citedRange>
                 </bibl>
@@ -131,7 +131,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">253, 256</citedRange> 
                 </bibl>
@@ -153,7 +153,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">254</citedRange>
                 </bibl>
@@ -172,7 +172,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">253</citedRange>
                 </bibl>
@@ -189,7 +189,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">254</citedRange>
                 </bibl>
@@ -220,7 +220,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -239,7 +239,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -267,7 +267,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -283,7 +283,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -299,7 +299,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -315,7 +315,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">255</citedRange>
                 </bibl>
@@ -335,7 +335,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="part">IV.2</citedRange>
                     <citedRange unit="p">256</citedRange>
                 </bibl>
@@ -353,7 +353,7 @@
                             Antioch</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">253-57</citedRange>
                     <citedRange unit="part">IV.2</citedRange>
                 </bibl>

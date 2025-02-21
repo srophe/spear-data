@@ -62,7 +62,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/669"/>
+                        <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                         <citedRange unit="p">337-342</citedRange>
                         <citedRange unit="part">V.12</citedRange>
                     </bibl>
@@ -115,7 +115,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">337-342</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -136,7 +136,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">342</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -144,7 +144,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3110-2</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-postitively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/792">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/792">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited positively
@@ -153,7 +153,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">339</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -172,7 +172,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">339</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -189,7 +189,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">339</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -208,7 +208,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">340</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -224,7 +224,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">340</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -241,7 +241,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">340</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -260,7 +260,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">340-41</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -281,7 +281,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">340-41</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -300,7 +300,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">341-42</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -320,7 +320,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">341-42</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -340,7 +340,7 @@
                     </person>
                 </listPerson>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">341</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -361,7 +361,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">342</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>
@@ -379,7 +379,7 @@
                             Antioch</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">337-342</citedRange>
                     <citedRange unit="part">V.12</citedRange>
                 </bibl>

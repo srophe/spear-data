@@ -62,7 +62,7 @@
                                 Antioch</persName></author>
                         <editor><persName ref="http://syriaca.org/person/403">E. W.
                                 Brooks</persName></editor>
-                        <ptr target="http://syriaca.org/bibl/669"/>
+                        <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                         <citedRange unit="p">268-270</citedRange>
                         <citedRange unit="part">IV.8</citedRange>
                     </bibl>
@@ -107,7 +107,7 @@
                     </event>
                 </listEvent>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">268-270</citedRange>
                     <citedRange unit="part">IV.8</citedRange>
                 </bibl>
@@ -124,7 +124,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">269</citedRange>
                     <citedRange unit="part">IV.8</citedRange>
                 </bibl>
@@ -141,7 +141,7 @@
                     </relation>
                 </listRelation>
                 <bibl type="primary">
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">269</citedRange>
                     <citedRange unit="part">IV.8</citedRange>
                 </bibl>
@@ -159,7 +159,7 @@
                             Antioch</persName></author>
                     <editor><persName ref="http://syriaca.org/person/403">E. W.
                         Brooks</persName></editor>
-                    <ptr target="http://syriaca.org/bibl/669"/>
+                    <ptr target="http://syriaca.org/cbss/8BIZTWME"/>
                     <citedRange unit="p">268-270</citedRange>
                     <citedRange unit="part">IV.8</citedRange>
                 </bibl>
