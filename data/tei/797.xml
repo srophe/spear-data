@@ -572,7 +572,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/3154"/>
-                        <state type="mental" ana="http://syriaca.org/taxonomy/tears http://syriaca.org/taxonomy/exile">
+                        <state type="mental" ana="http://syriaca.org/taxonomy/tears">
                             <note type="desc"><persName ref="http://syriaca.org/person/3154">Sergius</persName> was greatly distressed by the treatment of
                                 believers by the persecutors and wept unceasingly in the presence of
                                     <persName ref="http://syriaca.org/person/1885">Maro</persName>,
@@ -700,7 +700,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2095"/>
-                        <trait type="physical" ana="http://syriaca.org/taxonomy/anchorites http://syriaca.org/taxonomy/dress">
+                        <trait type="physical" ana="http://syriaca.org/taxonomy/dress">
                             <note type="desc"><persName ref="http://syriaca.org/person/2095">Simeon</persName> had long hair that marked his ascetic
                                 profession and wore a habit that marked him as an anchorite. </note>
                         </trait>

@@ -165,7 +165,7 @@
             <listPerson>
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
-                  <education ana="http://syriaca.org/taxonomy/religion http://syriaca.org/taxonomy/bible">
+                  <education ana="http://syriaca.org/taxonomy/bible">
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         had been taught religion and scripture. 
@@ -234,7 +234,7 @@
                <person>
                   <persName ref="http://syriaca.org/person/3155"/>
                   <langKnowledge>
-                     <langKnown ana="http://syriaca.org/taxonomy/armenians"/>
+                     <langKnown ana="http://syriaca.org/taxonomy/armenian"/>
                      <note type="desc">
                         <persName ref="http://syriaca.org/person/3155">Tribunus</persName> 
                         was a native speaker of Armenian.

@@ -137,7 +137,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3197-3</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/">
+                    <relation type="person" ref="http://syriaca.org/taxonomy/cited-positively" active="http://syriaca.org/person/51" passive="http://syriaca.org/person/2774">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 
                             cited positively

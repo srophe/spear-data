@@ -410,7 +410,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2565"/>
-                        <occupation ana="http://syriaca.org/taxonomy/imperial-messangers">
+                        <occupation ana="http://syriaca.org/taxonomy/imperial-messengers">
                             <note type="desc"><persName ref="http://syriaca.org/person/2565"
                                     >Leontius</persName> was a magistrian.</note>
                         </occupation>

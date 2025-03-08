@@ -97,7 +97,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3235-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/creation http://syriaca.org/taxonomy/souls http://syriaca.org/taxonomy/bodies" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/creation http://syriaca.org/taxonomy/soul http://syriaca.org/taxonomy/bodies" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/2755">Simus</persName> 
@@ -136,7 +136,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-3" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3235-3</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/creation http://syriaca.org/taxonomy/souls http://syriaca.org/taxonomy/bodies" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/creation http://syriaca.org/taxonomy/soul http://syriaca.org/taxonomy/bodies" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/2755">Simus</persName> wrote a letter to
                             <persName ref="http://syriaca.org/person/51">Severus</persName> 

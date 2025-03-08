@@ -525,7 +525,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-34" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3108-34</idno>
                 <listRelation>
-                    <relation type="person" notBefore="0431" ref="http://syriaca.org/taxonomy/submitter-of-petition-to" active="http://syriaca.org/person/2450" passive="http://syriaca.org/person/430">
+                    <relation type="person" notBefore="0431" ref="http://syriaca.org/taxonomy/submitter-of-legal-petition-to" active="http://syriaca.org/person/2450" passive="http://syriaca.org/person/430">
                         <desc>
                             <persName ref="http://syriaca.org/person/2450">Paul</persName> petitioned 
                             <persName ref="http://syriaca.org/person/430">Cyril of Alexandria</persName>

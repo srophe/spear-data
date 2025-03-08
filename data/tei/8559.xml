@@ -6516,7 +6516,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2204"/>
-                        <occupation ana="http://syriaca.org/taxonomy/stratelates">
+                        <occupation ana="http://syriaca.org/taxonomy/generals-roman">
                             <note type="desc"><persName ref="http://syriaca.org/person/2204">Anatolius</persName> was a stratelates.</note>
                         </occupation>
                     </person>
@@ -7364,7 +7364,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/33"/>
-                        <occupation ana="http://syriaca.org/taxonomy/writers">
+                        <occupation ana="http://syriaca.org/taxonomy/authors">
                             <note type="desc"><persName ref="http://syriaca.org/person/33">Mar
                                     Isḥaq</persName> was a writer.</note>
                         </occupation>

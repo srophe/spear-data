@@ -99,7 +99,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-1" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3077-1</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/commemoration http://syriaca.org/taxonomy/biography" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/commemoration http://syriaca.org/taxonomy/biographies" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/51">Severus</persName> wrote a letter to 
                             <persName ref="http://syriaca.org/person/2762">Stephen</persName> 
@@ -119,7 +119,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-2" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3077-2</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/commemoration http://syriaca.org/taxonomy/biography" notBefore="0513" notAfter="0518">
+                    <event ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/cult-of-saints http://syriaca.org/taxonomy/commemoration http://syriaca.org/taxonomy/biographies" notBefore="0513" notAfter="0518">
                         <desc>
                             <persName ref="http://syriaca.org/person/2762">Stephen</persName> sent a letter to 
                             <persName ref="http://syriaca.org/person/51">Severus</persName>

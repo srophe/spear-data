@@ -172,12 +172,12 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/work/819"/><citedRange unit="p">339-340</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">541-542</citedRange></bibl>
             </ab>
-            <ab type="factoid" subtype="socecStatus" xml:id="factoid-8" resp="#ktorabi">
+            <ab type="factoid" subtype="socecStatus" xml:id="factoid-8" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/819-8</idno>
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2092"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/patricians http://syriaca.org/taxonomy/comes"><note type="desc"><persName ref="http://syriaca.org/person/2092">Susan</persName> was a patrician</note></socecStatus>
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians"><note type="desc"><persName ref="http://syriaca.org/person/2092">Susan</persName> was a patrician</note></socecStatus>
                     </person>
                 </listPerson>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/819"/><citedRange unit="p">339-340</citedRange></bibl>
@@ -204,12 +204,12 @@
                 <bibl type="primary"><ptr target="http://syriaca.org/work/819"/><citedRange unit="p">341</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/cbss/U78B4C66"/><citedRange unit="p">543</citedRange></bibl>
             </ab>
-            <ab type="factoid" subtype="socecStatus" xml:id="factoid-11" resp="#ktorabi">
+            <ab type="factoid" subtype="socecStatus" xml:id="factoid-11" resp="#ktorabi #dschwartz">
                 <idno type="URI">https://spear-prosop.org/819-11</idno>
                 <listPerson>
                     <personGrp>
                         <persName ref="http://syriaca.org/person/3706"/>
-                        <socecStatus ana="http://syriaca.org/taxonomy/comes http://syriaca.org/taxonomy/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3706">Susan's parents</persName> were patricians.
+                        <socecStatus ana="http://syriaca.org/taxonomy/patricians"><note type="desc"><persName ref="http://syriaca.org/person/3706">Susan's parents</persName> were patricians.
                             </note></socecStatus>
                     </personGrp>
                 </listPerson>

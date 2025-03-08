@@ -900,7 +900,7 @@
             <ab type="factoid" subtype="relation" xml:id="factoid-65" resp="#ktorabi">
                 <idno type="URI">https://spear-prosop.org/805-65</idno>
                 <listRelation>
-                    <relation type="person" ref="http://syriaca.org/taxonomy/descendant-of" active="http://syriaca.org/person/2127" passive="http://syriaca.org/person/3215"><desc><persName ref="http://syriaca.org/person/2127">Thomas</persName> descended from <persName ref="http://syriaca.org/person/3215">Ishakuni Bar Brʿy</persName>.</desc></relation>
+                    <relation type="person" ref="http://syriaca.org/taxonomy/descendent-of" active="http://syriaca.org/person/2127" passive="http://syriaca.org/person/3215"><desc><persName ref="http://syriaca.org/person/2127">Thomas</persName> descended from <persName ref="http://syriaca.org/person/3215">Ishakuni Bar Brʿy</persName>.</desc></relation>
                 </listRelation>
                 <bibl type="primary"><ptr target="http://syriaca.org/work/805"/><citedRange unit="p">191</citedRange></bibl>
                 <bibl type="primary"><ptr target="http://syriaca.org/cbss/2IBLUVC7"/><citedRange unit="p">191</citedRange></bibl>

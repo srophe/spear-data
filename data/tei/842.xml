@@ -382,7 +382,7 @@
                 </bibl>
             </ab>
             <ab type="factoid" subtype="event" xml:id="factoid-13" resp="#dschwartz">
-                <idno type="URI">https://spear-prosop.org/842-14</idno>
+                <idno type="URI">https://spear-prosop.org/842-13</idno>
                 <listEvent>
                     <event ana="http://syriaca.org/taxonomy/hospices">
                         <desc>

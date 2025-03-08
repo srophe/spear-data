@@ -180,7 +180,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-5" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/3017-5</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/chalcedonian">
+                    <event ana="http://syriaca.org/taxonomy/communion http://syriaca.org/taxonomy/anti-chalcedonian http://syriaca.org/taxonomy/chalcedonians">
                         <desc>
                             After rejecting the Council of Chalcedon and the Tome of Leo,
                             <persName ref="http://syriaca.org/person/2736">Peter Mongus</persName>

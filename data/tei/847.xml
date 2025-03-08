@@ -175,7 +175,7 @@
                 <listPerson>
                     <person>
                         <persName ref="http://syriaca.org/person/2011"/>
-                        <occupation ana="http://syriaca.org/taxonomy/doorkeepers"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
+                        <occupation ana="http://syriaca.org/taxonomy/porters"><note type="desc"><persName ref="http://syriaca.org/person/2011">Peter</persName>
                                 was a chancellor. </note></occupation>
                     </person>
                 </listPerson>
