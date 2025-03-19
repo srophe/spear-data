@@ -2058,7 +2058,7 @@
             <ab type="factoid" subtype="event" xml:id="factoid-88" resp="#dschwartz">
                 <idno type="URI">https://spear-prosop.org/8559-88</idno>
                 <listEvent>
-                    <event ana="http://syriaca.org/taxonomy/holy-places http://syriaca.org/taxonomy/architecture" notBefore="0313-10" calendar="Gregorian">
+                    <event ana="http://syriaca.org/taxonomy/holy-places http://syriaca.org/taxonomy/architecture" notBefore="0313-10">
                         <desc> After <choice>
                                 <reg><date notBefore="0313-10" calendar="Gregorian">312/3</date></reg>
                                 <orig><date notBefore-custom="0625" datingMethod="Seleucid">A. Gr.
