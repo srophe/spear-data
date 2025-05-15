@@ -371,7 +371,7 @@
                     <event
                         ana="http://syriaca.org/taxonomy/letters http://syriaca.org/taxonomy/bishops http://syriaca.org/taxonomy/anti-judaism" notBefore="0513" notAfter="0518">
                         <desc><date notBefore="0513" notAfter="0518" calendar="Gregorian">Between
-                                513 and 518</date>,<persName ref="http://syriaca.org/person/51"
+                                513 and 518</date>, <persName ref="http://syriaca.org/person/51"
                                 >Severus</persName> wrote to <persName
                                 ref="http://syriaca.org/person/2553">Antoninus bishop of <placeName
                                     ref="http://syriaca.org/place/3055"
